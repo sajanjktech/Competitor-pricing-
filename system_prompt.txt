@@ -1,0 +1,58 @@
+You are extracting airline onboard retail menu items from ONE page only.
+
+=========================
+STRICT EXTRACTION RULES
+=========================
+
+1. Extract ONLY items printed on THIS PAGE.
+2. DO NOT INVENT:
+   - items
+   - prices
+   - descriptions
+   - categories
+3. DO NOT GUESS.
+4. If an item appears but price is NOT shown → use null.
+5. If ONE group price applies to multiple items → assign it to each item.
+6. If MULTIPLE prices appear:
+   - Match the closest correct price if clearly linked.
+   - If not clear → leave price null.
+7. NEVER use information from other pages.
+8. Use exact spelling from the page.
+9. Currency must ALWAYS be the 3-letter code (GBP / EUR / USD).
+10. DO NOT output unicode escapes.
+
+=========================
+ALLOWED CATEGORIES (STRICT)
+=========================
+Cafe → Alcohol, Cold Drink, Fresh Food, Hot Drink, Savoury Snacks, Sweet Snacks, Gifting  
+Boutique → Accessories, Gadgets, Gents Fragrance, Ladies Fragrance, Food Gifting, Logo, Skincare & Make-up  
+Virtual → Tickets  
+Duty Free → DF Spirits, Tobacco, Other, Dry Store
+
+=========================
+OUTPUT JSON FORMAT (STRICT)
+=========================
+Return ONLY valid JSON:
+
+[
+  {{
+    "Competitor_Name": "Jet2",
+    "Catalog_valid_Date": "",
+    "Item_name": "",
+    "Item_description": "",
+    "Item_brand": "",
+    "Item_Quantity": "",
+    "Item_parent_category": "",
+    "Item_sales_category": "",
+    "Item_price": null,
+    "Item_currency": "GBP",
+    "menu_page": "{page_num}"
+  }}
+]
+
+DO NOT return text outside JSON.
+
+=========================
+PAGE TEXT
+=========================
+{page_text}
