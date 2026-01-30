@@ -1,20 +1,22 @@
 [
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "January to April 2026",
-    "Item_name": "Meal Deal",
-    "Item_description": "Includes a sandwich, Pringles, a sweet treat and a soft or hot drink",
-    "Item_brand": null,
-    "Item_Quantity": null,
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
+    "Item_name": "£10 meal deal",
+    "Item_description": "Includes a sandwich, Pringles, a sweet treat and a soft or hot drink.",
+    "Item_brand": "",
+    "Item_Quantity": "",
     "Item_parent_category": "Cafe",
     "Item_sales_category": "Fresh Food",
     "Item_price": 10,
     "Item_currency": "GBP",
-    "menu_page": "1"
+    "menu_page": "4"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Tuna Crunch Roll",
     "Item_description": "Shredded tuna, diced red onion, peppers and cucumber, mixed together in creamy mayonnaise on tiger bread.",
     "Item_brand": "",
@@ -26,8 +28,9 @@
     "menu_page": "2"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Ham & Cheese Toastie",
     "Item_description": "Full-flavoured ham hock with mature cheddar cheese, served in toasted, cheese-topped sourdough bread.",
     "Item_brand": "",
@@ -39,8 +42,9 @@
     "menu_page": "2"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Hot Bacon Baguette",
     "Item_description": "Tasty bacon medallions in a warm buttered baguette with a choice of tomato ketchup or brown sauce.",
     "Item_brand": "",
@@ -52,8 +56,9 @@
     "menu_page": "2"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Cheese Ploughman's Roll",
     "Item_description": "Mature cheddar cheese ploughman's with Branston Pickle on tiger bread.",
     "Item_brand": "",
@@ -65,8 +70,9 @@
     "menu_page": "2"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Onion Bhaji Mango Wrap",
     "Item_description": "Onion bhaji, mango chutney and minted slaw in a tortilla wrap. Served cold.",
     "Item_brand": "",
@@ -78,8 +84,9 @@
     "menu_page": "3"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Chicken & Bacon Roll",
     "Item_description": "Chargrilled chicken, streaky bacon, spring onion and celery, with mayonnaise and salad cream, topped with mixed leaf on tiger bread.",
     "Item_brand": "",
@@ -91,73 +98,51 @@
     "menu_page": "3"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
-    "Item_name": "Hot Bacon Baguette",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
+    "Item_name": "Pringles - Original",
     "Item_description": "",
-    "Item_brand": "",
-    "Item_Quantity": "",
-    "Item_parent_category": "Cafe",
-    "Item_sales_category": "Fresh Food",
-    "Item_price": null,
-    "Item_currency": "GBP",
-    "menu_page": "4"
-  },
-  {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
-    "Item_name": "Hot Drink",
-    "Item_description": "",
-    "Item_brand": "",
-    "Item_Quantity": "",
-    "Item_parent_category": "Cafe",
-    "Item_sales_category": "Hot Drink",
-    "Item_price": null,
-    "Item_currency": "GBP",
-    "menu_page": "4"
-  },
-  {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
-    "Item_name": "Pringles Original",
-    "Item_description": "",
-    "Item_brand": "",
+    "Item_brand": "Pringles",
     "Item_Quantity": "",
     "Item_parent_category": "Cafe",
     "Item_sales_category": "Savoury Snacks",
     "Item_price": null,
-    "Item_currency": "GBP",
+    "Item_currency": "",
     "menu_page": "4"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
-    "Item_name": "Pringles Sour Cream & Onion",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
+    "Item_name": "Pringles - Sour Cream & Onion",
     "Item_description": "",
-    "Item_brand": "",
+    "Item_brand": "Pringles",
     "Item_Quantity": "",
     "Item_parent_category": "Cafe",
     "Item_sales_category": "Savoury Snacks",
     "Item_price": null,
-    "Item_currency": "GBP",
+    "Item_currency": "",
     "menu_page": "4"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
-    "Item_name": "Pringles Salt & Vinegar",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
+    "Item_name": "Pringles - Salt & Vinegar",
     "Item_description": "",
-    "Item_brand": "",
+    "Item_brand": "Pringles",
     "Item_Quantity": "",
     "Item_parent_category": "Cafe",
     "Item_sales_category": "Savoury Snacks",
     "Item_price": null,
-    "Item_currency": "GBP",
+    "Item_currency": "",
     "menu_page": "4"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Fruit Pastilles",
     "Item_description": "",
     "Item_brand": "",
@@ -165,12 +150,13 @@
     "Item_parent_category": "Cafe",
     "Item_sales_category": "Sweet Snacks",
     "Item_price": null,
-    "Item_currency": "GBP",
+    "Item_currency": "",
     "menu_page": "4"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Twirl",
     "Item_description": "",
     "Item_brand": "",
@@ -178,12 +164,13 @@
     "Item_parent_category": "Cafe",
     "Item_sales_category": "Sweet Snacks",
     "Item_price": null,
-    "Item_currency": "GBP",
+    "Item_currency": "",
     "menu_page": "4"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "KitKat",
     "Item_description": "",
     "Item_brand": "",
@@ -191,12 +178,13 @@
     "Item_parent_category": "Cafe",
     "Item_sales_category": "Sweet Snacks",
     "Item_price": null,
-    "Item_currency": "GBP",
+    "Item_currency": "",
     "menu_page": "4"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Twix",
     "Item_description": "",
     "Item_brand": "",
@@ -204,25 +192,27 @@
     "Item_parent_category": "Cafe",
     "Item_sales_category": "Sweet Snacks",
     "Item_price": null,
-    "Item_currency": "GBP",
+    "Item_currency": "",
     "menu_page": "4"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Paterson's Scottish Shortbread",
     "Item_description": "",
-    "Item_brand": "",
+    "Item_brand": "Paterson's",
     "Item_Quantity": "",
     "Item_parent_category": "Cafe",
     "Item_sales_category": "Sweet Snacks",
     "Item_price": null,
-    "Item_currency": "GBP",
+    "Item_currency": "",
     "menu_page": "4"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Squashies",
     "Item_description": "",
     "Item_brand": "",
@@ -230,16 +220,31 @@
     "Item_parent_category": "Cafe",
     "Item_sales_category": "Sweet Snacks",
     "Item_price": null,
-    "Item_currency": "GBP",
+    "Item_currency": "",
     "menu_page": "4"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
+    "Item_name": "Hot Bacon Baguette",
+    "Item_description": "",
+    "Item_brand": "",
+    "Item_Quantity": "",
+    "Item_parent_category": "Cafe",
+    "Item_sales_category": "Fresh Food",
+    "Item_price": null,
+    "Item_currency": "",
+    "menu_page": "4"
+  },
+  {
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Margherita Pizza Twist",
     "Item_description": "Tangy tomato and gooey mozzarella make the perfect combo in this super-tasty twist.",
-    "Item_brand": null,
-    "Item_Quantity": null,
+    "Item_brand": "Made in Italy",
+    "Item_Quantity": "",
     "Item_parent_category": "Cafe",
     "Item_sales_category": "Fresh Food",
     "Item_price": 5.8,
@@ -247,12 +252,13 @@
     "menu_page": "5"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Pepperoni Pizza Twist",
     "Item_description": "Tuck into a smoky pepperoni topping on a mozzarella and tomato base.",
-    "Item_brand": null,
-    "Item_Quantity": null,
+    "Item_brand": "Made in Italy",
+    "Item_Quantity": "",
     "Item_parent_category": "Cafe",
     "Item_sales_category": "Fresh Food",
     "Item_price": 5.8,
@@ -260,8 +266,9 @@
     "menu_page": "5"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Afternoon Tea",
     "Item_description": "Sultana scone, Bonne Maman strawberry jam, afternoon tea cream and a clotted cream shortbread finger biscuit.",
     "Item_brand": "",
@@ -273,8 +280,9 @@
     "menu_page": "6"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Pot Noodle",
     "Item_description": "Chicken & Mushroom",
     "Item_brand": "",
@@ -286,8 +294,9 @@
     "menu_page": "7"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Mini Cheddars",
     "Item_description": "Original",
     "Item_brand": "",
@@ -299,8 +308,9 @@
     "menu_page": "7"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Heinz Cup Soup",
     "Item_description": "Cream of Tomato",
     "Item_brand": "Heinz",
@@ -312,8 +322,9 @@
     "menu_page": "7"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Ploughman's",
     "Item_description": "Cream crackers, Peter's Yard sourdough crackers, soft cheddar cheese, cheese with fine herbs, Branston Pickle and pickled onions.",
     "Item_brand": "",
@@ -325,8 +336,9 @@
     "menu_page": "7"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Kids' Snack Box",
     "Item_description": "Mini Cheddars, Freddo, Gummi Zone Pizza XL, Zombie gummy sweets and a pack of eco colouring pencils.",
     "Item_brand": "",
@@ -338,8 +350,9 @@
     "menu_page": "7"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Sweet & Savoury",
     "Item_description": "Lentil hummus, sea salt Love Corn, Buttermilk caramel nougat choc bar, Nairn's gluten-free wholegrain crackers and Urban Fruit dried mango snack pack.",
     "Item_brand": "",
@@ -351,10 +364,11 @@
     "menu_page": "7"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Pringles",
-    "Item_description": "Salt & Vinegar, Original, Sour Cream & Onion",
+    "Item_description": "Salt & Vinegar",
     "Item_brand": "Pringles",
     "Item_Quantity": "",
     "Item_parent_category": "Cafe",
@@ -364,8 +378,37 @@
     "menu_page": "7"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
+    "Item_name": "Pringles",
+    "Item_description": "Original",
+    "Item_brand": "Pringles",
+    "Item_Quantity": "",
+    "Item_parent_category": "Cafe",
+    "Item_sales_category": "Savoury Snacks",
+    "Item_price": 2.8,
+    "Item_currency": "GBP",
+    "menu_page": "7"
+  },
+  {
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
+    "Item_name": "Pringles",
+    "Item_description": "Sour Cream & Onion",
+    "Item_brand": "Pringles",
+    "Item_Quantity": "",
+    "Item_parent_category": "Cafe",
+    "Item_sales_category": "Savoury Snacks",
+    "Item_price": 2.8,
+    "Item_currency": "GBP",
+    "menu_page": "7"
+  },
+  {
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Spanish Tapas",
     "Item_description": "Picos Cracker pack, Serrano jamon, garlic and thyme olives and sobrasada paste.",
     "Item_brand": "",
@@ -377,8 +420,9 @@
     "menu_page": "7"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Cadbury Dairy Milk Biscoff Chocolate Bar",
     "Item_description": "",
     "Item_brand": "Cadbury",
@@ -386,12 +430,13 @@
     "Item_parent_category": "Cafe",
     "Item_sales_category": "Sweet Snacks",
     "Item_price": null,
-    "Item_currency": "GBP",
+    "Item_currency": "",
     "menu_page": "8"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Cadbury Nibbly Fingers",
     "Item_description": "",
     "Item_brand": "Cadbury",
@@ -399,12 +444,13 @@
     "Item_parent_category": "Cafe",
     "Item_sales_category": "Sweet Snacks",
     "Item_price": null,
-    "Item_currency": "GBP",
+    "Item_currency": "",
     "menu_page": "8"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Haribo Travel Parade",
     "Item_description": "",
     "Item_brand": "Haribo",
@@ -412,12 +458,13 @@
     "Item_parent_category": "Cafe",
     "Item_sales_category": "Sweet Snacks",
     "Item_price": null,
-    "Item_currency": "GBP",
+    "Item_currency": "",
     "menu_page": "8"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Maltesers",
     "Item_description": "",
     "Item_brand": "",
@@ -425,12 +472,13 @@
     "Item_parent_category": "Cafe",
     "Item_sales_category": "Sweet Snacks",
     "Item_price": null,
-    "Item_currency": "GBP",
+    "Item_currency": "",
     "menu_page": "8"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Cadbury Dairy Milk Buttons",
     "Item_description": "",
     "Item_brand": "Cadbury",
@@ -442,8 +490,9 @@
     "menu_page": "8"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Costa Coffee Americano",
     "Item_description": "",
     "Item_brand": "Costa Coffee",
@@ -455,8 +504,9 @@
     "menu_page": "8"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Costa Coffee Decaf",
     "Item_description": "",
     "Item_brand": "Costa Coffee",
@@ -468,8 +518,9 @@
     "menu_page": "8"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Costa Coffee Creamy Cappuccino",
     "Item_description": "",
     "Item_brand": "Costa Coffee",
@@ -481,8 +532,9 @@
     "menu_page": "8"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Costa Coffee Salted Caramel Latte",
     "Item_description": "",
     "Item_brand": "Costa Coffee",
@@ -494,8 +546,9 @@
     "menu_page": "8"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Costa Coffee Latte",
     "Item_description": "",
     "Item_brand": "Costa Coffee",
@@ -507,8 +560,9 @@
     "menu_page": "8"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Yorkshire Tea",
     "Item_description": "",
     "Item_brand": "",
@@ -520,8 +574,9 @@
     "menu_page": "8"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Cadbury Hot Chocolate",
     "Item_description": "",
     "Item_brand": "Cadbury",
@@ -533,8 +588,9 @@
     "menu_page": "8"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Chocolate Croissant",
     "Item_description": "",
     "Item_brand": "",
@@ -546,8 +602,9 @@
     "menu_page": "8"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Twix",
     "Item_description": "",
     "Item_brand": "",
@@ -559,8 +616,9 @@
     "menu_page": "9"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Squashies",
     "Item_description": "",
     "Item_brand": "",
@@ -572,8 +630,9 @@
     "menu_page": "9"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "KitKat",
     "Item_description": "",
     "Item_brand": "",
@@ -585,8 +644,9 @@
     "menu_page": "9"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Paterson's Scottish Shortbread",
     "Item_description": "",
     "Item_brand": "",
@@ -598,8 +658,9 @@
     "menu_page": "9"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Fruit Pastilles",
     "Item_description": "",
     "Item_brand": "",
@@ -611,8 +672,9 @@
     "menu_page": "9"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Twirl",
     "Item_description": "",
     "Item_brand": "",
@@ -624,8 +686,9 @@
     "menu_page": "9"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Harrogate Spring Water Still",
     "Item_description": "",
     "Item_brand": "Harrogate",
@@ -637,8 +700,9 @@
     "menu_page": "10"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Harrogate Spring Water Sparkling",
     "Item_description": "",
     "Item_brand": "Harrogate",
@@ -650,8 +714,9 @@
     "menu_page": "10"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Starbucks Caffè Latte",
     "Item_description": "",
     "Item_brand": "Starbucks",
@@ -663,8 +728,9 @@
     "menu_page": "10"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Tropicana Smooth Orange Juice",
     "Item_description": "",
     "Item_brand": "Tropicana",
@@ -676,8 +742,9 @@
     "menu_page": "10"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "J2O Orange & Passion Fruit",
     "Item_description": "",
     "Item_brand": "J2O",
@@ -689,8 +756,9 @@
     "menu_page": "10"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Robinsons Fruit Shoot Apple & Blackcurrant",
     "Item_description": "",
     "Item_brand": "Robinsons",
@@ -702,8 +770,9 @@
     "menu_page": "10"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Fever-Tree Ginger Ale",
     "Item_description": "",
     "Item_brand": "Fever-Tree",
@@ -715,8 +784,9 @@
     "menu_page": "10"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Fever-Tree Mexican Lime Soda",
     "Item_description": "",
     "Item_brand": "Fever-Tree",
@@ -728,8 +798,9 @@
     "menu_page": "10"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Fever-Tree Light Mediterranean Tonic",
     "Item_description": "",
     "Item_brand": "Fever-Tree",
@@ -741,8 +812,9 @@
     "menu_page": "10"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Fever-Tree Light Indian Tonic",
     "Item_description": "",
     "Item_brand": "Fever-Tree",
@@ -754,8 +826,9 @@
     "menu_page": "10"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Fanta Lemon",
     "Item_description": "",
     "Item_brand": "",
@@ -767,8 +840,9 @@
     "menu_page": "10"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Fanta Orange Zero",
     "Item_description": "",
     "Item_brand": "",
@@ -780,8 +854,9 @@
     "menu_page": "10"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Irn Bru",
     "Item_description": "",
     "Item_brand": "",
@@ -793,8 +868,9 @@
     "menu_page": "10"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Appletiser",
     "Item_description": "",
     "Item_brand": "",
@@ -806,8 +882,9 @@
     "menu_page": "10"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Diet Coke",
     "Item_description": "",
     "Item_brand": "",
@@ -819,8 +896,9 @@
     "menu_page": "10"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Coca-Cola",
     "Item_description": "",
     "Item_brand": "",
@@ -832,8 +910,9 @@
     "menu_page": "10"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Sprite Zero Sugar",
     "Item_description": "",
     "Item_brand": "",
@@ -845,21 +924,9 @@
     "menu_page": "10"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
-    "Item_name": "",
-    "Item_description": "",
-    "Item_brand": "",
-    "Item_Quantity": "",
-    "Item_parent_category": "",
-    "Item_sales_category": "",
-    "Item_price": null,
-    "Item_currency": "GBP",
-    "menu_page": "11"
-  },
-  {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Kissing Tree Shiraz",
     "Item_description": "",
     "Item_brand": "Kissing Tree",
@@ -871,8 +938,9 @@
     "menu_page": "12"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Kissing Tree Sauvignon Blanc",
     "Item_description": "",
     "Item_brand": "Kissing Tree",
@@ -884,8 +952,9 @@
     "menu_page": "12"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Bacardi White Rum",
     "Item_description": "",
     "Item_brand": "Bacardi",
@@ -897,8 +966,9 @@
     "menu_page": "12"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Jack Daniel's Whiskey",
     "Item_description": "",
     "Item_brand": "Jack Daniel's",
@@ -910,8 +980,9 @@
     "menu_page": "12"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Baileys",
     "Item_description": "",
     "Item_brand": "Baileys",
@@ -923,8 +994,9 @@
     "menu_page": "12"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Gordon's London Dry Gin",
     "Item_description": "",
     "Item_brand": "Gordon's",
@@ -936,8 +1008,9 @@
     "menu_page": "12"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Smirnoff No.21 Vodka",
     "Item_description": "",
     "Item_brand": "Smirnoff",
@@ -949,8 +1022,9 @@
     "menu_page": "12"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Captain Morgan Spiced Gold",
     "Item_description": "",
     "Item_brand": "Captain Morgan",
@@ -962,24 +1036,26 @@
     "menu_page": "12"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
-    "Item_name": "AU VODKA BLUE RASPBERRY",
-    "Item_description": "5CL MINIATURE'S AVAILABLE ON BOARD",
-    "Item_brand": "AU VODKA",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
+    "Item_name": "AU Vodka Blue Raspberry",
+    "Item_description": "35.2% / 5CL",
+    "Item_brand": "AU Vodka",
     "Item_Quantity": "5CL",
     "Item_parent_category": "Cafe",
     "Item_sales_category": "Alcohol",
     "Item_price": null,
-    "Item_currency": "GBP",
+    "Item_currency": "",
     "menu_page": "13"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Estrella",
     "Item_description": "ABV 4.6% 330ml",
-    "Item_brand": null,
+    "Item_brand": "",
     "Item_Quantity": "330ml",
     "Item_parent_category": "Cafe",
     "Item_sales_category": "Alcohol",
@@ -988,11 +1064,12 @@
     "menu_page": "13"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Heineken",
     "Item_description": "ABV 5% 330ml",
-    "Item_brand": null,
+    "Item_brand": "",
     "Item_Quantity": "330ml",
     "Item_parent_category": "Cafe",
     "Item_sales_category": "Alcohol",
@@ -1001,11 +1078,12 @@
     "menu_page": "13"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Magners Irish Cider",
     "Item_description": "ABV 4.5% 330ml",
-    "Item_brand": null,
+    "Item_brand": "",
     "Item_Quantity": "330ml",
     "Item_parent_category": "Cafe",
     "Item_sales_category": "Alcohol",
@@ -1014,8 +1092,9 @@
     "menu_page": "13"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Kopparberg Strawberry & Lime Cider",
     "Item_description": "ABV 4% 330ml",
     "Item_brand": "Kopparberg",
@@ -1027,11 +1106,12 @@
     "menu_page": "13"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
     "Item_name": "Birra Moretti",
     "Item_description": "ABV 4.6% 330ml",
-    "Item_brand": null,
+    "Item_brand": "",
     "Item_Quantity": "330ml",
     "Item_parent_category": "Cafe",
     "Item_sales_category": "Alcohol",
@@ -1040,9 +1120,10 @@
     "menu_page": "13"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
-    "Item_name": "Nicolas Feuillatte Champagne 75cl",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
+    "Item_name": "Nicolas Feuillatte Champagne",
     "Item_description": "France's favourite variety, renowned for its citrusy finish.",
     "Item_brand": "Nicolas Feuillatte",
     "Item_Quantity": "75cl",
@@ -1053,10 +1134,11 @@
     "menu_page": "14"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
-    "Item_name": "Freixenet Prosecco DOC 200ml",
-    "Item_description": null,
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
+    "Item_name": "Freixenet Prosecco DOC",
+    "Item_description": "",
     "Item_brand": "Freixenet",
     "Item_Quantity": "200ml",
     "Item_parent_category": "Cafe",
@@ -1066,10 +1148,11 @@
     "menu_page": "14"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
-    "Item_name": "Freixenet Italian Sparkling Rosé 200ml",
-    "Item_description": null,
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
+    "Item_name": "Freixenet Italian Sparkling Rosé",
+    "Item_description": "",
     "Item_brand": "Freixenet",
     "Item_Quantity": "200ml",
     "Item_parent_category": "Cafe",
@@ -1079,9 +1162,10 @@
     "menu_page": "14"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
-    "Item_name": "Campo Viejo Rioja 187ml",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
+    "Item_name": "Campo Viejo Rioja",
     "Item_description": "Iconic Rioja bursting with black plum, berries and sweet vanilla spice.",
     "Item_brand": "Campo Viejo",
     "Item_Quantity": "187ml",
@@ -1092,9 +1176,10 @@
     "menu_page": "14"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
-    "Item_name": "Wild Coast Pinot Grigio 187ml",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
+    "Item_name": "Wild Coast Pinot Grigio",
     "Item_description": "Pure, bright and crisp white wine with notes of apple, peach, pear and lime.",
     "Item_brand": "Wild Coast",
     "Item_Quantity": "187ml",
@@ -1105,9 +1190,10 @@
     "menu_page": "14"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
-    "Item_name": "Calvet, Côtes De Provence 187ml",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
+    "Item_name": "Calvet, Côtes De Provence",
     "Item_description": "Pink rosé, with hints of strawberry, raspberry and exotic fruits.",
     "Item_brand": "Calvet",
     "Item_Quantity": "187ml",
@@ -1118,11 +1204,12 @@
     "menu_page": "14"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
-    "Item_name": "St-Rémy XO French Brandy 5cl",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
+    "Item_name": "St-Rémy XO French Brandy",
     "Item_description": "",
-    "Item_brand": "",
+    "Item_brand": "St-Rémy",
     "Item_Quantity": "5cl",
     "Item_parent_category": "Duty Free",
     "Item_sales_category": "DF Spirits",
@@ -1131,11 +1218,12 @@
     "menu_page": "15"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
-    "Item_name": "Johnnie Walker Black Label 5cl",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
+    "Item_name": "Johnnie Walker Black Label",
     "Item_description": "",
-    "Item_brand": "",
+    "Item_brand": "Johnnie Walker",
     "Item_Quantity": "5cl",
     "Item_parent_category": "Duty Free",
     "Item_sales_category": "DF Spirits",
@@ -1144,11 +1232,12 @@
     "menu_page": "15"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
-    "Item_name": "Grey Goose Vodka 5cl",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
+    "Item_name": "Grey Goose Vodka",
     "Item_description": "",
-    "Item_brand": "",
+    "Item_brand": "Grey Goose",
     "Item_Quantity": "5cl",
     "Item_parent_category": "Duty Free",
     "Item_sales_category": "DF Spirits",
@@ -1157,11 +1246,12 @@
     "menu_page": "15"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
-    "Item_name": "Au Vodka Blue Raspberry 5cl",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
+    "Item_name": "Au Vodka Blue Raspberry",
     "Item_description": "",
-    "Item_brand": "",
+    "Item_brand": "Au Vodka",
     "Item_Quantity": "5cl",
     "Item_parent_category": "Duty Free",
     "Item_sales_category": "DF Spirits",
@@ -1170,11 +1260,12 @@
     "menu_page": "15"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
-    "Item_name": "Tanqueray Gin 5cl",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
+    "Item_name": "Tanqueray Gin",
     "Item_description": "",
-    "Item_brand": "",
+    "Item_brand": "Tanqueray",
     "Item_Quantity": "5cl",
     "Item_parent_category": "Duty Free",
     "Item_sales_category": "DF Spirits",
@@ -1183,11 +1274,12 @@
     "menu_page": "15"
   },
   {
-    "Competitor_Name": "Jet2",
-    "Catalog_valid_Date": "",
-    "Item_name": "Malibu Cocktail Piña Colada 250ml",
+    "Competitor_Name": "Jet2Cafe",
+    "Catalog_effective_start_date": "2026-01-01",
+    "Catalog_effective_end_date": "2026-04-30",
+    "Item_name": "Malibu Cocktail Piña Colada",
     "Item_description": "",
-    "Item_brand": "",
+    "Item_brand": "Malibu",
     "Item_Quantity": "250ml",
     "Item_parent_category": "Duty Free",
     "Item_sales_category": "DF Spirits",
