@@ -1,0 +1,51 @@
+```json
+{
+  "detected_competitor_name": "",
+  "detected_catalog_effective_start": "",
+  "detected_catalog_effective_end": "",
+  "items": [
+    {
+      "Competitor_Name": "Ryanair",
+      "Catalog_effective_start_date": "2025-12-01",
+      "Catalog_effective_end_date": "2026-02-28",
+      "Item_name": "VALENTINO VALENTINA",
+      "Item_description": "EDP Spray, 50ml",
+      "Item_brand": "VALENTINO",
+      "Item_Quantity": "50ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Ladies Fragrance",
+      "Item_price": 50.00,
+      "Item_currency": "EUR",
+      "menu_page": "23"
+    },
+    {
+      "Competitor_Name": "Ryanair",
+      "Catalog_effective_start_date": "2025-12-01",
+      "Catalog_effective_end_date": "2026-02-28",
+      "Item_name": "EMPORIO ARMANI SHE",
+      "Item_description": "EDP Spray, 100ml",
+      "Item_brand": "EMPORIO ARMANI",
+      "Item_Quantity": "100ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Ladies Fragrance",
+      "Item_price": 50.00,
+      "Item_currency": "EUR",
+      "menu_page": "23"
+    },
+    {
+      "Competitor_Name": "Ryanair",
+      "Catalog_effective_start_date": "2025-12-01",
+      "Catalog_effective_end_date": "2026-02-28",
+      "Item_name": "DSQUARED2 ICON FOR HER",
+      "Item_description": "EDP Spray, 30ml",
+      "Item_brand": "DSQUARED2",
+      "Item_Quantity": "30ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Ladies Fragrance",
+      "Item_price": 40.00,
+      "Item_currency": "EUR",
+      "menu_page": "23"
+    }
+  ]
+}
+```

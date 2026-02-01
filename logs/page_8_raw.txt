@@ -1,0 +1,51 @@
+```json
+{
+  "detected_competitor_name": "",
+  "detected_catalog_effective_start": "",
+  "detected_catalog_effective_end": "",
+  "items": [
+    {
+      "Competitor_Name": "Ryanair",
+      "Catalog_effective_start_date": "2025-12-01",
+      "Catalog_effective_end_date": "2026-02-28",
+      "Item_name": "YVES SAINT LAURENT Y",
+      "Item_description": "EDP Spray, 60ml",
+      "Item_brand": "Yves Saint Laurent",
+      "Item_Quantity": "60ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Gents Fragrance",
+      "Item_price": 77.00,
+      "Item_currency": "EUR",
+      "menu_page": "15"
+    },
+    {
+      "Competitor_Name": "Ryanair",
+      "Catalog_effective_start_date": "2025-12-01",
+      "Catalog_effective_end_date": "2026-02-28",
+      "Item_name": "EMPORIO ARMANI HE",
+      "Item_description": "EDT Spray, 100ml",
+      "Item_brand": "Emporio Armani",
+      "Item_Quantity": "100ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Gents Fragrance",
+      "Item_price": 50.00,
+      "Item_currency": "EUR",
+      "menu_page": "15"
+    },
+    {
+      "Competitor_Name": "Ryanair",
+      "Catalog_effective_start_date": "2025-12-01",
+      "Catalog_effective_end_date": "2026-02-28",
+      "Item_name": "DIESEL ONLY THE BRAVE",
+      "Item_description": "EDT Spray, 50ml",
+      "Item_brand": "Diesel",
+      "Item_Quantity": "50ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Gents Fragrance",
+      "Item_price": 40.00,
+      "Item_currency": "EUR",
+      "menu_page": "15"
+    }
+  ]
+}
+```

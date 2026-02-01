@@ -1,0 +1,51 @@
+```json
+{
+  "detected_competitor_name": "",
+  "detected_catalog_effective_start": "",
+  "detected_catalog_effective_end": "",
+  "items": [
+    {
+      "Competitor_Name": "Ryanair",
+      "Catalog_effective_start_date": "2025-12-01",
+      "Catalog_effective_end_date": "2026-02-28",
+      "Item_name": "MORPHE 18R RUNWAY READY EYESHADOW PALETTE",
+      "Item_description": "Fashion takes flight in an essential 18-pan artistry curation for any destination. Perfectly packed with ultra-versatile, universally flattering neutrals in Morphe’s signature matte, metallic and shimmer finishes. This on-trend palette guarantees a stylish arrival, day or night, near or far.",
+      "Item_brand": "Morphe",
+      "Item_Quantity": "18-pan",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Skincare & Make-up",
+      "Item_price": 29.00,
+      "Item_currency": "EUR",
+      "menu_page": "29"
+    },
+    {
+      "Competitor_Name": "Ryanair",
+      "Catalog_effective_start_date": "2025-12-01",
+      "Catalog_effective_end_date": "2026-02-28",
+      "Item_name": "L’ORÉAL PARIS COLOR RICHE NUDE LIPSTICKS TRIO",
+      "Item_description": "This set contains three full size Color Riche nude lipsticks (Nude 235, Violet Saturne 214, Rose Tendre 303).",
+      "Item_brand": "L’Oréal Paris",
+      "Item_Quantity": "3 lipsticks",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Skincare & Make-up",
+      "Item_price": 29.00,
+      "Item_currency": "EUR",
+      "menu_page": "29"
+    },
+    {
+      "Competitor_Name": "Ryanair",
+      "Catalog_effective_start_date": "2025-12-01",
+      "Catalog_effective_end_date": "2026-02-28",
+      "Item_name": "L’ORÉAL PARIS VOLUME MILLION LASHES SET DUO",
+      "Item_description": "Mascara N°1 Black 2 x 11 ml. Discover the iconic Volume Million Lashes Mascara, now available in a duo pack of full size.",
+      "Item_brand": "L’Oréal Paris",
+      "Item_Quantity": "2 x 11 ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Skincare & Make-up",
+      "Item_price": 22.00,
+      "Item_currency": "EUR",
+      "menu_page": "29"
+    }
+  ]
+}
+```

@@ -1,0 +1,79 @@
+```json
+{
+  "detected_competitor_name": "",
+  "detected_catalog_effective_start": "",
+  "detected_catalog_effective_end": "",
+  "items": [
+    {
+      "Competitor_Name": "Ryanair",
+      "Catalog_effective_start_date": "2025-12-01",
+      "Catalog_effective_end_date": "2026-02-28",
+      "Item_name": "Mala Peira Red",
+      "Item_description": "Tempranillo Merlot, Spain. Soft, round wine with velvety tannins and a deep ruby colour.",
+      "Item_brand": "Mala Peira",
+      "Item_Quantity": "187ml",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Alcohol",
+      "Item_price": 9.00,
+      "Item_currency": "EUR",
+      "menu_page": "19"
+    },
+    {
+      "Competitor_Name": "Ryanair",
+      "Catalog_effective_start_date": "2025-12-01",
+      "Catalog_effective_end_date": "2026-02-28",
+      "Item_name": "Mala Peira Rosé",
+      "Item_description": "Bobal, Spain. Fresh and well balanced, with notes of red fruit.",
+      "Item_brand": "Mala Peira",
+      "Item_Quantity": "187ml",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Alcohol",
+      "Item_price": 9.00,
+      "Item_currency": "EUR",
+      "menu_page": "19"
+    },
+    {
+      "Competitor_Name": "Ryanair",
+      "Catalog_effective_start_date": "2025-12-01",
+      "Catalog_effective_end_date": "2026-02-28",
+      "Item_name": "Mala Peira White",
+      "Item_description": "Verdejo Airen, Spain. Fresh and harmonious, with citrus notes.",
+      "Item_brand": "Mala Peira",
+      "Item_Quantity": "187ml",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Alcohol",
+      "Item_price": 9.00,
+      "Item_currency": "EUR",
+      "menu_page": "19"
+    },
+    {
+      "Competitor_Name": "Ryanair",
+      "Catalog_effective_start_date": "2025-12-01",
+      "Catalog_effective_end_date": "2026-02-28",
+      "Item_name": "Bottega Il Vino dei Poeti Prosecco DOC Rosé",
+      "Item_description": "Fruity aromas with distinct hints of apple, white peach, citrus and wild strawberries.",
+      "Item_brand": "Bottega",
+      "Item_Quantity": "200ml",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Alcohol",
+      "Item_price": 8.00,
+      "Item_currency": "EUR",
+      "menu_page": "19"
+    },
+    {
+      "Competitor_Name": "Ryanair",
+      "Catalog_effective_start_date": "2025-12-01",
+      "Catalog_effective_end_date": "2026-02-28",
+      "Item_name": "Bottega Il Vino dei Poeti Prosecco DOC Brut",
+      "Item_description": "Fresh and delicate Prosecco with notes of apple, white peach, citrus fruits and floral hints.",
+      "Item_brand": "Bottega",
+      "Item_Quantity": "200ml",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Alcohol",
+      "Item_price": 8.00,
+      "Item_currency": "EUR",
+      "menu_page": "19"
+    }
+  ]
+}
+```

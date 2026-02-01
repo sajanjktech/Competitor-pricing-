@@ -1,0 +1,65 @@
+```json
+{
+  "detected_competitor_name": "",
+  "detected_catalog_effective_start": "",
+  "detected_catalog_effective_end": "",
+  "items": [
+    {
+      "Competitor_Name": "Ryanair",
+      "Catalog_effective_start_date": "2025-12-01",
+      "Catalog_effective_end_date": "2026-02-28",
+      "Item_name": "GOOD GIRL",
+      "Item_description": "EDP Spray",
+      "Item_brand": "CAROLINA HERRERA",
+      "Item_Quantity": "30ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Ladies Fragrance",
+      "Item_price": 61.50,
+      "Item_currency": "EUR",
+      "menu_page": "27"
+    },
+    {
+      "Competitor_Name": "Ryanair",
+      "Catalog_effective_start_date": "2025-12-01",
+      "Catalog_effective_end_date": "2026-02-28",
+      "Item_name": "BLACK OPIUM",
+      "Item_description": "EDP Spray",
+      "Item_brand": "YVES SAINT LAURENT",
+      "Item_Quantity": "30ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Ladies Fragrance",
+      "Item_price": 64.00,
+      "Item_currency": "EUR",
+      "menu_page": "27"
+    },
+    {
+      "Competitor_Name": "Ryanair",
+      "Catalog_effective_start_date": "2025-12-01",
+      "Catalog_effective_end_date": "2026-02-28",
+      "Item_name": "WONDERLUST",
+      "Item_description": "EDP Spray",
+      "Item_brand": "MICHAEL KORS",
+      "Item_Quantity": "50ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Ladies Fragrance",
+      "Item_price": 60.00,
+      "Item_currency": "EUR",
+      "menu_page": "27"
+    },
+    {
+      "Competitor_Name": "Ryanair",
+      "Catalog_effective_start_date": "2025-12-01",
+      "Catalog_effective_end_date": "2026-02-28",
+      "Item_name": "YELLOW DIAMOND INTENSE",
+      "Item_description": "EDP Spray",
+      "Item_brand": "VERSACE",
+      "Item_Quantity": "90ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Ladies Fragrance",
+      "Item_price": 49.90,
+      "Item_currency": "EUR",
+      "menu_page": "27"
+    }
+  ]
+}
+```

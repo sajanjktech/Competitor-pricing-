@@ -1,0 +1,23 @@
+```json
+{
+  "detected_competitor_name": "Ryanair",
+  "detected_catalog_effective_start": "",
+  "detected_catalog_effective_end": "",
+  "items": [
+    {
+      "Competitor_Name": "Ryanair",
+      "Catalog_effective_start_date": "",
+      "Catalog_effective_end_date": "",
+      "Item_name": "Ryanair Gift Card",
+      "Item_description": "Personalise your gift card with a range of everyday and seasonal themes, from Happy Birthday, Congratulations, Thanks, Graduation and Merry Christmas - all starting from €25. With over 250 destinations to choose from, there’s somewhere for everyone! Choose a digital gift card sent via email with a scheduled delivery time or a physical gift card delivered straight to your doorstep.",
+      "Item_brand": "Ryanair",
+      "Item_Quantity": "",
+      "Item_parent_category": "Virtual",
+      "Item_sales_category": "Tickets",
+      "Item_price": 25,
+      "Item_currency": "EUR",
+      "menu_page": "5"
+    }
+  ]
+}
+```

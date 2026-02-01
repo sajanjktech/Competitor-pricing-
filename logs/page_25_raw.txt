@@ -1,0 +1,37 @@
+```json
+{
+  "detected_competitor_name": "",
+  "detected_catalog_effective_start": "",
+  "detected_catalog_effective_end": "",
+  "items": [
+    {
+      "Competitor_Name": "Ryanair",
+      "Catalog_effective_start_date": "2025-12-01",
+      "Catalog_effective_end_date": "2026-02-28",
+      "Item_name": "Beef Lasagne",
+      "Item_description": "Delicious lasagne with layers of beef and pasta",
+      "Item_brand": "",
+      "Item_Quantity": "350g",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Fresh Food",
+      "Item_price": 8.50,
+      "Item_currency": "EUR",
+      "menu_page": "25"
+    },
+    {
+      "Competitor_Name": "Ryanair",
+      "Catalog_effective_start_date": "2025-12-01",
+      "Catalog_effective_end_date": "2026-02-28",
+      "Item_name": "Thai Green Curry",
+      "Item_description": "Fragrant and aromatic green chicken curry with authentic Thai Jasmine rice",
+      "Item_brand": "",
+      "Item_Quantity": "300g",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Fresh Food",
+      "Item_price": 8.50,
+      "Item_currency": "EUR",
+      "menu_page": "25"
+    }
+  ]
+}
+```

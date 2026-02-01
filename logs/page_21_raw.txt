@@ -1,0 +1,121 @@
+```json
+{
+  "detected_competitor_name": "",
+  "detected_catalog_effective_start": "",
+  "detected_catalog_effective_end": "",
+  "items": [
+    {
+      "Competitor_Name": "Ryanair",
+      "Catalog_effective_start_date": "2025-12-01",
+      "Catalog_effective_end_date": "2026-02-28",
+      "Item_name": "Capri-Sun Zero Added Sugar",
+      "Item_description": "",
+      "Item_brand": "Capri-Sun",
+      "Item_Quantity": "200ml",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Cold Drink",
+      "Item_price": 3.25,
+      "Item_currency": "EUR",
+      "menu_page": "21"
+    },
+    {
+      "Competitor_Name": "Ryanair",
+      "Catalog_effective_start_date": "2025-12-01",
+      "Catalog_effective_end_date": "2026-02-28",
+      "Item_name": "Sprite Zero Sugar",
+      "Item_description": "",
+      "Item_brand": "Sprite",
+      "Item_Quantity": "330ml",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Cold Drink",
+      "Item_price": 3.75,
+      "Item_currency": "EUR",
+      "menu_page": "21"
+    },
+    {
+      "Competitor_Name": "Ryanair",
+      "Catalog_effective_start_date": "2025-12-01",
+      "Catalog_effective_end_date": "2026-02-28",
+      "Item_name": "Fanta Orange",
+      "Item_description": "",
+      "Item_brand": "Fanta",
+      "Item_Quantity": "330ml",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Cold Drink",
+      "Item_price": 3.75,
+      "Item_currency": "EUR",
+      "menu_page": "21"
+    },
+    {
+      "Competitor_Name": "Ryanair",
+      "Catalog_effective_start_date": "2025-12-01",
+      "Catalog_effective_end_date": "2026-02-28",
+      "Item_name": "Coca-Cola Zero Sugar",
+      "Item_description": "",
+      "Item_brand": "Coca-Cola",
+      "Item_Quantity": "330ml",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Cold Drink",
+      "Item_price": 3.75,
+      "Item_currency": "EUR",
+      "menu_page": "21"
+    },
+    {
+      "Competitor_Name": "Ryanair",
+      "Catalog_effective_start_date": "2025-12-01",
+      "Catalog_effective_end_date": "2026-02-28",
+      "Item_name": "Coca-Cola Original Taste",
+      "Item_description": "",
+      "Item_brand": "Coca-Cola",
+      "Item_Quantity": "330ml",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Cold Drink",
+      "Item_price": 3.75,
+      "Item_currency": "EUR",
+      "menu_page": "21"
+    },
+    {
+      "Competitor_Name": "Ryanair",
+      "Catalog_effective_start_date": "2025-12-01",
+      "Catalog_effective_end_date": "2026-02-28",
+      "Item_name": "Schweppes Tonic Water",
+      "Item_description": "",
+      "Item_brand": "Schweppes",
+      "Item_Quantity": "150ml",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Cold Drink",
+      "Item_price": 2.75,
+      "Item_currency": "EUR",
+      "menu_page": "21"
+    },
+    {
+      "Competitor_Name": "Ryanair",
+      "Catalog_effective_start_date": "2025-12-01",
+      "Catalog_effective_end_date": "2026-02-28",
+      "Item_name": "San Benedetto Still Water",
+      "Item_description": "",
+      "Item_brand": "San Benedetto",
+      "Item_Quantity": "500ml",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Cold Drink",
+      "Item_price": 3.50,
+      "Item_currency": "EUR",
+      "menu_page": "21"
+    },
+    {
+      "Competitor_Name": "Ryanair",
+      "Catalog_effective_start_date": "2025-12-01",
+      "Catalog_effective_end_date": "2026-02-28",
+      "Item_name": "San Benedetto Sparkling Water",
+      "Item_description": "",
+      "Item_brand": "San Benedetto",
+      "Item_Quantity": "500ml",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Cold Drink",
+      "Item_price": 3.50,
+      "Item_currency": "EUR",
+      "menu_page": "21"
+    }
+  ]
+}
+```

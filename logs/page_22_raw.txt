@@ -1,0 +1,65 @@
+```json
+{
+  "detected_competitor_name": "",
+  "detected_catalog_effective_start": "",
+  "detected_catalog_effective_end": "",
+  "items": [
+    {
+      "Competitor_Name": "Ryanair",
+      "Catalog_effective_start_date": "2025-12-01",
+      "Catalog_effective_end_date": "2026-02-28",
+      "Item_name": "Value Deal",
+      "Item_description": "1 Drink + 1 Main + 1 Snack",
+      "Item_brand": "",
+      "Item_Quantity": "",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Combos",
+      "Item_price": 12.50,
+      "Item_currency": "EUR",
+      "menu_page": "22"
+    },
+    {
+      "Competitor_Name": "Ryanair",
+      "Catalog_effective_start_date": "2025-12-01",
+      "Catalog_effective_end_date": "2026-02-28",
+      "Item_name": "Sandwich Deal",
+      "Item_description": "1 Drink + 1 Main + 1 Snack",
+      "Item_brand": "",
+      "Item_Quantity": "",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Combos",
+      "Item_price": 12.50,
+      "Item_currency": "EUR",
+      "menu_page": "22"
+    },
+    {
+      "Competitor_Name": "Ryanair",
+      "Catalog_effective_start_date": "2025-12-01",
+      "Catalog_effective_end_date": "2026-02-28",
+      "Item_name": "Hungry Deal",
+      "Item_description": "1 Drink + 1 Main + 1 Snack",
+      "Item_brand": "",
+      "Item_Quantity": "",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Combos",
+      "Item_price": 14.00,
+      "Item_currency": "EUR",
+      "menu_page": "22"
+    },
+    {
+      "Competitor_Name": "Ryanair",
+      "Catalog_effective_start_date": "2025-12-01",
+      "Catalog_effective_end_date": "2026-02-28",
+      "Item_name": "Beer & Snack Deal",
+      "Item_description": "1 Drink + 1 Main + 1 Snack",
+      "Item_brand": "",
+      "Item_Quantity": "",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Combos",
+      "Item_price": 15.50,
+      "Item_currency": "EUR",
+      "menu_page": "22"
+    }
+  ]
+}
+```
