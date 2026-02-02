@@ -21,6 +21,10 @@ def cosine(v1, v2):
 # PRICE HELPERS
 # -------------------------------------------------------------------
 def parse_gate_price(price_string):
+    """
+    KEEPS minimum and maximum price from GateGroup as a tuple.
+    Example: "5.5 - 6.5" → (5.5, 6.5)
+    """
     if price_string is None:
         return (0.0, 0.0)
     try:
@@ -34,6 +38,13 @@ def parse_gate_price(price_string):
 
 
 def safe_float(value):
+    """
+    Convert competitor prices to safe float.
+    - Handles NULL
+    - Handles FREE
+    - Handles £ symbol
+    - Handles text gracefully
+    """
     if value is None:
         return 0.0
     try:
@@ -48,7 +59,7 @@ def safe_float(value):
 def embed_all_items():
     """Embed all Gategroup + competitor items using local model."""
 
-    logger.info("Embedding items with weighted model...")
+    logger.info("Embedding items (FREE mode)...")
 
     gg_items = load_gate_group_items()
     comp_items = load_competitor_items()
@@ -58,10 +69,14 @@ def embed_all_items():
 
     # ---- GateGroup items ----
     for idx, g in enumerate(gg_items, start=1):
+        logger.info(f"[GG] Embedding {idx}/{len(gg_items)}: {g.item_onboard_name}")
+
+        # EMBEDDING TEXT = name + description
         name = g.item_onboard_name or ""
         desc = g.item_description or ""
 
-        logger.info(f"[GG] Embedding {idx}/{len(gg_items)}: {name}")
+        full_text = f"{name} {desc}".strip()
+        vec = get_embedding(full_text)
 
         gg_embeds.append({
             "id": g.item_row_id,
@@ -69,20 +84,23 @@ def embed_all_items():
             "desc": desc,
             "price": parse_gate_price(g.item_price),
             "currency": g.item_currency_code,
-
-            # Separate embeddings for name + description
-            "embed_name": get_embedding(name),
-            "embed_desc": get_embedding(desc),
+            "embed": vec
         })
 
     # ---- Competitor items ----
     for idx, c in enumerate(comp_items, start=1):
+        logger.info(f"[COMP] Embedding {idx}/{len(comp_items)}: {c.Item_name}")
+
+        # Extract fields with safe defaults
         brand = getattr(c, "Item_brand", "") or ""
         qty = getattr(c, "Item_Quantity", "") or ""
         name = c.Item_name or ""
         desc = c.Item_description or ""
 
-        logger.info(f"[COMP] Embedding {idx}/{len(comp_items)}: {name}")
+        # EMBEDDING TEXT = brand + name + quantity + description
+        full_text = f"{brand} {name} {qty} {desc}".strip()
+
+        vec = get_embedding(full_text)
 
         comp_embeds.append({
             "id": c.id,
@@ -92,10 +110,7 @@ def embed_all_items():
             "desc": desc,
             "price": safe_float(c.Item_price),
             "currency": c.Item_currency,
-
-            # Competitor name field = brand + name + qty
-            "embed_name": get_embedding(f"{brand} {name} {qty}".strip()),
-            "embed_desc": get_embedding(desc),
+            "embed": vec
         })
 
     return gg_embeds, comp_embeds
@@ -105,46 +120,37 @@ def embed_all_items():
 # MATCHING PIPELINE
 # -------------------------------------------------------------------
 def match_items_free():
-    logger.info("Starting weighted cosine similarity matching...")
+    """Match Gategroup items → competitor items using cosine similarity."""
+    logger.info("Starting FREE item matching...")
 
     gg_embeds, comp_embeds = embed_all_items()
     results = []
 
-    NAME_WEIGHT = 0.90
-    DESC_WEIGHT = 0.10
-    SIM_THRESHOLD = 0.70
+    SIM_THRESHOLD = 0.70  # Only return matches ≥ 70%
 
+    # Loop GateGroup FIRST (primary catalogue)
     for idx, gg in enumerate(gg_embeds, start=1):
         logger.info(f"[MATCH] {idx}/{len(gg_embeds)} → {gg['name']}")
 
         matches = []
 
         for comp in comp_embeds:
+            score = cosine(gg["embed"], comp["embed"])
 
-            # Compute weighted similarity
-            sim_name = cosine(gg["embed_name"], comp["embed_name"])
-            sim_desc = cosine(gg["embed_desc"], comp["embed_desc"])
-
-            final_similarity = (
-                (NAME_WEIGHT * sim_name) +
-                (DESC_WEIGHT * sim_desc)
-            )
-
-            if final_similarity >= SIM_THRESHOLD:
+            if score >= SIM_THRESHOLD:
                 matches.append({
                     "competitor_item_id": comp["id"],
-                    "competitor_item_name": comp["name"],
                     "brand": comp["brand"],
                     "quantity": comp["quantity"],
+                    "competitor_item_name": comp["name"],
                     "competitor_description": comp["desc"],
                     "competitor_price": comp["price"],
                     "competitor_currency": comp["currency"],
-                    "similarity_name": round(sim_name, 4),
-                    "similarity_desc": round(sim_desc, 4),
-                    "similarity_final": round(final_similarity, 4),
+                    "similarity": round(score, 4)
                 })
 
-        matches = sorted(matches, key=lambda x: x["similarity_final"], reverse=True)
+        # Sort by similarity DESC
+        matches = sorted(matches, key=lambda x: x["similarity"], reverse=True)
 
         if matches:
             results.append({
@@ -158,5 +164,5 @@ def match_items_free():
                 "matches": matches
             })
 
-    logger.info("Matching completed with weighted similarity.")
+    logger.info("FREE matching completed.")
     return results

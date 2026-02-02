@@ -56,7 +56,7 @@ def load_competitor_items():
 
     sql = text("""
         SELECT 
-            id, Item_name, Item_description, Item_price, Item_currency
+            id, Item_name,Item_brand, Item_description,Item_Quantity, Item_price, Item_currency
         FROM dbo.competitor_item_details;
     """)
 
