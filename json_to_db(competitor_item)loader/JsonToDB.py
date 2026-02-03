@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # ---------------------------------------------------------
-# SQL CONNECTION USING pymssql (NO ODBC REQUIRED)
+# SQL CONNECTION
 # ---------------------------------------------------------
 server = os.getenv("AZURE_SQL_SERVER")
 database = os.getenv("AZURE_SQL_DATABASE")
@@ -17,106 +17,129 @@ connection_string = f"mssql+pymssql://{username}:{password}@{server}/{database}"
 engine = create_engine(connection_string)
 
 # ---------------------------------------------------------
-# INPUT JSON FILE
+# FOLDER CONTAINING MULTIPLE JSON FILES
 # ---------------------------------------------------------
-json_file = "output/Ryanair LLM_PRO.json"
+OUTPUT_FOLDER = "../llm_item_output" # Adjust the path as needed
 
-with open(json_file, "r", encoding="utf-8") as f:
-    items = json.load(f)
+json_files = [
+    f for f in os.listdir(OUTPUT_FOLDER)
+    if f.lower().endswith(".json")
+]
 
-print(f"Loaded {len(items)} items from JSON\n")
+if not json_files:
+    print("❌ No JSON files found in output folder.")
+    exit()
+
+print(f"📁 Found {len(json_files)} JSON files to process.\n")
 
 # ---------------------------------------------------------
-# KEY MAPPING: incoming JSON → DB schema
+# MAPPING FUNCTION
 # ---------------------------------------------------------
 def map_keys(raw):
     return {
-        "Competitor_Name": raw.get("competitor_name", ""),
-        "Catalog_effective_start_date": raw.get("catalog_start"),
-        "Catalog_effective_end_date": raw.get("catalog_end"),
-        "Item_name": raw.get("item_name"),
+        "competitor_name": raw.get("competitor_name"),
+        "item_name": raw.get("item_name"),
         "Item_description": raw.get("description"),
-        "Item_brand": raw.get("brand", ""),
-        "Item_Quantity": raw.get("quantity", ""),
-        "Item_parent_category": raw.get("parent_category", ""),
-        "Item_sales_category": raw.get("sales_category", ""),
-        "Item_price": raw.get("price"),
-        "Item_currency": raw.get("currency"),
-        "menu_page": str(raw.get("page", "")),
+        "brand": raw.get("brand"),
+        "quantity": raw.get("quantity"),
+        "parent_category": raw.get("parent_category"),
+        "sales_category": raw.get("sales_category"),
+        "price": raw.get("price"),
+        "currency": raw.get("currency"),
+        "catalog_name": raw.get("catalog_name"),
+        "catalog_start": raw.get("catalog_start"),
+        "catalog_end": raw.get("catalog_end"),
+        "page": raw.get("page"),
     }
 
 # ---------------------------------------------------------
-# SQL INSERT STATEMENT
+# SQL INSERT (DO NOT INCLUDE item_id or created_at)
 # ---------------------------------------------------------
 insert_sql = text("""
 INSERT INTO dbo.competitor_item_details (
-    Competitor_Name,
-    Catalog_effective_start_date,
-    Catalog_effective_end_date,
-    Item_name,
+    competitor_name,
+    item_name,
     Item_description,
-    Item_brand,
-    Item_Quantity,
-    Item_parent_category,
-    Item_sales_category,
-    Item_price,
-    Item_currency,
-    menu_page
+    brand,
+    quantity,
+    parent_category,
+    sales_category,
+    price,
+    currency,
+    catalog_name,
+    catalog_start,
+    catalog_end,
+    page
 )
 VALUES (
-    :Competitor_Name,
-    :Catalog_effective_start_date,
-    :Catalog_effective_end_date,
-    :Item_name,
+    :competitor_name,
+    :item_name,
     :Item_description,
-    :Item_brand,
-    :Item_Quantity,
-    :Item_parent_category,
-    :Item_sales_category,
-    :Item_price,
-    :Item_currency,
-    :menu_page
+    :brand,
+    :quantity,
+    :parent_category,
+    :sales_category,
+    :price,
+    :currency,
+    :catalog_name,
+    :catalog_start,
+    :catalog_end,
+    :page
 )
 """)
 
 # ---------------------------------------------------------
-# VALIDATION RULES
+# VALIDATION: Must have item name
 # ---------------------------------------------------------
 def is_invalid(mapped):
     return (
-        not mapped["Item_name"] or
-        mapped["Item_price"] in [None, "", "null"]
+        mapped["item_name"] is None or
+        mapped["item_name"].strip() == "" or
+        mapped["price"] is None
     )
 
 # ---------------------------------------------------------
-# PROCESS & INSERT
+# PROCESS ALL JSON FILES
 # ---------------------------------------------------------
-count_inserted = 0
-count_skipped = 0
-skipped_rows = []
+total_inserted = 0
+total_skipped = 0
 
-with engine.begin() as conn:
-    for raw in items:
-        mapped = map_keys(raw)
+for json_file in json_files:
+    file_path = os.path.join(OUTPUT_FOLDER, json_file)
+    print(f"\n📄 Processing file: {json_file}")
 
-        # Apply skip rules
-        if is_invalid(mapped):
-            count_skipped += 1
-            skipped_rows.append(raw)
-            continue
+    with open(file_path, "r", encoding="utf-8") as f:
+        items = json.load(f)
 
-        conn.execute(insert_sql, mapped)
-        count_inserted += 1
+    print(f"   → Loaded {len(items)} items")
+
+    count_inserted = 0
+    count_skipped = 0
+
+    with engine.begin() as conn:
+        for raw in items:
+            mapped = map_keys(raw)
+
+            if is_invalid(mapped):
+                count_skipped += 1
+                continue
+
+            conn.execute(insert_sql, mapped)
+            count_inserted += 1
+
+    print(f"   ✔ Inserted: {count_inserted}")
+    print(f"   ⚠ Skipped : {count_skipped}")
+
+    total_inserted += count_inserted
+    total_skipped += count_skipped
 
 # ---------------------------------------------------------
-# REPORT
+# FINAL REPORT
 # ---------------------------------------------------------
-print("-------------------------------------------------")
-print(f"Inserted rows : {count_inserted}")
-print(f"Skipped rows  : {count_skipped}")
-print("-------------------------------------------------")
-
-if count_skipped > 0:
-    print("\n❗ Showing first 3 skipped rows for debugging:\n")
-    for r in skipped_rows[:3]:
-        print(json.dumps(r, indent=2))
+print("\n===============================================")
+print("               FINAL IMPORT REPORT             ")
+print("===============================================")
+print(f"Total JSON files processed: {len(json_files)}")
+print(f"Total rows inserted:        {total_inserted}")
+print(f"Total rows skipped:         {total_skipped}")
+print("===============================================")
