@@ -1,0 +1,86 @@
+```json
+{
+  "detected_competitor_name": "Ryanair",
+  "detected_catalog_effective_start": "2023-10-01",
+  "detected_catalog_effective_end": "",
+  "items": [
+    {
+      "Item_name": "Moisture Surge 100H Auto-Replenishing Hydrator",
+      "Item_description": "Non-stop hydration for glowing skin on-the-go.",
+      "Item_brand": "Clinique",
+      "Item_Quantity": "75 ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Skincare & Make-up",
+      "Item_price": 49.90,
+      "Item_currency": "EUR",
+      "menu_page": "16"
+    },
+    {
+      "Item_name": "Moisture Surge Face Spray Thirsty Skin Relief",
+      "Item_description": "Quick spritz for an instant moisture boost.",
+      "Item_brand": "Clinique",
+      "Item_Quantity": "30 ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Skincare & Make-up",
+      "Item_price": 49.90,
+      "Item_currency": "EUR",
+      "menu_page": "16"
+    },
+    {
+      "Item_name": "All About Eyes Serum De-Puffing Eye Massager",
+      "Item_description": "Refreshes on contact and brightens over time.",
+      "Item_brand": "Clinique",
+      "Item_Quantity": "15 ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Skincare & Make-up",
+      "Item_price": 49.90,
+      "Item_currency": "EUR",
+      "menu_page": "16"
+    },
+    {
+      "Item_name": "Huile Prodigieuse Face, Body and Hair Dry Oil",
+      "Item_description": "Nourishes, repairs, and beautifies skin and hair.",
+      "Item_brand": "Nuxe",
+      "Item_Quantity": "100 ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Skincare & Make-up",
+      "Item_price": 31.50,
+      "Item_currency": "EUR",
+      "menu_page": "16"
+    },
+    {
+      "Item_name": "Egyptian Gold Retinol Serum",
+      "Item_description": "Targets wrinkles, blemishes, and signs of ageing.",
+      "Item_brand": "Grounded",
+      "Item_Quantity": "50 ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Skincare & Make-up",
+      "Item_price": 27.00,
+      "Item_currency": "EUR",
+      "menu_page": "16"
+    },
+    {
+      "Item_name": "Perfume Mist",
+      "Item_description": "Warm and delicious scent with pistachio and salted caramel.",
+      "Item_brand": "Sol de Janeiro",
+      "Item_Quantity": "90 ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Ladies Fragrance",
+      "Item_price": 20.50,
+      "Item_currency": "EUR",
+      "menu_page": "16"
+    },
+    {
+      "Item_name": "Brazilian Bum Bum Cream",
+      "Item_description": "Fast-absorbing body cream with a visibly tightening formula.",
+      "Item_brand": "Sol de Janeiro",
+      "Item_Quantity": "75 ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Skincare & Make-up",
+      "Item_price": 17.90,
+      "Item_currency": "EUR",
+      "menu_page": "16"
+    }
+  ]
+}
+```

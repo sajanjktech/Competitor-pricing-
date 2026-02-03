@@ -1,0 +1,97 @@
+```json
+{
+  "detected_competitor_name": "Ryanair",
+  "detected_catalog_effective_start": "2025-12-01",
+  "detected_catalog_effective_end": "2026-02-28",
+  "items": [
+    {
+      "Item_name": "L'ORÉAL COLOR RICHE",
+      "Item_description": "Nude Lipsticks Trio",
+      "Item_brand": "L'ORÉAL",
+      "Item_Quantity": "3",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Skincare & Make-up",
+      "Item_price": 29.00,
+      "Item_currency": "EUR",
+      "menu_page": "20"
+    },
+    {
+      "Item_name": "DSQUARED2 ICON FOR HER",
+      "Item_description": "Eau de Parfum 30ml",
+      "Item_brand": "DSQUARED2",
+      "Item_Quantity": "30ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Ladies Fragrance",
+      "Item_price": 40.00,
+      "Item_currency": "EUR",
+      "menu_page": "20"
+    },
+    {
+      "Item_name": "MORPHE 18R RUNWAY READY",
+      "Item_description": "Eyeshadow Palette",
+      "Item_brand": "MORPHE",
+      "Item_Quantity": null,
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Skincare & Make-up",
+      "Item_price": 29.00,
+      "Item_currency": "EUR",
+      "menu_page": "20"
+    },
+    {
+      "Item_name": "NUXE HUILE PRODIGIEUSE",
+      "Item_description": "Multi-purpose Oil 100ml",
+      "Item_brand": "NUXE",
+      "Item_Quantity": "100ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Skincare & Make-up",
+      "Item_price": 31.50,
+      "Item_currency": "EUR",
+      "menu_page": "20"
+    },
+    {
+      "Item_name": "DSQUARED2 ICON FOR HIM",
+      "Item_description": "Eau de Parfum 30ml",
+      "Item_brand": "DSQUARED2",
+      "Item_Quantity": "30ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Gents Fragrance",
+      "Item_price": 40.00,
+      "Item_currency": "EUR",
+      "menu_page": "20"
+    },
+    {
+      "Item_name": "YVES SAINT LAURENT Y",
+      "Item_description": "EDP Spray, 60ml",
+      "Item_brand": "YVES SAINT LAURENT",
+      "Item_Quantity": "60ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Gents Fragrance",
+      "Item_price": 77.00,
+      "Item_currency": "EUR",
+      "menu_page": "20"
+    },
+    {
+      "Item_name": "VERSACE EROS",
+      "Item_description": "EDT Spray, 50ml",
+      "Item_brand": "VERSACE",
+      "Item_Quantity": "50ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Gents Fragrance",
+      "Item_price": 60.00,
+      "Item_currency": "EUR",
+      "menu_page": "20"
+    },
+    {
+      "Item_name": "JEAN PAUL GAULTIER SCANDAL POUR HOMME",
+      "Item_description": "EDT Spray, 50ml",
+      "Item_brand": "JEAN PAUL GAULTIER",
+      "Item_Quantity": "50ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Gents Fragrance",
+      "Item_price": 70.50,
+      "Item_currency": "EUR",
+      "menu_page": "20"
+    }
+  ]
+}
+```

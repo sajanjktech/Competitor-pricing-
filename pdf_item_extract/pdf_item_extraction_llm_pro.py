@@ -1,10 +1,9 @@
 import os
-import fitz  # PyMuPDF
+import fitz
 import base64
 import json
 import time
 import logging
-import threading
 import concurrent.futures
 from dotenv import load_dotenv
 from openai import AzureOpenAI
@@ -14,7 +13,7 @@ from openai import AzureOpenAI
 # ======================================================
 load_dotenv()
 
-INPUT_DIR = "input_files"
+INPUT_DIR = os.path.join(os.path.dirname(__file__), "../input_files")
 OUTPUT_DIR = "output"
 LOG_DIR = "logs"
 
@@ -34,17 +33,7 @@ client = AzureOpenAI(
 )
 
 AZURE_DEPLOYMENT = os.getenv("AZURE_OPENAI_DEPLOYMENT")
-THREAD_COUNT = 6
-
-
-# ======================================================
-# GLOBAL METADATA (will autofill missing items)
-# ======================================================
-GLOBAL_DATA = {
-    "competitor_name": "",
-    "catalog_start": "",
-    "catalog_end": ""
-}
+THREAD_COUNT = 5
 
 # ======================================================
 # SYSTEM PROMPT
@@ -58,106 +47,62 @@ SYSTEM_PROMPT_TEMPLATE = load_system_prompt()
 def build_prompt(page_text, page_num):
     return SYSTEM_PROMPT_TEMPLATE.format(
         page_text=page_text or "",
-        page_num=page_num,
-        competitor_name=GLOBAL_DATA["competitor_name"],
-        catalog_effective_start=GLOBAL_DATA["catalog_start"],
-        catalog_effective_end=GLOBAL_DATA["catalog_end"],
+        page_num=page_num
     )
 
 # ======================================================
-# FIELD NORMALIZATION + METADATA AUTO-INJECTION
+# DATE NORMALIZATION
 # ======================================================
-FIELD_MAP = {
-    "Competitor_Name": "competitor_name",
-    "Catalog_effective_start_date": "catalog_start",
-    "Catalog_effective_end_date": "catalog_end",
-
-    "Item_name": "item_name",
-    "Item_description": "description",
-    "Item_brand": "brand",
-    "Item_Quantity": "quantity",
-    "Item_parent_category": "parent_category",
-    "Item_sales_category": "sales_category",
-    "Item_price": "price",
-    "Item_currency": "currency",
-    "menu_page": "page",
+SEASON_MAP = {
+    "WINTER": ("12-01", "02-28"),
+    "SPRING": ("03-01", "05-31"),
+    "SUMMER": ("06-01", "08-31"),
+    "AUTUMN": ("09-01", "11-30"),
+    "FALL": ("09-01", "11-30"),
 }
 
-def normalize_item(raw_item):
-    normalized = {}
+def convert_seasonal(date_str):
+    if not date_str or str(date_str).strip() == "":
+        return None, None
 
-    for key, val in raw_item.items():
-        final_key = FIELD_MAP.get(key, key.lower().strip())
-        normalized[final_key] = clean_value(val)
+    original = date_str.strip()
+    upper = original.upper().replace("’", "'")
 
-    # ⭐ FIX 1 — Auto-fill missing metadata from GLOBAL_DATA
-    if not normalized.get("competitor_name"):
-        normalized["competitor_name"] = GLOBAL_DATA["competitor_name"]
+    for season, (start_suffix, end_suffix) in SEASON_MAP.items():
+        if season in upper:
+            year = "".join(filter(str.isdigit, upper))
+            if len(year) == 2:
+                year = "20" + year
+            if len(year) == 0:
+                return None, None
+            return f"{year}-{start_suffix}", f"{year}-{end_suffix}"
 
-    if not normalized.get("catalog_start"):
-        normalized["catalog_start"] = GLOBAL_DATA["catalog_start"]
-
-    if not normalized.get("catalog_end"):
-        normalized["catalog_end"] = GLOBAL_DATA["catalog_end"]
-
-    return normalized
-
-def clean_value(val):
-    if val is None:
-        return None
-    if isinstance(val, str):
-        return val.replace("’", "'").replace("‘", "'").strip()
-    return val
-
-def normalize_price(item):
-    if not item.get("price"):
-        return item
-
-    price_str = str(item["price"]).replace(",", "").replace("£", "").strip()
-
-    try:
-        item["price"] = float(price_str)
-        item["currency"] = item.get("currency", "GBP")
-    except:
-        pass
-
-    return item
-
+    return original, original
 
 # ======================================================
-# JSON HANDLING
+# JSON PARSER
 # ======================================================
-def safe_json_parse(raw):
+def safe_parse(raw):
     if not raw:
-        return {"items": []}
-
-    cleaned = raw.replace("```json", "").replace("```", "").strip()
+        return {}
 
     try:
-        return json.loads(cleaned)
+        start = raw.find("{")
+        end = raw.rfind("}") + 1
+        return json.loads(raw[start:end])
     except:
-        return {"items": []}
-
-def update_globals(parsed):
-    if parsed.get("detected_competitor_name") and not GLOBAL_DATA["competitor_name"]:
-        GLOBAL_DATA["competitor_name"] = parsed["detected_competitor_name"]
-
-    if parsed.get("detected_catalog_effective_start") and not GLOBAL_DATA["catalog_start"]:
-        GLOBAL_DATA["catalog_start"] = parsed["detected_catalog_effective_start"]
-
-    if parsed.get("detected_catalog_effective_end") and not GLOBAL_DATA["catalog_end"]:
-        GLOBAL_DATA["catalog_end"] = parsed["detected_catalog_effective_end"]
+        return {}
 
 # ======================================================
-# RETRY LLM CALL
+# LLM CALL
 # ======================================================
-def call_azure_with_retry(data_url, prompt, retries=4, delay=1):
+def call_azure_with_retry(data_url, prompt, retries=5):
     for attempt in range(1, retries + 1):
         try:
-            response = client.chat.completions.create(
+            r = client.chat.completions.create(
                 model=AZURE_DEPLOYMENT,
                 temperature=0,
-                max_tokens=7000,
+                max_tokens=6000,
                 messages=[
                     {"role": "system", "content": prompt},
                     {"role": "user", "content": [
@@ -165,19 +110,19 @@ def call_azure_with_retry(data_url, prompt, retries=4, delay=1):
                     ]}
                 ]
             )
-            return response.choices[0].message.content
+            return r.choices[0].message.content
 
         except Exception as e:
-            logging.warning(f"Retry {attempt}: {e}")
-            time.sleep(delay * attempt)
+            logging.warning(f"[Retry {attempt}] {e}")
+            time.sleep(attempt * 1.5)
 
     return ""
 
 # ======================================================
 # PROCESS ONE PAGE
 # ======================================================
-def process_single_page(doc_path, idx):
-    doc = fitz.open(doc_path)
+def process_single_page(pdf_path, idx, catalog_name):
+    doc = fitz.open(pdf_path)
     page = doc[idx]
     page_num = idx + 1
 
@@ -186,78 +131,129 @@ def process_single_page(doc_path, idx):
 
     pix = page.get_pixmap(dpi=200)
     png_bytes = pix.tobytes("png")
-    b64 = base64.b64encode(png_bytes).decode()
-    data_url = f"data:image/png;base64,{b64}"
+    data_url = "data:image/png;base64," + base64.b64encode(png_bytes).decode()
 
-    print(f"➡️ Page {page_num}: Extracting…")
+    total = fitz.open(pdf_path).page_count if hasattr(fitz.open(pdf_path), "page_count") else "?"
+    print(f"➡️ Page {page_num}: Sending to LLM…")
 
     raw = call_azure_with_retry(data_url, prompt)
 
-    # Log raw LLM output
     with open(os.path.join(LOG_DIR, f"page_{page_num}_raw.txt"), "w", encoding="utf-8") as f:
         f.write(raw or "")
 
-    parsed = safe_json_parse(raw)
-    update_globals(parsed)
+    parsed = safe_parse(raw)
 
-    final_items = []
+    # Extract metadata from this page
+    comp = parsed.get("detected_competitor_name")
+    start = parsed.get("detected_catalog_effective_start")
+    end = parsed.get("detected_catalog_effective_end")
 
-    # Normalize all items
+    # seasonal conversion
+    start, _ = convert_seasonal(start)
+    _, end = convert_seasonal(end)
+
+    items_out = []
+
     for item in parsed.get("items", []):
-        norm = normalize_item(item)
-        norm = normalize_price(norm)
-        norm["page"] = page_num
-        final_items.append(norm)
+        out = {
+            "catalog_name": catalog_name,
+            "competitor_name": comp,
+            "catalog_start": start,
+            "catalog_end": end,
 
-    return final_items
+            "item_name": item.get("Item_name"),
+            "description": item.get("Item_description"),
+            "brand": item.get("Item_brand"),
+            "quantity": item.get("Item_Quantity"),
 
+            "parent_category": item.get("Item_parent_category"),
+            "sales_category": item.get("Item_sales_category"),
 
-# ======================================================
-# PROCESS FULL PDF
-# ======================================================
-def process_pdf(pdf_path):
-    global GLOBAL_DATA
-    GLOBAL_DATA = {"competitor_name": "", "catalog_start": "", "catalog_end": ""}
-
-    print(f"\n📄 Processing {pdf_path}")
-    logging.info(f"Processing {pdf_path}")
-
-    doc = fitz.open(pdf_path)
-    total_pages = len(doc)
-    all_items = []
-
-    with concurrent.futures.ThreadPoolExecutor(max_workers=THREAD_COUNT) as executor:
-        futures = {
-            executor.submit(process_single_page, pdf_path, i): i
-            for i in range(total_pages)
+            "price": item.get("Item_price"),
+            "currency": item.get("Item_currency"),
+            "page": page_num
         }
 
-        for future in concurrent.futures.as_completed(futures):
-            items = future.result()
-            all_items.extend(items)
+        # normalize nulls
+        for k, v in out.items():
+            if v in ["", "none", "null", None]:
+                out[k] = None
 
-    # ⭐ FIX 3 — Sort items page-wise
-    all_items = sorted(all_items, key=lambda x: x.get("page", 0))
+        # numeric price
+        if out["price"] is not None:
+            try:
+                out["price"] = float(out["price"])
+            except:
+                out["price"] = None
 
-    out_path = os.path.join(
-        OUTPUT_DIR,
-        os.path.basename(pdf_path).replace(".pdf", "_items.json")
-    )
+        items_out.append(out)
 
+    print(f"✔ Page {page_num} done ({len(items_out)} items)")
+    return {
+        "page_num": page_num,
+        "competitor": comp,
+        "start": start,
+        "end": end,
+        "items": items_out
+    }
+
+# ======================================================
+# FINAL PDF PROCESSOR
+# ======================================================
+def process_pdf(pdf_path):
+    print(f"\n📄 Processing PDF: {pdf_path}")
+    filename = os.path.basename(pdf_path)
+    catalog_name = filename.replace(".pdf", "")
+
+    doc = fitz.open(pdf_path)
+    pages = len(doc)
+
+    page_results = []
+
+    with concurrent.futures.ThreadPoolExecutor(max_workers=THREAD_COUNT) as exe:
+        futures = [
+            exe.submit(process_single_page, pdf_path, i, catalog_name)
+            for i in range(pages)
+        ]
+        for f in concurrent.futures.as_completed(futures):
+            page_results.append(f.result())
+
+    # consolidate metadata
+    competitor = next((r["competitor"] for r in page_results if r["competitor"]), None)
+    catalog_start = next((r["start"] for r in page_results if r["start"]), None)
+    catalog_end = next((r["end"] for r in page_results if r["end"]), None)
+
+    print("\n🔍 Consolidating metadata across pages...")
+    print(f"✔ Competitor found: {competitor}")
+    print(f"✔ Catalog Start: {catalog_start}")
+    print(f"✔ Catalog End: {catalog_end}")
+
+
+    # inject final metadata into every item
+    final_items = []
+    for r in page_results:
+        for item in r["items"]:
+            item["competitor_name"] = competitor
+            item["catalog_start"] = catalog_start
+            item["catalog_end"] = catalog_end
+            final_items.append(item)
+
+    # sort correctly
+    final_items = sorted(final_items, key=lambda x: x["page"])
+
+    out_path = os.path.join(OUTPUT_DIR, f"{catalog_name}_items.json")
     with open(out_path, "w", encoding="utf-8") as f:
-        json.dump(all_items, f, indent=2, ensure_ascii=False)
+        json.dump(final_items, f, indent=2, ensure_ascii=False)
 
     print(f"✅ Saved → {out_path}")
-    logging.info(f"Saved → {out_path}")
-
 
 # ======================================================
 # MAIN
 # ======================================================
 def process_all_pdfs():
-    for file in os.listdir(INPUT_DIR):
-        if file.lower().endswith(".pdf"):
-            process_pdf(os.path.join(INPUT_DIR, file))
+    for f in os.listdir(INPUT_DIR):
+        if f.lower().endswith(".pdf"):
+            process_pdf(os.path.join(INPUT_DIR, f))
 
 if __name__ == "__main__":
     process_all_pdfs()

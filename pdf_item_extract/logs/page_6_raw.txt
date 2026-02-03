@@ -1,0 +1,108 @@
+```json
+{
+  "detected_competitor_name": "Ryanair",
+  "detected_catalog_effective_start": "2025-10-01",
+  "detected_catalog_effective_end": "",
+  "items": [
+    {
+      "Item_name": "Absolut Vodka",
+      "Item_description": null,
+      "Item_brand": "Absolut",
+      "Item_Quantity": "1 Litre",
+      "Item_parent_category": "Duty Free",
+      "Item_sales_category": "DF Spirits",
+      "Item_price": 18.00,
+      "Item_currency": "EUR",
+      "menu_page": "11"
+    },
+    {
+      "Item_name": "Bombay Sapphire Gin",
+      "Item_description": null,
+      "Item_brand": "Bombay Sapphire",
+      "Item_Quantity": "1 Litre",
+      "Item_parent_category": "Duty Free",
+      "Item_sales_category": "DF Spirits",
+      "Item_price": 24.00,
+      "Item_currency": "EUR",
+      "menu_page": "11"
+    },
+    {
+      "Item_name": "Jameson Irish Whiskey",
+      "Item_description": null,
+      "Item_brand": "Jameson",
+      "Item_Quantity": "1 Litre",
+      "Item_parent_category": "Duty Free",
+      "Item_sales_category": "DF Spirits",
+      "Item_price": 24.00,
+      "Item_currency": "EUR",
+      "menu_page": "11"
+    },
+    {
+      "Item_name": "Benson & Hedges 200s",
+      "Item_description": null,
+      "Item_brand": "Benson & Hedges",
+      "Item_Quantity": "200",
+      "Item_parent_category": "Duty Free",
+      "Item_sales_category": "Tobacco",
+      "Item_price": 60.00,
+      "Item_currency": "EUR",
+      "menu_page": "11"
+    },
+    {
+      "Item_name": "Lambert & Butler Original Silver 200s",
+      "Item_description": null,
+      "Item_brand": "Lambert & Butler",
+      "Item_Quantity": "200",
+      "Item_parent_category": "Duty Free",
+      "Item_sales_category": "Tobacco",
+      "Item_price": 62.50,
+      "Item_currency": "EUR",
+      "menu_page": "11"
+    },
+    {
+      "Item_name": "Marlboro Gold 200s",
+      "Item_description": null,
+      "Item_brand": "Marlboro",
+      "Item_Quantity": "200",
+      "Item_parent_category": "Duty Free",
+      "Item_sales_category": "Tobacco",
+      "Item_price": 55.00,
+      "Item_currency": "EUR",
+      "menu_page": "11"
+    },
+    {
+      "Item_name": "Marlboro Red 200s",
+      "Item_description": null,
+      "Item_brand": "Marlboro",
+      "Item_Quantity": "200",
+      "Item_parent_category": "Duty Free",
+      "Item_sales_category": "Tobacco",
+      "Item_price": 55.00,
+      "Item_currency": "EUR",
+      "menu_page": "11"
+    },
+    {
+      "Item_name": "Amber Leaf 250g",
+      "Item_description": null,
+      "Item_brand": "Amber Leaf",
+      "Item_Quantity": "250g",
+      "Item_parent_category": "Duty Free",
+      "Item_sales_category": "Tobacco",
+      "Item_price": 65.00,
+      "Item_currency": "EUR",
+      "menu_page": "11"
+    },
+    {
+      "Item_name": "Golden Virginia 250g",
+      "Item_description": null,
+      "Item_brand": "Golden Virginia",
+      "Item_Quantity": "250g",
+      "Item_parent_category": "Duty Free",
+      "Item_sales_category": "Tobacco",
+      "Item_price": 57.50,
+      "Item_currency": "EUR",
+      "menu_page": "11"
+    }
+  ]
+}
+```

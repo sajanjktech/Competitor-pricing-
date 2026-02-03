@@ -1,0 +1,42 @@
+```json
+{
+  "detected_competitor_name": "Ryanair",
+  "detected_catalog_effective_start": "2023-10-01",
+  "detected_catalog_effective_end": "",
+  "items": [
+    {
+      "Item_name": "DSQUARED2 ICON FOR HIM",
+      "Item_description": "EDP Spray, 30ml",
+      "Item_brand": "DSQUARED2",
+      "Item_Quantity": "30ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Gents Fragrance",
+      "Item_price": 40.00,
+      "Item_currency": "EUR",
+      "menu_page": "17"
+    },
+    {
+      "Item_name": "JEAN PAUL GAULTIER SCANDAL POUR HOMME",
+      "Item_description": "EDT Spray, 50ml",
+      "Item_brand": "JEAN PAUL GAULTIER",
+      "Item_Quantity": "50ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Gents Fragrance",
+      "Item_price": 70.50,
+      "Item_currency": "EUR",
+      "menu_page": "17"
+    },
+    {
+      "Item_name": "VERSACE EROS",
+      "Item_description": "EDT Spray, 50ml",
+      "Item_brand": "VERSACE",
+      "Item_Quantity": "50ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Gents Fragrance",
+      "Item_price": 60.00,
+      "Item_currency": "EUR",
+      "menu_page": "17"
+    }
+  ]
+}
+```
