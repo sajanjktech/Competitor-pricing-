@@ -1,0 +1,922 @@
+[
+  {
+    "gate_item": {
+      "id": 251,
+      "name": "Ham & Cheese Panini",
+      "desc": "Ham & Cheese Panini UK",
+      "price_range_gbp": [
+        5.0,
+        5.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 415,
+        "competitor_item_name": "Hot Ham & Cheese Panini",
+        "brand": "",
+        "quantity": "",
+        "competitor_description": "Warm ciabatta bread with melted cheddar cheese and cooked ham",
+        "competitor_price": 6.75,
+        "competitor_currency": "EUR",
+        "similarity_name": 0.9056,
+        "similarity_desc": 0.5501,
+        "similarity_final": 0.8345
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 309,
+      "name": "Hugo Boss Dark Blue EdT 75ml",
+      "desc": "Top notes are Ginger, Grapefruit, Orange, Lime and Lemon, middle notes are Cypress, Mahogany, Cardamom, Geranium and Sage, base notes are Vanilla, Cedar, Benzoin, Vetiver and Patchouli. Launched in 1999.",
+      "price_range_gbp": [
+        20.8,
+        26.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 309,
+        "competitor_item_name": "HUGO BOSS Dark Blue",
+        "brand": "HUGO BOSS",
+        "quantity": "75ml",
+        "competitor_description": "EDT spray",
+        "competitor_price": 30.0,
+        "competitor_currency": "EUR",
+        "similarity_name": 0.9184,
+        "similarity_desc": 0.1178,
+        "similarity_final": 0.7582
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 312,
+      "name": "Calvin Klein CK Free EdT 50 ml",
+      "desc": "Top notes are Juniper Berries, Star Anise, Wormwood and Jackfruit; Middle notes are Suede, Tobacco, Coffee and Buchu or Agathosma; Base notes are Virginia Cedar, Oak, Patchouli and Woody Notes; Launched in 2009",
+      "price_range_gbp": [
+        14.0,
+        20.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 300,
+        "competitor_item_name": "CALVIN KLEIN ck free",
+        "brand": "CALVIN KLEIN",
+        "quantity": "50ml",
+        "competitor_description": "EDT spray",
+        "competitor_price": 20.0,
+        "competitor_currency": "EUR",
+        "similarity_name": 0.8751,
+        "similarity_desc": 0.0647,
+        "similarity_final": 0.713
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 313,
+      "name": "Versace Eros EdT 50ml",
+      "desc": "Top notes are Mint, Green Apple and Lemon, Middle notes are Tonka Bean, Ambroxan and Geranium,Base notes are Madagascar Vanilla, Virginian Cedar, Atlas Cedar, Vetiver and Oakmoss,Launched in 2012",
+      "price_range_gbp": [
+        33.6,
+        60.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 329,
+        "competitor_item_name": "EROS",
+        "brand": "VERSACE",
+        "quantity": "50ml",
+        "competitor_description": "EDT Spray, 50ml",
+        "competitor_price": 60.0,
+        "competitor_currency": "EUR",
+        "similarity_name": 0.9281,
+        "similarity_desc": 0.0395,
+        "similarity_final": 0.7504
+      },
+      {
+        "competitor_item_id": 318,
+        "competitor_item_name": "VERSACE EROS",
+        "brand": "VERSACE",
+        "quantity": "50ml",
+        "competitor_description": "EDT Spray, 50ml",
+        "competitor_price": 60.0,
+        "competitor_currency": "EUR",
+        "similarity_name": 0.8911,
+        "similarity_desc": 0.0395,
+        "similarity_final": 0.7208
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 316,
+      "name": "Davidoff The Game EdT 100ml",
+      "desc": "Top Notes: Gin fizz, Juniper berry; Middle Notes: Precious woods, Iris; Base Notes: Ebony; Launched in 2012",
+      "price_range_gbp": [
+        21.0,
+        30.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 307,
+        "competitor_item_name": "DAVIDOFF The Game",
+        "brand": "DAVIDOFF",
+        "quantity": "100ml",
+        "competitor_description": "EDT spray",
+        "competitor_price": 30.0,
+        "competitor_currency": "EUR",
+        "similarity_name": 0.8814,
+        "similarity_desc": 0.13,
+        "similarity_final": 0.7311
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 325,
+      "name": "Calvin Klein CK Free EdT 50ml",
+      "desc": "Top notes are Juniper Berries, Star Anise, Wormwood and Jackfruit; Middle notes are Suede, Tobacco, Coffee and Buchu or Agathosma; Base notes are Virginia Cedar, Oak, Patchouli and Woody Notes; Launched in 2009",
+      "price_range_gbp": [
+        15.92,
+        20.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 300,
+        "competitor_item_name": "CALVIN KLEIN ck free",
+        "brand": "CALVIN KLEIN",
+        "quantity": "50ml",
+        "competitor_description": "EDT spray",
+        "competitor_price": 20.0,
+        "competitor_currency": "EUR",
+        "similarity_name": 0.9104,
+        "similarity_desc": 0.0647,
+        "similarity_final": 0.7413
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 326,
+      "name": "Versace Eros 50ml EdT",
+      "desc": "Top notes are Mint, Green Apple and Lemon; Middle notes are Tonka Bean, Ambroxan and Geranium; Base notes are Madagascar Vanilla, Virginian Cedar, Atlas Cedar, Vetiver and Oakmoss; Launched in 2012",
+      "price_range_gbp": [
+        35.0,
+        57.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 329,
+        "competitor_item_name": "EROS",
+        "brand": "VERSACE",
+        "quantity": "50ml",
+        "competitor_description": "EDT Spray, 50ml",
+        "competitor_price": 60.0,
+        "competitor_currency": "EUR",
+        "similarity_name": 0.9032,
+        "similarity_desc": 0.0362,
+        "similarity_final": 0.7298
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 340,
+      "name": "Hugo Boss Dark Blue EdT 75mlUK",
+      "desc": "Top notes are Ginger, Grapefruit, Orange, Lime and Lemon, middle notes are Cypress, Mahogany, Cardamom, Geranium and Sage, base notes are Vanilla, Cedar, Benzoin, Vetiver and Patchouli. Launched in 1999.",
+      "price_range_gbp": [
+        23.92,
+        30.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 309,
+        "competitor_item_name": "HUGO BOSS Dark Blue",
+        "brand": "HUGO BOSS",
+        "quantity": "75ml",
+        "competitor_description": "EDT spray",
+        "competitor_price": 30.0,
+        "competitor_currency": "EUR",
+        "similarity_name": 0.884,
+        "similarity_desc": 0.1178,
+        "similarity_final": 0.7307
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 348,
+      "name": "Dsquared 2 Wood EdT 50ml",
+      "desc": "Unisex fragrance. Top notes are Lemon, Citron and Pink Pepper. Middle notes are Cedar, Haitian Vetiver, Cypress and Silver Fir. Base notes are Musk and Amber. Launched in 2021.",
+      "price_range_gbp": [
+        14.0,
+        17.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 303,
+        "competitor_item_name": "DSQUARED2 Green Wood",
+        "brand": "DSQUARED2",
+        "quantity": "50ml",
+        "competitor_description": "EDT spray",
+        "competitor_price": 20.0,
+        "competitor_currency": "EUR",
+        "similarity_name": 0.8627,
+        "similarity_desc": 0.228,
+        "similarity_final": 0.7358
+      },
+      {
+        "competitor_item_id": 304,
+        "competitor_item_name": "DSQUARED2 Red Wood",
+        "brand": "DSQUARED2",
+        "quantity": "50ml",
+        "competitor_description": "EDT spray",
+        "competitor_price": 20.0,
+        "competitor_currency": "EUR",
+        "similarity_name": 0.8587,
+        "similarity_desc": 0.228,
+        "similarity_final": 0.7325
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 349,
+      "name": "Dsquared 2 Wood 50ml EdT",
+      "desc": "Unisex fragrance. Top notes are Lemon, Citron and Pink Pepper. Middle notes are Cedar, Haitian Vetiver, Cypress and Silver Fir. Base notes are Musk and Amber. Launched in 2021.",
+      "price_range_gbp": [
+        15.92,
+        20.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 303,
+        "competitor_item_name": "DSQUARED2 Green Wood",
+        "brand": "DSQUARED2",
+        "quantity": "50ml",
+        "competitor_description": "EDT spray",
+        "competitor_price": 20.0,
+        "competitor_currency": "EUR",
+        "similarity_name": 0.8362,
+        "similarity_desc": 0.228,
+        "similarity_final": 0.7145
+      },
+      {
+        "competitor_item_id": 304,
+        "competitor_item_name": "DSQUARED2 Red Wood",
+        "brand": "DSQUARED2",
+        "quantity": "50ml",
+        "competitor_description": "EDT spray",
+        "competitor_price": 20.0,
+        "competitor_currency": "EUR",
+        "similarity_name": 0.8308,
+        "similarity_desc": 0.228,
+        "similarity_final": 0.7103
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 356,
+      "name": "Banderas Essence of Success",
+      "desc": "Top notes: Bergamot, Green Apple. Middle notes: Sage, Lavender, Geranium. Base notes: Patchouli, Amber. Launched in 2025.",
+      "price_range_gbp": [
+        12.1,
+        17.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 299,
+        "competitor_item_name": "BANDERAS Essence Of Success",
+        "brand": "BANDERAS",
+        "quantity": "100ml",
+        "competitor_description": "EDT spray",
+        "competitor_price": 20.0,
+        "competitor_currency": "EUR",
+        "similarity_name": 0.8408,
+        "similarity_desc": 0.2217,
+        "similarity_final": 0.717
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 358,
+      "name": "Banderas Essence of Success.",
+      "desc": "Top notes: Bergamot, Green Apple. Middle notes: Sage, Lavender, Geranium. Base notes: Patchouli, Amber. Launched in 2025.",
+      "price_range_gbp": [
+        13.9,
+        19.9
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 299,
+        "competitor_item_name": "BANDERAS Essence Of Success",
+        "brand": "BANDERAS",
+        "quantity": "100ml",
+        "competitor_description": "EDT spray",
+        "competitor_price": 20.0,
+        "competitor_currency": "EUR",
+        "similarity_name": 0.8239,
+        "similarity_desc": 0.2217,
+        "similarity_final": 0.7034
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 374,
+      "name": "Black Tea",
+      "desc": "Tea time? Try the delicious tea selection with full flavor. Birchall English Breakfast Tea is a unique, masterful blend, closely guarded by the fifth generation of Birchall Grahams family. Our teas are sourced entirely from estates across East Africa, from Rwanda through to the Rift Valley in Kenya, where the very best teas are to be found.",
+      "price_range_gbp": [
+        2.5,
+        3.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 407,
+        "competitor_item_name": "Tea",
+        "brand": "",
+        "quantity": "",
+        "competitor_description": "Light and refreshing black tea",
+        "competitor_price": 3.75,
+        "competitor_currency": "EUR",
+        "similarity_name": 0.8224,
+        "similarity_desc": 0.4555,
+        "similarity_final": 0.749
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 375,
+      "name": "Green Tea",
+      "desc": "Tea time? Here is the exotic & enchanting green tea, rich in anti-oxidants.",
+      "price_range_gbp": [
+        2.5,
+        3.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 407,
+        "competitor_item_name": "Tea",
+        "brand": "",
+        "quantity": "",
+        "competitor_description": "Light and refreshing black tea",
+        "competitor_price": 3.75,
+        "competitor_currency": "EUR",
+        "similarity_name": 0.8096,
+        "similarity_desc": 0.5822,
+        "similarity_final": 0.7641
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 376,
+      "name": "Berries Tea",
+      "desc": "Tea time? Try this fruity, refreshing, rich in anti-oxidants and naturally caffeine free tea.",
+      "price_range_gbp": [
+        2.5,
+        3.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 407,
+        "competitor_item_name": "Tea",
+        "brand": "",
+        "quantity": "",
+        "competitor_description": "Light and refreshing black tea",
+        "competitor_price": 3.75,
+        "competitor_currency": "EUR",
+        "similarity_name": 0.7829,
+        "similarity_desc": 0.6436,
+        "similarity_final": 0.755
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 379,
+      "name": "Starbucks Cappuccino",
+      "desc": "Starbucks Cappucino? Get your favourite on board, 100% Arabica beans blended together with dairy milk and topped with a thick layer of foam .",
+      "price_range_gbp": [
+        3.5,
+        4.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 410,
+        "competitor_item_name": "Cappuccino",
+        "brand": "",
+        "quantity": "",
+        "competitor_description": "Delicious espresso with frothy milk",
+        "competitor_price": 4.25,
+        "competitor_currency": "EUR",
+        "similarity_name": 0.8732,
+        "similarity_desc": 0.5413,
+        "similarity_final": 0.8068
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 383,
+      "name": "Hot Chocolate",
+      "desc": "The perfect blend of rich and velvety hot chocolate - make every sip an experience to remember!",
+      "price_range_gbp": [
+        2.6,
+        3.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 411,
+        "competitor_item_name": "Hot Chocolate",
+        "brand": "",
+        "quantity": "",
+        "competitor_description": "Rich and creamy",
+        "competitor_price": 4.25,
+        "competitor_currency": "EUR",
+        "similarity_name": 1.0,
+        "similarity_desc": 0.3998,
+        "similarity_final": 0.88
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 403,
+      "name": "Segafredo Cappuccino",
+      "desc": "Rich coffee & creamy milk.",
+      "price_range_gbp": [
+        3.5,
+        4.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 410,
+        "competitor_item_name": "Cappuccino",
+        "brand": "",
+        "quantity": "",
+        "competitor_description": "Delicious espresso with frothy milk",
+        "competitor_price": 4.25,
+        "competitor_currency": "EUR",
+        "similarity_name": 0.7696,
+        "similarity_desc": 0.6473,
+        "similarity_final": 0.7451
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 429,
+      "name": "Elizabeth Arden 5th Avenue EdP",
+      "desc": "Fragrance classification: floral woody musky. Top notes are Petitgrain Sicily, Pink Peppercorn and Sparkling Prosecco Accord. Intricate, elegant and refined. Launched in 2017",
+      "price_range_gbp": [
+        17.5,
+        17.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 301,
+        "competitor_item_name": "ELIZABETH ARDEN 5th Avenue NYC Uptown",
+        "brand": "ELIZABETH ARDEN",
+        "quantity": "75ml",
+        "competitor_description": "EDP spray",
+        "competitor_price": 20.0,
+        "competitor_currency": "EUR",
+        "similarity_name": 0.8685,
+        "similarity_desc": 0.1285,
+        "similarity_final": 0.7205
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 443,
+      "name": "Versace Woman EdP 100ml",
+      "desc": "Top notes: Rose, Jasmine Leaf and Bergamot; Middle notes: Raspberry, Plum, Lotus and Cedar ; Base notes: Musk and Amber; Launched in 2000",
+      "price_range_gbp": [
+        25.2,
+        36.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 311,
+        "competitor_item_name": "VERSACE Woman",
+        "brand": "VERSACE",
+        "quantity": "50ml",
+        "competitor_description": "EDP spray",
+        "competitor_price": 30.0,
+        "competitor_currency": "EUR",
+        "similarity_name": 0.8629,
+        "similarity_desc": 0.1342,
+        "similarity_final": 0.7172
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 448,
+      "name": "Michael Kors Sexy Amber EdP",
+      "desc": "Top notes is Amber; Middle notes is Sandalwood; Base notes in Jasmine; Launched in 2013",
+      "price_range_gbp": [
+        28.72,
+        36.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 334,
+        "competitor_item_name": "MICHAEL KORS SEXY AMBER",
+        "brand": "MICHAEL KORS",
+        "quantity": "100ml",
+        "competitor_description": "EDP Spray",
+        "competitor_price": 40.0,
+        "competitor_currency": "EUR",
+        "similarity_name": 0.8993,
+        "similarity_desc": 0.0285,
+        "similarity_final": 0.7252
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 460,
+      "name": "Lancome Tresor EdP 30ml",
+      "desc": "Top notes are Peach, Rose, Apricot Blossom, Lilac, Pineapple, Lily-of-the-Valley and Bergamot, middle notes are Rose, Iris, Heliotrope and Jasmine, base notes are Peach, Apricot, Vanilla, Sandalwood, Amber and Musk, Launched in 1990.",
+      "price_range_gbp": [
+        22.0,
+        34.7
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 336,
+        "competitor_item_name": "LANCÔME TRÉSOR",
+        "brand": "LANCÔME",
+        "quantity": "30ml",
+        "competitor_description": "EDP Spray",
+        "competitor_price": 40.0,
+        "competitor_currency": "EUR",
+        "similarity_name": 0.8978,
+        "similarity_desc": 0.0747,
+        "similarity_final": 0.7332
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 467,
+      "name": "Lancome Tresor 30ml EdP",
+      "desc": "Top notes are Peach, Rose, Apricot Blossom, Lilac, Pineapple, Lily-of-the-Valley and Bergamot, middle notes are Rose, Iris, Heliotrope and Jasmine, base notes are Peach, Apricot, Vanilla, Sandalwood, Amber and Musk, Launched in 1990.",
+      "price_range_gbp": [
+        23.12,
+        35.9
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 336,
+        "competitor_item_name": "LANCÔME TRÉSOR",
+        "brand": "LANCÔME",
+        "quantity": "30ml",
+        "competitor_description": "EDP Spray",
+        "competitor_price": 40.0,
+        "competitor_currency": "EUR",
+        "similarity_name": 0.8809,
+        "similarity_desc": 0.0747,
+        "similarity_final": 0.7197
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 473,
+      "name": "Banderas Her Golden Secret EdT",
+      "desc": "Banderas Her Golden Secret EdT 80ml",
+      "price_range_gbp": [
+        12.1,
+        17.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 306,
+        "competitor_item_name": "BANDERAS The Golden Secret",
+        "brand": "BANDERAS",
+        "quantity": "100ml",
+        "competitor_description": "EDT spray",
+        "competitor_price": 20.0,
+        "competitor_currency": "EUR",
+        "similarity_name": 0.7858,
+        "similarity_desc": 0.3714,
+        "similarity_final": 0.7029
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 475,
+      "name": "Marc Jacobs Daisy Wild EdP 30m",
+      "desc": "Marc Jacobs Daisy Wild EdP 30ml",
+      "price_range_gbp": [
+        33.4,
+        47.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 335,
+        "competitor_item_name": "MARC JACOBS DAISY WILD",
+        "brand": "MARC JACOBS",
+        "quantity": "30ml",
+        "competitor_description": "EDP Spray",
+        "competitor_price": 59.5,
+        "competitor_currency": "EUR",
+        "similarity_name": 0.8168,
+        "similarity_desc": 0.3498,
+        "similarity_final": 0.7234
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 483,
+      "name": "Versace Woman EdP 50ml",
+      "desc": "Top notes are Rose, Jasmine Leaf and Bergamot. Middle notes are Raspberry, Plum, Lotus and Cedar. Base notes are Musk and Amber. Launched in 2000.",
+      "price_range_gbp": [
+        18.2,
+        26.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 311,
+        "competitor_item_name": "VERSACE Woman",
+        "brand": "VERSACE",
+        "quantity": "50ml",
+        "competitor_description": "EDP spray",
+        "competitor_price": 30.0,
+        "competitor_currency": "EUR",
+        "similarity_name": 0.8757,
+        "similarity_desc": 0.0594,
+        "similarity_final": 0.7124
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 484,
+      "name": "Valentino Valentina 50ml",
+      "desc": "Top notes are Strawberry and Bergamot. Middle notes are Jasmine Sambac and Patchouli. Base notes are Vanilla and Cedar Essence. Launched in 2025.",
+      "price_range_gbp": [
+        34.8,
+        43.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 331,
+        "competitor_item_name": "VALENTINO VALENTINA",
+        "brand": "VALENTINO",
+        "quantity": "50ml",
+        "competitor_description": "EDP Spray, 50ml",
+        "competitor_price": 50.0,
+        "competitor_currency": "EUR",
+        "similarity_name": 0.981,
+        "similarity_desc": 0.0918,
+        "similarity_final": 0.8032
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 487,
+      "name": "Versace Woman 50ml EdP",
+      "desc": "Top notes are Rose, Jasmine Leaf and Bergamot. Middle notes are Raspberry, Plum, Lotus and Cedar. Base notes are Musk and Amber. Launched in 2000.",
+      "price_range_gbp": [
+        20.9,
+        30.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 311,
+        "competitor_item_name": "VERSACE Woman",
+        "brand": "VERSACE",
+        "quantity": "50ml",
+        "competitor_description": "EDP spray",
+        "competitor_price": 30.0,
+        "competitor_currency": "EUR",
+        "similarity_name": 0.8712,
+        "similarity_desc": 0.0594,
+        "similarity_final": 0.7089
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 488,
+      "name": "Valentino Valentina 50ml EdP",
+      "desc": "Top notes are Strawberry and Bergamot. Middle notes are Jasmine Sambac and Patchouli. Base notes are Vanilla and Cedar Essence. Launched in 2025.",
+      "price_range_gbp": [
+        35.92,
+        45.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 331,
+        "competitor_item_name": "VALENTINO VALENTINA",
+        "brand": "VALENTINO",
+        "quantity": "50ml",
+        "competitor_description": "EDP Spray, 50ml",
+        "competitor_price": 50.0,
+        "competitor_currency": "EUR",
+        "similarity_name": 0.9046,
+        "similarity_desc": 0.0918,
+        "similarity_final": 0.7421
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 496,
+      "name": "Viktor&Rolf Flowerbomb EdP",
+      "desc": "Top notes: Tea, Bergamot and Osmanthus. Middle notes are Orchid, Jasmine, Rose, Freesia and African Orange Flower. Base notes are Patchouli, Musk and Vanilla. Launched in 2005.",
+      "price_range_gbp": [
+        26.0,
+        26.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 310,
+        "competitor_item_name": "VIKTOR & ROLF Flowerbomb",
+        "brand": "VIKTOR & ROLF",
+        "quantity": "20ml",
+        "competitor_description": "EDP spray",
+        "competitor_price": 30.0,
+        "competitor_currency": "EUR",
+        "similarity_name": 0.8597,
+        "similarity_desc": 0.1266,
+        "similarity_final": 0.7131
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 503,
+      "name": "Viktor&Rolf Flowerbomb 20ml",
+      "desc": "Top notes: Tea, Bergamot and Osmanthus. Middle notes are Orchid, Jasmine, Rose, Freesia and African Orange Flower. Base notes are Patchouli, Musk and Vanilla. Launched in 2005.",
+      "price_range_gbp": [
+        29.9,
+        30.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 310,
+        "competitor_item_name": "VIKTOR & ROLF Flowerbomb",
+        "brand": "VIKTOR & ROLF",
+        "quantity": "20ml",
+        "competitor_description": "EDP spray",
+        "competitor_price": 30.0,
+        "competitor_currency": "EUR",
+        "similarity_name": 0.9343,
+        "similarity_desc": 0.1266,
+        "similarity_final": 0.7727
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 684,
+      "name": "Croissant",
+      "desc": "Try this croissant! Made from a light dough with a creamy, rich chocolate filling - the best choice for either breakfast or as an afternoon snack!",
+      "price_range_gbp": [
+        2.5,
+        3.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 406,
+        "competitor_item_name": "Chocolate Croissant",
+        "brand": "",
+        "quantity": "",
+        "competitor_description": "A delicious hot buttery fresh croissant with an oozing chocolatey centre",
+        "competitor_price": 3.5,
+        "competitor_currency": "EUR",
+        "similarity_name": 0.8688,
+        "similarity_desc": 0.7109,
+        "similarity_final": 0.8372
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 695,
+      "name": "Croissant Pistachio-Chocolate",
+      "desc": "Try our delicious new pistachio-chocolate cream filled croissant from Italy!",
+      "price_range_gbp": [
+        2.2,
+        3.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 406,
+        "competitor_item_name": "Chocolate Croissant",
+        "brand": "",
+        "quantity": "",
+        "competitor_description": "A delicious hot buttery fresh croissant with an oozing chocolatey centre",
+        "competitor_price": 3.5,
+        "competitor_currency": "EUR",
+        "similarity_name": 0.82,
+        "similarity_desc": 0.6506,
+        "similarity_final": 0.7861
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 700,
+      "name": "Croissant 50g",
+      "desc": "Try this croissant! Made from a light dough with a creamy, rich chocolate filling - the best choice for either breakfast or as an afternoon snack!",
+      "price_range_gbp": [
+        2.5,
+        2.8
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 406,
+        "competitor_item_name": "Chocolate Croissant",
+        "brand": "",
+        "quantity": "",
+        "competitor_description": "A delicious hot buttery fresh croissant with an oozing chocolatey centre",
+        "competitor_price": 3.5,
+        "competitor_currency": "EUR",
+        "similarity_name": 0.7181,
+        "similarity_desc": 0.7109,
+        "similarity_final": 0.7167
+      }
+    ]
+  }
+]

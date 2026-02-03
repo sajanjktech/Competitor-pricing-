@@ -1,0 +1,302 @@
+[
+  {
+    "gate_item": {
+      "id": 116,
+      "name": "Vodka",
+      "desc": "Get an Absolut Vodka and feel the true definition of balance and harmony.",
+      "price_range_gbp": [
+        5.5,
+        6.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 369,
+        "competitor_item_name": "Absolut Vodka",
+        "brand": "Absolut",
+        "quantity": "50ml",
+        "competitor_description": "",
+        "competitor_price": 7.0,
+        "competitor_currency": "EUR",
+        "similarity_final": 0.7523
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 124,
+      "name": "Rum",
+      "desc": "BACARDI Carta Blanca is a light and aromatic white rum with delicate floral and fruity notes, ideal for mixing.",
+      "price_range_gbp": [
+        5.5,
+        6.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 368,
+        "competitor_item_name": "Bacardi Rum",
+        "brand": "Bacardi",
+        "quantity": "50ml",
+        "competitor_description": "",
+        "competitor_price": 7.0,
+        "competitor_currency": "EUR",
+        "similarity_final": 0.769
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 127,
+      "name": "Bombay Sapphire & Tonic",
+      "desc": "A perfectly mixed Mojito made with Bacardi Carta Blanca Rum combined with Lime, Sugar and Mint, served in a convenient can format to enjoy wherever you are.",
+      "price_range_gbp": [
+        5.5,
+        6.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 366,
+        "competitor_item_name": "Bombay Sapphire Ready to Drink Gin & Tonic",
+        "brand": "Bombay Sapphire",
+        "quantity": "250ml",
+        "competitor_description": "",
+        "competitor_price": 7.0,
+        "competitor_currency": "EUR",
+        "similarity_final": 0.8422
+      },
+      {
+        "competitor_item_id": 370,
+        "competitor_item_name": "Bombay Sapphire Gin",
+        "brand": "Bombay Sapphire",
+        "quantity": "50ml",
+        "competitor_description": "",
+        "competitor_price": 7.0,
+        "competitor_currency": "EUR",
+        "similarity_final": 0.7795
+      },
+      {
+        "competitor_item_id": 291,
+        "competitor_item_name": "Bombay Sapphire Gin",
+        "brand": "Bombay Sapphire",
+        "quantity": "1 Litre",
+        "competitor_description": "",
+        "competitor_price": 24.0,
+        "competitor_currency": "EUR",
+        "similarity_final": 0.7637
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 138,
+      "name": "Rum 5cl",
+      "desc": "BACARDI Carta Blanca is a light and aromatic white rum with delicate floral and fruity notes, ideal for mixing.",
+      "price_range_gbp": [
+        6.0,
+        6.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 368,
+        "competitor_item_name": "Bacardi Rum",
+        "brand": "Bacardi",
+        "quantity": "50ml",
+        "competitor_description": "",
+        "competitor_price": 7.0,
+        "competitor_currency": "EUR",
+        "similarity_final": 0.7759
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 141,
+      "name": "Bombay Sapphire&Tonic",
+      "desc": "Bombay Sapphire lengthened with Fever-Tree tonic water and a squeeze of fresh fragrant lime - bright, refreshing, up-lifting and divine.",
+      "price_range_gbp": [
+        6.5,
+        6.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 366,
+        "competitor_item_name": "Bombay Sapphire Ready to Drink Gin & Tonic",
+        "brand": "Bombay Sapphire",
+        "quantity": "250ml",
+        "competitor_description": "",
+        "competitor_price": 7.0,
+        "competitor_currency": "EUR",
+        "similarity_final": 0.8383
+      },
+      {
+        "competitor_item_id": 370,
+        "competitor_item_name": "Bombay Sapphire Gin",
+        "brand": "Bombay Sapphire",
+        "quantity": "50ml",
+        "competitor_description": "",
+        "competitor_price": 7.0,
+        "competitor_currency": "EUR",
+        "similarity_final": 0.8203
+      },
+      {
+        "competitor_item_id": 291,
+        "competitor_item_name": "Bombay Sapphire Gin",
+        "brand": "Bombay Sapphire",
+        "quantity": "1 Litre",
+        "competitor_description": "",
+        "competitor_price": 24.0,
+        "competitor_currency": "EUR",
+        "similarity_final": 0.8129
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 147,
+      "name": "Jameson & Cola 250ml",
+      "desc": "The Jameson & Cola cocktail is just as iconic as the classic Irish whiskey brand. The canned, ready-to-drink cocktail is made with Jameson triple-distilled Irish whiskey and cola, making for a refreshing and convenient drink that's perfect for any occasion.",
+      "price_range_gbp": [
+        6.0,
+        6.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 372,
+        "competitor_item_name": "Jameson Irish Whiskey",
+        "brand": "Jameson",
+        "quantity": "50ml",
+        "competitor_description": "",
+        "competitor_price": 7.0,
+        "competitor_currency": "EUR",
+        "similarity_final": 0.7576
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 219,
+      "name": "Grey Goose Original 1L",
+      "desc": "This is an age restricted item, and you may be asked to verify your age upon delivery.",
+      "price_range_gbp": [
+        28.0,
+        38.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 363,
+        "competitor_item_name": "Grey Goose Vodka",
+        "brand": "Grey Goose",
+        "quantity": "50ml",
+        "competitor_description": "The quintessential French vodka, made in France using only two ingredients – the finest soft winter wheat and limestone-filtered spring water.",
+        "competitor_price": 9.0,
+        "competitor_currency": "EUR",
+        "similarity_final": 0.8303
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 221,
+      "name": "Bombay Sapphire 1L",
+      "desc": "This is an age restricted item, and you may be asked to verify your age upon delivery.",
+      "price_range_gbp": [
+        14.0,
+        19.1
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 291,
+        "competitor_item_name": "Bombay Sapphire Gin",
+        "brand": "Bombay Sapphire",
+        "quantity": "1 Litre",
+        "competitor_description": "",
+        "competitor_price": 24.0,
+        "competitor_currency": "EUR",
+        "similarity_final": 0.8805
+      },
+      {
+        "competitor_item_id": 370,
+        "competitor_item_name": "Bombay Sapphire Gin",
+        "brand": "Bombay Sapphire",
+        "quantity": "50ml",
+        "competitor_description": "",
+        "competitor_price": 7.0,
+        "competitor_currency": "EUR",
+        "similarity_final": 0.8328
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 223,
+      "name": "Grey Goose Original 1l",
+      "desc": "This is an age restricted item, and you may be asked to verify your age upon delivery.",
+      "price_range_gbp": [
+        38.0,
+        38.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 363,
+        "competitor_item_name": "Grey Goose Vodka",
+        "brand": "Grey Goose",
+        "quantity": "50ml",
+        "competitor_description": "The quintessential French vodka, made in France using only two ingredients – the finest soft winter wheat and limestone-filtered spring water.",
+        "competitor_price": 9.0,
+        "competitor_currency": "EUR",
+        "similarity_final": 0.8306
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 225,
+      "name": "Bombay Sapphire 1l",
+      "desc": "This is an age restricted item, and you may be asked to verify your age upon delivery.",
+      "price_range_gbp": [
+        18.0,
+        18.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 291,
+        "competitor_item_name": "Bombay Sapphire Gin",
+        "brand": "Bombay Sapphire",
+        "quantity": "1 Litre",
+        "competitor_description": "",
+        "competitor_price": 24.0,
+        "competitor_currency": "EUR",
+        "similarity_final": 0.8773
+      },
+      {
+        "competitor_item_id": 370,
+        "competitor_item_name": "Bombay Sapphire Gin",
+        "brand": "Bombay Sapphire",
+        "quantity": "50ml",
+        "competitor_description": "",
+        "competitor_price": 7.0,
+        "competitor_currency": "EUR",
+        "similarity_final": 0.8345
+      }
+    ]
+  }
+]

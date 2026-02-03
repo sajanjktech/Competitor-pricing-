@@ -2,7 +2,8 @@
 
 from itemMapping.logger import logger
 from itemMapping.db_loader import load_gate_group_items, load_competitor_items
-from itemMapping.freeEmbedder import get_embedding
+# from itemMapping.freeEmbedder import get_embedding
+from itemMapping.azureEmbedder import get_embedding
 import math
 
 
