@@ -1,6 +1,38 @@
 [
   {
     "gate_item": {
+      "id": 112,
+      "name": "Gin",
+      "desc": "An incredible tasty dry gin made with big juniper character and strong citrus notes. This is an authentic London dry for those that enjoy the real taste of gin.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Alcohol"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 43,
+        "competitor_item_name": "Gin Tonic",
+        "brand": "",
+        "quantity": "",
+        "competitor_description": "Bombay Sapphire Gin + Goldberg Tonic Water",
+        "parent_category": "Cafe",
+        "sales_category": "Alcohol",
+        "price": 9.0,
+        "currency": "EUR",
+        "competitor_name": "Eurowings",
+        "catalog_name": "Eurowings_Bistro_Winter_2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 21,
+        "similarity_name": 0.8552,
+        "similarity_desc": 0.5387,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8008
+      }
+    ]
+  },
+  {
+    "gate_item": {
       "id": 118,
       "name": "Prosecco",
       "desc": "Try an intense bouquet combining apple and pineapple with a delicate aroma, evoking traditional wines of long ago. Full flavoured, aromatic with a persistent mousse.",
@@ -9,57 +41,227 @@
     },
     "matches": [
       {
-        "competitor_item_id": 361,
+        "competitor_item_id": 203,
         "competitor_item_name": "Bottega Il Vino dei Poeti Prosecco DOC Brut",
         "brand": "Bottega",
         "quantity": "200ml",
         "competitor_description": "Fresh and delicate Prosecco with notes of apple, white peach, citrus fruits and floral hints.",
         "parent_category": "Cafe",
         "sales_category": "Alcohol",
+        "price": 8.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 19,
         "similarity_name": 0.7498,
         "similarity_desc": 0.7474,
-        "similarity_parent": 0.6827,
+        "similarity_parent": 0.8883,
         "similarity_sales": 1.0,
-        "similarity_final": 0.7772
+        "similarity_final": 0.7688
       },
       {
-        "competitor_item_id": 360,
+        "competitor_item_id": 202,
         "competitor_item_name": "Bottega Il Vino dei Poeti Prosecco DOC Rosé",
         "brand": "Bottega",
         "quantity": "200ml",
         "competitor_description": "Fruity aromas with distinct hints of apple, white peach, citrus and wild strawberries.",
         "parent_category": "Cafe",
         "sales_category": "Alcohol",
+        "price": 8.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 19,
         "similarity_name": 0.7475,
         "similarity_desc": 0.7491,
-        "similarity_parent": 0.6827,
+        "similarity_parent": 0.8883,
         "similarity_sales": 1.0,
-        "similarity_final": 0.7757
+        "similarity_final": 0.7675
       }
     ]
   },
   {
     "gate_item": {
-      "id": 127,
-      "name": "Bombay Sapphire & Tonic",
-      "desc": "A perfectly mixed Mojito made with Bacardi Carta Blanca Rum combined with Lime, Sugar and Mint, served in a convenient can format to enjoy wherever you are.",
+      "id": 119,
+      "name": "Cider 330ml",
+      "desc": "A modern cider fermented naturally from apples! Strongbow creates refreshing ways for you to connect with nature. Grab a cold Strongbow cider and enjoy the refreshing times with friends. Refreshing by Nature. Enjoy responsibly.",
       "parent_category": "1.Cafe",
       "sales_category": "Alcohol"
     },
     "matches": [
       {
-        "competitor_item_id": 366,
-        "competitor_item_name": "Bombay Sapphire Ready to Drink Gin & Tonic",
-        "brand": "Bombay Sapphire",
-        "quantity": "250ml",
+        "competitor_item_id": 114,
+        "competitor_item_name": "Magners Irish Cider",
+        "brand": "",
+        "quantity": "330ml",
+        "competitor_description": "ABV 4.5% 330ml",
+        "parent_category": "Cafe",
+        "sales_category": "Alcohol",
+        "price": 5.75,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 13,
+        "similarity_name": 0.8568,
+        "similarity_desc": 0.4945,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.793
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 125,
+      "name": "Birra Moretti",
+      "desc": "Birra Moretti is a low fermentation beer, made from a blend fine hops, giving it a pleasant taste that is finely bitter and balanced, with floral notes and initial aromas of barely malt.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Alcohol"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 116,
+        "competitor_item_name": "Birra Moretti",
+        "brand": "",
+        "quantity": "330ml",
+        "competitor_description": "ABV 4.6% 330ml",
+        "parent_category": "Cafe",
+        "sales_category": "Alcohol",
+        "price": 5.75,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 13,
+        "similarity_name": 0.9109,
+        "similarity_desc": 0.4874,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8295
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 128,
+      "name": "Baileys 5cl",
+      "desc": "One of life s most pleasurable indulgences, Baileys Original Irish Cream is the sweetest meeting of fine Irish whiskey and spirits, Irish dairy cream, rich chocolate and vanilla flavours.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Alcohol"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 108,
+        "competitor_item_name": "Baileys",
+        "brand": "Baileys",
+        "quantity": "5cl",
+        "competitor_description": "",
+        "parent_category": "Cafe",
+        "sales_category": "Alcohol",
+        "price": 6.25,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 12,
+        "similarity_name": 0.9875,
+        "similarity_desc": 0.2965,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.845
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 131,
+      "name": "Gin 5cl",
+      "desc": "An exceptionally fresh, clean and crisp gin, with a subtle citrus and fruit edge.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Alcohol"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 109,
+        "competitor_item_name": "Gordon’s London Dry Gin",
+        "brand": "Gordon’s",
+        "quantity": "5cl",
+        "competitor_description": "",
+        "parent_category": "Cafe",
+        "sales_category": "Alcohol",
+        "price": 6.25,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 12,
+        "similarity_name": 0.8582,
+        "similarity_desc": 0.3785,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.7709
+      },
+      {
+        "competitor_item_id": 127,
+        "competitor_item_name": "Tanqueray Gin",
+        "brand": "Tanqueray",
+        "quantity": "5cl",
         "competitor_description": "",
         "parent_category": "Duty Free",
         "sales_category": "DF Spirits",
-        "similarity_name": 0.8631,
-        "similarity_desc": 0.282,
-        "similarity_parent": 0.6828,
+        "price": 7.25,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 15,
+        "similarity_name": 0.8799,
+        "similarity_desc": 0.3785,
+        "similarity_parent": 0.5477,
         "similarity_sales": 0.7642,
-        "similarity_final": 0.7921
+        "similarity_final": 0.7572
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 135,
+      "name": "Vodka 5cl",
+      "desc": "Get an Absolut Vodka and feel the true definition of balance and harmony.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Alcohol"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 110,
+        "competitor_item_name": "Smirnoff No.21 Vodka",
+        "brand": "Smirnoff",
+        "quantity": "5cl",
+        "competitor_description": "",
+        "parent_category": "Cafe",
+        "sales_category": "Alcohol",
+        "price": 6.25,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 12,
+        "similarity_name": 0.8588,
+        "similarity_desc": 0.3122,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.758
       }
     ]
   },
@@ -73,32 +275,88 @@
     },
     "matches": [
       {
-        "competitor_item_id": 356,
+        "competitor_item_id": 113,
+        "competitor_item_name": "Heineken",
+        "brand": "",
+        "quantity": "330ml",
+        "competitor_description": "ABV 5% 330ml",
+        "parent_category": "Cafe",
+        "sales_category": "Alcohol",
+        "price": 5.75,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 13,
+        "similarity_name": 0.8711,
+        "similarity_desc": 0.5316,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8105
+      },
+      {
+        "competitor_item_id": 198,
         "competitor_item_name": "Stella Artois",
         "brand": "",
         "quantity": "330ml",
         "competitor_description": "Beer",
         "parent_category": "Cafe",
         "sales_category": "Alcohol",
+        "price": 6.5,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 18,
         "similarity_name": 0.819,
         "similarity_desc": 0.5994,
-        "similarity_parent": 0.6827,
+        "similarity_parent": 0.8883,
         "similarity_sales": 1.0,
-        "similarity_final": 0.8147
+        "similarity_final": 0.7876
       },
       {
-        "competitor_item_id": 355,
+        "competitor_item_id": 116,
+        "competitor_item_name": "Birra Moretti",
+        "brand": "",
+        "quantity": "330ml",
+        "competitor_description": "ABV 4.6% 330ml",
+        "parent_category": "Cafe",
+        "sales_category": "Alcohol",
+        "price": 5.75,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 13,
+        "similarity_name": 0.8322,
+        "similarity_desc": 0.5227,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.7815
+      },
+      {
+        "competitor_item_id": 197,
         "competitor_item_name": "Corona Extra",
         "brand": "",
         "quantity": "330ml",
         "competitor_description": "Beer",
         "parent_category": "Cafe",
         "sales_category": "Alcohol",
+        "price": 6.5,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 18,
         "similarity_name": 0.7953,
         "similarity_desc": 0.5994,
-        "similarity_parent": 0.6827,
+        "similarity_parent": 0.8883,
         "similarity_sales": 1.0,
-        "similarity_final": 0.7993
+        "similarity_final": 0.771
       }
     ]
   },
@@ -112,32 +370,46 @@
     },
     "matches": [
       {
-        "competitor_item_id": 361,
+        "competitor_item_id": 203,
         "competitor_item_name": "Bottega Il Vino dei Poeti Prosecco DOC Brut",
         "brand": "Bottega",
         "quantity": "200ml",
         "competitor_description": "Fresh and delicate Prosecco with notes of apple, white peach, citrus fruits and floral hints.",
         "parent_category": "Cafe",
         "sales_category": "Alcohol",
+        "price": 8.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 19,
         "similarity_name": 0.7417,
         "similarity_desc": 0.7474,
-        "similarity_parent": 0.6827,
+        "similarity_parent": 0.8883,
         "similarity_sales": 1.0,
-        "similarity_final": 0.7719
+        "similarity_final": 0.7631
       },
       {
-        "competitor_item_id": 360,
+        "competitor_item_id": 202,
         "competitor_item_name": "Bottega Il Vino dei Poeti Prosecco DOC Rosé",
         "brand": "Bottega",
         "quantity": "200ml",
         "competitor_description": "Fruity aromas with distinct hints of apple, white peach, citrus and wild strawberries.",
         "parent_category": "Cafe",
         "sales_category": "Alcohol",
+        "price": 8.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 19,
         "similarity_name": 0.7379,
         "similarity_desc": 0.7491,
-        "similarity_parent": 0.6827,
+        "similarity_parent": 0.8883,
         "similarity_sales": 1.0,
-        "similarity_final": 0.7695
+        "similarity_final": 0.7607
       }
     ]
   },
@@ -151,32 +423,25 @@
     },
     "matches": [
       {
-        "competitor_item_id": 356,
-        "competitor_item_name": "Stella Artois",
+        "competitor_item_id": 116,
+        "competitor_item_name": "Birra Moretti",
         "brand": "",
         "quantity": "330ml",
-        "competitor_description": "Beer",
+        "competitor_description": "ABV 4.6% 330ml",
         "parent_category": "Cafe",
         "sales_category": "Alcohol",
-        "similarity_name": 0.7677,
-        "similarity_desc": 0.4935,
-        "similarity_parent": 0.6827,
+        "price": 5.75,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 13,
+        "similarity_name": 1.0,
+        "similarity_desc": 0.4903,
+        "similarity_parent": 0.8883,
         "similarity_sales": 1.0,
-        "similarity_final": 0.7761
-      },
-      {
-        "competitor_item_id": 355,
-        "competitor_item_name": "Corona Extra",
-        "brand": "",
-        "quantity": "330ml",
-        "competitor_description": "Beer",
-        "parent_category": "Cafe",
-        "sales_category": "Alcohol",
-        "similarity_name": 0.7352,
-        "similarity_desc": 0.4935,
-        "similarity_parent": 0.6827,
-        "similarity_sales": 1.0,
-        "similarity_final": 0.755
+        "similarity_final": 0.8925
       }
     ]
   },
@@ -190,185 +455,259 @@
     },
     "matches": [
       {
-        "competitor_item_id": 366,
-        "competitor_item_name": "Bombay Sapphire Ready to Drink Gin & Tonic",
-        "brand": "Bombay Sapphire",
-        "quantity": "250ml",
+        "competitor_item_id": 43,
+        "competitor_item_name": "Gin Tonic",
+        "brand": "",
+        "quantity": "",
+        "competitor_description": "Bombay Sapphire Gin + Goldberg Tonic Water",
+        "parent_category": "Cafe",
+        "sales_category": "Alcohol",
+        "price": 9.0,
+        "currency": "EUR",
+        "competitor_name": "Eurowings",
+        "catalog_name": "Eurowings_Bistro_Winter_2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 21,
+        "similarity_name": 0.7782,
+        "similarity_desc": 0.6775,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.7747
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 142,
+      "name": "Bailey's 5cl",
+      "desc": "One of lifes most pleasurable indulgences, Baileys Original Irish Cream is the sweetest meeting of fine Irish whiskey and spirits, Irish dairy cream, rich chocolate and vanilla flavours.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Alcohol"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 108,
+        "competitor_item_name": "Baileys",
+        "brand": "Baileys",
+        "quantity": "5cl",
         "competitor_description": "",
-        "parent_category": "Duty Free",
-        "sales_category": "DF Spirits",
-        "similarity_name": 0.858,
-        "similarity_desc": 0.2518,
-        "similarity_parent": 0.6827,
-        "similarity_sales": 0.7642,
-        "similarity_final": 0.7873
-      },
+        "parent_category": "Cafe",
+        "sales_category": "Alcohol",
+        "price": 6.25,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 12,
+        "similarity_name": 0.9569,
+        "similarity_desc": 0.2904,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8223
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 161,
+      "name": "Pronol Spritz",
+      "desc": "Ready to drink win based cocktail. The taste is fresh and pleasant, on the palate it has a bitter sweet taste. It is a perfect match with savoury snacks like chips, peanuts, cold cuts and cheese.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Alcohol"
+    },
+    "matches": [
       {
-        "competitor_item_id": 370,
-        "competitor_item_name": "Bombay Sapphire Gin",
-        "brand": "Bombay Sapphire",
-        "quantity": "50ml",
+        "competitor_item_id": 35,
+        "competitor_item_name": "PRONOL SPRITZ",
+        "brand": "PRONOL",
+        "quantity": "200 ML",
         "competitor_description": "",
-        "parent_category": "Duty Free",
-        "sales_category": "DF Spirits",
-        "similarity_name": 0.817,
-        "similarity_desc": 0.2517,
-        "similarity_parent": 0.6827,
-        "similarity_sales": 0.7642,
-        "similarity_final": 0.7607
+        "parent_category": "Cafe",
+        "sales_category": "Alcohol",
+        "price": 7.9,
+        "currency": "EUR",
+        "competitor_name": "Eurowings",
+        "catalog_name": "Eurowings_Bistro_Winter_2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 18,
+        "similarity_name": 0.8456,
+        "similarity_desc": 0.3515,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.7567
       }
     ]
   },
   {
     "gate_item": {
-      "id": 150,
-      "name": "Bottega Lemon Spritz 250ml",
-      "desc": "A pleasantly refreshing low-alcohol cocktail with an intense lemon bouquet, combined with hints of mint and fruity notes.",
+      "id": 163,
+      "name": "Pronol Spritz 250ml",
+      "desc": "Ready to drink win based cocktail. The taste is fresh and pleasant, on the palate it has a bitter sweet taste. It is a perfect match with savoury snacks like chips, peanuts, cold cuts and cheese.",
       "parent_category": "1.Cafe",
       "sales_category": "Alcohol"
     },
     "matches": [
       {
-        "competitor_item_id": 361,
-        "competitor_item_name": "Bottega Il Vino dei Poeti Prosecco DOC Brut",
-        "brand": "Bottega",
-        "quantity": "200ml",
-        "competitor_description": "Fresh and delicate Prosecco with notes of apple, white peach, citrus fruits and floral hints.",
+        "competitor_item_id": 35,
+        "competitor_item_name": "PRONOL SPRITZ",
+        "brand": "PRONOL",
+        "quantity": "200 ML",
+        "competitor_description": "",
         "parent_category": "Cafe",
         "sales_category": "Alcohol",
-        "similarity_name": 0.7182,
-        "similarity_desc": 0.6192,
-        "similarity_parent": 0.6827,
+        "price": 7.9,
+        "currency": "EUR",
+        "competitor_name": "Eurowings",
+        "catalog_name": "Eurowings_Bistro_Winter_2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 18,
+        "similarity_name": 0.8525,
+        "similarity_desc": 0.3515,
+        "similarity_parent": 0.8883,
         "similarity_sales": 1.0,
-        "similarity_final": 0.7502
+        "similarity_final": 0.7615
       }
     ]
   },
   {
     "gate_item": {
-      "id": 152,
-      "name": "Nice Merlot 187ml",
-      "desc": "Wine in a can. Merlot red wine from France.",
+      "id": 174,
+      "name": "Coca-Cola Zero",
+      "desc": "Get a Sugar free Coca-Cola on board, original Coke flavour with zero sugar, Experience joy on board and open happiness!",
       "parent_category": "1.Cafe",
-      "sales_category": "Alcohol"
+      "sales_category": "Cold Drink"
     },
     "matches": [
       {
-        "competitor_item_id": 357,
-        "competitor_item_name": "Mala Peira Red",
-        "brand": "Mala Peira",
-        "quantity": "187ml",
-        "competitor_description": "Tempranillo Merlot, Spain. Soft, round wine with velvety tannins and a deep ruby colour.",
+        "competitor_item_id": 218,
+        "competitor_item_name": "Coca-Cola Zero Sugar",
+        "brand": "",
+        "quantity": "330ml",
+        "competitor_description": "",
         "parent_category": "Cafe",
-        "sales_category": "Alcohol",
-        "similarity_name": 0.7312,
-        "similarity_desc": 0.5947,
-        "similarity_parent": 0.6827,
+        "sales_category": "Cold Drink",
+        "price": 3.75,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 21,
+        "similarity_name": 0.8887,
+        "similarity_desc": 0.3551,
+        "similarity_parent": 0.8883,
         "similarity_sales": 1.0,
-        "similarity_final": 0.7574
-      }
-    ]
-  },
-  {
-    "gate_item": {
-      "id": 153,
-      "name": "Nice Pale Rose 187ml",
-      "desc": "Wine in a can. A classic French Pale Rose from the Languedoc Roussillon region in France. Dry and crisp with hints of dried strawberries.",
-      "parent_category": "1.Cafe",
-      "sales_category": "Alcohol"
-    },
-    "matches": [
-      {
-        "competitor_item_id": 358,
-        "competitor_item_name": "Mala Peira Rosé",
-        "brand": "Mala Peira",
-        "quantity": "187ml",
-        "competitor_description": "Bobal, Spain. Fresh and well balanced, with notes of red fruit.",
-        "parent_category": "Cafe",
-        "sales_category": "Alcohol",
-        "similarity_name": 0.7859,
-        "similarity_desc": 0.5238,
-        "similarity_parent": 0.6827,
-        "similarity_sales": 1.0,
-        "similarity_final": 0.7895
-      }
-    ]
-  },
-  {
-    "gate_item": {
-      "id": 165,
-      "name": "Bottega Petalo Moscato",
-      "desc": "Petalo Moscato is a sweet sparkling wine made with Muscat grapes from the Euganean hills (Padua, Veneto).",
-      "parent_category": "1.Cafe",
-      "sales_category": "Alcohol"
-    },
-    "matches": [
-      {
-        "competitor_item_id": 361,
-        "competitor_item_name": "Bottega Il Vino dei Poeti Prosecco DOC Brut",
-        "brand": "Bottega",
-        "quantity": "200ml",
-        "competitor_description": "Fresh and delicate Prosecco with notes of apple, white peach, citrus fruits and floral hints.",
-        "parent_category": "Cafe",
-        "sales_category": "Alcohol",
-        "similarity_name": 0.7352,
-        "similarity_desc": 0.5133,
-        "similarity_parent": 0.6827,
-        "similarity_sales": 1.0,
-        "similarity_final": 0.7559
+        "similarity_final": 0.7875
       },
       {
-        "competitor_item_id": 360,
-        "competitor_item_name": "Bottega Il Vino dei Poeti Prosecco DOC Rosé",
-        "brand": "Bottega",
-        "quantity": "200ml",
-        "competitor_description": "Fruity aromas with distinct hints of apple, white peach, citrus and wild strawberries.",
+        "competitor_item_id": 17,
+        "competitor_item_name": "COCA-COLA / COCA-COLA ZERO",
+        "brand": "Coca-Cola",
+        "quantity": "330 ML",
+        "competitor_description": "",
         "parent_category": "Cafe",
-        "sales_category": "Alcohol",
-        "similarity_name": 0.7343,
-        "similarity_desc": 0.4418,
-        "similarity_parent": 0.6827,
+        "sales_category": "Cold Drink",
+        "price": 3.5,
+        "currency": "EUR",
+        "competitor_name": "Eurowings",
+        "catalog_name": "Eurowings_Bistro_Winter_2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 10,
+        "similarity_name": 0.8392,
+        "similarity_desc": 0.3551,
+        "similarity_parent": 0.8883,
         "similarity_sales": 1.0,
-        "similarity_final": 0.7518
+        "similarity_final": 0.7529
       }
     ]
   },
   {
     "gate_item": {
-      "id": 166,
-      "name": "Bottega Petalo Moscato 20cl",
-      "desc": "Petalo Moscato is a sweet sparkling wine made with Muscat grapes from the Euganean hills (Padua, Veneto).",
+      "id": 188,
+      "name": "Coca-Cola 33cl",
+      "desc": "The best way to refresh when you are thirsty is to get a Coca-Cola cold drink, delicious taste in a cane, Experience joy on board and open happiness!",
       "parent_category": "1.Cafe",
-      "sales_category": "Alcohol"
+      "sales_category": "Cold Drink"
     },
     "matches": [
       {
-        "competitor_item_id": 361,
-        "competitor_item_name": "Bottega Il Vino dei Poeti Prosecco DOC Brut",
-        "brand": "Bottega",
-        "quantity": "200ml",
-        "competitor_description": "Fresh and delicate Prosecco with notes of apple, white peach, citrus fruits and floral hints.",
+        "competitor_item_id": 93,
+        "competitor_item_name": "Coca-Cola",
+        "brand": "Coca-Cola",
+        "quantity": "330ml",
+        "competitor_description": "",
         "parent_category": "Cafe",
-        "sales_category": "Alcohol",
-        "similarity_name": 0.7649,
-        "similarity_desc": 0.5133,
-        "similarity_parent": 0.6827,
+        "sales_category": "Cold Drink",
+        "price": 2.85,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 10,
+        "similarity_name": 0.835,
+        "similarity_desc": 0.3845,
+        "similarity_parent": 0.8883,
         "similarity_sales": 1.0,
-        "similarity_final": 0.7753
+        "similarity_final": 0.7558
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 189,
+      "name": "Coca-Cola Zero 33cl",
+      "desc": "Get a Sugar free Coca-Cola on board, original Coke flavour with zero sugar, Experience joy on board and open happiness!",
+      "parent_category": "1.Cafe",
+      "sales_category": "Cold Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 218,
+        "competitor_item_name": "Coca-Cola Zero Sugar",
+        "brand": "",
+        "quantity": "330ml",
+        "competitor_description": "",
+        "parent_category": "Cafe",
+        "sales_category": "Cold Drink",
+        "price": 3.75,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 21,
+        "similarity_name": 0.8838,
+        "similarity_desc": 0.3551,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.7841
       },
       {
-        "competitor_item_id": 360,
-        "competitor_item_name": "Bottega Il Vino dei Poeti Prosecco DOC Rosé",
-        "brand": "Bottega",
-        "quantity": "200ml",
-        "competitor_description": "Fruity aromas with distinct hints of apple, white peach, citrus and wild strawberries.",
+        "competitor_item_id": 17,
+        "competitor_item_name": "COCA-COLA / COCA-COLA ZERO",
+        "brand": "Coca-Cola",
+        "quantity": "330 ML",
+        "competitor_description": "",
         "parent_category": "Cafe",
-        "sales_category": "Alcohol",
-        "similarity_name": 0.7618,
-        "similarity_desc": 0.4418,
-        "similarity_parent": 0.6827,
+        "sales_category": "Cold Drink",
+        "price": 3.5,
+        "currency": "EUR",
+        "competitor_name": "Eurowings",
+        "catalog_name": "Eurowings_Bistro_Winter_2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 10,
+        "similarity_name": 0.8616,
+        "similarity_desc": 0.3551,
+        "similarity_parent": 0.8883,
         "similarity_sales": 1.0,
-        "similarity_final": 0.7697
+        "similarity_final": 0.7686
       }
     ]
   },
@@ -382,18 +721,25 @@
     },
     "matches": [
       {
-        "competitor_item_id": 363,
+        "competitor_item_id": 205,
         "competitor_item_name": "Grey Goose Vodka",
-        "brand": "Grey Goose",
+        "brand": "",
         "quantity": "50ml",
         "competitor_description": "The quintessential French vodka, made in France using only two ingredients – the finest soft winter wheat and limestone-filtered spring water.",
         "parent_category": "Duty Free",
         "sales_category": "DF Spirits",
-        "similarity_name": 0.8556,
+        "price": 9.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 20,
+        "similarity_name": 0.8554,
         "similarity_desc": 0.3002,
-        "similarity_parent": 0.5465,
+        "similarity_parent": 0.8809,
         "similarity_sales": 1.0,
-        "similarity_final": 0.8031
+        "similarity_final": 0.7528
       }
     ]
   },
@@ -407,46 +753,46 @@
     },
     "matches": [
       {
-        "competitor_item_id": 291,
+        "competitor_item_id": 131,
         "competitor_item_name": "Bombay Sapphire Gin",
         "brand": "Bombay Sapphire",
         "quantity": "1 Litre",
         "competitor_description": "",
         "parent_category": "Duty Free",
         "sales_category": "DF Spirits",
+        "price": 24.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 6,
         "similarity_name": 0.9463,
         "similarity_desc": 0.419,
-        "similarity_parent": 0.5465,
+        "similarity_parent": 0.8809,
         "similarity_sales": 1.0,
-        "similarity_final": 0.868
+        "similarity_final": 0.8403
       },
       {
-        "competitor_item_id": 370,
+        "competitor_item_id": 212,
         "competitor_item_name": "Bombay Sapphire Gin",
-        "brand": "Bombay Sapphire",
+        "brand": "",
         "quantity": "50ml",
         "competitor_description": "",
         "parent_category": "Duty Free",
         "sales_category": "DF Spirits",
-        "similarity_name": 0.8385,
+        "price": 7.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 20,
+        "similarity_name": 0.8459,
         "similarity_desc": 0.419,
-        "similarity_parent": 0.5465,
+        "similarity_parent": 0.8809,
         "similarity_sales": 1.0,
-        "similarity_final": 0.798
-      },
-      {
-        "competitor_item_id": 366,
-        "competitor_item_name": "Bombay Sapphire Ready to Drink Gin & Tonic",
-        "brand": "Bombay Sapphire",
-        "quantity": "250ml",
-        "competitor_description": "",
-        "parent_category": "Duty Free",
-        "sales_category": "DF Spirits",
-        "similarity_name": 0.7958,
-        "similarity_desc": 0.419,
-        "similarity_parent": 0.5466,
-        "similarity_sales": 1.0,
-        "similarity_final": 0.7702
+        "similarity_final": 0.77
       }
     ]
   },
@@ -460,18 +806,25 @@
     },
     "matches": [
       {
-        "competitor_item_id": 363,
+        "competitor_item_id": 205,
         "competitor_item_name": "Grey Goose Vodka",
-        "brand": "Grey Goose",
+        "brand": "",
         "quantity": "50ml",
         "competitor_description": "The quintessential French vodka, made in France using only two ingredients – the finest soft winter wheat and limestone-filtered spring water.",
         "parent_category": "Duty Free",
         "sales_category": "DF Spirits",
-        "similarity_name": 0.8517,
+        "price": 9.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 20,
+        "similarity_name": 0.8516,
         "similarity_desc": 0.3002,
-        "similarity_parent": 0.5465,
+        "similarity_parent": 0.8809,
         "similarity_sales": 1.0,
-        "similarity_final": 0.8006
+        "similarity_final": 0.7502
       }
     ]
   },
@@ -485,46 +838,4227 @@
     },
     "matches": [
       {
-        "competitor_item_id": 291,
+        "competitor_item_id": 131,
         "competitor_item_name": "Bombay Sapphire Gin",
         "brand": "Bombay Sapphire",
         "quantity": "1 Litre",
         "competitor_description": "",
         "parent_category": "Duty Free",
         "sales_category": "DF Spirits",
+        "price": 24.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 6,
         "similarity_name": 0.9375,
         "similarity_desc": 0.419,
-        "similarity_parent": 0.5465,
+        "similarity_parent": 0.8809,
         "similarity_sales": 1.0,
-        "similarity_final": 0.8623
+        "similarity_final": 0.8341
       },
       {
-        "competitor_item_id": 370,
+        "competitor_item_id": 212,
         "competitor_item_name": "Bombay Sapphire Gin",
-        "brand": "Bombay Sapphire",
+        "brand": "",
         "quantity": "50ml",
         "competitor_description": "",
         "parent_category": "Duty Free",
         "sales_category": "DF Spirits",
-        "similarity_name": 0.8354,
+        "price": 7.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 20,
+        "similarity_name": 0.8411,
         "similarity_desc": 0.419,
-        "similarity_parent": 0.5465,
+        "similarity_parent": 0.8809,
         "similarity_sales": 1.0,
-        "similarity_final": 0.7959
+        "similarity_final": 0.7666
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 246,
+      "name": "Ham & Cheese Baguette",
+      "desc": "Rye seeded baguette, turkey breast with ham and Trappist cheese, natural butter cream, Italian tomato chutney, steamed leafy spinach.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Fresh Food"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 251,
+        "competitor_item_name": "Hot Bacon Baguette",
+        "brand": "",
+        "quantity": "",
+        "competitor_description": "Crispy buttered baguette with back bacon",
+        "parent_category": "Cafe",
+        "sales_category": "Fresh Food",
+        "price": 6.5,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 24,
+        "similarity_name": 0.8324,
+        "similarity_desc": 0.6305,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8032
       },
       {
-        "competitor_item_id": 366,
-        "competitor_item_name": "Bombay Sapphire Ready to Drink Gin & Tonic",
-        "brand": "Bombay Sapphire",
-        "quantity": "250ml",
+        "competitor_item_id": 256,
+        "competitor_item_name": "Hot Bacon Baguette",
+        "brand": "",
+        "quantity": "",
+        "competitor_description": "Crispy buttered baguette with back bacon",
+        "parent_category": "Cafe",
+        "sales_category": "Fresh Food",
+        "price": 6.5,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 26,
+        "similarity_name": 0.8324,
+        "similarity_desc": 0.6305,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8032
+      },
+      {
+        "competitor_item_id": 50,
+        "competitor_item_name": "Hot Bacon Baguette",
+        "brand": "",
+        "quantity": "",
+        "competitor_description": "Tasty bacon medallions in a warm buttered baguette with a choice of tomato ketchup or brown sauce.",
+        "parent_category": "Cafe",
+        "sales_category": "Fresh Food",
+        "price": 5.2,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 2,
+        "similarity_name": 0.8324,
+        "similarity_desc": 0.5572,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.7885
+      },
+      {
+        "competitor_item_id": 51,
+        "competitor_item_name": "Ham & Cheese Toastie",
+        "brand": "",
+        "quantity": "",
+        "competitor_description": "Full-flavoured ham hock with mature cheddar cheese, served in toasted, cheese-topped sourdough bread.",
+        "parent_category": "Cafe",
+        "sales_category": "Fresh Food",
+        "price": 5.2,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 2,
+        "similarity_name": 0.8191,
+        "similarity_desc": 0.5863,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.7851
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 251,
+      "name": "Ham & Cheese Panini",
+      "desc": "Ham & Cheese Panini UK",
+      "parent_category": "1.Cafe",
+      "sales_category": "Fresh Food"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 257,
+        "competitor_item_name": "Hot Ham & Cheese Panini",
+        "brand": "",
+        "quantity": "",
+        "competitor_description": "Warm ciabatta bread with melted cheddar cheese and cooked ham",
+        "parent_category": "Cafe",
+        "sales_category": "Fresh Food",
+        "price": 6.75,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 26,
+        "similarity_name": 0.9575,
+        "similarity_desc": 0.7128,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.9072
+      },
+      {
+        "competitor_item_id": 51,
+        "competitor_item_name": "Ham & Cheese Toastie",
+        "brand": "",
+        "quantity": "",
+        "competitor_description": "Full-flavoured ham hock with mature cheddar cheese, served in toasted, cheese-topped sourdough bread.",
+        "parent_category": "Cafe",
+        "sales_category": "Fresh Food",
+        "price": 5.2,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 2,
+        "similarity_name": 0.8302,
+        "similarity_desc": 0.6775,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8111
+      },
+      {
+        "competitor_item_id": 260,
+        "competitor_item_name": "Hot Chicken Seeded Panini",
+        "brand": "",
+        "quantity": "",
+        "competitor_description": "Seeded panini with chicken, roasted vegetables and cheese",
+        "parent_category": "Cafe",
+        "sales_category": "Fresh Food",
+        "price": 6.75,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 26,
+        "similarity_name": 0.7883,
+        "similarity_desc": 0.6537,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.777
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 297,
+      "name": "Davidoff The Game",
+      "desc": "Top Notes: Gin fizz, Juniper berry Middle Notes: Precious woods, Iris Base Notes: Ebony Launched in 2012",
+      "parent_category": "2.Boutique",
+      "sales_category": "Gents Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 147,
+        "competitor_item_name": "DAVIDOFF The Game",
+        "brand": "DAVIDOFF",
+        "quantity": "100ml",
+        "competitor_description": "EDT spray",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 30.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "similarity_name": 0.8887,
+        "similarity_desc": 0.4998,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8167
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 302,
+      "name": "Versace The Dreamer EdT 50ml",
+      "desc": "It is a transparent perfume, warm and fresh at the same time. Subtle and sweet designer scent for men. Top notes are Juniper, Tarragon and Artemisia; middle notes are iris, Lily and Flax; base notes are Tobacco blossom and Amber. Launched during the 2010's",
+      "parent_category": "2.Boutique",
+      "sales_category": "Gents Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 158,
+        "competitor_item_name": "VERSACE EROS",
+        "brand": "VERSACE",
+        "quantity": "50ml",
+        "competitor_description": "EDT Spray, 50ml",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 60.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 9,
+        "similarity_name": 0.7957,
+        "similarity_desc": 0.5191,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.7555
+      },
+      {
+        "competitor_item_id": 169,
+        "competitor_item_name": "VERSACE EROS",
+        "brand": "VERSACE",
+        "quantity": "50ml",
+        "competitor_description": "EDT Spray, 50ml",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 60.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 11,
+        "similarity_name": 0.7957,
+        "similarity_desc": 0.5191,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.7555
+      },
+      {
+        "competitor_item_id": 151,
+        "competitor_item_name": "VERSACE Woman",
+        "brand": "VERSACE",
+        "quantity": "50ml",
+        "competitor_description": "EDP spray",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 30.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "similarity_name": 0.7874,
+        "similarity_desc": 0.555,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 0.8799,
+        "similarity_final": 0.7508
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 305,
+      "name": "Giorgio Armani He EdT 100ml",
+      "desc": "Top notes are Yuzu, Sage and Cardamo, Middle notes are Nutmeg, Rose and Orris Root, Base notes are White Musk, Sandalwood, Vetiver and Tonka Bean, Launched in 2020",
+      "parent_category": "2.Boutique",
+      "sales_category": "Gents Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 154,
+        "competitor_item_name": "EMPORIO ARMANI HE",
+        "brand": "Emporio Armani",
+        "quantity": "100ml",
+        "competitor_description": "EDT Spray, 100ml",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 50.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 8,
+        "similarity_name": 0.8617,
+        "similarity_desc": 0.5309,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.804
+      },
+      {
+        "competitor_item_id": 172,
+        "competitor_item_name": "EMPORIO ARMANI SHE",
+        "brand": "Emporio Armani",
+        "quantity": "100ml",
+        "competitor_description": "EDP Spray, 100ml",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 50.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 12,
+        "similarity_name": 0.811,
+        "similarity_desc": 0.5389,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 0.8799,
+        "similarity_final": 0.7641
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 309,
+      "name": "Hugo Boss Dark Blue EdT 75ml",
+      "desc": "Top notes are Ginger, Grapefruit, Orange, Lime and Lemon, middle notes are Cypress, Mahogany, Cardamom, Geranium and Sage, base notes are Vanilla, Cedar, Benzoin, Vetiver and Patchouli. Launched in 1999.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Gents Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 149,
+        "competitor_item_name": "HUGO BOSS Dark Blue",
+        "brand": "HUGO BOSS",
+        "quantity": "75ml",
+        "competitor_description": "EDT spray",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 30.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "similarity_name": 0.9476,
+        "similarity_desc": 0.5021,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8584
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 312,
+      "name": "Calvin Klein CK Free EdT 50 ml",
+      "desc": "Top notes are Juniper Berries, Star Anise, Wormwood and Jackfruit; Middle notes are Suede, Tobacco, Coffee and Buchu or Agathosma; Base notes are Virginia Cedar, Oak, Patchouli and Woody Notes; Launched in 2009",
+      "parent_category": "2.Boutique",
+      "sales_category": "Gents Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 140,
+        "competitor_item_name": "CALVIN KLEIN ck free",
+        "brand": "CALVIN KLEIN",
+        "quantity": "50ml",
+        "competitor_description": "EDT spray",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 20.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "similarity_name": 0.9197,
+        "similarity_desc": 0.4906,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8365
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 313,
+      "name": "Versace Eros EdT 50ml",
+      "desc": "Top notes are Mint, Green Apple and Lemon, Middle notes are Tonka Bean, Ambroxan and Geranium,Base notes are Madagascar Vanilla, Virginian Cedar, Atlas Cedar, Vetiver and Oakmoss,Launched in 2012",
+      "parent_category": "2.Boutique",
+      "sales_category": "Gents Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 158,
+        "competitor_item_name": "VERSACE EROS",
+        "brand": "VERSACE",
+        "quantity": "50ml",
+        "competitor_description": "EDT Spray, 50ml",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 60.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 9,
+        "similarity_name": 0.9436,
+        "similarity_desc": 0.5427,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8637
+      },
+      {
+        "competitor_item_id": 169,
+        "competitor_item_name": "VERSACE EROS",
+        "brand": "VERSACE",
+        "quantity": "50ml",
+        "competitor_description": "EDT Spray, 50ml",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 60.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 11,
+        "similarity_name": 0.9436,
+        "similarity_desc": 0.5427,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8637
+      },
+      {
+        "competitor_item_id": 151,
+        "competitor_item_name": "VERSACE Woman",
+        "brand": "VERSACE",
+        "quantity": "50ml",
+        "competitor_description": "EDP spray",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 30.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "similarity_name": 0.831,
+        "similarity_desc": 0.5442,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 0.8799,
+        "similarity_final": 0.7792
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 316,
+      "name": "Davidoff The Game EdT 100ml",
+      "desc": "Top Notes: Gin fizz, Juniper berry; Middle Notes: Precious woods, Iris; Base Notes: Ebony; Launched in 2012",
+      "parent_category": "2.Boutique",
+      "sales_category": "Gents Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 147,
+        "competitor_item_name": "DAVIDOFF The Game",
+        "brand": "DAVIDOFF",
+        "quantity": "100ml",
+        "competitor_description": "EDT spray",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 30.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "similarity_name": 0.9505,
+        "similarity_desc": 0.4984,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8597
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 317,
+      "name": "Banderas The Icon EdT 100ml",
+      "desc": "Amber Woody masculine fragrance for men; Top notes are Grapefruit and Black Pepper; middle notes are Sage and Lavender; base notes are Oakmoss and Sandalwood; Launched in 2020",
+      "parent_category": "2.Boutique",
+      "sales_category": "Gents Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 148,
+        "competitor_item_name": "BANDERAS The Icon Feminine",
+        "brand": "BANDERAS",
+        "quantity": "100ml",
+        "competitor_description": "EDP spray",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 30.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "similarity_name": 0.8962,
+        "similarity_desc": 0.5291,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 0.8799,
+        "similarity_final": 0.8218
+      },
+      {
+        "competitor_item_id": 146,
+        "competitor_item_name": "BANDERAS The Golden Secret",
+        "brand": "BANDERAS",
+        "quantity": "100ml",
+        "competitor_description": "EDT spray",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 20.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "similarity_name": 0.8015,
+        "similarity_desc": 0.5319,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.762
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 321,
+      "name": "Giorgio Armani He EdT 100m",
+      "desc": "Top notes are Yuzu, Sage and Cardamom; Middle notes are Nutmeg, Rose and Orris Root; Base notes are White Musk, Sandalwood, Vetiver and Tonka Bean; Launched in 2020",
+      "parent_category": "2.Boutique",
+      "sales_category": "Gents Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 154,
+        "competitor_item_name": "EMPORIO ARMANI HE",
+        "brand": "Emporio Armani",
+        "quantity": "100ml",
+        "competitor_description": "EDT Spray, 100ml",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 50.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 8,
+        "similarity_name": 0.842,
+        "similarity_desc": 0.5131,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.7866
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 325,
+      "name": "Calvin Klein CK Free EdT 50ml",
+      "desc": "Top notes are Juniper Berries, Star Anise, Wormwood and Jackfruit; Middle notes are Suede, Tobacco, Coffee and Buchu or Agathosma; Base notes are Virginia Cedar, Oak, Patchouli and Woody Notes; Launched in 2009",
+      "parent_category": "2.Boutique",
+      "sales_category": "Gents Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 140,
+        "competitor_item_name": "CALVIN KLEIN ck free",
+        "brand": "CALVIN KLEIN",
+        "quantity": "50ml",
+        "competitor_description": "EDT spray",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 20.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "similarity_name": 0.9356,
+        "similarity_desc": 0.4906,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8477
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 326,
+      "name": "Versace Eros 50ml EdT",
+      "desc": "Top notes are Mint, Green Apple and Lemon; Middle notes are Tonka Bean, Ambroxan and Geranium; Base notes are Madagascar Vanilla, Virginian Cedar, Atlas Cedar, Vetiver and Oakmoss; Launched in 2012",
+      "parent_category": "2.Boutique",
+      "sales_category": "Gents Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 158,
+        "competitor_item_name": "VERSACE EROS",
+        "brand": "VERSACE",
+        "quantity": "50ml",
+        "competitor_description": "EDT Spray, 50ml",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 60.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 9,
+        "similarity_name": 0.9401,
+        "similarity_desc": 0.5228,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8573
+      },
+      {
+        "competitor_item_id": 169,
+        "competitor_item_name": "VERSACE EROS",
+        "brand": "VERSACE",
+        "quantity": "50ml",
+        "competitor_description": "EDT Spray, 50ml",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 60.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 11,
+        "similarity_name": 0.9401,
+        "similarity_desc": 0.5228,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8573
+      },
+      {
+        "competitor_item_id": 151,
+        "competitor_item_name": "VERSACE Woman",
+        "brand": "VERSACE",
+        "quantity": "50ml",
+        "competitor_description": "EDP spray",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 30.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "similarity_name": 0.8254,
+        "similarity_desc": 0.5294,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 0.8799,
+        "similarity_final": 0.7723
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 329,
+      "name": "YSL Myslf EdP 60ml",
+      "desc": "Top notes are Calabrian bergamot and Bergamot, middle note is Tunisian Orange Blossom, base notes are Ambrofix and Patchouli, Launched in 2023.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Gents Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 153,
+        "competitor_item_name": "YVES SAINT LAURENT Y",
+        "brand": "Yves Saint Laurent",
+        "quantity": "60ml",
+        "competitor_description": "EDP Spray, 60ml",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 77.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 8,
+        "similarity_name": 0.7956,
+        "similarity_desc": 0.5055,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.7527
+      },
+      {
+        "competitor_item_id": 168,
+        "competitor_item_name": "YVES SAINT LAURENT Y",
+        "brand": "YVES SAINT LAURENT",
+        "quantity": "60ml",
+        "competitor_description": "EDP Spray, 60ml",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 77.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 11,
+        "similarity_name": 0.7935,
+        "similarity_desc": 0.5055,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.7512
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 340,
+      "name": "Hugo Boss Dark Blue EdT 75mlUK",
+      "desc": "Top notes are Ginger, Grapefruit, Orange, Lime and Lemon, middle notes are Cypress, Mahogany, Cardamom, Geranium and Sage, base notes are Vanilla, Cedar, Benzoin, Vetiver and Patchouli. Launched in 1999.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Gents Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 149,
+        "competitor_item_name": "HUGO BOSS Dark Blue",
+        "brand": "HUGO BOSS",
+        "quantity": "75ml",
+        "competitor_description": "EDT spray",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 30.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "similarity_name": 0.8983,
+        "similarity_desc": 0.5021,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8238
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 341,
+      "name": "Michael Kors Pour Homme EdP 50",
+      "desc": "Michael Kors Pour Homme EdP 50ml",
+      "parent_category": "2.Boutique",
+      "sales_category": "Gents Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 180,
+        "competitor_item_name": "WONDERLUST",
+        "brand": "MICHAEL KORS",
+        "quantity": "50ml",
+        "competitor_description": "EDP Spray, 50ml",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 60.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 14,
+        "similarity_name": 0.7672,
+        "similarity_desc": 0.721,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 0.8799,
+        "similarity_final": 0.7698
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 348,
+      "name": "Dsquared 2 Wood EdT 50ml",
+      "desc": "Unisex fragrance. Top notes are Lemon, Citron and Pink Pepper. Middle notes are Cedar, Haitian Vetiver, Cypress and Silver Fir. Base notes are Musk and Amber. Launched in 2021.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Gents Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 143,
+        "competitor_item_name": "DSQUARED2 Green Wood",
+        "brand": "DSQUARED2",
+        "quantity": "50ml",
+        "competitor_description": "EDT spray",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 20.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "similarity_name": 0.8906,
+        "similarity_desc": 0.5217,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8224
+      },
+      {
+        "competitor_item_id": 144,
+        "competitor_item_name": "DSQUARED2 Red Wood",
+        "brand": "DSQUARED2",
+        "quantity": "50ml",
+        "competitor_description": "EDT spray",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 20.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "similarity_name": 0.8921,
+        "similarity_desc": 0.5217,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 0.8799,
+        "similarity_final": 0.8174
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 349,
+      "name": "Dsquared 2 Wood 50ml EdT",
+      "desc": "Unisex fragrance. Top notes are Lemon, Citron and Pink Pepper. Middle notes are Cedar, Haitian Vetiver, Cypress and Silver Fir. Base notes are Musk and Amber. Launched in 2021.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Gents Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 143,
+        "competitor_item_name": "DSQUARED2 Green Wood",
+        "brand": "DSQUARED2",
+        "quantity": "50ml",
+        "competitor_description": "EDT spray",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 20.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "similarity_name": 0.8915,
+        "similarity_desc": 0.5217,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.823
+      },
+      {
+        "competitor_item_id": 144,
+        "competitor_item_name": "DSQUARED2 Red Wood",
+        "brand": "DSQUARED2",
+        "quantity": "50ml",
+        "competitor_description": "EDT spray",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 20.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "similarity_name": 0.892,
+        "similarity_desc": 0.5217,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 0.8799,
+        "similarity_final": 0.8174
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 350,
+      "name": "Versace Eros Energy 50ml.",
+      "desc": "Top notes are Lemon, Lime, Grapefruit, Blood Orange, Sicilian Bergamot and Mandarin Orange. Middle notes are Pink Pepper, White Amber and Black Currant. Base notes are Oakmoss, Musk and Patchouli. Lanuched in 2024.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Gents Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 158,
+        "competitor_item_name": "VERSACE EROS",
+        "brand": "VERSACE",
+        "quantity": "50ml",
+        "competitor_description": "EDT Spray, 50ml",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 60.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 9,
+        "similarity_name": 0.8745,
+        "similarity_desc": 0.4733,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8014
+      },
+      {
+        "competitor_item_id": 169,
+        "competitor_item_name": "VERSACE EROS",
+        "brand": "VERSACE",
+        "quantity": "50ml",
+        "competitor_description": "EDT Spray, 50ml",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 60.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 11,
+        "similarity_name": 0.8745,
+        "similarity_desc": 0.4733,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8014
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 352,
+      "name": "Versace Eros Energy 50ml",
+      "desc": "Top notes are Lemon, Lime, Grapefruit, Blood Orange, Sicilian Bergamot and Mandarin Orange. Middle notes are Pink Pepper, White Amber and Black Currant. Base notes are Oakmoss, Musk and Patchouli. Lanuched in 2024.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Gents Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 158,
+        "competitor_item_name": "VERSACE EROS",
+        "brand": "VERSACE",
+        "quantity": "50ml",
+        "competitor_description": "EDT Spray, 50ml",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 60.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 9,
+        "similarity_name": 0.8986,
+        "similarity_desc": 0.4733,
+        "similarity_parent": 0.8927,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8183
+      },
+      {
+        "competitor_item_id": 169,
+        "competitor_item_name": "VERSACE EROS",
+        "brand": "VERSACE",
+        "quantity": "50ml",
+        "competitor_description": "EDT Spray, 50ml",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 60.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 11,
+        "similarity_name": 0.8986,
+        "similarity_desc": 0.4733,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8183
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 356,
+      "name": "Banderas Essence of Success",
+      "desc": "Top notes: Bergamot, Green Apple. Middle notes: Sage, Lavender, Geranium. Base notes: Patchouli, Amber. Launched in 2025.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Gents Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 139,
+        "competitor_item_name": "BANDERAS Essence Of Success",
+        "brand": "BANDERAS",
+        "quantity": "100ml",
+        "competitor_description": "EDT spray",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 20.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "similarity_name": 0.874,
+        "similarity_desc": 0.5309,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8126
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 358,
+      "name": "Banderas Essence of Success.",
+      "desc": "Top notes: Bergamot, Green Apple. Middle notes: Sage, Lavender, Geranium. Base notes: Patchouli, Amber. Launched in 2025.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Gents Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 139,
+        "competitor_item_name": "BANDERAS Essence Of Success",
+        "brand": "BANDERAS",
+        "quantity": "100ml",
+        "competitor_description": "EDT spray",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 20.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "similarity_name": 0.8604,
+        "similarity_desc": 0.5309,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8031
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 374,
+      "name": "Black Tea",
+      "desc": "Tea time? Try the delicious tea selection with full flavor. Birchall English Breakfast Tea is a unique, masterful blend, closely guarded by the fifth generation of Birchall Grahams family. Our teas are sourced entirely from estates across East Africa, from Rwanda through to the Rift Valley in Kenya, where the very best teas are to be found.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Hot Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 249,
+        "competitor_item_name": "Tea",
+        "brand": "",
+        "quantity": "",
+        "competitor_description": "Light and refreshing black tea",
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 3.75,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 24,
+        "similarity_name": 0.8595,
+        "similarity_desc": 0.4954,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.7951
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 375,
+      "name": "Green Tea",
+      "desc": "Tea time? Here is the exotic & enchanting green tea, rich in anti-oxidants.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Hot Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 249,
+        "competitor_item_name": "Tea",
+        "brand": "",
+        "quantity": "",
+        "competitor_description": "Light and refreshing black tea",
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 3.75,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 24,
+        "similarity_name": 0.8474,
+        "similarity_desc": 0.6119,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.81
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 376,
+      "name": "Berries Tea",
+      "desc": "Tea time? Try this fruity, refreshing, rich in anti-oxidants and naturally caffeine free tea.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Hot Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 249,
+        "competitor_item_name": "Tea",
+        "brand": "",
+        "quantity": "",
+        "competitor_description": "Light and refreshing black tea",
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 3.75,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 24,
+        "similarity_name": 0.785,
+        "similarity_desc": 0.6592,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.7758
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 379,
+      "name": "Starbucks Cappuccino",
+      "desc": "Starbucks Cappucino? Get your favourite on board, 100% Arabica beans blended together with dairy milk and topped with a thick layer of foam .",
+      "parent_category": "1.Cafe",
+      "sales_category": "Hot Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 252,
+        "competitor_item_name": "Cappuccino",
+        "brand": "",
+        "quantity": "",
+        "competitor_description": "Delicious espresso with frothy milk",
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 3.75,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 24,
+        "similarity_name": 0.8694,
+        "similarity_desc": 0.6354,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8301
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 381,
+      "name": "Starbucks Hot Chocolate",
+      "desc": "The perfect match with a rich chocolate powder layered with hints of delicious salted caramel taste for a delicious hot chocolate above the clouds. A smooth chocolate taste with caramelly notes.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Hot Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 253,
+        "competitor_item_name": "Hot Chocolate",
+        "brand": "",
+        "quantity": "",
+        "competitor_description": "Rich and creamy",
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 4.25,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 24,
+        "similarity_name": 0.8569,
+        "similarity_desc": 0.5335,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8009
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 383,
+      "name": "Hot Chocolate",
+      "desc": "The perfect blend of rich and velvety hot chocolate - make every sip an experience to remember!",
+      "parent_category": "1.Cafe",
+      "sales_category": "Hot Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 253,
+        "competitor_item_name": "Hot Chocolate",
+        "brand": "",
+        "quantity": "",
+        "competitor_description": "Rich and creamy",
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 4.25,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 24,
+        "similarity_name": 1.0,
+        "similarity_desc": 0.5874,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.9119
+      },
+      {
+        "competitor_item_id": 75,
+        "competitor_item_name": "Cadbury Hot Chocolate",
+        "brand": "Cadbury",
+        "quantity": "",
+        "competitor_description": "",
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 3.5,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 8,
+        "similarity_name": 0.863,
+        "similarity_desc": 0.4179,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.7821
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 384,
+      "name": "Cadbury Hot Chocolate",
+      "desc": "Your very own hus in a mug. Deliciously silky and sweet just give it a good stir and you are ready to feel all warm inside. Made with sustainably sourced cocoa.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Hot Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 75,
+        "competitor_item_name": "Cadbury Hot Chocolate",
+        "brand": "Cadbury",
+        "quantity": "",
+        "competitor_description": "",
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 3.5,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 8,
+        "similarity_name": 0.9871,
+        "similarity_desc": 0.3424,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8539
+      },
+      {
+        "competitor_item_id": 253,
+        "competitor_item_name": "Hot Chocolate",
+        "brand": "",
+        "quantity": "",
+        "competitor_description": "Rich and creamy",
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 4.25,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 24,
+        "similarity_name": 0.8731,
+        "similarity_desc": 0.4945,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8045
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 385,
+      "name": "English Breakfast Tea",
+      "desc": "Tea time? Try the delicious English Breakfast Tea with full flavour.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Hot Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 249,
+        "competitor_item_name": "Tea",
+        "brand": "",
+        "quantity": "",
+        "competitor_description": "Light and refreshing black tea",
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 3.75,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 24,
+        "similarity_name": 0.7866,
+        "similarity_desc": 0.5788,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.7608
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 386,
+      "name": "Jasmine Green Tea",
+      "desc": "Tea time? Here is the exotic  and  enchanting green tea, rich in anti-oxidants.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Hot Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 249,
+        "competitor_item_name": "Tea",
+        "brand": "",
+        "quantity": "",
+        "competitor_description": "Light and refreshing black tea",
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 3.75,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 24,
+        "similarity_name": 0.7709,
+        "similarity_desc": 0.6239,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.7588
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 392,
+      "name": "Cadbury Hot Chocolate 28g",
+      "desc": "Your very own hug in a mug. Deliciously silky and sweet - just give it a good stir and you re ready to feel all warm inside! Made with sustainably sourced cocoa.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Hot Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 75,
+        "competitor_item_name": "Cadbury Hot Chocolate",
+        "brand": "Cadbury",
+        "quantity": "",
+        "competitor_description": "",
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 3.5,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 8,
+        "similarity_name": 0.9004,
+        "similarity_desc": 0.3639,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.7975
+      },
+      {
+        "competitor_item_id": 253,
+        "competitor_item_name": "Hot Chocolate",
+        "brand": "",
+        "quantity": "",
+        "competitor_description": "Rich and creamy",
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 4.25,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 24,
+        "similarity_name": 0.7924,
+        "similarity_desc": 0.525,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.7541
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 401,
+      "name": "Earl Grey Tea",
+      "desc": "Earl Grey tea is one of the best known tea blends on the market. Traditionally,it is a simple blend of black tea and oil of bergamot.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Hot Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 249,
+        "competitor_item_name": "Tea",
+        "brand": "",
+        "quantity": "",
+        "competitor_description": "Light and refreshing black tea",
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 3.75,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 24,
+        "similarity_name": 0.7867,
+        "similarity_desc": 0.5265,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.7504
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 402,
+      "name": "Segafredo Coffee",
+      "desc": "Freshly brewed black coffee.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Hot Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 250,
+        "competitor_item_name": "Lavazza Coffee",
+        "brand": "Lavazza",
+        "quantity": "",
+        "competitor_description": "Freshly brewed Italian coffee",
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 3.75,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 24,
+        "similarity_name": 0.7731,
+        "similarity_desc": 0.785,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.7926
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 403,
+      "name": "Segafredo Cappuccino",
+      "desc": "Rich coffee & creamy milk.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Hot Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 252,
+        "competitor_item_name": "Cappuccino",
+        "brand": "",
+        "quantity": "",
+        "competitor_description": "Delicious espresso with frothy milk",
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 3.75,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 24,
+        "similarity_name": 0.8434,
+        "similarity_desc": 0.7568,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8362
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 405,
+      "name": "Segafredo Hot Chocolate",
+      "desc": "Velvety & indulgent.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Hot Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 253,
+        "competitor_item_name": "Hot Chocolate",
+        "brand": "",
+        "quantity": "",
+        "competitor_description": "Rich and creamy",
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 4.25,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 24,
+        "similarity_name": 0.8273,
+        "similarity_desc": 0.719,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8173
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 406,
+      "name": "Segafredo Ground Coffee",
+      "desc": "Freshly brewed black coffee.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Hot Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 250,
+        "competitor_item_name": "Lavazza Coffee",
+        "brand": "Lavazza",
+        "quantity": "",
+        "competitor_description": "Freshly brewed Italian coffee",
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 3.75,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 24,
+        "similarity_name": 0.728,
+        "similarity_desc": 0.785,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.761
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 407,
+      "name": "Segafredo Cappuccino cup",
+      "desc": "Rich coffee & creamy milk.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Hot Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 252,
+        "competitor_item_name": "Cappuccino",
+        "brand": "",
+        "quantity": "",
+        "competitor_description": "Delicious espresso with frothy milk",
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 3.75,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 24,
+        "similarity_name": 0.7792,
+        "similarity_desc": 0.7568,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.7912
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 409,
+      "name": "Segafredo Hot Chocolate cup",
+      "desc": "Velvety & indulgent.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Hot Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 253,
+        "competitor_item_name": "Hot Chocolate",
+        "brand": "",
+        "quantity": "",
+        "competitor_description": "Rich and creamy",
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 4.25,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 24,
+        "similarity_name": 0.7518,
+        "similarity_desc": 0.719,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.7644
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 415,
+      "name": "Versace Woman",
+      "desc": "Versace Woman",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 151,
+        "competitor_item_name": "VERSACE Woman",
+        "brand": "VERSACE",
+        "quantity": "50ml",
+        "competitor_description": "EDP spray",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 30.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "similarity_name": 0.8783,
+        "similarity_desc": 0.5742,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8243
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 416,
+      "name": "CK Sheer Beauty 50ml",
+      "desc": "Top notes are Bellini, Bergamot and Red Berries, middle notes are Peony, Jasmine and Pink Lily, base notes are Musk, Sandalwood and Vanilla. Launched in 2012.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 142,
+        "competitor_item_name": "CALVIN KLEIN Sheer Beauty",
+        "brand": "CALVIN KLEIN",
+        "quantity": "50ml",
+        "competitor_description": "EDT spray",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 20.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "similarity_name": 0.8695,
+        "similarity_desc": 0.4941,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8021
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 418,
+      "name": "Hugo Boss MaVie L'Eau EdT 50ml",
+      "desc": "Floral fragrance for women ; Inspired by spring, tempting scent ; Top note is Cactus Flower; middle notes are Peony, Magnolia and Pink Rose; base notes are White Musk and Cedar; Launched in 2018",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 152,
+        "competitor_item_name": "BOSS Ma Vie L'Eau",
+        "brand": "BOSS",
+        "quantity": "50ml",
+        "competitor_description": "EDT spray",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 30.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "similarity_name": 0.8965,
+        "similarity_desc": 0.5149,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8252
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 419,
+      "name": "CH Good Girl EdP 30ml",
+      "desc": "Sexy, amber floral, oriental fragrance for women. Top notes of Almond and Coffee give way to a heart of exotic Jasmine Sambac and Tuberose. The depth of Cocoa, Tonka Beans, Vanilla, and Sandalwood round off the distinctive base note. Launched in 2016",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 178,
+        "competitor_item_name": "GOOD GIRL",
+        "brand": "CAROLINA HERRERA",
+        "quantity": "30ml",
+        "competitor_description": "EDP Spray, 30ml",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 61.5,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 14,
+        "similarity_name": 0.8483,
+        "similarity_desc": 0.5235,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.7932
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 420,
+      "name": "Michael K Sexy Amber",
+      "desc": "Top notes is Amber; Middle notes is Sandalwood; Base notes in Jasmine; Launched in 2013",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 174,
+        "competitor_item_name": "MICHAEL KORS SEXY AMBER",
+        "brand": "Michael Kors",
+        "quantity": "100ml",
+        "competitor_description": "EDP Spray, 100ml",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 40.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 13,
+        "similarity_name": 0.8568,
+        "similarity_desc": 0.5173,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.7978
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 424,
+      "name": "YSL Libre EdP 30ml",
+      "desc": "A sensual oriental fougere. A fragrance of liberty and freedom and of living by your own rules. Top notes: Mandarin orange, lavender and black currant",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 177,
+        "competitor_item_name": "YVES SAINT LAURENT LIBRE",
+        "brand": "Yves Saint Laurent",
+        "quantity": "30ml",
+        "competitor_description": "EDP Spray, 30ml",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 68.5,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 13,
+        "similarity_name": 0.9022,
+        "similarity_desc": 0.5493,
+        "similarity_parent": 0.893,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8361
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 427,
+      "name": "Giorgio Armani She EdP 100ml",
+      "desc": "Top notes are Citruses and Pear, Middle notes are Heliotrope, Cardamon, Angelica and Jasmine Base notes are White Musk, Almond, Vanilla, Cedar and Amber, Launched in 2020",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 172,
+        "competitor_item_name": "EMPORIO ARMANI SHE",
+        "brand": "Emporio Armani",
+        "quantity": "100ml",
+        "competitor_description": "EDP Spray, 100ml",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 50.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 12,
+        "similarity_name": 0.8851,
+        "similarity_desc": 0.5375,
+        "similarity_parent": 0.8927,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8217
+      },
+      {
+        "competitor_item_id": 154,
+        "competitor_item_name": "EMPORIO ARMANI HE",
+        "brand": "Emporio Armani",
+        "quantity": "100ml",
+        "competitor_description": "EDT Spray, 100ml",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 50.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 8,
+        "similarity_name": 0.807,
+        "similarity_desc": 0.5199,
+        "similarity_parent": 0.8927,
+        "similarity_sales": 0.8799,
+        "similarity_final": 0.7575
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 429,
+      "name": "Elizabeth Arden 5th Avenue EdP",
+      "desc": "Fragrance classification: floral woody musky. Top notes are Petitgrain Sicily, Pink Peppercorn and Sparkling Prosecco Accord. Intricate, elegant and refined. Launched in 2017",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 141,
+        "competitor_item_name": "ELIZABETH ARDEN 5th Avenue NYC Uptown",
+        "brand": "ELIZABETH ARDEN",
+        "quantity": "75ml",
+        "competitor_description": "EDP spray",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 20.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "similarity_name": 0.8667,
+        "similarity_desc": 0.579,
+        "similarity_parent": 0.893,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8172
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 433,
+      "name": "Lancome La vie est belle 30ml",
+      "desc": "Lancome",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 176,
+        "competitor_item_name": "LANCÔME TRÉSOR",
+        "brand": "Lancôme",
+        "quantity": "30ml",
+        "competitor_description": "EDP Spray, 30ml",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 40.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 13,
+        "similarity_name": 0.8038,
+        "similarity_desc": 0.5224,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.7617
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 435,
+      "name": "Dsquared2 Red Wood EdT 50ml",
+      "desc": "Top notes are Cranberry, Pink Pepper; Middle notes are Litchi, Rose, Magnolia; Base notes are Musk, Cedar, Amberwood; Launched in 2019",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 144,
+        "competitor_item_name": "DSQUARED2 Red Wood",
+        "brand": "DSQUARED2",
+        "quantity": "50ml",
+        "competitor_description": "EDT spray",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 20.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "similarity_name": 0.9519,
+        "similarity_desc": 0.5068,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8623
+      },
+      {
+        "competitor_item_id": 143,
+        "competitor_item_name": "DSQUARED2 Green Wood",
+        "brand": "DSQUARED2",
+        "quantity": "50ml",
+        "competitor_description": "EDT spray",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 20.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "similarity_name": 0.8649,
+        "similarity_desc": 0.5068,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 0.8799,
+        "similarity_final": 0.7954
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 436,
+      "name": "Michael Kors Wonderlust EdP 50",
+      "desc": "Top notes are Almond Milk, Bergamot, Pink Pepper; Middle notes are Heliotrope, Jasmine Sambac, Carnation; Base notes are Sandalwood, Benzoin, Cashmere Wood; Launched in 2016",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 180,
+        "competitor_item_name": "WONDERLUST",
+        "brand": "MICHAEL KORS",
+        "quantity": "50ml",
+        "competitor_description": "EDP Spray, 50ml",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 60.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 14,
+        "similarity_name": 0.9168,
+        "similarity_desc": 0.4994,
+        "similarity_parent": 0.893,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8363
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 441,
+      "name": "Jean Paul Gaultier Scandal EdP",
+      "desc": "Top notes are Blood Orange and Mandarin Orange, Middle notes are Honey, Gardenia, Orange Blossom, Jasmine and Peach, Base notes are Beeswax, Caramel, Patchouli and Licorice, Launched in 2017",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 157,
+        "competitor_item_name": "JEAN PAUL GAULTIER SCANDAL POUR HOMME",
+        "brand": "JEAN PAUL GAULTIER",
+        "quantity": "50ml",
+        "competitor_description": "EDT Spray, 50ml",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 70.5,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 9,
+        "similarity_name": 0.8488,
+        "similarity_desc": 0.4783,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 0.8799,
+        "similarity_final": 0.7784
+      },
+      {
+        "competitor_item_id": 170,
+        "competitor_item_name": "JEAN PAUL GAULTIER SCANDAL POUR HOMME",
+        "brand": "JEAN PAUL GAULTIER",
+        "quantity": "50ml",
+        "competitor_description": "EDT Spray, 50ml",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 70.5,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 11,
+        "similarity_name": 0.8488,
+        "similarity_desc": 0.4783,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 0.8799,
+        "similarity_final": 0.7784
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 443,
+      "name": "Versace Woman EdP 100ml",
+      "desc": "Top notes: Rose, Jasmine Leaf and Bergamot; Middle notes: Raspberry, Plum, Lotus and Cedar ; Base notes: Musk and Amber; Launched in 2000",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 151,
+        "competitor_item_name": "VERSACE Woman",
+        "brand": "VERSACE",
+        "quantity": "50ml",
+        "competitor_description": "EDP spray",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 30.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "similarity_name": 0.9109,
+        "similarity_desc": 0.5454,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8413
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 444,
+      "name": "CK Sheer Beauty EdT 50ml",
+      "desc": "Head notes: bergamot, currant, Bellini cocktail; Base notes: sandalwood, vanilla, musk; Heart notes: jasmine, lily, peony; Launched in 2012",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 142,
+        "competitor_item_name": "CALVIN KLEIN Sheer Beauty",
+        "brand": "CALVIN KLEIN",
+        "quantity": "50ml",
+        "competitor_description": "EDT spray",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 20.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "similarity_name": 0.8568,
+        "similarity_desc": 0.4748,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.7893
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 446,
+      "name": "Hugo Boss Ma Vie L`eau EdT 50m",
+      "desc": "Floral fragrance for women; Inspired by spring, tempting scent; Top note is Cactus Flower; middle notes are Peony, Magnolia and Pink Rose; base notes are White Musk and Cedar; Launched in 2018",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 152,
+        "competitor_item_name": "BOSS Ma Vie L'Eau",
+        "brand": "BOSS",
+        "quantity": "50ml",
+        "competitor_description": "EDT spray",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 30.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "similarity_name": 0.9015,
+        "similarity_desc": 0.5174,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8292
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 447,
+      "name": "Carolina Herrera Good Girl EdP",
+      "desc": "Sexy, amber floral, oriental fragrance for women;  Top notes of Almond and Coffee give way to a heart of exotic Jasmine Sambac and Tuberose. The depth of Cocoa, Tonka Beans, Vanilla, and Sandalwood round off the distinctive base note.; Launched in 2016",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 178,
+        "competitor_item_name": "GOOD GIRL",
+        "brand": "CAROLINA HERRERA",
+        "quantity": "30ml",
+        "competitor_description": "EDP Spray, 30ml",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 61.5,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 14,
+        "similarity_name": 0.8809,
+        "similarity_desc": 0.5164,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8145
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 448,
+      "name": "Michael Kors Sexy Amber EdP",
+      "desc": "Top notes is Amber; Middle notes is Sandalwood; Base notes in Jasmine; Launched in 2013",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 174,
+        "competitor_item_name": "MICHAEL KORS SEXY AMBER",
+        "brand": "Michael Kors",
+        "quantity": "100ml",
+        "competitor_description": "EDP Spray, 100ml",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 40.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 13,
+        "similarity_name": 0.9185,
+        "similarity_desc": 0.5173,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8411
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 449,
+      "name": "Giorgio Armani She EdP 100m",
+      "desc": "Top notes are Citruses and Pear; Middle notes are Heliotrope, Cardamon, Angelica and Jasmine; Base notes are White Musk, Almond, Vanilla, Cedar and Amber; Launched in 2020",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 172,
+        "competitor_item_name": "EMPORIO ARMANI SHE",
+        "brand": "Emporio Armani",
+        "quantity": "100ml",
+        "competitor_description": "EDP Spray, 100ml",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 50.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 12,
+        "similarity_name": 0.8703,
+        "similarity_desc": 0.5343,
+        "similarity_parent": 0.893,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8107
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 453,
+      "name": "Michael Kors Wonderlust EdP",
+      "desc": "Top notes are Almond Milk, Bergamot, Pink Pepper; Middle notes are Heliotrope, Jasmine Sambac, Carnation; Base notes are Sandalwood, Benzoin, Cashmere Wood; Launched in 2016",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 180,
+        "competitor_item_name": "WONDERLUST",
+        "brand": "MICHAEL KORS",
+        "quantity": "50ml",
+        "competitor_description": "EDP Spray, 50ml",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 60.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 14,
+        "similarity_name": 0.9047,
+        "similarity_desc": 0.4994,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8278
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 456,
+      "name": "Antonio Banderas The Icon Fem",
+      "desc": "Top notes are Bergamot, Pear, Tangerine and Black Currant;  Middle notes are Lavender, Orange Blossom, Freesia, Jasmine and Rose; Base notes are Tonka Bean, Vanilla, Musk and Sandalwood;  Launched in 2023",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 148,
+        "competitor_item_name": "BANDERAS The Icon Feminine",
+        "brand": "BANDERAS",
+        "quantity": "100ml",
+        "competitor_description": "EDP spray",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 30.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "similarity_name": 0.8126,
+        "similarity_desc": 0.5378,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.771
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 460,
+      "name": "Lancome Tresor EdP 30ml",
+      "desc": "Top notes are Peach, Rose, Apricot Blossom, Lilac, Pineapple, Lily-of-the-Valley and Bergamot, middle notes are Rose, Iris, Heliotrope and Jasmine, base notes are Peach, Apricot, Vanilla, Sandalwood, Amber and Musk, Launched in 1990.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 176,
+        "competitor_item_name": "LANCÔME TRÉSOR",
+        "brand": "Lancôme",
+        "quantity": "30ml",
+        "competitor_description": "EDP Spray, 30ml",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 40.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 13,
+        "similarity_name": 0.9183,
+        "similarity_desc": 0.4651,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8304
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 467,
+      "name": "Lancome Tresor 30ml EdP",
+      "desc": "Top notes are Peach, Rose, Apricot Blossom, Lilac, Pineapple, Lily-of-the-Valley and Bergamot, middle notes are Rose, Iris, Heliotrope and Jasmine, base notes are Peach, Apricot, Vanilla, Sandalwood, Amber and Musk, Launched in 1990.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 176,
+        "competitor_item_name": "LANCÔME TRÉSOR",
+        "brand": "Lancôme",
+        "quantity": "30ml",
+        "competitor_description": "EDP Spray, 30ml",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 40.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 13,
+        "similarity_name": 0.9092,
+        "similarity_desc": 0.4651,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8241
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 473,
+      "name": "Banderas Her Golden Secret EdT",
+      "desc": "Banderas Her Golden Secret EdT 80ml",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 146,
+        "competitor_item_name": "BANDERAS The Golden Secret",
+        "brand": "BANDERAS",
+        "quantity": "100ml",
+        "competitor_description": "EDT spray",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 20.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "similarity_name": 0.8909,
+        "similarity_desc": 0.6103,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 0.8799,
+        "similarity_final": 0.8343
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 475,
+      "name": "Marc Jacobs Daisy Wild EdP 30m",
+      "desc": "Marc Jacobs Daisy Wild EdP 30ml",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 175,
+        "competitor_item_name": "MARC JACOBS DAISY WILD",
+        "brand": "Marc Jacobs",
+        "quantity": "30ml",
+        "competitor_description": "EDP Spray, 30ml",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 59.5,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 13,
+        "similarity_name": 0.9335,
+        "similarity_desc": 0.7322,
+        "similarity_parent": 0.893,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8945
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 476,
+      "name": "Banderas Her Golden S.EdT UK",
+      "desc": "Banderas Her Golden Secret EdT 80ml UK",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 146,
+        "competitor_item_name": "BANDERAS The Golden Secret",
+        "brand": "BANDERAS",
+        "quantity": "100ml",
+        "competitor_description": "EDT spray",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 20.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "similarity_name": 0.7896,
+        "similarity_desc": 0.5968,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 0.8799,
+        "similarity_final": 0.7607
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 478,
+      "name": "Marc Jacobs Daisy Wild EdP UK",
+      "desc": "Top note is Banana Flower, middle notes are Jasmine and Macadamia, base notes are Vetiver and Sandalwood. Launched in 2024.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 175,
+        "competitor_item_name": "MARC JACOBS DAISY WILD",
+        "brand": "Marc Jacobs",
+        "quantity": "30ml",
+        "competitor_description": "EDP Spray, 30ml",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 59.5,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 13,
+        "similarity_name": 0.8659,
+        "similarity_desc": 0.4453,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.7898
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 483,
+      "name": "Versace Woman EdP 50ml",
+      "desc": "Top notes are Rose, Jasmine Leaf and Bergamot. Middle notes are Raspberry, Plum, Lotus and Cedar. Base notes are Musk and Amber. Launched in 2000.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 151,
+        "competitor_item_name": "VERSACE Woman",
+        "brand": "VERSACE",
+        "quantity": "50ml",
+        "competitor_description": "EDP spray",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 30.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "similarity_name": 0.9426,
+        "similarity_desc": 0.5402,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8625
+      },
+      {
+        "competitor_item_id": 158,
+        "competitor_item_name": "VERSACE EROS",
+        "brand": "VERSACE",
+        "quantity": "50ml",
+        "competitor_description": "EDT Spray, 50ml",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 60.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 9,
+        "similarity_name": 0.8085,
+        "similarity_desc": 0.5039,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 0.8799,
+        "similarity_final": 0.7554
+      },
+      {
+        "competitor_item_id": 169,
+        "competitor_item_name": "VERSACE EROS",
+        "brand": "VERSACE",
+        "quantity": "50ml",
+        "competitor_description": "EDT Spray, 50ml",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 60.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 11,
+        "similarity_name": 0.8085,
+        "similarity_desc": 0.5039,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 0.8799,
+        "similarity_final": 0.7554
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 484,
+      "name": "Valentino Valentina 50ml",
+      "desc": "Top notes are Strawberry and Bergamot. Middle notes are Jasmine Sambac and Patchouli. Base notes are Vanilla and Cedar Essence. Launched in 2025.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 171,
+        "competitor_item_name": "VALENTINO VALENTINA",
+        "brand": "Valentino",
+        "quantity": "50ml",
+        "competitor_description": "EDP Spray, 50ml",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 50.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 12,
+        "similarity_name": 0.9541,
+        "similarity_desc": 0.5126,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.865
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 487,
+      "name": "Versace Woman 50ml EdP",
+      "desc": "Top notes are Rose, Jasmine Leaf and Bergamot. Middle notes are Raspberry, Plum, Lotus and Cedar. Base notes are Musk and Amber. Launched in 2000.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 151,
+        "competitor_item_name": "VERSACE Woman",
+        "brand": "VERSACE",
+        "quantity": "50ml",
+        "competitor_description": "EDP spray",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 30.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "similarity_name": 0.933,
+        "similarity_desc": 0.5402,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8558
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 488,
+      "name": "Valentino Valentina 50ml EdP",
+      "desc": "Top notes are Strawberry and Bergamot. Middle notes are Jasmine Sambac and Patchouli. Base notes are Vanilla and Cedar Essence. Launched in 2025.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 171,
+        "competitor_item_name": "VALENTINO VALENTINA",
+        "brand": "Valentino",
+        "quantity": "50ml",
+        "competitor_description": "EDP Spray, 50ml",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 50.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 12,
+        "similarity_name": 0.9261,
+        "similarity_desc": 0.5125,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8454
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 490,
+      "name": "Michael Kors Gorgeous 50ml EdP",
+      "desc": "Top notes are Pink Pepper and Mandarin Orange. Middle notes are Tuberose, Jasmine Sambac, Orange Blossom, Tobacco and Ylang-Ylang. Base notes are Tonka Bean, Guaiac Wood, Cedar, Cashmeran, Benzoin, Suede and Styrax. Launched in 2021.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 180,
+        "competitor_item_name": "WONDERLUST",
+        "brand": "MICHAEL KORS",
+        "quantity": "50ml",
+        "competitor_description": "EDP Spray, 50ml",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 60.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 14,
+        "similarity_name": 0.8172,
+        "similarity_desc": 0.4692,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.7605
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 496,
+      "name": "Viktor&Rolf Flowerbomb EdP",
+      "desc": "Top notes: Tea, Bergamot and Osmanthus. Middle notes are Orchid, Jasmine, Rose, Freesia and African Orange Flower. Base notes are Patchouli, Musk and Vanilla. Launched in 2005.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 150,
+        "competitor_item_name": "VIKTOR & ROLF Flowerbomb",
+        "brand": "VIKTOR & ROLF",
+        "quantity": "20ml",
+        "competitor_description": "EDP spray",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 30.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "similarity_name": 0.8518,
+        "similarity_desc": 0.5351,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.7979
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 499,
+      "name": "YSL Libre 30ml EdP",
+      "desc": "Top notes: Lavender, Mandarin Orange, Black Currant and Petitgrain. Middle notes: Lavender, Orange Blossom and Jasmine. Base notes: Madagascar Vanilla, Musk, Cedar and Ambergris. Launched in 2019.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 177,
+        "competitor_item_name": "YVES SAINT LAURENT LIBRE",
+        "brand": "Yves Saint Laurent",
+        "quantity": "30ml",
+        "competitor_description": "EDP Spray, 30ml",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 68.5,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 13,
+        "similarity_name": 0.9053,
+        "similarity_desc": 0.5497,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8383
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 500,
+      "name": "Elizabeth Arden 5th Ave. 75ml",
+      "desc": "Top notes are Petitgrain Sicily, Pink Peppercorn and Sparkling Prosecco Accord. Intricate, elegant and refined. Launched in 2017",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 141,
+        "competitor_item_name": "ELIZABETH ARDEN 5th Avenue NYC Uptown",
+        "brand": "ELIZABETH ARDEN",
+        "quantity": "75ml",
+        "competitor_description": "EDP spray",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 20.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "similarity_name": 0.8972,
+        "similarity_desc": 0.5454,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8317
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 503,
+      "name": "Viktor&Rolf Flowerbomb 20ml",
+      "desc": "Top notes: Tea, Bergamot and Osmanthus. Middle notes are Orchid, Jasmine, Rose, Freesia and African Orange Flower. Base notes are Patchouli, Musk and Vanilla. Launched in 2005.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 150,
+        "competitor_item_name": "VIKTOR & ROLF Flowerbomb",
+        "brand": "VIKTOR & ROLF",
+        "quantity": "20ml",
+        "competitor_description": "EDP spray",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 30.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "similarity_name": 0.9765,
+        "similarity_desc": 0.5351,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8852
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 537,
+      "name": "Tapas box",
+      "desc": "Make a real deal by ordering this premium Tapas plate, the flavour of the cured meat, speciality cheese and a variety of crackers will pop in your mouth and make you enjoy every bite, It is even better with two wine glasses to share!",
+      "parent_category": "1.Cafe",
+      "sales_category": "Savoury Snacks"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 63,
+        "competitor_item_name": "Spanish Tapas",
+        "brand": "",
+        "quantity": "",
+        "competitor_description": "Picos Cracker pack, Serrano jamon, garlic and thyme olives and sobrasada paste.",
+        "parent_category": "Cafe",
+        "sales_category": "Savoury Snacks",
+        "price": 6.5,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 7,
+        "similarity_name": 0.788,
+        "similarity_desc": 0.6218,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.7704
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 575,
+      "name": "Tapas plate",
+      "desc": "Tapas plate with mixed olives, bruschetta cup, sticks fuet, breadsticks and cheese pops.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Savoury Snacks"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 63,
+        "competitor_item_name": "Spanish Tapas",
+        "brand": "",
+        "quantity": "",
+        "competitor_description": "Picos Cracker pack, Serrano jamon, garlic and thyme olives and sobrasada paste.",
+        "parent_category": "Cafe",
+        "sales_category": "Savoury Snacks",
+        "price": 6.5,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 7,
+        "similarity_name": 0.8099,
+        "similarity_desc": 0.7078,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8029
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 626,
+      "name": "Sol de Janeiro 62 mist 90ml",
+      "desc": "Experience the sweet sensation of the iconic perfume mist, with delicious notes of pistachio, salted caramel, and vanilla. Feels like summer all year round. Cheirosa 62 Mist is inspired by the year 1962.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Skincare & Make-up"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 190,
+        "competitor_item_name": "Perfume Mist",
+        "brand": "Sol de Janeiro",
+        "quantity": "90 ml",
+        "competitor_description": "Warm and delicious scent with pistachio and salted caramel.",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 20.5,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 16,
+        "similarity_name": 0.8965,
+        "similarity_desc": 0.642,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 0.7111,
+        "similarity_final": 0.8361
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 627,
+      "name": "Sol de Janeiro Bum Bum Cream",
+      "desc": "Helps visibly smooth and tighten the appearance of the skin thanks to potent, caffeine-rich Guarana Extract. Fast absorbing Cupuacu Butter delivers deep hydration and essential fatty-acids deep into the skin. Pistachio, salted caramel and vanilla scented.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Skincare & Make-up"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 191,
+        "competitor_item_name": "Brazilian Bum Bum Cream",
+        "brand": "Sol de Janeiro",
+        "quantity": "75 ml",
+        "competitor_description": "Fast-absorbing body cream with a visibly tightening formula.",
+        "parent_category": "Boutique",
+        "sales_category": "Skincare & Make-up",
+        "price": 17.9,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 16,
+        "similarity_name": 0.8896,
+        "similarity_desc": 0.6962,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8566
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 630,
+      "name": "L'oreal Shades of Nudes Trio",
+      "desc": "A lipstick trio collection, that celebrates the timeless beauty of nude shades. It offers a range of nude tones that suit every skin tone and occasion, providing a versatile and sophisticated lip look.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Skincare & Make-up"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 183,
+        "competitor_item_name": "Color Riche Nude Lipsticks Trio",
+        "brand": "L’Oréal Paris",
+        "quantity": "3",
+        "competitor_description": "This set contains three full size Color Riche nude lipsticks (Nude 235, Violet Saturne 214, Rose Tendre 303).",
+        "parent_category": "Boutique",
+        "sales_category": "Skincare & Make-up",
+        "price": 29.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 15,
+        "similarity_name": 0.8548,
+        "similarity_desc": 0.7074,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8345
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 636,
+      "name": "Sol de Janeiro 62 mist 90 ml",
+      "desc": "Experience the sweet sensation of the iconic perfume mist, with delicious notes of pistachio, salted caramel, and vanilla. Feels like summer all year round. Cheirosa 62 Mist is inspired by the year 1962.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Skincare & Make-up"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 190,
+        "competitor_item_name": "Perfume Mist",
+        "brand": "Sol de Janeiro",
+        "quantity": "90 ml",
+        "competitor_description": "Warm and delicious scent with pistachio and salted caramel.",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 20.5,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 16,
+        "similarity_name": 0.9019,
+        "similarity_desc": 0.642,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 0.7111,
+        "similarity_final": 0.8399
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 637,
+      "name": "Sol de Janeiro BumBum Cream",
+      "desc": "Helps visibly smooth and tighten the appearance of the skin thanks to potent, caffeine-rich Guarana Extract. Fast absorbing Cupuacu Butter delivers deep hydration and essential fatty-acids deep into the skin. Pistachio, salted caramel and vanilla scented.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Skincare & Make-up"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 191,
+        "competitor_item_name": "Brazilian Bum Bum Cream",
+        "brand": "Sol de Janeiro",
+        "quantity": "75 ml",
+        "competitor_description": "Fast-absorbing body cream with a visibly tightening formula.",
+        "parent_category": "Boutique",
+        "sales_category": "Skincare & Make-up",
+        "price": 17.9,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 16,
+        "similarity_name": 0.8845,
+        "similarity_desc": 0.6962,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.853
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 656,
+      "name": "L'oreal Shades of Nudes Lipsti",
+      "desc": "A lipstick trio collection, that celebrates the timeless beauty of nude shades. It offers a range of nude tones that suit every skin tone and occasion, providing a versatile and sophisticated lip look.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Skincare & Make-up"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 183,
+        "competitor_item_name": "Color Riche Nude Lipsticks Trio",
+        "brand": "L’Oréal Paris",
+        "quantity": "3",
+        "competitor_description": "This set contains three full size Color Riche nude lipsticks (Nude 235, Violet Saturne 214, Rose Tendre 303).",
+        "parent_category": "Boutique",
+        "sales_category": "Skincare & Make-up",
+        "price": 29.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 15,
+        "similarity_name": 0.7571,
+        "similarity_desc": 0.7074,
+        "similarity_parent": 0.8926,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.7661
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 684,
+      "name": "Croissant",
+      "desc": "Try this croissant! Made from a light dough with a creamy, rich chocolate filling - the best choice for either breakfast or as an afternoon snack!",
+      "parent_category": "1.Cafe",
+      "sales_category": "Sweet Snacks"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 248,
+        "competitor_item_name": "Chocolate Croissant",
+        "brand": "",
+        "quantity": "",
+        "competitor_description": "A delicious hot buttery fresh croissant with an oozing chocolatey centre",
+        "parent_category": "Cafe",
+        "sales_category": "Fresh Food",
+        "price": 3.5,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 24,
+        "similarity_name": 0.8793,
+        "similarity_desc": 0.771,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 0.7069,
+        "similarity_final": 0.8495
+      },
+      {
+        "competitor_item_id": 76,
+        "competitor_item_name": "Chocolate Croissant",
+        "brand": "",
+        "quantity": "",
+        "competitor_description": "",
+        "parent_category": "Cafe",
+        "sales_category": "Fresh Food",
+        "price": 3.0,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 8,
+        "similarity_name": 0.8793,
+        "similarity_desc": 0.3809,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 0.7069,
+        "similarity_final": 0.7714
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 686,
+      "name": "Kit Kat",
+      "desc": "Have a longer break with KitKat 4 fingers milk chocolate bar. Delicious crispy wafers covered with soft milk chocolate, nicely divided into 4 equal parts to double the pleasure",
+      "parent_category": "1.Cafe",
+      "sales_category": "Sweet Snacks"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 84,
+        "competitor_item_name": "KitKat",
+        "brand": "",
+        "quantity": "",
+        "competitor_description": "",
+        "parent_category": "Cafe",
+        "sales_category": "Sweet Snacks",
+        "price": 1.9,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 9,
+        "similarity_name": 0.9861,
+        "similarity_desc": 0.3567,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8561
+      },
+      {
+        "competitor_item_id": 239,
+        "competitor_item_name": "KitKat",
+        "brand": "",
+        "quantity": "41.5g",
+        "competitor_description": "",
+        "parent_category": "Cafe",
+        "sales_category": "Sweet Snacks",
+        "price": 2.75,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 23,
+        "similarity_name": 0.8512,
+        "similarity_desc": 0.3567,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.7616
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 694,
+      "name": "Haribo Mini Gold Bears",
+      "desc": "Delicious Gummy Candy. Full of flavor and delight. Truly original and unique.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Sweet Snacks"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 240,
+        "competitor_item_name": "Haribo Goldbears",
+        "brand": "",
+        "quantity": "100g",
+        "competitor_description": "",
+        "parent_category": "Cafe",
+        "sales_category": "Sweet Snacks",
+        "price": 3.5,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 23,
+        "similarity_name": 0.8816,
+        "similarity_desc": 0.4349,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.7985
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 695,
+      "name": "Croissant Pistachio-Chocolate",
+      "desc": "Try our delicious new pistachio-chocolate cream filled croissant from Italy!",
+      "parent_category": "1.Cafe",
+      "sales_category": "Sweet Snacks"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 248,
+        "competitor_item_name": "Chocolate Croissant",
+        "brand": "",
+        "quantity": "",
+        "competitor_description": "A delicious hot buttery fresh croissant with an oozing chocolatey centre",
+        "parent_category": "Cafe",
+        "sales_category": "Fresh Food",
+        "price": 3.5,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 24,
+        "similarity_name": 0.8491,
+        "similarity_desc": 0.6603,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 0.707,
+        "similarity_final": 0.8062
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 697,
+      "name": "Cadbury Dairy Milk Buttons",
+      "desc": "Giant button shaped bites of the classic, creamy Cadbury Dairy Milk chocolate. A favourite for all the family to share and enjoy. Made with sustainably sourced cocoa. Vegetarian friendly.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Sweet Snacks"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 81,
+        "competitor_item_name": "Cadbury Dairy Milk Buttons",
+        "brand": "Cadbury",
+        "quantity": "100g",
+        "competitor_description": "",
+        "parent_category": "Cafe",
+        "sales_category": "Sweet Snacks",
+        "price": 3.75,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 8,
+        "similarity_name": 0.93,
+        "similarity_desc": 0.3132,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8081
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 700,
+      "name": "Croissant 50g",
+      "desc": "Try this croissant! Made from a light dough with a creamy, rich chocolate filling - the best choice for either breakfast or as an afternoon snack!",
+      "parent_category": "1.Cafe",
+      "sales_category": "Sweet Snacks"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 248,
+        "competitor_item_name": "Chocolate Croissant",
+        "brand": "",
+        "quantity": "",
+        "competitor_description": "A delicious hot buttery fresh croissant with an oozing chocolatey centre",
+        "parent_category": "Cafe",
+        "sales_category": "Fresh Food",
+        "price": 3.5,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 24,
+        "similarity_name": 0.7536,
+        "similarity_desc": 0.771,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 0.7069,
+        "similarity_final": 0.7615
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 701,
+      "name": "Kit Kat 41.5g",
+      "desc": "Have a longer break with KitKat 4 fingers milk chocolate bar. Delicious crispy wafers covered with soft milk chocolate, nicely divided into 4 equal parts to double the pleasure",
+      "parent_category": "1.Cafe",
+      "sales_category": "Sweet Snacks"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 239,
+        "competitor_item_name": "KitKat",
+        "brand": "",
+        "quantity": "41.5g",
+        "competitor_description": "",
+        "parent_category": "Cafe",
+        "sales_category": "Sweet Snacks",
+        "price": 2.75,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 23,
+        "similarity_name": 0.993,
+        "similarity_desc": 0.3567,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8608
+      },
+      {
+        "competitor_item_id": 84,
+        "competitor_item_name": "KitKat",
+        "brand": "",
+        "quantity": "",
+        "competitor_description": "",
+        "parent_category": "Cafe",
+        "sales_category": "Sweet Snacks",
+        "price": 1.9,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 9,
+        "similarity_name": 0.8481,
+        "similarity_desc": 0.3567,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.7594
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 704,
+      "name": "Shortbreads 40g",
+      "desc": "These delicious, golden shortbread fingers deliver the unique Paterson's taste and contain less than 3% saturated fat. No 1 best-selling shortbread brand in Britain - suitable snack for vegetarians!",
+      "parent_category": "1.Cafe",
+      "sales_category": "Sweet Snacks"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 236,
+        "competitor_item_name": "Walker's Shortbread",
+        "brand": "",
+        "quantity": "40g",
+        "competitor_description": "",
+        "parent_category": "Cafe",
+        "sales_category": "Sweet Snacks",
+        "price": 2.75,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 23,
+        "similarity_name": 0.8787,
+        "similarity_desc": 0.2379,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.7571
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 706,
+      "name": "Haribo Mini Gold Bears 10g",
+      "desc": "Delicious Gummy Candy. Full of flavor and delight. Truly original and unique.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Sweet Snacks"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 240,
+        "competitor_item_name": "Haribo Goldbears",
+        "brand": "",
+        "quantity": "100g",
+        "competitor_description": "",
+        "parent_category": "Cafe",
+        "sales_category": "Sweet Snacks",
+        "price": 3.5,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 23,
+        "similarity_name": 0.8837,
+        "similarity_desc": 0.4349,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 707,
+      "name": "Croissant Pistachio-Choco.",
+      "desc": "Try our delicious new pistachio chocolate cream filled croissant from Italy!",
+      "parent_category": "1.Cafe",
+      "sales_category": "Sweet Snacks"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 248,
+        "competitor_item_name": "Chocolate Croissant",
+        "brand": "",
+        "quantity": "",
+        "competitor_description": "A delicious hot buttery fresh croissant with an oozing chocolatey centre",
+        "parent_category": "Cafe",
+        "sales_category": "Fresh Food",
+        "price": 3.5,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 24,
+        "similarity_name": 0.7859,
+        "similarity_desc": 0.6517,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 0.7069,
+        "similarity_final": 0.7603
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 709,
+      "name": "Cadbury Dairy Milk Buttons 119",
+      "desc": "Giant button shaped bites of the classic, creamy Cadbury Dairy Milk chocolate. A favourite for all the family to share and enjoy. Made with sustainably sourced cocoa. Vegetarian friendly.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Sweet Snacks"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 81,
+        "competitor_item_name": "Cadbury Dairy Milk Buttons",
+        "brand": "Cadbury",
+        "quantity": "100g",
+        "competitor_description": "",
+        "parent_category": "Cafe",
+        "sales_category": "Sweet Snacks",
+        "price": 3.75,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 8,
+        "similarity_name": 0.8554,
+        "similarity_desc": 0.3132,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.7558
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 737,
+      "name": "Cadbury Nibbly Fingers",
+      "desc": "Crisp mini biscuits generously coated with creamy Cadbury Dairy Milk chocolate. Perfect on the go snacks for sharing with family and friends.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Sweet Snacks"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 78,
+        "competitor_item_name": "Cadbury Nibbly Fingers",
+        "brand": "Cadbury",
+        "quantity": "125g",
+        "competitor_description": "",
+        "parent_category": "Cafe",
+        "sales_category": "Sweet Snacks",
+        "price": 3.75,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 8,
+        "similarity_name": 0.9333,
+        "similarity_desc": 0.3339,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8145
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 752,
+      "name": "Croissant 80g",
+      "desc": "Croissant with a cocoa filling. Great breakfast option.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Sweet Snacks"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 248,
+        "competitor_item_name": "Chocolate Croissant",
+        "brand": "",
+        "quantity": "",
+        "competitor_description": "A delicious hot buttery fresh croissant with an oozing chocolatey centre",
+        "parent_category": "Cafe",
+        "sales_category": "Fresh Food",
+        "price": 3.5,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 24,
+        "similarity_name": 0.7535,
+        "similarity_desc": 0.7452,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 0.7069,
+        "similarity_final": 0.7562
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 761,
+      "name": "Haribo Gold Bears 100g",
+      "desc": "Everyone knows them and for good reason. After all, this unmistakable original has delighted fans big and small, young and old since 1922. With flavours ranging from pineapple to lemon, the six colourful Goldbears represent one thing above all else: irresistible joy thats fun to share.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Sweet Snacks"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 240,
+        "competitor_item_name": "Haribo Goldbears",
+        "brand": "",
+        "quantity": "100g",
+        "competitor_description": "",
+        "parent_category": "Cafe",
+        "sales_category": "Sweet Snacks",
+        "price": 3.5,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 23,
+        "similarity_name": 0.9931,
+        "similarity_desc": 0.2664,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8429
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 767,
+      "name": "Marlboro Gold 200",
+      "desc": "This is an age restricted item, and you may be asked to verify your age upon delivery.",
+      "parent_category": "4.Duty Free",
+      "sales_category": "Tobacco"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 135,
+        "competitor_item_name": "Marlboro Gold 200s",
+        "brand": "Marlboro",
+        "quantity": "200",
         "competitor_description": "",
         "parent_category": "Duty Free",
-        "sales_category": "DF Spirits",
-        "similarity_name": 0.7935,
+        "sales_category": "Tobacco",
+        "price": 55.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 6,
+        "similarity_name": 0.9403,
         "similarity_desc": 0.419,
-        "similarity_parent": 0.5466,
+        "similarity_parent": 0.8809,
         "similarity_sales": 1.0,
-        "similarity_final": 0.7687
+        "similarity_final": 0.836
+      },
+      {
+        "competitor_item_id": 136,
+        "competitor_item_name": "Marlboro Red 200s",
+        "brand": "Marlboro",
+        "quantity": "200",
+        "competitor_description": "",
+        "parent_category": "Duty Free",
+        "sales_category": "Tobacco",
+        "price": 55.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 6,
+        "similarity_name": 0.8514,
+        "similarity_desc": 0.419,
+        "similarity_parent": 0.8809,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.7738
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 768,
+      "name": "Marlboro Red 200",
+      "desc": "This is an age restricted item, and you may be asked to verify your age upon delivery.",
+      "parent_category": "4.Duty Free",
+      "sales_category": "Tobacco"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 136,
+        "competitor_item_name": "Marlboro Red 200s",
+        "brand": "Marlboro",
+        "quantity": "200",
+        "competitor_description": "",
+        "parent_category": "Duty Free",
+        "sales_category": "Tobacco",
+        "price": 55.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 6,
+        "similarity_name": 0.9342,
+        "similarity_desc": 0.4191,
+        "similarity_parent": 0.8809,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8318
+      },
+      {
+        "competitor_item_id": 135,
+        "competitor_item_name": "Marlboro Gold 200s",
+        "brand": "Marlboro",
+        "quantity": "200",
+        "competitor_description": "",
+        "parent_category": "Duty Free",
+        "sales_category": "Tobacco",
+        "price": 55.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 6,
+        "similarity_name": 0.8681,
+        "similarity_desc": 0.4191,
+        "similarity_parent": 0.8809,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.7856
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 769,
+      "name": "Benson & Hedges 200",
+      "desc": "This is an age restricted item, and you may be asked to verify your age upon delivery.",
+      "parent_category": "4.Duty Free",
+      "sales_category": "Tobacco"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 133,
+        "competitor_item_name": "Benson & Hedges 200s",
+        "brand": "Benson & Hedges",
+        "quantity": "200",
+        "competitor_description": "",
+        "parent_category": "Duty Free",
+        "sales_category": "Tobacco",
+        "price": 60.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 6,
+        "similarity_name": 0.9035,
+        "similarity_desc": 0.419,
+        "similarity_parent": 0.8809,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8103
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 771,
+      "name": "Amber Leaf Rolling Tobacco 250",
+      "desc": "This is an age restricted item, and you may be asked to verify your age upon delivery.",
+      "parent_category": "4.Duty Free",
+      "sales_category": "Tobacco"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 137,
+        "competitor_item_name": "Amber Leaf 250g",
+        "brand": "Amber Leaf",
+        "quantity": "250g",
+        "competitor_description": "",
+        "parent_category": "Duty Free",
+        "sales_category": "Tobacco",
+        "price": 65.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 6,
+        "similarity_name": 0.9059,
+        "similarity_desc": 0.419,
+        "similarity_parent": 0.8809,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.812
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 773,
+      "name": "Lambert & Butler 200",
+      "desc": "This is an age restricted item, and you may be asked to verify your age upon delivery.",
+      "parent_category": "4.Duty Free",
+      "sales_category": "Tobacco"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 134,
+        "competitor_item_name": "Lambert & Butler Original Silver 200s",
+        "brand": "Lambert & Butler",
+        "quantity": "200",
+        "competitor_description": "",
+        "parent_category": "Duty Free",
+        "sales_category": "Tobacco",
+        "price": 62.5,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 6,
+        "similarity_name": 0.8962,
+        "similarity_desc": 0.419,
+        "similarity_parent": 0.8809,
+        "similarity_sales": 0.9996,
+        "similarity_final": 0.8052
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 777,
+      "name": "Marlboro Red 200 PL",
+      "desc": "This is an age restricted item, and you may be asked to verify your age upon delivery.",
+      "parent_category": "4.Duty Free",
+      "sales_category": "Tobacco"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 136,
+        "competitor_item_name": "Marlboro Red 200s",
+        "brand": "Marlboro",
+        "quantity": "200",
+        "competitor_description": "",
+        "parent_category": "Duty Free",
+        "sales_category": "Tobacco",
+        "price": 55.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 6,
+        "similarity_name": 0.8266,
+        "similarity_desc": 0.419,
+        "similarity_parent": 0.8809,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.7565
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 778,
+      "name": "Marlboro Gold 200 PL",
+      "desc": "This is an age restricted item, and you may be asked to verify your age upon delivery.",
+      "parent_category": "4.Duty Free",
+      "sales_category": "Tobacco"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 135,
+        "competitor_item_name": "Marlboro Gold 200s",
+        "brand": "Marlboro",
+        "quantity": "200",
+        "competitor_description": "",
+        "parent_category": "Duty Free",
+        "sales_category": "Tobacco",
+        "price": 55.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 6,
+        "similarity_name": 0.8266,
+        "similarity_desc": 0.419,
+        "similarity_parent": 0.8809,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.7565
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 780,
+      "name": "Amber Leaf Rolling Tobacco 500",
+      "desc": "This is an age restricted item, and you may be asked to verify your age upon delivery.",
+      "parent_category": "4.Duty Free",
+      "sales_category": "Tobacco"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 137,
+        "competitor_item_name": "Amber Leaf 250g",
+        "brand": "Amber Leaf",
+        "quantity": "250g",
+        "competitor_description": "",
+        "parent_category": "Duty Free",
+        "sales_category": "Tobacco",
+        "price": 65.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 6,
+        "similarity_name": 0.826,
+        "similarity_desc": 0.419,
+        "similarity_parent": 0.8809,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.756
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 785,
+      "name": "Golden Virginia 250g",
+      "desc": "This is an age restricted item, and you may be asked to verify your age upon delivery.",
+      "parent_category": "4.Duty Free",
+      "sales_category": "Tobacco"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 138,
+        "competitor_item_name": "Golden Virginia 250g",
+        "brand": "Golden Virginia",
+        "quantity": "250g",
+        "competitor_description": "",
+        "parent_category": "Duty Free",
+        "sales_category": "Tobacco",
+        "price": 57.5,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 6,
+        "similarity_name": 0.9744,
+        "similarity_desc": 0.419,
+        "similarity_parent": 0.8809,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.8599
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 818,
+      "name": "Cheddar Ploughmans Sandwich",
+      "desc": "Barber's mature Cheddar cheese with onion mayonnaise, sliced tomatoes, seasonal leaves & sweet pickle on malted bread.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Fresh Food"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 48,
+        "competitor_item_name": "Cheese Ploughman’s Roll",
+        "brand": "",
+        "quantity": "",
+        "competitor_description": "Mature cheddar cheese ploughman’s with Branston Pickle on tiger bread.",
+        "parent_category": "Cafe",
+        "sales_category": "Fresh Food",
+        "price": 5.0,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 2,
+        "similarity_name": 0.7675,
+        "similarity_desc": 0.7055,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.7728
+      },
+      {
+        "competitor_item_id": 61,
+        "competitor_item_name": "Ploughman’s",
+        "brand": "",
+        "quantity": "",
+        "competitor_description": "Cream crackers, Peter’s Yard sourdough crackers, soft cheddar cheese, cheese with fine herbs, Branston Pickle and pickled onions.",
+        "parent_category": "Cafe",
+        "sales_category": "Savoury Snacks",
+        "price": 6.5,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 7,
+        "similarity_name": 0.7865,
+        "similarity_desc": 0.596,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 0.7294,
+        "similarity_final": 0.7506
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 831,
+      "name": "Haribo Gold Bears",
+      "desc": "This unmistakable original has delighted fans big and small, young and old since 1922. With flavours ranging from pineapple to lemon, the six colourful Goldbears represent one thing above all else: irresistible joy thats fun to share.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Sweet Snacks"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 240,
+        "competitor_item_name": "Haribo Goldbears",
+        "brand": "",
+        "quantity": "100g",
+        "competitor_description": "",
+        "parent_category": "Cafe",
+        "sales_category": "Sweet Snacks",
+        "price": 3.5,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 23,
+        "similarity_name": 0.9109,
+        "similarity_desc": 0.2941,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.7909
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 841,
+      "name": "Ham & Emmental Ciabatta",
+      "desc": "Cheesy ciabatta with ham and Emmental.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Fresh Food"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 257,
+        "competitor_item_name": "Hot Ham & Cheese Panini",
+        "brand": "",
+        "quantity": "",
+        "competitor_description": "Warm ciabatta bread with melted cheddar cheese and cooked ham",
+        "parent_category": "Cafe",
+        "sales_category": "Fresh Food",
+        "price": 6.75,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 26,
+        "similarity_name": 0.7294,
+        "similarity_desc": 0.8393,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.7729
+      },
+      {
+        "competitor_item_id": 51,
+        "competitor_item_name": "Ham & Cheese Toastie",
+        "brand": "",
+        "quantity": "",
+        "competitor_description": "Full-flavoured ham hock with mature cheddar cheese, served in toasted, cheese-topped sourdough bread.",
+        "parent_category": "Cafe",
+        "sales_category": "Fresh Food",
+        "price": 5.2,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 2,
+        "similarity_name": 0.7627,
+        "similarity_desc": 0.6762,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.7636
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 843,
+      "name": "Creamy Edam Emmental Croissant",
+      "desc": "Croissant with Edam and Emmental cheese, plain butter cream.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Fresh Food"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 248,
+        "competitor_item_name": "Chocolate Croissant",
+        "brand": "",
+        "quantity": "",
+        "competitor_description": "A delicious hot buttery fresh croissant with an oozing chocolatey centre",
+        "parent_category": "Cafe",
+        "sales_category": "Fresh Food",
+        "price": 3.5,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 24,
+        "similarity_name": 0.757,
+        "similarity_desc": 0.6734,
+        "similarity_parent": 0.8883,
+        "similarity_sales": 1.0,
+        "similarity_final": 0.759
       }
     ]
   }

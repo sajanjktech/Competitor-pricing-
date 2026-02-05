@@ -1,0 +1,38 @@
+1. Gate group (797 items)
+
+ SELECT
+            i.item_row_id,
+            i.item_onboard_name,
+            i.item_description,
+            i.item_parent_sales_category_name,
+            i.item_sales_category_name
+        FROM item i
+        WHERE i.item_parent_sales_category_name IN
+            ('1.Cafe','2.Boutique','3.Virtual','4.Duty Free')
+        AND i.item_sales_category_name != 'logo'
+        GROUP BY 
+            i.item_row_id,
+            i.item_onboard_name,
+            i.item_description,
+            i.item_parent_sales_category_name,
+            i.item_sales_category_name;
+
+2. Competitor items (260 items)
+
+SELECT 
+            item_id,
+            competitor_name,
+            item_name,
+            Item_description,
+            brand,
+            quantity,
+            parent_category,
+            sales_category,
+            price,
+            currency,
+            catalog_name,
+            catalog_start,
+            catalog_end,
+            page,
+            created_at
+        FROM competitor_item_details;

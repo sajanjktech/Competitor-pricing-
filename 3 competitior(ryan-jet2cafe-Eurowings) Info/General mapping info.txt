@@ -1,0 +1,12 @@
+Ryan air - 132 items
+Jet2Cafe - 82 items
+Eurowings- 46 items
+
+embeddings used- name->name(70%) , desc->desc(20%) , parent->parent(5%) , sales->sales(5%)
+
+Issues found in item details extraction using llm
+- Eurowings item name translation failed for some items.
+
+
+
+

@@ -6,30 +6,29 @@ from sqlalchemy import text
 
 engine = get_sql_engine()
 
+# ---------------------------------------------------------
+# LOAD GATE GROUP ITEMS  (UPDATED SQL)
+# ---------------------------------------------------------
 def load_gate_group_items():
     logger.info("Loading GateGroup items...")
+
     sql = text("""
-SELECT
-    i.item_row_id,
-    i.item_onboard_name,
-    i.item_description,
-    CONCAT(MIN(p.item_price), ' - ', MAX(p.item_price)) AS item_price,
-    p.item_currency_code,
-    i.item_parent_sales_category_name,
-    i.item_sales_category_name
-FROM item i
-JOIN item_price p ON i.item_row_id = p.item_row_id
-WHERE p.item_currency_code = 'GBP'
-  AND i.item_sales_category_name IN (
-        'Alcohol','DF Spirits'
-  )
-GROUP BY 
-    i.item_row_id,
-    i.item_onboard_name,
-    i.item_description,
-    p.item_currency_code,
-    i.item_parent_sales_category_name,
-    i.item_sales_category_name;
+        SELECT 
+            i.item_row_id,
+            i.item_onboard_name,
+            i.item_description,
+            i.item_parent_sales_category_name,
+            i.item_sales_category_name
+        FROM item i
+        WHERE i.item_parent_sales_category_name IN
+            ('1.Cafe','2.Boutique','3.Virtual','4.Duty Free')
+        AND i.item_sales_category_name != 'logo'
+        GROUP BY 
+            i.item_row_id,
+            i.item_onboard_name,
+            i.item_description,
+            i.item_parent_sales_category_name,
+            i.item_sales_category_name;
     """)
 
     with engine.connect() as conn:
@@ -37,12 +36,30 @@ GROUP BY
         return rows
 
 
+# ---------------------------------------------------------
+# LOAD COMPETITOR ITEMS (UPDATED SQL)
+# ---------------------------------------------------------
 def load_competitor_items():
     logger.info("Loading competitor items...")
+
     sql = text("""
-        SELECT id, Item_name, Item_brand, Item_description,
-               Item_Quantity, Item_price, Item_currency,item_parent_category, Item_sales_category
-        FROM dbo.competitor_item_details where Item_sales_category IN ('Alcohol','DF Spirits');
+        SELECT 
+            item_id,
+            competitor_name,
+            item_name,
+            Item_description,
+            brand,
+            quantity,
+            parent_category,
+            sales_category,
+            price,
+            currency,
+            catalog_name,
+            catalog_start,
+            catalog_end,
+            page,
+            created_at
+        FROM competitor_item_details;
     """)
 
     with engine.connect() as conn:

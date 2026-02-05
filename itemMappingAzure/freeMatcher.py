@@ -1,25 +1,26 @@
+# itemMappingAzure/freeMatcher.py
+
 from itemMappingAzure.logger import logger
 from itemMappingAzure.db_loader import load_gate_group_items, load_competitor_items
 from itemMappingAzure.azureEmbedder import (
-    get_embedding,
-    enrich_name, enrich_desc, enrich_parent, enrich_sales
+    get_embedding, enrich_name, enrich_desc, enrich_parent, enrich_sales
 )
 
 import math
 
 
-# -------------------------------------------------------
+# ---------------------------------------------------------
 # COSINE SIMILARITY
-# -------------------------------------------------------
+# ---------------------------------------------------------
 def cosine(v1, v2):
     return sum(a * b for a, b in zip(v1, v2))
 
 
-# -------------------------------------------------------
+# ---------------------------------------------------------
 # EMBEDDING PIPELINE
-# -------------------------------------------------------
+# ---------------------------------------------------------
 def embed_all_items():
-    logger.info("🔄 Creating embeddings for (name/desc/category) ...")
+    logger.info("🔄 Embedding GateGroup + Competitor items...")
 
     gg_rows = load_gate_group_items()
     comp_rows = load_competitor_items()
@@ -27,7 +28,9 @@ def embed_all_items():
     gg_embeds = []
     comp_embeds = []
 
-    # GATE GROUP ITEMS
+    # -----------------------------------------------
+    # Gate Group Embeddings
+    # -----------------------------------------------
     for g in gg_rows:
         name = g.item_onboard_name or ""
         desc = g.item_description or ""
@@ -47,49 +50,59 @@ def embed_all_items():
             "emb_sales": get_embedding(enrich_sales(sales), f"gg_sales_{g.item_row_id}", "gg")
         })
 
-    # COMPETITOR ITEMS
+    # -----------------------------------------------
+    # Competitor Item Embeddings
+    # -----------------------------------------------
     for c in comp_rows:
-        name = c.Item_name or ""
+        name = c.item_name or ""
         desc = c.Item_description or ""
-        brand = getattr(c, "Item_brand", "") or ""
-        qty = getattr(c, "Item_Quantity", "") or ""
-        parent = getattr(c, "item_parent_category", "") or ""
-        sales = getattr(c, "Item_sales_category", "") or ""
+        brand = c.brand or ""
+        qty = c.quantity or ""
+        parent = c.parent_category or ""
+        sales = c.sales_category or ""
+
         full_name = f"{brand} {name} {qty}".strip()
 
         comp_embeds.append({
-            "id": c.id,
+            "id": c.item_id,
             "name": name,
             "brand": brand,
             "quantity": qty,
             "desc": desc,
             "parent": parent,
             "sales": sales,
+            "price": float(c.price) if c.price is not None else None,
+            "currency": c.currency,
 
-            "emb_name": get_embedding(enrich_name(full_name), f"comp_name_{c.id}", "comp"),
-            "emb_desc": get_embedding(enrich_desc(desc), f"comp_desc_{c.id}", "comp"),
-            "emb_parent": get_embedding(enrich_parent(parent), f"comp_parent_{c.id}", "comp"),
-            "emb_sales": get_embedding(enrich_sales(sales), f"comp_sales_{c.id}", "comp")
+            # NEW → include competitor metadata directly from DB
+            "competitor_name": c.competitor_name,
+            "catalog_name": c.catalog_name,
+            "catalog_start": str(c.catalog_start) if c.catalog_start else None,
+            "catalog_end": str(c.catalog_end) if c.catalog_end else None,
+            "page": c.page,
+
+            # Embeddings
+            "emb_name": get_embedding(enrich_name(full_name), f"comp_name_{c.item_id}", "comp"),
+            "emb_desc": get_embedding(enrich_desc(desc), f"comp_desc_{c.item_id}", "comp"),
+            "emb_parent": get_embedding(enrich_parent(parent), f"comp_parent_{c.item_id}", "comp"),
+            "emb_sales": get_embedding(enrich_sales(sales), f"comp_sales_{c.item_id}", "comp")
         })
 
     return gg_embeds, comp_embeds
 
 
-# -------------------------------------------------------
+# ---------------------------------------------------------
 # MATCHING PIPELINE
-# -------------------------------------------------------
+# ---------------------------------------------------------
 def match_items_free():
-    logger.info("🔍 Starting weighted semantic matching...")
+    logger.info("🔍 Starting semantic matching...")
 
     gg_embeds, comp_embeds = embed_all_items()
     results = []
-
-    # FINAL WEIGHTS
-    NAME_WEIGHT = 0.65
-    DESC_WEIGHT = 0.05
-    PARENT_WEIGHT = 0.15
-    SALES_WEIGHT = 0.15
-
+    NAME_WEIGHT = 0.70
+    DESC_WEIGHT = 0.20
+    PARENT_WEIGHT = 0.05
+    SALES_WEIGHT = 0.05
     SIM_THRESHOLD = 0.75
 
     for gg in gg_embeds:
@@ -117,13 +130,21 @@ def match_items_free():
                     "competitor_description": comp["desc"],
                     "parent_category": comp["parent"],
                     "sales_category": comp["sales"],
+                    "price": comp.get("price"),
+                    "currency": comp.get("currency"),
+
+                    "competitor_name": comp.get("competitor_name"),
+                    "catalog_name": comp.get("catalog_name"),
+                    "catalog_start": comp.get("catalog_start"),
+                    "catalog_end": comp.get("catalog_end"),
+                    "competitor_page": comp.get("page"),
+
                     "similarity_name": round(sim_name, 4),
                     "similarity_desc": round(sim_desc, 4),
                     "similarity_parent": round(sim_parent, 4),
                     "similarity_sales": round(sim_sales, 4),
-                    "similarity_final": round(final, 4),
-                })
-
+                    "similarity_final": round(final, 4)
+})
         matches.sort(key=lambda x: x["similarity_final"], reverse=True)
 
         if matches:
@@ -138,5 +159,5 @@ def match_items_free():
                 "matches": matches
             })
 
-    logger.info("✅ Matching completed with weighted cosine.")
+    logger.info("✅ Matching complete.")
     return results

@@ -1,3 +1,5 @@
+
+
 PS C:\Users\sajan.ray\Desktop\Competitor_Pricing\pdf_item_extract> python pdf_item_extraction_llm_pro.py
 
 📄 Processing PDF: C:\Users\sajan.ray\Desktop\Competitor_Pricing\pdf_item_extract\../input_files\Eurowings_Bistro_Winter_2025.pdf
@@ -53,13 +55,13 @@ PS C:\Users\sajan.ray\Desktop\Competitor_Pricing\pdf_item_extract> python pdf_it
 ✔ Page 24 done (3 items)
 
 🔍 Consolidating metadata across pages...
-✔ Competitor found: L'Osteria
+✔ Competitor found: Eurowings
 
 🔍 Consolidating metadata across pages...
-✔ Competitor found: L'Osteria
+✔ Competitor found: Eurowings
 🔍 Consolidating metadata across pages...
-✔ Competitor found: L'Osteria
-✔ Competitor found: L'Osteria
+✔ Competitor found: Eurowings
+✔ Competitor found: Eurowings
 ✔ Catalog Start: 2025-12-01
 ✔ Catalog End: 2026-02-28
 ✅ Saved → output\Eurowings_Bistro_Winter_2025_items.json
@@ -199,8 +201,37 @@ PS C:\Users\sajan.ray\Desktop\Competitor_Pricing\pdf_item_extract> python pdf_it
 
 
 
+(venv) PS C:\Users\sajan.ray\Desktop\Competitor_Pricing\json_to_db(competitor_item)loader> python .\JsonToDB.py
+📁 Found 3 JSON files to process.
 
 
+📄 Processing file: Eurowings_Bistro_Winter_2025_items.json
+   → Loaded 55 items
+   ✔ Inserted: 46
 
+📄 Processing file: Eurowings_Bistro_Winter_2025_items.json
+   → Loaded 55 items
+   ✔ Inserted: 46
+   → Loaded 55 items
+   ✔ Inserted: 46
+   ✔ Inserted: 46
+   ⚠ Skipped : 9
 
+📄 Processing file: Jet2Cafe_items.json
+   → Loaded 89 items
+   ✔ Inserted: 82
+   ⚠ Skipped : 7
 
+📄 Processing file: Ryan air Retail winter 2025_items.json
+   → Loaded 132 items
+   ✔ Inserted: 132
+   ⚠ Skipped : 0
+
+===============================================
+               FINAL IMPORT REPORT
+===============================================
+Total JSON files processed: 3
+Total rows inserted:        260
+Total rows skipped:         16
+===============================================
+(venv) PS C:\Users\sajan.ray\Desktop\Competitor_Pricing\json_to_db(competitor_item)loader> cl
