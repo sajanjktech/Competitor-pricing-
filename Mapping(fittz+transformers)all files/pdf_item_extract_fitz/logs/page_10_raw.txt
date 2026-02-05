@@ -1,0 +1,53 @@
+```json
+{
+  "detected_competitor_name": "RYANAIR",
+  "detected_catalog_effective_start": "2023-10-01",
+  "detected_catalog_effective_end": null,
+  "items": [
+    {
+      "Item_name": "RYANAIR FUN PLANE",
+      "Item_description": "Pull the plane back and watch it taxi forward. This Fun Plane features realistic engine sounds and flashing lights. Batteries are included.",
+      "Item_brand": "RYANAIR",
+      "Item_Quantity": null,
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Gadgets",
+      "Item_price": 15.00,
+      "Item_currency": "EUR",
+      "menu_page": "18"
+    },
+    {
+      "Item_name": "RYANAIR MODEL AIRCRAFT",
+      "Item_description": "The perfect memento of your flight, this model requires no paint or glue, is scaled 1:200 and comes complete with its own stand.",
+      "Item_brand": "RYANAIR",
+      "Item_Quantity": null,
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Gadgets",
+      "Item_price": 20.00,
+      "Item_currency": "EUR",
+      "menu_page": "18"
+    },
+    {
+      "Item_name": "TRUSENSE TWS EARPODS",
+      "Item_description": "TWS Earbuds, featuring 28dB Active Noise Cancellation (ANC), powered by Bluetooth 5.4 and an advanced chipset. Enjoy crystal-clear calls with 4 microphones via Environmental Noise Cancellation (ENC). Made from recycled ABS, up to 35 hours of playback, fast charging, and a quick 1-hour charge provides 2.5 hours of playtime. The free Bitmore App lets you customise sound settings (EQ), touch controls and transparency.",
+      "Item_brand": "BITMORE",
+      "Item_Quantity": null,
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Gadgets",
+      "Item_price": 39.00,
+      "Item_currency": "EUR",
+      "menu_page": "18"
+    },
+    {
+      "Item_name": "E-FUEL PRO 10K POWERBANK",
+      "Item_description": "e-Fuel Pro - with a 10,000 mAh capacity featuring Power Delivery for an impressive 40% faster charging. Made from recycled plastic and carbon-neutral, it’s a sustainability powerhouse. Enjoy 3-4 full phone charges or a 50% boost in just 45 mins for most smartphones. Dual ports enable simultaneous charging, and the LED power indicator keeps you in control.",
+      "Item_brand": "BITMORE",
+      "Item_Quantity": null,
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Gadgets",
+      "Item_price": 35.00,
+      "Item_currency": "EUR",
+      "menu_page": "18"
+    }
+  ]
+}
+```

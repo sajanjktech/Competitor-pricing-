@@ -1,0 +1,64 @@
+```json
+{
+  "detected_competitor_name": "Ryanair",
+  "detected_catalog_effective_start": "2023-10-01",
+  "detected_catalog_effective_end": "",
+  "items": [
+    {
+      "Item_name": "Hot Bacon Baguette",
+      "Item_description": "Crispy buttered baguette with back bacon",
+      "Item_brand": null,
+      "Item_Quantity": null,
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Fresh Food",
+      "Item_price": 6.50,
+      "Item_currency": "EUR",
+      "menu_page": "26"
+    },
+    {
+      "Item_name": "Hot Ham & Cheese Panini",
+      "Item_description": "Warm ciabatta bread with melted cheddar cheese and cooked ham",
+      "Item_brand": null,
+      "Item_Quantity": null,
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Fresh Food",
+      "Item_price": 6.75,
+      "Item_currency": "EUR",
+      "menu_page": "26"
+    },
+    {
+      "Item_name": "Three Cheese Toastie",
+      "Item_description": "Toasted sourdough bread layered with melted mozzarella and red cheddar with a cheesy croque topping",
+      "Item_brand": null,
+      "Item_Quantity": null,
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Fresh Food",
+      "Item_price": 6.50,
+      "Item_currency": "EUR",
+      "menu_page": "26"
+    },
+    {
+      "Item_name": "Premium Fresh Sandwich",
+      "Item_description": "Please ask your crew for today's sandwich",
+      "Item_brand": null,
+      "Item_Quantity": null,
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Fresh Food",
+      "Item_price": 6.50,
+      "Item_currency": "EUR",
+      "menu_page": "26"
+    },
+    {
+      "Item_name": "Hot Chicken Seeded Panini",
+      "Item_description": "Seeded panini with chicken, roasted vegetables and cheese",
+      "Item_brand": null,
+      "Item_Quantity": null,
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Fresh Food",
+      "Item_price": 6.75,
+      "Item_currency": "EUR",
+      "menu_page": "26"
+    }
+  ]
+}
+```

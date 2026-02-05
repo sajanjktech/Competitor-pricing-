@@ -1,0 +1,6 @@
+{
+  "detected_competitor_name": "Ryanair",
+  "detected_catalog_effective_start": null,
+  "detected_catalog_effective_end": null,
+  "items": []
+}

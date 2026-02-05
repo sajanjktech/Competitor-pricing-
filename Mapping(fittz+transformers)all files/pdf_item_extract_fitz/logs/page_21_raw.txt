@@ -1,0 +1,97 @@
+```json
+{
+  "detected_competitor_name": "Ryanair",
+  "detected_catalog_effective_start": "2025-10-01",
+  "detected_catalog_effective_end": "",
+  "items": [
+    {
+      "Item_name": "Capri-Sun Zero Added Sugar",
+      "Item_description": null,
+      "Item_brand": null,
+      "Item_Quantity": "200ml",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Cold Drink",
+      "Item_price": 3.25,
+      "Item_currency": "EUR",
+      "menu_page": "21"
+    },
+    {
+      "Item_name": "Sprite Zero Sugar",
+      "Item_description": null,
+      "Item_brand": null,
+      "Item_Quantity": "330ml",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Cold Drink",
+      "Item_price": 3.75,
+      "Item_currency": "EUR",
+      "menu_page": "21"
+    },
+    {
+      "Item_name": "Fanta Orange",
+      "Item_description": null,
+      "Item_brand": null,
+      "Item_Quantity": "330ml",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Cold Drink",
+      "Item_price": 3.75,
+      "Item_currency": "EUR",
+      "menu_page": "21"
+    },
+    {
+      "Item_name": "Coca-Cola Zero Sugar",
+      "Item_description": null,
+      "Item_brand": null,
+      "Item_Quantity": "330ml",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Cold Drink",
+      "Item_price": 3.75,
+      "Item_currency": "EUR",
+      "menu_page": "21"
+    },
+    {
+      "Item_name": "Coca-Cola Original Taste",
+      "Item_description": null,
+      "Item_brand": null,
+      "Item_Quantity": "330ml",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Cold Drink",
+      "Item_price": 3.75,
+      "Item_currency": "EUR",
+      "menu_page": "21"
+    },
+    {
+      "Item_name": "Schweppes Tonic Water",
+      "Item_description": null,
+      "Item_brand": null,
+      "Item_Quantity": "150ml",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Cold Drink",
+      "Item_price": 2.75,
+      "Item_currency": "EUR",
+      "menu_page": "21"
+    },
+    {
+      "Item_name": "San Benedetto Still Water",
+      "Item_description": null,
+      "Item_brand": null,
+      "Item_Quantity": "500ml",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Cold Drink",
+      "Item_price": 3.50,
+      "Item_currency": "EUR",
+      "menu_page": "21"
+    },
+    {
+      "Item_name": "San Benedetto Sparkling Water",
+      "Item_description": null,
+      "Item_brand": null,
+      "Item_Quantity": "500ml",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Cold Drink",
+      "Item_price": 3.50,
+      "Item_currency": "EUR",
+      "menu_page": "21"
+    }
+  ]
+}
+```

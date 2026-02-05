@@ -1,0 +1,53 @@
+```json
+{
+  "detected_competitor_name": "Ryanair",
+  "detected_catalog_effective_start": "2023-10-01",
+  "detected_catalog_effective_end": "",
+  "items": [
+    {
+      "Item_name": "MICHAEL KORS SEXY AMBER",
+      "Item_description": "EDP Spray, 100ml",
+      "Item_brand": "Michael Kors",
+      "Item_Quantity": "100ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Ladies Fragrance",
+      "Item_price": 40.00,
+      "Item_currency": "EUR",
+      "menu_page": "24"
+    },
+    {
+      "Item_name": "MARC JACOBS DAISY WILD",
+      "Item_description": "EDP Spray, 30ml",
+      "Item_brand": "Marc Jacobs",
+      "Item_Quantity": "30ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Ladies Fragrance",
+      "Item_price": 59.50,
+      "Item_currency": "EUR",
+      "menu_page": "24"
+    },
+    {
+      "Item_name": "LANCÔME TRÉSOR",
+      "Item_description": "EDP Spray, 30ml",
+      "Item_brand": "Lancôme",
+      "Item_Quantity": "30ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Ladies Fragrance",
+      "Item_price": 40.00,
+      "Item_currency": "EUR",
+      "menu_page": "24"
+    },
+    {
+      "Item_name": "YVES SAINT LAURENT LIBRE",
+      "Item_description": "EDP Spray, 30ml",
+      "Item_brand": "Yves Saint Laurent",
+      "Item_Quantity": "30ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Ladies Fragrance",
+      "Item_price": 68.50,
+      "Item_currency": "EUR",
+      "menu_page": "24"
+    }
+  ]
+}
+```

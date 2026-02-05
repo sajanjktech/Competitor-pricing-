@@ -1,8 +1,0 @@
-```json
-{
-  "detected_competitor_name": "Ryanair",
-  "detected_catalog_effective_start": "2025-12-01",
-  "detected_catalog_effective_end": "2026-02-28",
-  "items": []
-}
-```

@@ -1,0 +1,4962 @@
+[
+  {
+    "gate_item": {
+      "id": 112,
+      "name": "Gin",
+      "desc": "An incredible tasty dry gin made with big juniper character and strong citrus notes. This is an authentic London dry for those that enjoy the real taste of gin.",
+      "price_range_gbp": [
+        5.5,
+        6.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 178,
+        "competitor_item_name": "Gordon's London Dry Gin",
+        "competitor_description": "",
+        "competitor_price": 6.25,
+        "competitor_currency": "GBP",
+        "similarity": 0.7313
+      },
+      {
+        "competitor_item_id": 197,
+        "competitor_item_name": "Tanqueray Gin",
+        "competitor_description": "",
+        "competitor_price": 7.25,
+        "competitor_currency": "GBP",
+        "similarity": 0.5538
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 114,
+      "name": "Red Wine",
+      "desc": "Try the local dry wine selection, specially selected for you to taste the real fermented grapes on board!",
+      "price_range_gbp": [
+        5.5,
+        6.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 191,
+        "competitor_item_name": "Wild Coast Pinot Grigio",
+        "competitor_description": "Pure, bright and crisp white wine with notes of apple, peach, pear and lime.",
+        "competitor_price": 7.3,
+        "competitor_currency": "GBP",
+        "similarity": 0.548
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 115,
+      "name": "White Wine",
+      "desc": "Try this local dry wine selection, specially selected for you to taste the real fermented grapes on board!",
+      "price_range_gbp": [
+        5.5,
+        6.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 191,
+        "competitor_item_name": "Wild Coast Pinot Grigio",
+        "competitor_description": "Pure, bright and crisp white wine with notes of apple, peach, pear and lime.",
+        "competitor_price": 7.3,
+        "competitor_currency": "GBP",
+        "similarity": 0.5833
+      },
+      {
+        "competitor_item_id": 174,
+        "competitor_item_name": "Kissing Tree Sauvignon Blanc",
+        "competitor_description": "",
+        "competitor_price": 6.3,
+        "competitor_currency": "GBP",
+        "similarity": 0.5273
+      },
+      {
+        "competitor_item_id": 175,
+        "competitor_item_name": "Bacardi White Rum",
+        "competitor_description": "",
+        "competitor_price": 6.25,
+        "competitor_currency": "GBP",
+        "similarity": 0.5205
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 118,
+      "name": "Prosecco",
+      "desc": "Try an intense bouquet combining apple and pineapple with a delicate aroma, evoking traditional wines of long ago. Full flavoured, aromatic with a persistent mousse.",
+      "price_range_gbp": [
+        6.5,
+        7.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 191,
+        "competitor_item_name": "Wild Coast Pinot Grigio",
+        "competitor_description": "Pure, bright and crisp white wine with notes of apple, peach, pear and lime.",
+        "competitor_price": 7.3,
+        "competitor_currency": "GBP",
+        "similarity": 0.5578
+      },
+      {
+        "competitor_item_id": 174,
+        "competitor_item_name": "Kissing Tree Sauvignon Blanc",
+        "competitor_description": "",
+        "competitor_price": 6.3,
+        "competitor_currency": "GBP",
+        "similarity": 0.5061
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 122,
+      "name": "Absolut Passion Fruit Martini",
+      "desc": "Sparkling mixed drink with vodka and a taste of passionfruit and vanilla.",
+      "price_range_gbp": [
+        6.0,
+        7.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 196,
+        "competitor_item_name": "Au Vodka Blue Raspberry",
+        "competitor_description": "",
+        "competitor_price": 7.25,
+        "competitor_currency": "GBP",
+        "similarity": 0.5707
+      },
+      {
+        "competitor_item_id": 181,
+        "competitor_item_name": "AU Vodka Blue Raspberry",
+        "competitor_description": "35.2% / 5CL",
+        "competitor_price": 0.0,
+        "competitor_currency": "",
+        "similarity": 0.5269
+      },
+      {
+        "competitor_item_id": 179,
+        "competitor_item_name": "Smirnoff No.21 Vodka",
+        "competitor_description": "",
+        "competitor_price": 6.25,
+        "competitor_currency": "GBP",
+        "similarity": 0.5101
+      },
+      {
+        "competitor_item_id": 160,
+        "competitor_item_name": "J2O Orange & Passion Fruit",
+        "competitor_description": "",
+        "competitor_price": 2.85,
+        "competitor_currency": "GBP",
+        "similarity": 0.5003
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 123,
+      "name": "Captain Morgan & Cola 250ml",
+      "desc": "The perfect blend of Captain Morgan's Spiced rum and sweet, fizzy cola. Spiced, sweet rum married with a gentle fizz for an enjoyable drink.",
+      "price_range_gbp": [
+        7.0,
+        7.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 180,
+        "competitor_item_name": "Captain Morgan Spiced Gold",
+        "competitor_description": "",
+        "competitor_price": 6.25,
+        "competitor_currency": "GBP",
+        "similarity": 0.5765
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 124,
+      "name": "Rum",
+      "desc": "BACARDI Carta Blanca is a light and aromatic white rum with delicate floral and fruity notes, ideal for mixing.",
+      "price_range_gbp": [
+        5.5,
+        6.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 175,
+        "competitor_item_name": "Bacardi White Rum",
+        "competitor_description": "",
+        "competitor_price": 6.25,
+        "competitor_currency": "GBP",
+        "similarity": 0.7592
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 126,
+      "name": "Bacardi Mojito",
+      "desc": "A perfectly mixed Mojito made with Bacardi Carta Blanca Rum combined with Lime, Sugar and Mint, served in a convenient can format to enjoy wherever you are.",
+      "price_range_gbp": [
+        5.5,
+        6.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 175,
+        "competitor_item_name": "Bacardi White Rum",
+        "competitor_description": "",
+        "competitor_price": 6.25,
+        "competitor_currency": "GBP",
+        "similarity": 0.631
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 127,
+      "name": "Bombay Sapphire & Tonic",
+      "desc": "A perfectly mixed Mojito made with Bacardi Carta Blanca Rum combined with Lime, Sugar and Mint, served in a convenient can format to enjoy wherever you are.",
+      "price_range_gbp": [
+        5.5,
+        6.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 175,
+        "competitor_item_name": "Bacardi White Rum",
+        "competitor_description": "",
+        "competitor_price": 6.25,
+        "competitor_currency": "GBP",
+        "similarity": 0.5485
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 128,
+      "name": "Baileys 5cl",
+      "desc": "One of life s most pleasurable indulgences, Baileys Original Irish Cream is the sweetest meeting of fine Irish whiskey and spirits, Irish dairy cream, rich chocolate and vanilla flavours.",
+      "price_range_gbp": [
+        5.5,
+        6.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 177,
+        "competitor_item_name": "Baileys",
+        "competitor_description": "",
+        "competitor_price": 6.25,
+        "competitor_currency": "GBP",
+        "similarity": 0.5892
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 131,
+      "name": "Gin 5cl",
+      "desc": "An exceptionally fresh, clean and crisp gin, with a subtle citrus and fruit edge.",
+      "price_range_gbp": [
+        6.0,
+        6.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 178,
+        "competitor_item_name": "Gordon's London Dry Gin",
+        "competitor_description": "",
+        "competitor_price": 6.25,
+        "competitor_currency": "GBP",
+        "similarity": 0.5665
+      },
+      {
+        "competitor_item_id": 197,
+        "competitor_item_name": "Tanqueray Gin",
+        "competitor_description": "",
+        "competitor_price": 7.25,
+        "competitor_currency": "GBP",
+        "similarity": 0.5664
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 133,
+      "name": "Red Wine 18.7cl",
+      "desc": "Try the local dry wine selection, specially selected for you to taste the real fermented grapes on board!",
+      "price_range_gbp": [
+        6.5,
+        6.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 191,
+        "competitor_item_name": "Wild Coast Pinot Grigio",
+        "competitor_description": "Pure, bright and crisp white wine with notes of apple, peach, pear and lime.",
+        "competitor_price": 7.3,
+        "competitor_currency": "GBP",
+        "similarity": 0.524
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 134,
+      "name": "White Wine 18.7cl",
+      "desc": "Try this local dry wine selection, specially selected for you to taste the real fermented grapes on board!",
+      "price_range_gbp": [
+        6.5,
+        6.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 191,
+        "competitor_item_name": "Wild Coast Pinot Grigio",
+        "competitor_description": "Pure, bright and crisp white wine with notes of apple, peach, pear and lime.",
+        "competitor_price": 7.3,
+        "competitor_currency": "GBP",
+        "similarity": 0.551
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 135,
+      "name": "Vodka 5cl",
+      "desc": "Get an Absolut Vodka and feel the true definition of balance and harmony.",
+      "price_range_gbp": [
+        6.0,
+        6.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 181,
+        "competitor_item_name": "AU Vodka Blue Raspberry",
+        "competitor_description": "35.2% / 5CL",
+        "competitor_price": 0.0,
+        "competitor_currency": "",
+        "similarity": 0.5217
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 137,
+      "name": "Prosecco 20cl",
+      "desc": "Try an intense bouquet combining apple and pineapple with a delicate aroma, evoking traditional wines of long ago. Full flavoured, aromatic with a persistent mousse.",
+      "price_range_gbp": [
+        7.5,
+        8.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 191,
+        "competitor_item_name": "Wild Coast Pinot Grigio",
+        "competitor_description": "Pure, bright and crisp white wine with notes of apple, peach, pear and lime.",
+        "competitor_price": 7.3,
+        "competitor_currency": "GBP",
+        "similarity": 0.5596
+      },
+      {
+        "competitor_item_id": 174,
+        "competitor_item_name": "Kissing Tree Sauvignon Blanc",
+        "competitor_description": "",
+        "competitor_price": 6.3,
+        "competitor_currency": "GBP",
+        "similarity": 0.5085
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 138,
+      "name": "Rum 5cl",
+      "desc": "BACARDI Carta Blanca is a light and aromatic white rum with delicate floral and fruity notes, ideal for mixing.",
+      "price_range_gbp": [
+        6.0,
+        6.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 175,
+        "competitor_item_name": "Bacardi White Rum",
+        "competitor_description": "",
+        "competitor_price": 6.25,
+        "competitor_currency": "GBP",
+        "similarity": 0.7247
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 139,
+      "name": "Birra Moretti 330ml",
+      "desc": "Birra Moretti is a low fermentation beer, made from a blend of fine hops, giving it a pleasant taste that is finely bitter and balanced, with floral notes and initial aromas of barley malt.",
+      "price_range_gbp": [
+        6.0,
+        6.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 186,
+        "competitor_item_name": "Birra Moretti",
+        "competitor_description": "ABV 4.6% 330ml",
+        "competitor_price": 5.75,
+        "competitor_currency": "GBP",
+        "similarity": 0.6058
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 140,
+      "name": "Bacardi Mojito 25cl",
+      "desc": "A perfectly mixed Mojito made with Bacardi Carta Blanca Rum combined with Lime, Sugar and Mint, served in a convenient can format to enjoy wherever you are.",
+      "price_range_gbp": [
+        6.5,
+        6.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 175,
+        "competitor_item_name": "Bacardi White Rum",
+        "competitor_description": "",
+        "competitor_price": 6.25,
+        "competitor_currency": "GBP",
+        "similarity": 0.5994
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 141,
+      "name": "Bombay Sapphire&Tonic",
+      "desc": "Bombay Sapphire lengthened with Fever-Tree tonic water and a squeeze of fresh fragrant lime - bright, refreshing, up-lifting and divine.",
+      "price_range_gbp": [
+        6.5,
+        6.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 165,
+        "competitor_item_name": "Fever-Tree Light Indian Tonic",
+        "competitor_description": "",
+        "competitor_price": 2.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.6807
+      },
+      {
+        "competitor_item_id": 164,
+        "competitor_item_name": "Fever-Tree Light Mediterranean Tonic",
+        "competitor_description": "",
+        "competitor_price": 2.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.5488
+      },
+      {
+        "competitor_item_id": 163,
+        "competitor_item_name": "Fever-Tree Mexican Lime Soda",
+        "competitor_description": "",
+        "competitor_price": 2.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.5411
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 142,
+      "name": "Bailey's 5cl",
+      "desc": "One of lifes most pleasurable indulgences, Baileys Original Irish Cream is the sweetest meeting of fine Irish whiskey and spirits, Irish dairy cream, rich chocolate and vanilla flavours.",
+      "price_range_gbp": [
+        6.5,
+        6.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 177,
+        "competitor_item_name": "Baileys",
+        "competitor_description": "",
+        "competitor_price": 6.25,
+        "competitor_currency": "GBP",
+        "similarity": 0.5649
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 146,
+      "name": "Pink Gin 5cl",
+      "desc": "This gin is a delicate shade of rose pink. Gordon's Pink has a luxurious creaminess that is the perfect complement to its complex array of fruitiness. Sweet and juicy strawberry is mixed with a little tartness of redcurrant and the tang of raspberry.",
+      "price_range_gbp": [
+        6.5,
+        6.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 178,
+        "competitor_item_name": "Gordon's London Dry Gin",
+        "competitor_description": "",
+        "competitor_price": 6.25,
+        "competitor_currency": "GBP",
+        "similarity": 0.5314
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 151,
+      "name": "Nice Sauvignon Blanc 187ml",
+      "desc": "Wine in a can. It is 100% Sauvignon Blanc and comes from the Cotes de Gascogne region in France. A classic French Sauvignon Blanc, Dry & crisp with hints of white peach.",
+      "price_range_gbp": [
+        6.5,
+        6.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 174,
+        "competitor_item_name": "Kissing Tree Sauvignon Blanc",
+        "competitor_description": "",
+        "competitor_price": 6.3,
+        "competitor_currency": "GBP",
+        "similarity": 0.6509
+      },
+      {
+        "competitor_item_id": 187,
+        "competitor_item_name": "Nicolas Feuillatte Champagne",
+        "competitor_description": "France's favourite variety, renowned for its citrusy finish.",
+        "competitor_price": 35.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.5047
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 153,
+      "name": "Nice Pale Rose 187ml",
+      "desc": "Wine in a can. A classic French Pale Rose from the Languedoc Roussillon region in France. Dry and crisp with hints of dried strawberries.",
+      "price_range_gbp": [
+        6.5,
+        6.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 192,
+        "competitor_item_name": "Calvet, Côtes De Provence",
+        "competitor_description": "Pink rosé, with hints of strawberry, raspberry and exotic fruits.",
+        "competitor_price": 7.3,
+        "competitor_currency": "GBP",
+        "similarity": 0.659
+      },
+      {
+        "competitor_item_id": 189,
+        "competitor_item_name": "Freixenet Italian Sparkling Rosé",
+        "competitor_description": "",
+        "competitor_price": 7.3,
+        "competitor_currency": "GBP",
+        "similarity": 0.6113
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 164,
+      "name": "Negroni Mix",
+      "desc": "A ready to drink cocktail. Excellent with savoury snacks.",
+      "price_range_gbp": [
+        4.0,
+        7.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 198,
+        "competitor_item_name": "Malibu Cocktail Piña Colada",
+        "competitor_description": "",
+        "competitor_price": 7.25,
+        "competitor_currency": "GBP",
+        "similarity": 0.5069
+      },
+      {
+        "competitor_item_id": 126,
+        "competitor_item_name": "Afternoon Tea",
+        "competitor_description": "Sultana scone, Bonne Maman strawberry jam, afternoon tea cream and a clotted cream shortbread finger biscuit.",
+        "competitor_price": 5.5,
+        "competitor_currency": "GBP",
+        "similarity": 0.5054
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 167,
+      "name": "Water Still",
+      "desc": "Sparkling or still? Stay hydrated and ask for a Natur Aqua mineral water! It is bottled in Zalaszentgrot, where the water also comes from. The pleasant taste of the Natur Aqua mineral waters comes from its unique mineral composition, obtained from a depth of 685 meters and filtered for 14,000 years.",
+      "price_range_gbp": [
+        2.5,
+        3.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 157,
+        "competitor_item_name": "Harrogate Spring Water Sparkling",
+        "competitor_description": "",
+        "competitor_price": 2.1,
+        "competitor_currency": "GBP",
+        "similarity": 0.6078
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 168,
+      "name": "Water Sparkling",
+      "desc": "Sparkling or still? Stay hydrated and ask for a Natur Aqua mineral water! It is bottled in Zalaszentgrot, where the water also comes from. The pleasant taste of the Natur Aqua mineral waters comes from its unique mineral composition, obtained from a depth of 685 meters and filtered for 14,000 years.",
+      "price_range_gbp": [
+        2.5,
+        3.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 157,
+        "competitor_item_name": "Harrogate Spring Water Sparkling",
+        "competitor_description": "",
+        "competitor_price": 2.1,
+        "competitor_currency": "GBP",
+        "similarity": 0.6389
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 169,
+      "name": "Apple Juice",
+      "desc": "Apple Juice",
+      "price_range_gbp": [
+        3.1,
+        3.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 159,
+        "competitor_item_name": "Tropicana Smooth Orange Juice",
+        "competitor_description": "",
+        "competitor_price": 2.85,
+        "competitor_currency": "GBP",
+        "similarity": 0.5895
+      },
+      {
+        "competitor_item_id": 169,
+        "competitor_item_name": "Appletiser",
+        "competitor_description": "",
+        "competitor_price": 2.85,
+        "competitor_currency": "GBP",
+        "similarity": 0.5596
+      },
+      {
+        "competitor_item_id": 171,
+        "competitor_item_name": "Coca-Cola",
+        "competitor_description": "",
+        "competitor_price": 2.85,
+        "competitor_currency": "GBP",
+        "similarity": 0.5
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 172,
+      "name": "Cappy Orange Juice",
+      "desc": "Get a Cappy 100% orange juice full of the goodness from high quality fruits. A great drink to start your day as part of a nourishing breakfast, which is the most important meal of the day. Fill your glass and the glasses of your loved ones with Cappy and watch the goodness spread.",
+      "price_range_gbp": [
+        3.1,
+        3.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 159,
+        "competitor_item_name": "Tropicana Smooth Orange Juice",
+        "competitor_description": "",
+        "competitor_price": 2.85,
+        "competitor_currency": "GBP",
+        "similarity": 0.5563
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 173,
+      "name": "Coca-Cola",
+      "desc": "The best way to refresh when you are thirsty is to get a Coca-Cola cold drink, delicious taste in a cane, Experience joy on board and open happiness!",
+      "price_range_gbp": [
+        2.6,
+        3.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 171,
+        "competitor_item_name": "Coca-Cola",
+        "competitor_description": "",
+        "competitor_price": 2.85,
+        "competitor_currency": "GBP",
+        "similarity": 0.6483
+      },
+      {
+        "competitor_item_id": 170,
+        "competitor_item_name": "Diet Coke",
+        "competitor_description": "",
+        "competitor_price": 2.85,
+        "competitor_currency": "GBP",
+        "similarity": 0.5303
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 174,
+      "name": "Coca-Cola Zero",
+      "desc": "Get a Sugar free Coca-Cola on board, original Coke flavour with zero sugar, Experience joy on board and open happiness!",
+      "price_range_gbp": [
+        2.6,
+        3.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 171,
+        "competitor_item_name": "Coca-Cola",
+        "competitor_description": "",
+        "competitor_price": 2.85,
+        "competitor_currency": "GBP",
+        "similarity": 0.6512
+      },
+      {
+        "competitor_item_id": 170,
+        "competitor_item_name": "Diet Coke",
+        "competitor_description": "",
+        "competitor_price": 2.85,
+        "competitor_currency": "GBP",
+        "similarity": 0.572
+      },
+      {
+        "competitor_item_id": 172,
+        "competitor_item_name": "Sprite Zero Sugar",
+        "competitor_description": "",
+        "competitor_price": 2.85,
+        "competitor_currency": "GBP",
+        "similarity": 0.5667
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 175,
+      "name": "Fanta",
+      "desc": "Want a fruity taste, bright and bubbly drink? Fanta is carbonated drink with tingly. Coca Cola launched the world's number one orange-flavored soft drink back in 1955. Great as a mixer!",
+      "price_range_gbp": [
+        2.6,
+        3.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 167,
+        "competitor_item_name": "Fanta Orange Zero",
+        "competitor_description": "",
+        "competitor_price": 2.85,
+        "competitor_currency": "GBP",
+        "similarity": 0.6415
+      },
+      {
+        "competitor_item_id": 159,
+        "competitor_item_name": "Tropicana Smooth Orange Juice",
+        "competitor_description": "",
+        "competitor_price": 2.85,
+        "competitor_currency": "GBP",
+        "similarity": 0.5882
+      },
+      {
+        "competitor_item_id": 166,
+        "competitor_item_name": "Fanta Lemon",
+        "competitor_description": "",
+        "competitor_price": 2.85,
+        "competitor_currency": "GBP",
+        "similarity": 0.5617
+      },
+      {
+        "competitor_item_id": 163,
+        "competitor_item_name": "Fever-Tree Mexican Lime Soda",
+        "competitor_description": "",
+        "competitor_price": 2.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.556
+      },
+      {
+        "competitor_item_id": 198,
+        "competitor_item_name": "Malibu Cocktail Piña Colada",
+        "competitor_description": "",
+        "competitor_price": 7.25,
+        "competitor_currency": "GBP",
+        "similarity": 0.5332
+      },
+      {
+        "competitor_item_id": 160,
+        "competitor_item_name": "J2O Orange & Passion Fruit",
+        "competitor_description": "",
+        "competitor_price": 2.85,
+        "competitor_currency": "GBP",
+        "similarity": 0.5228
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 185,
+      "name": "Mineral Water Still",
+      "desc": "Sparkling or still? Stay hydrated and ask for a Natur Aqua mineral water! It is bottled in Zalaszentgrot, where the water also comes from. The pleasant taste of the Natur Aqua mineral waters comes from its unique mineral composition, obtained from a depth of 685 meters and filtered for 14,000 years.",
+      "price_range_gbp": [
+        2.6,
+        3.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 157,
+        "competitor_item_name": "Harrogate Spring Water Sparkling",
+        "competitor_description": "",
+        "competitor_price": 2.1,
+        "competitor_currency": "GBP",
+        "similarity": 0.6045
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 186,
+      "name": "Mineral Water Sparkling",
+      "desc": "Sparkling or still? Stay hydrated and ask for a Natur Aqua mineral water! It is bottled in Zalaszentgrot, where the water also comes from. The pleasant taste of the Natur Aqua mineral waters comes from its unique mineral composition, obtained from a depth of 685 meters and filtered for 14,000 years.",
+      "price_range_gbp": [
+        2.6,
+        3.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 157,
+        "competitor_item_name": "Harrogate Spring Water Sparkling",
+        "competitor_description": "",
+        "competitor_price": 2.1,
+        "competitor_currency": "GBP",
+        "similarity": 0.6331
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 188,
+      "name": "Coca-Cola 33cl",
+      "desc": "The best way to refresh when you are thirsty is to get a Coca-Cola cold drink, delicious taste in a cane, Experience joy on board and open happiness!",
+      "price_range_gbp": [
+        3.1,
+        3.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 171,
+        "competitor_item_name": "Coca-Cola",
+        "competitor_description": "",
+        "competitor_price": 2.85,
+        "competitor_currency": "GBP",
+        "similarity": 0.6249
+      },
+      {
+        "competitor_item_id": 170,
+        "competitor_item_name": "Diet Coke",
+        "competitor_description": "",
+        "competitor_price": 2.85,
+        "competitor_currency": "GBP",
+        "similarity": 0.5277
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 189,
+      "name": "Coca-Cola Zero 33cl",
+      "desc": "Get a Sugar free Coca-Cola on board, original Coke flavour with zero sugar, Experience joy on board and open happiness!",
+      "price_range_gbp": [
+        3.1,
+        3.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 171,
+        "competitor_item_name": "Coca-Cola",
+        "competitor_description": "",
+        "competitor_price": 2.85,
+        "competitor_currency": "GBP",
+        "similarity": 0.6268
+      },
+      {
+        "competitor_item_id": 170,
+        "competitor_item_name": "Diet Coke",
+        "competitor_description": "",
+        "competitor_price": 2.85,
+        "competitor_currency": "GBP",
+        "similarity": 0.554
+      },
+      {
+        "competitor_item_id": 172,
+        "competitor_item_name": "Sprite Zero Sugar",
+        "competitor_description": "",
+        "competitor_price": 2.85,
+        "competitor_currency": "GBP",
+        "similarity": 0.5532
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 190,
+      "name": "Fanta 33cl",
+      "desc": "Want a fruity taste, bright and bubbly drink? Fanta is carbonated drink with tingly. Coca Cola launched the world's number one orange-flavored soft drink back in 1955. Great as a mixer!",
+      "price_range_gbp": [
+        3.1,
+        3.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 167,
+        "competitor_item_name": "Fanta Orange Zero",
+        "competitor_description": "",
+        "competitor_price": 2.85,
+        "competitor_currency": "GBP",
+        "similarity": 0.6378
+      },
+      {
+        "competitor_item_id": 159,
+        "competitor_item_name": "Tropicana Smooth Orange Juice",
+        "competitor_description": "",
+        "competitor_price": 2.85,
+        "competitor_currency": "GBP",
+        "similarity": 0.5787
+      },
+      {
+        "competitor_item_id": 166,
+        "competitor_item_name": "Fanta Lemon",
+        "competitor_description": "",
+        "competitor_price": 2.85,
+        "competitor_currency": "GBP",
+        "similarity": 0.5426
+      },
+      {
+        "competitor_item_id": 163,
+        "competitor_item_name": "Fever-Tree Mexican Lime Soda",
+        "competitor_description": "",
+        "competitor_price": 2.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.5334
+      },
+      {
+        "competitor_item_id": 198,
+        "competitor_item_name": "Malibu Cocktail Piña Colada",
+        "competitor_description": "",
+        "competitor_price": 7.25,
+        "competitor_currency": "GBP",
+        "similarity": 0.5217
+      },
+      {
+        "competitor_item_id": 160,
+        "competitor_item_name": "J2O Orange & Passion Fruit",
+        "competitor_description": "",
+        "competitor_price": 2.85,
+        "competitor_currency": "GBP",
+        "similarity": 0.5055
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 197,
+      "name": "Cappy Lemonade 400ml",
+      "desc": "Non-carbonated lemon & strawberry drink with sugar and sweetener.",
+      "price_range_gbp": [
+        3.5,
+        4.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 185,
+        "competitor_item_name": "Kopparberg Strawberry & Lime Cider",
+        "competitor_description": "ABV 4% 330ml",
+        "competitor_price": 5.75,
+        "competitor_currency": "GBP",
+        "similarity": 0.5065
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 199,
+      "name": "Kinley Ginger Ale 0.25L",
+      "desc": "Kinley Ginger Ale carbonated soft drink with ginger flavour. A balanced tonic with the refreshing taste of ginger. It can be a great addition mixed with alcoholic beverages.",
+      "price_range_gbp": [
+        2.0,
+        3.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 162,
+        "competitor_item_name": "Fever-Tree Ginger Ale",
+        "competitor_description": "",
+        "competitor_price": 2.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.5246
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 200,
+      "name": "Kinley Ginger Ale 0.25L UK",
+      "desc": "Kinley Ginger Ale carbonated soft drink with ginger flavour. A balanced tonic with the refreshing taste of ginger. It can be a great addition mixed with alcoholic beverages.",
+      "price_range_gbp": [
+        2.2,
+        3.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 162,
+        "competitor_item_name": "Fever-Tree Ginger Ale",
+        "competitor_description": "",
+        "competitor_price": 2.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.5116
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 201,
+      "name": "Cafe Frei Spar. Coffee Mango",
+      "desc": "Cafe Frei s fizzy coffee drink is unique on the Hungarian market. Instead of milk, this coffee is made with sparkling water in two flavors, mango and vanilla. We recommend drinking it cold!",
+      "price_range_gbp": [
+        2.5,
+        2.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 158,
+        "competitor_item_name": "Starbucks Caffè Latte",
+        "competitor_description": "",
+        "competitor_price": 3.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.5192
+      },
+      {
+        "competitor_item_id": 146,
+        "competitor_item_name": "Costa Coffee Latte",
+        "competitor_description": "",
+        "competitor_price": 3.5,
+        "competitor_currency": "GBP",
+        "similarity": 0.5063
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 204,
+      "name": "Tymbark Red fruits juice",
+      "desc": "Juice with natural ingredients only. Contains apple juice, cherry juice, and pomegranate juice. With no added sugar.",
+      "price_range_gbp": [
+        3.1,
+        3.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 159,
+        "competitor_item_name": "Tropicana Smooth Orange Juice",
+        "competitor_description": "",
+        "competitor_price": 2.85,
+        "competitor_currency": "GBP",
+        "similarity": 0.5885
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 206,
+      "name": "Cafe Frei Spar.Coffee Vanilla",
+      "desc": "Cafe Frei Sparkling Coffee Vanilla",
+      "price_range_gbp": [
+        2.5,
+        2.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 142,
+        "competitor_item_name": "Costa Coffee Americano",
+        "competitor_description": "",
+        "competitor_price": 3.4,
+        "competitor_currency": "GBP",
+        "similarity": 0.6328
+      },
+      {
+        "competitor_item_id": 146,
+        "competitor_item_name": "Costa Coffee Latte",
+        "competitor_description": "",
+        "competitor_price": 3.5,
+        "competitor_currency": "GBP",
+        "similarity": 0.6097
+      },
+      {
+        "competitor_item_id": 158,
+        "competitor_item_name": "Starbucks Caffè Latte",
+        "competitor_description": "",
+        "competitor_price": 3.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.5841
+      },
+      {
+        "competitor_item_id": 144,
+        "competitor_item_name": "Costa Coffee Creamy Cappuccino",
+        "competitor_description": "",
+        "competitor_price": 3.5,
+        "competitor_currency": "GBP",
+        "similarity": 0.5793
+      },
+      {
+        "competitor_item_id": 143,
+        "competitor_item_name": "Costa Coffee Decaf",
+        "competitor_description": "",
+        "competitor_price": 3.4,
+        "competitor_currency": "GBP",
+        "similarity": 0.5483
+      },
+      {
+        "competitor_item_id": 193,
+        "competitor_item_name": "St-Rémy XO French Brandy",
+        "competitor_description": "",
+        "competitor_price": 7.25,
+        "competitor_currency": "GBP",
+        "similarity": 0.502
+      },
+      {
+        "competitor_item_id": 189,
+        "competitor_item_name": "Freixenet Italian Sparkling Rosé",
+        "competitor_description": "",
+        "competitor_price": 7.3,
+        "competitor_currency": "GBP",
+        "similarity": 0.5009
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 207,
+      "name": "Cafe Frei S.Coffee Vanilla UK",
+      "desc": "Cafe Frei Sparkling Coffee Vanilla UK",
+      "price_range_gbp": [
+        1.8,
+        3.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 142,
+        "competitor_item_name": "Costa Coffee Americano",
+        "competitor_description": "",
+        "competitor_price": 3.4,
+        "competitor_currency": "GBP",
+        "similarity": 0.594
+      },
+      {
+        "competitor_item_id": 146,
+        "competitor_item_name": "Costa Coffee Latte",
+        "competitor_description": "",
+        "competitor_price": 3.5,
+        "competitor_currency": "GBP",
+        "similarity": 0.5303
+      },
+      {
+        "competitor_item_id": 143,
+        "competitor_item_name": "Costa Coffee Decaf",
+        "competitor_description": "",
+        "competitor_price": 3.4,
+        "competitor_currency": "GBP",
+        "similarity": 0.5179
+      },
+      {
+        "competitor_item_id": 144,
+        "competitor_item_name": "Costa Coffee Creamy Cappuccino",
+        "competitor_description": "",
+        "competitor_price": 3.5,
+        "competitor_currency": "GBP",
+        "similarity": 0.5164
+      },
+      {
+        "competitor_item_id": 158,
+        "competitor_item_name": "Starbucks Caffè Latte",
+        "competitor_description": "",
+        "competitor_price": 3.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.5132
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 210,
+      "name": "Coca-Cola Zero Oreo Cookie",
+      "desc": "Coca-Cola  OREO Zero Sugar features a refreshing Coca-Cola taste with flavorful, OREO cookie-inspired hints.",
+      "price_range_gbp": [
+        2.6,
+        3.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 171,
+        "competitor_item_name": "Coca-Cola",
+        "competitor_description": "",
+        "competitor_price": 2.85,
+        "competitor_currency": "GBP",
+        "similarity": 0.5334
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 211,
+      "name": "Coca-Cola Zero Oreo Cookie UK",
+      "desc": "Coca-Cola OREO Zero Sugar Features a refreshing Coca-Cola taste with flavorful, OREO cookie-inspired hints.",
+      "price_range_gbp": [
+        3.5,
+        3.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 171,
+        "competitor_item_name": "Coca-Cola",
+        "competitor_description": "",
+        "competitor_price": 2.85,
+        "competitor_currency": "GBP",
+        "similarity": 0.5376
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 212,
+      "name": "Sprite",
+      "desc": "Sprite is a perfectly clear lemon lime sparkling beverage with 100% natural flavors and no caffeine.",
+      "price_range_gbp": [
+        2.6,
+        3.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 172,
+        "competitor_item_name": "Sprite Zero Sugar",
+        "competitor_description": "",
+        "competitor_price": 2.85,
+        "competitor_currency": "GBP",
+        "similarity": 0.5522
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 213,
+      "name": "Aqua Carpatica Apple flavour",
+      "desc": "AQUA Carpatica Apple Sparkling Drink is a delicately light yet satisfying sparkling flavoured water drink that's crisp and refreshing. Sparkling flavoured water infused with natural apple juice, with no added sugar. Rich in minerals.",
+      "price_range_gbp": [
+        2.6,
+        3.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 157,
+        "competitor_item_name": "Harrogate Spring Water Sparkling",
+        "competitor_description": "",
+        "competitor_price": 2.1,
+        "competitor_currency": "GBP",
+        "similarity": 0.5023
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 214,
+      "name": "Sprite 33cl",
+      "desc": "Sprite is a perfectly clear lemon lime sparkling beverage with 100% natural flavors and no caffeine.",
+      "price_range_gbp": [
+        3.1,
+        3.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 172,
+        "competitor_item_name": "Sprite Zero Sugar",
+        "competitor_description": "",
+        "competitor_price": 2.85,
+        "competitor_currency": "GBP",
+        "similarity": 0.5094
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 218,
+      "name": "Cappy Orange Juice 33cl",
+      "desc": "Cappy 100% pure Orange is a tasty juice full of natural goodness from fruit. A delicious drink, great in the morning, perfect to start your day as part of a healthy and nourishing breakfast, the most important meal of the day.",
+      "price_range_gbp": [
+        3.3,
+        3.8
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 159,
+        "competitor_item_name": "Tropicana Smooth Orange Juice",
+        "competitor_description": "",
+        "competitor_price": 2.85,
+        "competitor_currency": "GBP",
+        "similarity": 0.5775
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 219,
+      "name": "Grey Goose Original 1L",
+      "desc": "This is an age restricted item, and you may be asked to verify your age upon delivery.",
+      "price_range_gbp": [
+        28.0,
+        38.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 195,
+        "competitor_item_name": "Grey Goose Vodka",
+        "competitor_description": "",
+        "competitor_price": 7.25,
+        "competitor_currency": "GBP",
+        "similarity": 0.5063
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 222,
+      "name": "Johnnie Walker Red Label 1L",
+      "desc": "This is an age restricted item, and you may be asked to verify your age upon delivery.",
+      "price_range_gbp": [
+        12.0,
+        20.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 194,
+        "competitor_item_name": "Johnnie Walker Black Label",
+        "competitor_description": "",
+        "competitor_price": 7.25,
+        "competitor_currency": "GBP",
+        "similarity": 0.6401
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 223,
+      "name": "Grey Goose Original 1l",
+      "desc": "This is an age restricted item, and you may be asked to verify your age upon delivery.",
+      "price_range_gbp": [
+        38.0,
+        38.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 195,
+        "competitor_item_name": "Grey Goose Vodka",
+        "competitor_description": "",
+        "competitor_price": 7.25,
+        "competitor_currency": "GBP",
+        "similarity": 0.5063
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 226,
+      "name": "Johnnie Walker Red Label 1l",
+      "desc": "This is an age restricted item, and you may be asked to verify your age upon delivery.",
+      "price_range_gbp": [
+        20.0,
+        20.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 194,
+        "competitor_item_name": "Johnnie Walker Black Label",
+        "competitor_description": "",
+        "competitor_price": 7.25,
+        "competitor_currency": "GBP",
+        "similarity": 0.6401
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 227,
+      "name": "Cheese Baguette Sandwich 130",
+      "desc": "Order the ultimate baguette with cheese, with the sun-blushed tomato and basil spread.",
+      "price_range_gbp": [
+        4.0,
+        5.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 123,
+        "competitor_item_name": "Hot Bacon Baguette",
+        "competitor_description": "",
+        "competitor_price": 0.0,
+        "competitor_currency": "",
+        "similarity": 0.6118
+      },
+      {
+        "competitor_item_id": 110,
+        "competitor_item_name": "Hot Bacon Baguette",
+        "competitor_description": "Tasty bacon medallions in a warm buttered baguette with a choice of tomato ketchup or brown sauce.",
+        "competitor_price": 5.2,
+        "competitor_currency": "GBP",
+        "similarity": 0.5454
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 229,
+      "name": "Croissant Meat Sandwich",
+      "desc": "Try our Croissant sandwich with turkey salami, smoked turkey slice, grilled vegetables and basil butter cream. The sandwich is pork-free.",
+      "price_range_gbp": [
+        5.0,
+        6.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 149,
+        "competitor_item_name": "Chocolate Croissant",
+        "competitor_description": "",
+        "competitor_price": 3.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.5202
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 233,
+      "name": "Breakfast Pastry Turkey & Chee",
+      "desc": "A delicious breakfast pastry with turkey ham & cheese.",
+      "price_range_gbp": [
+        3.0,
+        5.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 109,
+        "competitor_item_name": "Ham & Cheese Toastie",
+        "competitor_description": "Full-flavoured ham hock with mature cheddar cheese, served in toasted, cheese-topped sourdough bread.",
+        "competitor_price": 5.2,
+        "competitor_currency": "GBP",
+        "similarity": 0.5004
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 235,
+      "name": "Roast Beef Lye Roll",
+      "desc": "Elevate your dining experience with this Beef-inspired creation, where layers of sous vide roast beef, soy mayo, ruccola, fried onions & sundried tomato unite to deliver an excellent taste.",
+      "price_range_gbp": [
+        7.0,
+        8.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 113,
+        "competitor_item_name": "Chicken & Bacon Roll",
+        "competitor_description": "Chargrilled chicken, streaky bacon, spring onion and celery, with mayonnaise and salad cream, topped with mixed leaf on tiger bread.",
+        "competitor_price": 5.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.5252
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 236,
+      "name": "Cheese Baguette Sandwich",
+      "desc": "Order the ultimate baguette with cheese, with the sun blushed tomato and basil spread.",
+      "price_range_gbp": [
+        4.5,
+        6.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 123,
+        "competitor_item_name": "Hot Bacon Baguette",
+        "competitor_description": "",
+        "competitor_price": 0.0,
+        "competitor_currency": "",
+        "similarity": 0.6314
+      },
+      {
+        "competitor_item_id": 110,
+        "competitor_item_name": "Hot Bacon Baguette",
+        "competitor_description": "Tasty bacon medallions in a warm buttered baguette with a choice of tomato ketchup or brown sauce.",
+        "competitor_price": 5.2,
+        "competitor_currency": "GBP",
+        "similarity": 0.55
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 237,
+      "name": "Croissant Meat Sandwich 150g",
+      "desc": "Try our Croissant sandwich with turkey salami, smoked turkey slice, grilled vegetables and basil butter cream. The sandwich is pork-free.",
+      "price_range_gbp": [
+        6.0,
+        7.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 149,
+        "competitor_item_name": "Chocolate Croissant",
+        "competitor_description": "",
+        "competitor_price": 3.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.5117
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 239,
+      "name": "Breakfast Pastry Turkey&Cheese",
+      "desc": "A delicious breakfast pastry with turkey ham  and  cheese.",
+      "price_range_gbp": [
+        3.5,
+        5.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 109,
+        "competitor_item_name": "Ham & Cheese Toastie",
+        "competitor_description": "Full-flavoured ham hock with mature cheddar cheese, served in toasted, cheese-topped sourdough bread.",
+        "competitor_price": 5.2,
+        "competitor_currency": "GBP",
+        "similarity": 0.5017
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 240,
+      "name": "Roast Beef Lye Roll 170g",
+      "desc": "Elevate your dining experience with this Beef-inspired creation, where layers of sous vide roast beef, soy mayo, ruccola, fried onions and sundried tomato unite to deliver an excellent taste.",
+      "price_range_gbp": [
+        7.9,
+        9.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 113,
+        "competitor_item_name": "Chicken & Bacon Roll",
+        "competitor_description": "Chargrilled chicken, streaky bacon, spring onion and celery, with mayonnaise and salad cream, topped with mixed leaf on tiger bread.",
+        "competitor_price": 5.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.5304
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 241,
+      "name": "Croissant Cheese Sandwich",
+      "desc": "Croissant with Emmental, sweet pickle-mustard mayo & onion jam",
+      "price_range_gbp": [
+        5.3,
+        6.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 108,
+        "competitor_item_name": "Tuna Crunch Roll",
+        "competitor_description": "Shredded tuna, diced red onion, peppers and cucumber, mixed together in creamy mayonnaise on tiger bread.",
+        "competitor_price": 5.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.52
+      },
+      {
+        "competitor_item_id": 149,
+        "competitor_item_name": "Chocolate Croissant",
+        "competitor_description": "",
+        "competitor_price": 3.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.5186
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 242,
+      "name": "Croissant Cheese Sandwich 150g",
+      "desc": "Croissant with Emmental, sweet pickle-mustard mayo & onion jam",
+      "price_range_gbp": [
+        6.2,
+        7.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 108,
+        "competitor_item_name": "Tuna Crunch Roll",
+        "competitor_description": "Shredded tuna, diced red onion, peppers and cucumber, mixed together in creamy mayonnaise on tiger bread.",
+        "competitor_price": 5.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.5189
+      },
+      {
+        "competitor_item_id": 149,
+        "competitor_item_name": "Chocolate Croissant",
+        "competitor_description": "",
+        "competitor_price": 3.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.514
+      },
+      {
+        "competitor_item_id": 113,
+        "competitor_item_name": "Chicken & Bacon Roll",
+        "competitor_description": "Chargrilled chicken, streaky bacon, spring onion and celery, with mayonnaise and salad cream, topped with mixed leaf on tiger bread.",
+        "competitor_price": 5.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.5093
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 243,
+      "name": "Smoked Turkey Tomato Baguette",
+      "desc": "Tomato Baguette with smoked turkey slices, fruity BBQ sauce & poached spinach with garlic",
+      "price_range_gbp": [
+        4.0,
+        5.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 113,
+        "competitor_item_name": "Chicken & Bacon Roll",
+        "competitor_description": "Chargrilled chicken, streaky bacon, spring onion and celery, with mayonnaise and salad cream, topped with mixed leaf on tiger bread.",
+        "competitor_price": 5.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.6062
+      },
+      {
+        "competitor_item_id": 123,
+        "competitor_item_name": "Hot Bacon Baguette",
+        "competitor_description": "",
+        "competitor_price": 0.0,
+        "competitor_currency": "",
+        "similarity": 0.5814
+      },
+      {
+        "competitor_item_id": 110,
+        "competitor_item_name": "Hot Bacon Baguette",
+        "competitor_description": "Tasty bacon medallions in a warm buttered baguette with a choice of tomato ketchup or brown sauce.",
+        "competitor_price": 5.2,
+        "competitor_currency": "GBP",
+        "similarity": 0.5734
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 244,
+      "name": "Smoked Turkey&Tomato Baguette",
+      "desc": "Tomato Baguette with smoked turkey slices, fruity BBQ sauce & poached spinach with garlic",
+      "price_range_gbp": [
+        4.4,
+        6.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 113,
+        "competitor_item_name": "Chicken & Bacon Roll",
+        "competitor_description": "Chargrilled chicken, streaky bacon, spring onion and celery, with mayonnaise and salad cream, topped with mixed leaf on tiger bread.",
+        "competitor_price": 5.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.6043
+      },
+      {
+        "competitor_item_id": 123,
+        "competitor_item_name": "Hot Bacon Baguette",
+        "competitor_description": "",
+        "competitor_price": 0.0,
+        "competitor_currency": "",
+        "similarity": 0.5702
+      },
+      {
+        "competitor_item_id": 110,
+        "competitor_item_name": "Hot Bacon Baguette",
+        "competitor_description": "Tasty bacon medallions in a warm buttered baguette with a choice of tomato ketchup or brown sauce.",
+        "competitor_price": 5.2,
+        "competitor_currency": "GBP",
+        "similarity": 0.5598
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 245,
+      "name": "Double Meat Croissant Sandwich",
+      "desc": "Turkey ham and turkey salami with red pesto basil mayonnaise and leafy spinach on a croissant bread.",
+      "price_range_gbp": [
+        5.3,
+        6.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 149,
+        "competitor_item_name": "Chocolate Croissant",
+        "competitor_description": "",
+        "competitor_price": 3.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.5477
+      },
+      {
+        "competitor_item_id": 113,
+        "competitor_item_name": "Chicken & Bacon Roll",
+        "competitor_description": "Chargrilled chicken, streaky bacon, spring onion and celery, with mayonnaise and salad cream, topped with mixed leaf on tiger bread.",
+        "competitor_price": 5.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.5036
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 246,
+      "name": "Ham & Cheese Baguette",
+      "desc": "Rye seeded baguette, turkey breast with ham and Trappist cheese, natural butter cream, Italian tomato chutney, steamed leafy spinach.",
+      "price_range_gbp": [
+        4.4,
+        5.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 109,
+        "competitor_item_name": "Ham & Cheese Toastie",
+        "competitor_description": "Full-flavoured ham hock with mature cheddar cheese, served in toasted, cheese-topped sourdough bread.",
+        "competitor_price": 5.2,
+        "competitor_currency": "GBP",
+        "similarity": 0.5663
+      },
+      {
+        "competitor_item_id": 123,
+        "competitor_item_name": "Hot Bacon Baguette",
+        "competitor_description": "",
+        "competitor_price": 0.0,
+        "competitor_currency": "",
+        "similarity": 0.5521
+      },
+      {
+        "competitor_item_id": 113,
+        "competitor_item_name": "Chicken & Bacon Roll",
+        "competitor_description": "Chargrilled chicken, streaky bacon, spring onion and celery, with mayonnaise and salad cream, topped with mixed leaf on tiger bread.",
+        "competitor_price": 5.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.545
+      },
+      {
+        "competitor_item_id": 110,
+        "competitor_item_name": "Hot Bacon Baguette",
+        "competitor_description": "Tasty bacon medallions in a warm buttered baguette with a choice of tomato ketchup or brown sauce.",
+        "competitor_price": 5.2,
+        "competitor_currency": "GBP",
+        "similarity": 0.5088
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 247,
+      "name": "Chicken Wrap",
+      "desc": "Wrap with roasted garlic chicken ragu, Snidling pepper mayonnaise, steamed spinach leaf and roasted pepper mix with crumbled feta cheese.",
+      "price_range_gbp": [
+        6.0,
+        7.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 113,
+        "competitor_item_name": "Chicken & Bacon Roll",
+        "competitor_description": "Chargrilled chicken, streaky bacon, spring onion and celery, with mayonnaise and salad cream, topped with mixed leaf on tiger bread.",
+        "competitor_price": 5.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.6084
+      },
+      {
+        "competitor_item_id": 108,
+        "competitor_item_name": "Tuna Crunch Roll",
+        "competitor_description": "Shredded tuna, diced red onion, peppers and cucumber, mixed together in creamy mayonnaise on tiger bread.",
+        "competitor_price": 5.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.5703
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 248,
+      "name": "DoubleMeat Croissant Sandwich",
+      "desc": "Turkey ham and turkey salami with red pesto basil mayonnaise and leafy spinach on a croissant bread.",
+      "price_range_gbp": [
+        6.2,
+        7.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 149,
+        "competitor_item_name": "Chocolate Croissant",
+        "competitor_description": "",
+        "competitor_price": 3.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.5209
+      },
+      {
+        "competitor_item_id": 126,
+        "competitor_item_name": "Afternoon Tea",
+        "competitor_description": "Sultana scone, Bonne Maman strawberry jam, afternoon tea cream and a clotted cream shortbread finger biscuit.",
+        "competitor_price": 5.5,
+        "competitor_currency": "GBP",
+        "similarity": 0.5141
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 249,
+      "name": "Ham & Cheese Baguette 145g",
+      "desc": "Rye seeded baguette, turkey breast with ham and Trappist cheese, natural butter cream, Italian tomato chutney, steamed leafy spinach.",
+      "price_range_gbp": [
+        5.3,
+        6.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 109,
+        "competitor_item_name": "Ham & Cheese Toastie",
+        "competitor_description": "Full-flavoured ham hock with mature cheddar cheese, served in toasted, cheese-topped sourdough bread.",
+        "competitor_price": 5.2,
+        "competitor_currency": "GBP",
+        "similarity": 0.567
+      },
+      {
+        "competitor_item_id": 123,
+        "competitor_item_name": "Hot Bacon Baguette",
+        "competitor_description": "",
+        "competitor_price": 0.0,
+        "competitor_currency": "",
+        "similarity": 0.5657
+      },
+      {
+        "competitor_item_id": 113,
+        "competitor_item_name": "Chicken & Bacon Roll",
+        "competitor_description": "Chargrilled chicken, streaky bacon, spring onion and celery, with mayonnaise and salad cream, topped with mixed leaf on tiger bread.",
+        "competitor_price": 5.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.5322
+      },
+      {
+        "competitor_item_id": 110,
+        "competitor_item_name": "Hot Bacon Baguette",
+        "competitor_description": "Tasty bacon medallions in a warm buttered baguette with a choice of tomato ketchup or brown sauce.",
+        "competitor_price": 5.2,
+        "competitor_currency": "GBP",
+        "similarity": 0.5157
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 251,
+      "name": "Ham & Cheese Panini",
+      "desc": "Ham & Cheese Panini UK",
+      "price_range_gbp": [
+        5.0,
+        5.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 109,
+        "competitor_item_name": "Ham & Cheese Toastie",
+        "competitor_description": "Full-flavoured ham hock with mature cheddar cheese, served in toasted, cheese-topped sourdough bread.",
+        "competitor_price": 5.2,
+        "competitor_currency": "GBP",
+        "similarity": 0.5387
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 253,
+      "name": "Dairy Free Turkey Ham Baguette",
+      "desc": "Rye seedy baguette with Turkey breast ham, mayonnaise with coarse pepper, Italian tomato chutney and steamed leafy spinach. This sandwich is produced without any dairy product (there is no cheese in it).",
+      "price_range_gbp": [
+        4.4,
+        5.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 109,
+        "competitor_item_name": "Ham & Cheese Toastie",
+        "competitor_description": "Full-flavoured ham hock with mature cheddar cheese, served in toasted, cheese-topped sourdough bread.",
+        "competitor_price": 5.2,
+        "competitor_currency": "GBP",
+        "similarity": 0.5373
+      },
+      {
+        "competitor_item_id": 113,
+        "competitor_item_name": "Chicken & Bacon Roll",
+        "competitor_description": "Chargrilled chicken, streaky bacon, spring onion and celery, with mayonnaise and salad cream, topped with mixed leaf on tiger bread.",
+        "competitor_price": 5.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.5228
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 367,
+      "name": "Armani Acqua di Gio Profondo",
+      "desc": "Top notes: Lemon, Grapefruit and Spices. Middle notes: Calone, Lavender and Cypress. Base notes: Mineral notes, Woody Notes and Patchouli. Launched in 2025.",
+      "price_range_gbp": [
+        63.5,
+        63.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 136,
+        "competitor_item_name": "Spanish Tapas",
+        "competitor_description": "Picos Cracker pack, Serrano jamon, garlic and thyme olives and sobrasada paste.",
+        "competitor_price": 6.5,
+        "competitor_currency": "GBP",
+        "similarity": 0.5098
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 374,
+      "name": "Black Tea",
+      "desc": "Tea time? Try the delicious tea selection with full flavor. Birchall English Breakfast Tea is a unique, masterful blend, closely guarded by the fifth generation of Birchall Grahams family. Our teas are sourced entirely from estates across East Africa, from Rwanda through to the Rift Valley in Kenya, where the very best teas are to be found.",
+      "price_range_gbp": [
+        2.5,
+        3.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 147,
+        "competitor_item_name": "Yorkshire Tea",
+        "competitor_description": "",
+        "competitor_price": 3.4,
+        "competitor_currency": "GBP",
+        "similarity": 0.5038
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 375,
+      "name": "Green Tea",
+      "desc": "Tea time? Here is the exotic & enchanting green tea, rich in anti-oxidants.",
+      "price_range_gbp": [
+        2.5,
+        3.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 147,
+        "competitor_item_name": "Yorkshire Tea",
+        "competitor_description": "",
+        "competitor_price": 3.4,
+        "competitor_currency": "GBP",
+        "similarity": 0.5543
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 376,
+      "name": "Berries Tea",
+      "desc": "Tea time? Try this fruity, refreshing, rich in anti-oxidants and naturally caffeine free tea.",
+      "price_range_gbp": [
+        2.5,
+        3.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 147,
+        "competitor_item_name": "Yorkshire Tea",
+        "competitor_description": "",
+        "competitor_price": 3.4,
+        "competitor_currency": "GBP",
+        "similarity": 0.5636
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 378,
+      "name": "Starbucks Latte",
+      "desc": "Starbucks on-board! Take your favourite Starbucks Latte which combines 100% Arabica beans and dairy milk, topped with soft layer of foam.",
+      "price_range_gbp": [
+        3.5,
+        4.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 158,
+        "competitor_item_name": "Starbucks Caffè Latte",
+        "competitor_description": "",
+        "competitor_price": 3.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.6673
+      },
+      {
+        "competitor_item_id": 146,
+        "competitor_item_name": "Costa Coffee Latte",
+        "competitor_description": "",
+        "competitor_price": 3.5,
+        "competitor_currency": "GBP",
+        "similarity": 0.5295
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 379,
+      "name": "Starbucks Cappuccino",
+      "desc": "Starbucks Cappucino? Get your favourite on board, 100% Arabica beans blended together with dairy milk and topped with a thick layer of foam .",
+      "price_range_gbp": [
+        3.5,
+        4.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 144,
+        "competitor_item_name": "Costa Coffee Creamy Cappuccino",
+        "competitor_description": "",
+        "competitor_price": 3.5,
+        "competitor_currency": "GBP",
+        "similarity": 0.7233
+      },
+      {
+        "competitor_item_id": 158,
+        "competitor_item_name": "Starbucks Caffè Latte",
+        "competitor_description": "",
+        "competitor_price": 3.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.578
+      },
+      {
+        "competitor_item_id": 142,
+        "competitor_item_name": "Costa Coffee Americano",
+        "competitor_description": "",
+        "competitor_price": 3.4,
+        "competitor_currency": "GBP",
+        "similarity": 0.5011
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 383,
+      "name": "Hot Chocolate",
+      "desc": "The perfect blend of rich and velvety hot chocolate - make every sip an experience to remember!",
+      "price_range_gbp": [
+        2.6,
+        3.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 148,
+        "competitor_item_name": "Cadbury Hot Chocolate",
+        "competitor_description": "",
+        "competitor_price": 3.5,
+        "competitor_currency": "GBP",
+        "similarity": 0.6487
+      },
+      {
+        "competitor_item_id": 149,
+        "competitor_item_name": "Chocolate Croissant",
+        "competitor_description": "",
+        "competitor_price": 3.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.5415
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 384,
+      "name": "Cadbury Hot Chocolate",
+      "desc": "Your very own hus in a mug. Deliciously silky and sweet just give it a good stir and you are ready to feel all warm inside. Made with sustainably sourced cocoa.",
+      "price_range_gbp": [
+        3.0,
+        3.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 148,
+        "competitor_item_name": "Cadbury Hot Chocolate",
+        "competitor_description": "",
+        "competitor_price": 3.5,
+        "competitor_currency": "GBP",
+        "similarity": 0.7857
+      },
+      {
+        "competitor_item_id": 137,
+        "competitor_item_name": "Cadbury Dairy Milk Biscoff Chocolate Bar",
+        "competitor_description": "",
+        "competitor_price": 0.0,
+        "competitor_currency": "",
+        "similarity": 0.5865
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 385,
+      "name": "English Breakfast Tea",
+      "desc": "Tea time? Try the delicious English Breakfast Tea with full flavour.",
+      "price_range_gbp": [
+        2.7,
+        3.1
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 147,
+        "competitor_item_name": "Yorkshire Tea",
+        "competitor_description": "",
+        "competitor_price": 3.4,
+        "competitor_currency": "GBP",
+        "similarity": 0.63
+      },
+      {
+        "competitor_item_id": 126,
+        "competitor_item_name": "Afternoon Tea",
+        "competitor_description": "Sultana scone, Bonne Maman strawberry jam, afternoon tea cream and a clotted cream shortbread finger biscuit.",
+        "competitor_price": 5.5,
+        "competitor_currency": "GBP",
+        "similarity": 0.5167
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 386,
+      "name": "Jasmine Green Tea",
+      "desc": "Tea time? Here is the exotic  and  enchanting green tea, rich in anti-oxidants.",
+      "price_range_gbp": [
+        2.7,
+        3.1
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 147,
+        "competitor_item_name": "Yorkshire Tea",
+        "competitor_description": "",
+        "competitor_price": 3.4,
+        "competitor_currency": "GBP",
+        "similarity": 0.5484
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 387,
+      "name": "Berries Tea bag",
+      "desc": "Tea time? Try this fruity, refreshing, rich in anti-oxidants and naturally caffeine free tea.",
+      "price_range_gbp": [
+        2.7,
+        3.1
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 147,
+        "competitor_item_name": "Yorkshire Tea",
+        "competitor_description": "",
+        "competitor_price": 3.4,
+        "competitor_currency": "GBP",
+        "similarity": 0.5587
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 388,
+      "name": "You+ Coffee Nescafe Gold",
+      "desc": "Discover our exclusive coffee with a unique taste above the clouds! This delicious blend of arabica and robusta beans with its perfect ratio is available only to Wizz Air customers so elevate your coffee experience today.We know that you dont taste refreshments in the air the same way you do on the ground, so we have created a unique and complex coffee blend",
+      "price_range_gbp": [
+        3.0,
+        3.1
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 142,
+        "competitor_item_name": "Costa Coffee Americano",
+        "competitor_description": "",
+        "competitor_price": 3.4,
+        "competitor_currency": "GBP",
+        "similarity": 0.5583
+      },
+      {
+        "competitor_item_id": 144,
+        "competitor_item_name": "Costa Coffee Creamy Cappuccino",
+        "competitor_description": "",
+        "competitor_price": 3.5,
+        "competitor_currency": "GBP",
+        "similarity": 0.524
+      },
+      {
+        "competitor_item_id": 143,
+        "competitor_item_name": "Costa Coffee Decaf",
+        "competitor_description": "",
+        "competitor_price": 3.4,
+        "competitor_currency": "GBP",
+        "similarity": 0.521
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 389,
+      "name": "Starbucks Latte 14g",
+      "desc": "Starbucks on-board! Take your favourite Starbucks Latte which combines 100 % Arabica beans and dairy milk, topped with soft layer of foam.",
+      "price_range_gbp": [
+        4.0,
+        4.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 158,
+        "competitor_item_name": "Starbucks Caffè Latte",
+        "competitor_description": "",
+        "competitor_price": 3.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.6475
+      },
+      {
+        "competitor_item_id": 146,
+        "competitor_item_name": "Costa Coffee Latte",
+        "competitor_description": "",
+        "competitor_price": 3.5,
+        "competitor_currency": "GBP",
+        "similarity": 0.5201
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 390,
+      "name": "Starbucks Cappuccino 14g",
+      "desc": "Starbucks Cappucino? Get your favourite on board, 100% Arabica beans blended together with dairy milk and topped with a thick layer of foam .",
+      "price_range_gbp": [
+        4.0,
+        4.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 144,
+        "competitor_item_name": "Costa Coffee Creamy Cappuccino",
+        "competitor_description": "",
+        "competitor_price": 3.5,
+        "competitor_currency": "GBP",
+        "similarity": 0.7275
+      },
+      {
+        "competitor_item_id": 158,
+        "competitor_item_name": "Starbucks Caffè Latte",
+        "competitor_description": "",
+        "competitor_price": 3.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.5829
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 392,
+      "name": "Cadbury Hot Chocolate 28g",
+      "desc": "Your very own hug in a mug. Deliciously silky and sweet - just give it a good stir and you re ready to feel all warm inside! Made with sustainably sourced cocoa.",
+      "price_range_gbp": [
+        3.1,
+        3.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 148,
+        "competitor_item_name": "Cadbury Hot Chocolate",
+        "competitor_description": "",
+        "competitor_price": 3.5,
+        "competitor_currency": "GBP",
+        "similarity": 0.7748
+      },
+      {
+        "competitor_item_id": 137,
+        "competitor_item_name": "Cadbury Dairy Milk Biscoff Chocolate Bar",
+        "competitor_description": "",
+        "competitor_price": 0.0,
+        "competitor_currency": "",
+        "similarity": 0.6211
+      },
+      {
+        "competitor_item_id": 141,
+        "competitor_item_name": "Cadbury Dairy Milk Buttons",
+        "competitor_description": "",
+        "competitor_price": 3.75,
+        "competitor_currency": "GBP",
+        "similarity": 0.5268
+      },
+      {
+        "competitor_item_id": 138,
+        "competitor_item_name": "Cadbury Nibbly Fingers",
+        "competitor_description": "",
+        "competitor_price": 0.0,
+        "competitor_currency": "",
+        "similarity": 0.5021
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 393,
+      "name": "Coffee Syrup Caramel-Vanilla",
+      "desc": "Caramel-Vanilla flavoured coffee syrup. Upsale option. Offer it with any coffee on-board for only 0.50 EUR more.",
+      "price_range_gbp": [
+        0.4,
+        0.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 158,
+        "competitor_item_name": "Starbucks Caffè Latte",
+        "competitor_description": "",
+        "competitor_price": 3.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.5228
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 394,
+      "name": "Coffee Syrup Caramel - Vanilla",
+      "desc": "Caramel-Vanilla flavoured coffee syrup. Upsale option. Offer it with any coffee on-board for only 0.50 EUR more.",
+      "price_range_gbp": [
+        0.4,
+        0.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 158,
+        "competitor_item_name": "Starbucks Caffè Latte",
+        "competitor_description": "",
+        "competitor_price": 3.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.5228
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 395,
+      "name": "Barista Cup Coffee",
+      "desc": "Barista Cup s award-winning, fresh ground Guatemalan coffee on-board! It has smooth honey, spiced fruit, and dark chocolate notes.",
+      "price_range_gbp": [
+        2.4,
+        3.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 142,
+        "competitor_item_name": "Costa Coffee Americano",
+        "competitor_description": "",
+        "competitor_price": 3.4,
+        "competitor_currency": "GBP",
+        "similarity": 0.5134
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 399,
+      "name": "Starbucks Caramel Latte",
+      "desc": "This classic beverage combines 100% Arabica beans with dairy milk and our buttery caramel flavour topped with a soft layer of foam",
+      "price_range_gbp": [
+        3.4,
+        4.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 158,
+        "competitor_item_name": "Starbucks Caffè Latte",
+        "competitor_description": "",
+        "competitor_price": 3.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.5971
+      },
+      {
+        "competitor_item_id": 145,
+        "competitor_item_name": "Costa Coffee Salted Caramel Latte",
+        "competitor_description": "",
+        "competitor_price": 3.5,
+        "competitor_currency": "GBP",
+        "similarity": 0.5806
+      },
+      {
+        "competitor_item_id": 146,
+        "competitor_item_name": "Costa Coffee Latte",
+        "competitor_description": "",
+        "competitor_price": 3.5,
+        "competitor_currency": "GBP",
+        "similarity": 0.5001
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 400,
+      "name": "Starbucks Caramel Latte sachet",
+      "desc": "This classic beverage combines 100 percentage Arabica beans with dairy milk and our buttery caramel flavour, topped with a soft layer of foam.",
+      "price_range_gbp": [
+        3.9,
+        4.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 145,
+        "competitor_item_name": "Costa Coffee Salted Caramel Latte",
+        "competitor_description": "",
+        "competitor_price": 3.5,
+        "competitor_currency": "GBP",
+        "similarity": 0.6199
+      },
+      {
+        "competitor_item_id": 158,
+        "competitor_item_name": "Starbucks Caffè Latte",
+        "competitor_description": "",
+        "competitor_price": 3.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.5901
+      },
+      {
+        "competitor_item_id": 146,
+        "competitor_item_name": "Costa Coffee Latte",
+        "competitor_description": "",
+        "competitor_price": 3.5,
+        "competitor_currency": "GBP",
+        "similarity": 0.5174
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 402,
+      "name": "Segafredo Coffee",
+      "desc": "Freshly brewed black coffee.",
+      "price_range_gbp": [
+        3.1,
+        3.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 144,
+        "competitor_item_name": "Costa Coffee Creamy Cappuccino",
+        "competitor_description": "",
+        "competitor_price": 3.5,
+        "competitor_currency": "GBP",
+        "similarity": 0.5366
+      },
+      {
+        "competitor_item_id": 158,
+        "competitor_item_name": "Starbucks Caffè Latte",
+        "competitor_description": "",
+        "competitor_price": 3.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.5293
+      },
+      {
+        "competitor_item_id": 143,
+        "competitor_item_name": "Costa Coffee Decaf",
+        "competitor_description": "",
+        "competitor_price": 3.4,
+        "competitor_currency": "GBP",
+        "similarity": 0.5238
+      },
+      {
+        "competitor_item_id": 142,
+        "competitor_item_name": "Costa Coffee Americano",
+        "competitor_description": "",
+        "competitor_price": 3.4,
+        "competitor_currency": "GBP",
+        "similarity": 0.5174
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 403,
+      "name": "Segafredo Cappuccino",
+      "desc": "Rich coffee & creamy milk.",
+      "price_range_gbp": [
+        3.5,
+        4.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 144,
+        "competitor_item_name": "Costa Coffee Creamy Cappuccino",
+        "competitor_description": "",
+        "competitor_price": 3.5,
+        "competitor_currency": "GBP",
+        "similarity": 0.8053
+      },
+      {
+        "competitor_item_id": 158,
+        "competitor_item_name": "Starbucks Caffè Latte",
+        "competitor_description": "",
+        "competitor_price": 3.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.5745
+      },
+      {
+        "competitor_item_id": 146,
+        "competitor_item_name": "Costa Coffee Latte",
+        "competitor_description": "",
+        "competitor_price": 3.5,
+        "competitor_currency": "GBP",
+        "similarity": 0.5429
+      },
+      {
+        "competitor_item_id": 142,
+        "competitor_item_name": "Costa Coffee Americano",
+        "competitor_description": "",
+        "competitor_price": 3.4,
+        "competitor_currency": "GBP",
+        "similarity": 0.5393
+      },
+      {
+        "competitor_item_id": 143,
+        "competitor_item_name": "Costa Coffee Decaf",
+        "competitor_description": "",
+        "competitor_price": 3.4,
+        "competitor_currency": "GBP",
+        "similarity": 0.5181
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 404,
+      "name": "Segafredo Oat Latte",
+      "desc": "Smooth coffee & oat milk.",
+      "price_range_gbp": [
+        3.5,
+        4.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 158,
+        "competitor_item_name": "Starbucks Caffè Latte",
+        "competitor_description": "",
+        "competitor_price": 3.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.5964
+      },
+      {
+        "competitor_item_id": 146,
+        "competitor_item_name": "Costa Coffee Latte",
+        "competitor_description": "",
+        "competitor_price": 3.5,
+        "competitor_currency": "GBP",
+        "similarity": 0.5784
+      },
+      {
+        "competitor_item_id": 144,
+        "competitor_item_name": "Costa Coffee Creamy Cappuccino",
+        "competitor_description": "",
+        "competitor_price": 3.5,
+        "competitor_currency": "GBP",
+        "similarity": 0.5327
+      },
+      {
+        "competitor_item_id": 159,
+        "competitor_item_name": "Tropicana Smooth Orange Juice",
+        "competitor_description": "",
+        "competitor_price": 2.85,
+        "competitor_currency": "GBP",
+        "similarity": 0.5015
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 405,
+      "name": "Segafredo Hot Chocolate",
+      "desc": "Velvety & indulgent.",
+      "price_range_gbp": [
+        3.1,
+        3.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 148,
+        "competitor_item_name": "Cadbury Hot Chocolate",
+        "competitor_description": "",
+        "competitor_price": 3.5,
+        "competitor_currency": "GBP",
+        "similarity": 0.6181
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 406,
+      "name": "Segafredo Ground Coffee",
+      "desc": "Freshly brewed black coffee.",
+      "price_range_gbp": [
+        3.3,
+        3.8
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 143,
+        "competitor_item_name": "Costa Coffee Decaf",
+        "competitor_description": "",
+        "competitor_price": 3.4,
+        "competitor_currency": "GBP",
+        "similarity": 0.553
+      },
+      {
+        "competitor_item_id": 158,
+        "competitor_item_name": "Starbucks Caffè Latte",
+        "competitor_description": "",
+        "competitor_price": 3.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.5415
+      },
+      {
+        "competitor_item_id": 144,
+        "competitor_item_name": "Costa Coffee Creamy Cappuccino",
+        "competitor_description": "",
+        "competitor_price": 3.5,
+        "competitor_currency": "GBP",
+        "similarity": 0.5299
+      },
+      {
+        "competitor_item_id": 142,
+        "competitor_item_name": "Costa Coffee Americano",
+        "competitor_description": "",
+        "competitor_price": 3.4,
+        "competitor_currency": "GBP",
+        "similarity": 0.5198
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 407,
+      "name": "Segafredo Cappuccino cup",
+      "desc": "Rich coffee & creamy milk.",
+      "price_range_gbp": [
+        4.0,
+        4.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 144,
+        "competitor_item_name": "Costa Coffee Creamy Cappuccino",
+        "competitor_description": "",
+        "competitor_price": 3.5,
+        "competitor_currency": "GBP",
+        "similarity": 0.7891
+      },
+      {
+        "competitor_item_id": 158,
+        "competitor_item_name": "Starbucks Caffè Latte",
+        "competitor_description": "",
+        "competitor_price": 3.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.5765
+      },
+      {
+        "competitor_item_id": 146,
+        "competitor_item_name": "Costa Coffee Latte",
+        "competitor_description": "",
+        "competitor_price": 3.5,
+        "competitor_currency": "GBP",
+        "similarity": 0.5401
+      },
+      {
+        "competitor_item_id": 142,
+        "competitor_item_name": "Costa Coffee Americano",
+        "competitor_description": "",
+        "competitor_price": 3.4,
+        "competitor_currency": "GBP",
+        "similarity": 0.5374
+      },
+      {
+        "competitor_item_id": 143,
+        "competitor_item_name": "Costa Coffee Decaf",
+        "competitor_description": "",
+        "competitor_price": 3.4,
+        "competitor_currency": "GBP",
+        "similarity": 0.5163
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 408,
+      "name": "Segafredo Oat Latte cup",
+      "desc": "Smooth coffee & oat milk.",
+      "price_range_gbp": [
+        4.0,
+        4.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 158,
+        "competitor_item_name": "Starbucks Caffè Latte",
+        "competitor_description": "",
+        "competitor_price": 3.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.6065
+      },
+      {
+        "competitor_item_id": 146,
+        "competitor_item_name": "Costa Coffee Latte",
+        "competitor_description": "",
+        "competitor_price": 3.5,
+        "competitor_currency": "GBP",
+        "similarity": 0.5819
+      },
+      {
+        "competitor_item_id": 144,
+        "competitor_item_name": "Costa Coffee Creamy Cappuccino",
+        "competitor_description": "",
+        "competitor_price": 3.5,
+        "competitor_currency": "GBP",
+        "similarity": 0.5366
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 409,
+      "name": "Segafredo Hot Chocolate cup",
+      "desc": "Velvety & indulgent.",
+      "price_range_gbp": [
+        3.3,
+        3.8
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 148,
+        "competitor_item_name": "Cadbury Hot Chocolate",
+        "competitor_description": "",
+        "competitor_price": 3.5,
+        "competitor_currency": "GBP",
+        "similarity": 0.6267
+      },
+      {
+        "competitor_item_id": 137,
+        "competitor_item_name": "Cadbury Dairy Milk Biscoff Chocolate Bar",
+        "competitor_description": "",
+        "competitor_price": 0.0,
+        "competitor_currency": "",
+        "similarity": 0.5118
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 410,
+      "name": "Brodies Green Tea",
+      "desc": "A light and refreshing blend of pure sencha green tea, packed full of antioxidants.",
+      "price_range_gbp": [
+        2.7,
+        3.1
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 147,
+        "competitor_item_name": "Yorkshire Tea",
+        "competitor_description": "",
+        "competitor_price": 3.4,
+        "competitor_currency": "GBP",
+        "similarity": 0.5264
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 411,
+      "name": "Brodies Peppermint Tea",
+      "desc": "Bright green cut leaves are used in this classic herbal tea which both stimulates and refreshes - a wonderfully effective after-dinner digestif that will settle over-worked stomachs and cleanse the palate.",
+      "price_range_gbp": [
+        2.7,
+        3.1
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 147,
+        "competitor_item_name": "Yorkshire Tea",
+        "competitor_description": "",
+        "competitor_price": 3.4,
+        "competitor_currency": "GBP",
+        "similarity": 0.5161
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 412,
+      "name": "Brodies Breakfast Tea",
+      "desc": "Fine quality black teas from Assam and Kenya are combined to produce a classic Breakfast blend. Bright, brisk and full of malty flavour.",
+      "price_range_gbp": [
+        3.2,
+        3.6
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 147,
+        "competitor_item_name": "Yorkshire Tea",
+        "competitor_description": "",
+        "competitor_price": 3.4,
+        "competitor_currency": "GBP",
+        "similarity": 0.5163
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 485,
+      "name": "Guess Amore Venezia 100m",
+      "desc": "Top notes are Pink Pepper, juniper berry and Calabrian bergamot. Middle notes are Orris, May Rose and Peony. Base notes are Vanilla, Olibanum and Suede. Launched in 2024.",
+      "price_range_gbp": [
+        18.2,
+        26.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 189,
+        "competitor_item_name": "Freixenet Italian Sparkling Rosé",
+        "competitor_description": "",
+        "competitor_price": 7.3,
+        "competitor_currency": "GBP",
+        "similarity": 0.5285
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 489,
+      "name": "Guess Amore Venezia 100ml EdT",
+      "desc": "Top notes are Pink Pepper, juniper berry and Calabrian bergamot. Middle notes are Orris, May Rose and Peony. Base notes are Vanilla, Olibanum and Suede. Launched in 2024.",
+      "price_range_gbp": [
+        20.9,
+        30.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 189,
+        "competitor_item_name": "Freixenet Italian Sparkling Rosé",
+        "competitor_description": "",
+        "competitor_price": 7.3,
+        "competitor_currency": "GBP",
+        "similarity": 0.5302
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 500,
+      "name": "Elizabeth Arden 5th Ave. 75ml",
+      "desc": "Top notes are Petitgrain Sicily, Pink Peppercorn and Sparkling Prosecco Accord. Intricate, elegant and refined. Launched in 2017",
+      "price_range_gbp": [
+        19.9,
+        20.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 189,
+        "competitor_item_name": "Freixenet Italian Sparkling Rosé",
+        "competitor_description": "",
+        "competitor_price": 7.3,
+        "competitor_currency": "GBP",
+        "similarity": 0.5088
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 529,
+      "name": "Chicken Soup Noodle",
+      "desc": "Enjoy your noodles with or without broth as desired - perfect for a quick and convenient snack on-the-go!",
+      "price_range_gbp": [
+        4.0,
+        5.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 127,
+        "competitor_item_name": "Pot Noodle",
+        "competitor_description": "Chicken & Mushroom",
+        "competitor_price": 3.4,
+        "competitor_currency": "GBP",
+        "similarity": 0.5984
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 530,
+      "name": "Tomato Soup",
+      "desc": "Stir up a timeless classic! Taste the simple, yet delicious flavour of rich & sweet tomatoes in a warm cup of soup!",
+      "price_range_gbp": [
+        2.6,
+        3.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 129,
+        "competitor_item_name": "Heinz Cup Soup",
+        "competitor_description": "Cream of Tomato",
+        "competitor_price": 2.6,
+        "competitor_currency": "GBP",
+        "similarity": 0.7084
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 533,
+      "name": "Chips Sour Cream",
+      "desc": "Sour cream lovers will simply enjoy the flavor of this sour cream & onion chips together. It is simply a natural flavour combination that please everybody.",
+      "price_range_gbp": [
+        2.6,
+        3.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 135,
+        "competitor_item_name": "Pringles",
+        "competitor_description": "Sour Cream & Onion",
+        "competitor_price": 2.8,
+        "competitor_currency": "GBP",
+        "similarity": 0.5903
+      },
+      {
+        "competitor_item_id": 115,
+        "competitor_item_name": "Pringles - Sour Cream & Onion",
+        "competitor_description": "",
+        "competitor_price": 0.0,
+        "competitor_currency": "",
+        "similarity": 0.5794
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 535,
+      "name": "Soup cheese cream",
+      "desc": "We put our heart into your soups! Try this warm cream cheese soup with the crusty croutons to taste the most original flavour",
+      "price_range_gbp": [
+        2.6,
+        3.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 129,
+        "competitor_item_name": "Heinz Cup Soup",
+        "competitor_description": "Cream of Tomato",
+        "competitor_price": 2.6,
+        "competitor_currency": "GBP",
+        "similarity": 0.5241
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 537,
+      "name": "Tapas box",
+      "desc": "Make a real deal by ordering this premium Tapas plate, the flavour of the cured meat, speciality cheese and a variety of crackers will pop in your mouth and make you enjoy every bite, It is even better with two wine glasses to share!",
+      "price_range_gbp": [
+        6.0,
+        7.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 136,
+        "competitor_item_name": "Spanish Tapas",
+        "competitor_description": "Picos Cracker pack, Serrano jamon, garlic and thyme olives and sobrasada paste.",
+        "competitor_price": 6.5,
+        "competitor_currency": "GBP",
+        "similarity": 0.5836
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 539,
+      "name": "Pasta Carbonara",
+      "desc": "Try these creamy Carbonara pasta and tell us how you like it! With delicious bacon pieces and herbs, it is quick, yummy and filling!",
+      "price_range_gbp": [
+        3.5,
+        4.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 129,
+        "competitor_item_name": "Heinz Cup Soup",
+        "competitor_description": "Cream of Tomato",
+        "competitor_price": 2.6,
+        "competitor_currency": "GBP",
+        "similarity": 0.5336
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 541,
+      "name": "Cheese cracker",
+      "desc": "Mini Cheddars crackers with flavour to savour, these Mini Cheddars are baked to golden perfection and filled with all the deliciousness and crunch just for you to enjoy on board. Oven-baked with no artificial colours or flavours! Perfect for snacking.",
+      "price_range_gbp": [
+        2.5,
+        3.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 128,
+        "competitor_item_name": "Mini Cheddars",
+        "competitor_description": "Original",
+        "competitor_price": 2.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.5686
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 544,
+      "name": "You+ Snack Box",
+      "desc": "More for less! Our brand new You+ Snack Box is now giving you the opportunity to taste 4 snacks for only 5EUR! With this offer you could also add a 500ml bottle of Mineral Water for only 2EUR! The Snack Box contains a You+ chocolate bar (20g), an Abonett gluten-free sandwich with cheese&chives (26g), Elephant Pretzels with salt (40g) and Papadopoulos Biscotello biscuits (28.5g).",
+      "price_range_gbp": [
+        5.0,
+        5.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 131,
+        "competitor_item_name": "Kids' Snack Box",
+        "competitor_description": "Mini Cheddars, Freddo, Gummi Zone Pizza XL, Zombie gummy sweets and a pack of eco colouring pencils.",
+        "competitor_price": 5.5,
+        "competitor_currency": "GBP",
+        "similarity": 0.5262
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 546,
+      "name": "Chicken Soup Noodle pot",
+      "desc": "Enjoy your noodles with or without broth as desired - perfect for a quick and convenient snack on-the-go!",
+      "price_range_gbp": [
+        4.4,
+        5.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 127,
+        "competitor_item_name": "Pot Noodle",
+        "competitor_description": "Chicken & Mushroom",
+        "competitor_price": 3.4,
+        "competitor_currency": "GBP",
+        "similarity": 0.6419
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 547,
+      "name": "Tomato soup",
+      "desc": "Stir up a timeless classic! Taste the simple, yet delicious flavour of rich and sweet tomatoes in a warm cup of soup!",
+      "price_range_gbp": [
+        3.1,
+        3.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 129,
+        "competitor_item_name": "Heinz Cup Soup",
+        "competitor_description": "Cream of Tomato",
+        "competitor_price": 2.6,
+        "competitor_currency": "GBP",
+        "similarity": 0.7236
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 550,
+      "name": "Potato Chips Sour Cream",
+      "desc": "Sour cream lovers will simply enjoy the flavour of this sour cream and onion chips together. It s simply a natural flavour combination that please everybody.",
+      "price_range_gbp": [
+        3.1,
+        3.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 135,
+        "competitor_item_name": "Pringles",
+        "competitor_description": "Sour Cream & Onion",
+        "competitor_price": 2.8,
+        "competitor_currency": "GBP",
+        "similarity": 0.5648
+      },
+      {
+        "competitor_item_id": 115,
+        "competitor_item_name": "Pringles - Sour Cream & Onion",
+        "competitor_description": "",
+        "competitor_price": 0.0,
+        "competitor_currency": "",
+        "similarity": 0.5538
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 552,
+      "name": "Tapas box 77g",
+      "desc": "Make a real deal by ordering this premium Tapas plate, the flavour of the cured meat, speciality cheese and a variety of crackers will pop in your mouth and make you enjoy every bite, It is even better with two wine glasses to share!",
+      "price_range_gbp": [
+        6.5,
+        6.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 136,
+        "competitor_item_name": "Spanish Tapas",
+        "competitor_description": "Picos Cracker pack, Serrano jamon, garlic and thyme olives and sobrasada paste.",
+        "competitor_price": 6.5,
+        "competitor_currency": "GBP",
+        "similarity": 0.5762
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 553,
+      "name": "Pasta Carbonara pot",
+      "desc": "Try these creamy Carbonara pasta and tell us how you like it With delicious bacon pieces and herbs, it s quick, yummy and filling!",
+      "price_range_gbp": [
+        4.2,
+        4.8
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 129,
+        "competitor_item_name": "Heinz Cup Soup",
+        "competitor_description": "Cream of Tomato",
+        "competitor_price": 2.6,
+        "competitor_currency": "GBP",
+        "similarity": 0.5179
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 554,
+      "name": "Cheese crackers",
+      "desc": "Mini Cheddars crackers with flavour to savour, these Mini Cheddars are baked to golden perfection and filled with all the deliciousness and crunch just for you to enjoy on board. Oven-baked with no artificial colours or flavours! Perfect for snacking.",
+      "price_range_gbp": [
+        2.6,
+        3.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 128,
+        "competitor_item_name": "Mini Cheddars",
+        "competitor_description": "Original",
+        "competitor_price": 2.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.5795
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 559,
+      "name": "Beef Soup Noodle",
+      "desc": "Noodles with rich stir fried broth and vegetables and herbs: carrots, onion leaves, parsley, peppers. And exotic and Asian taste is provided by a light play of anise and cinnamon.",
+      "price_range_gbp": [
+        4.0,
+        4.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 127,
+        "competitor_item_name": "Pot Noodle",
+        "competitor_description": "Chicken & Mushroom",
+        "competitor_price": 3.4,
+        "competitor_currency": "GBP",
+        "similarity": 0.5369
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 562,
+      "name": "Beef Soup Noodle pot",
+      "desc": "Noodles with rich stir fried broth and vegetables and herbs: carrots, onion leaves, parsley, peppers. And exotic and Asian taste is provided by a light play of anise and cinnamon.",
+      "price_range_gbp": [
+        4.4,
+        5.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 127,
+        "competitor_item_name": "Pot Noodle",
+        "competitor_description": "Chicken & Mushroom",
+        "competitor_price": 3.4,
+        "competitor_currency": "GBP",
+        "similarity": 0.5557
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 564,
+      "name": "Potato Chips Salt & Vinegar",
+      "desc": "Pringles chips with a little vinegar, a touch of salt and lots of crunch.",
+      "price_range_gbp": [
+        3.1,
+        3.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 133,
+        "competitor_item_name": "Pringles",
+        "competitor_description": "Salt & Vinegar",
+        "competitor_price": 2.8,
+        "competitor_currency": "GBP",
+        "similarity": 0.6881
+      },
+      {
+        "competitor_item_id": 116,
+        "competitor_item_name": "Pringles - Salt & Vinegar",
+        "competitor_description": "",
+        "competitor_price": 0.0,
+        "competitor_currency": "",
+        "similarity": 0.6818
+      },
+      {
+        "competitor_item_id": 135,
+        "competitor_item_name": "Pringles",
+        "competitor_description": "Sour Cream & Onion",
+        "competitor_price": 2.8,
+        "competitor_currency": "GBP",
+        "similarity": 0.5456
+      },
+      {
+        "competitor_item_id": 115,
+        "competitor_item_name": "Pringles - Sour Cream & Onion",
+        "competitor_description": "",
+        "competitor_price": 0.0,
+        "competitor_currency": "",
+        "similarity": 0.538
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 575,
+      "name": "Tapas plate",
+      "desc": "Tapas plate with mixed olives, bruschetta cup, sticks fuet, breadsticks and cheese pops.",
+      "price_range_gbp": [
+        6.2,
+        7.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 136,
+        "competitor_item_name": "Spanish Tapas",
+        "competitor_description": "Picos Cracker pack, Serrano jamon, garlic and thyme olives and sobrasada paste.",
+        "competitor_price": 6.5,
+        "competitor_currency": "GBP",
+        "similarity": 0.6292
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 576,
+      "name": "Tapas plate 100gr",
+      "desc": "Tapas plate with mixed olives, bruschetta cup, sticks fuet, breadsticks and cheese pops.",
+      "price_range_gbp": [
+        7.0,
+        8.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 136,
+        "competitor_item_name": "Spanish Tapas",
+        "competitor_description": "Picos Cracker pack, Serrano jamon, garlic and thyme olives and sobrasada paste.",
+        "competitor_price": 6.5,
+        "competitor_currency": "GBP",
+        "similarity": 0.6252
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 587,
+      "name": "Savoursmiths crisps 35g",
+      "desc": "100% pure, crystal white desert salt from an ancient and pristine source in the Kalahari Desert creates an exceptional tasting crisp, enhancing and enriching the flavour of our delicious spuds. Simplicity at its best.",
+      "price_range_gbp": [
+        3.43,
+        3.9
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 132,
+        "competitor_item_name": "Sweet & Savoury",
+        "competitor_description": "Lentil hummus, sea salt Love Corn, Buttermilk caramel nougat choc bar, Nairn's gluten-free wholegrain crackers and Urban Fruit dried mango snack pack.",
+        "competitor_price": 6.5,
+        "competitor_currency": "GBP",
+        "similarity": 0.5226
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 589,
+      "name": "Vegetable Soup Noodle",
+      "desc": "Nissin Cup Noodles Veggie Miso combines the subtle taste of Japanese Miso paste with the powerfully spicy aroma of vegetables. A dash of ginger and chili create a ramen soup that promises a truly Asian pleasure for vegetarians and all Asian cuisine enthusiasts.",
+      "price_range_gbp": [
+        4.0,
+        4.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 127,
+        "competitor_item_name": "Pot Noodle",
+        "competitor_description": "Chicken & Mushroom",
+        "competitor_price": 3.4,
+        "competitor_currency": "GBP",
+        "similarity": 0.5021
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 590,
+      "name": "Vegetable Soup Noodle UK",
+      "desc": "Nissin Cup Noodles Veggie Miso combines the subtle taste of Japanese Miso paste with the powerfully spicy aroma of vegetables. A dash of ginger and chili create a ramen soup that promises a truly Asian pleasure for vegetarians and all Asian cuisine enthusiasts.",
+      "price_range_gbp": [
+        4.4,
+        5.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 127,
+        "competitor_item_name": "Pot Noodle",
+        "competitor_description": "Chicken & Mushroom",
+        "competitor_price": 3.4,
+        "competitor_currency": "GBP",
+        "similarity": 0.504
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 594,
+      "name": "Potato Soup",
+      "desc": "Potato cream soup with crispy croutons.",
+      "price_range_gbp": [
+        2.6,
+        3.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 129,
+        "competitor_item_name": "Heinz Cup Soup",
+        "competitor_description": "Cream of Tomato",
+        "competitor_price": 2.6,
+        "competitor_currency": "GBP",
+        "similarity": 0.6252
+      },
+      {
+        "competitor_item_id": 149,
+        "competitor_item_name": "Chocolate Croissant",
+        "competitor_description": "",
+        "competitor_price": 3.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.5016
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 596,
+      "name": "Pasta Mushroom Cream pot",
+      "desc": "Knorr Creamy Mushroom Pot Pasta is made with sustainably sourced mushrooms, is a source of protein, and is free of colorants and added preservatives.",
+      "price_range_gbp": [
+        4.4,
+        5.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 127,
+        "competitor_item_name": "Pot Noodle",
+        "competitor_description": "Chicken & Mushroom",
+        "competitor_price": 3.4,
+        "competitor_currency": "GBP",
+        "similarity": 0.5
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 684,
+      "name": "Croissant",
+      "desc": "Try this croissant! Made from a light dough with a creamy, rich chocolate filling - the best choice for either breakfast or as an afternoon snack!",
+      "price_range_gbp": [
+        2.5,
+        3.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 149,
+        "competitor_item_name": "Chocolate Croissant",
+        "competitor_description": "",
+        "competitor_price": 3.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.7614
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 686,
+      "name": "Kit Kat",
+      "desc": "Have a longer break with KitKat 4 fingers milk chocolate bar. Delicious crispy wafers covered with soft milk chocolate, nicely divided into 4 equal parts to double the pleasure",
+      "price_range_gbp": [
+        1.8,
+        2.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 137,
+        "competitor_item_name": "Cadbury Dairy Milk Biscoff Chocolate Bar",
+        "competitor_description": "",
+        "competitor_price": 0.0,
+        "competitor_currency": "",
+        "similarity": 0.5554
+      },
+      {
+        "competitor_item_id": 148,
+        "competitor_item_name": "Cadbury Hot Chocolate",
+        "competitor_description": "",
+        "competitor_price": 3.5,
+        "competitor_currency": "GBP",
+        "similarity": 0.5176
+      },
+      {
+        "competitor_item_id": 119,
+        "competitor_item_name": "KitKat",
+        "competitor_description": "",
+        "competitor_price": 0.0,
+        "competitor_currency": "",
+        "similarity": 0.5018
+      },
+      {
+        "competitor_item_id": 152,
+        "competitor_item_name": "KitKat",
+        "competitor_description": "",
+        "competitor_price": 1.9,
+        "competitor_currency": "GBP",
+        "similarity": 0.5018
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 690,
+      "name": "Cadbury Twirl",
+      "desc": "Two fingers of indulgent chocolatey swirls wrapped in smooth Cadbury milk chocolate that melts in your mouth as the twirling ribbons unfold! Rolled with smooth chocolate covering with a unique combination of chocolate twirls and curls from England.",
+      "price_range_gbp": [
+        2.0,
+        2.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 138,
+        "competitor_item_name": "Cadbury Nibbly Fingers",
+        "competitor_description": "",
+        "competitor_price": 0.0,
+        "competitor_currency": "",
+        "similarity": 0.613
+      },
+      {
+        "competitor_item_id": 148,
+        "competitor_item_name": "Cadbury Hot Chocolate",
+        "competitor_description": "",
+        "competitor_price": 3.5,
+        "competitor_currency": "GBP",
+        "similarity": 0.5928
+      },
+      {
+        "competitor_item_id": 141,
+        "competitor_item_name": "Cadbury Dairy Milk Buttons",
+        "competitor_description": "",
+        "competitor_price": 3.75,
+        "competitor_currency": "GBP",
+        "similarity": 0.5506
+      },
+      {
+        "competitor_item_id": 137,
+        "competitor_item_name": "Cadbury Dairy Milk Biscoff Chocolate Bar",
+        "competitor_description": "",
+        "competitor_price": 0.0,
+        "competitor_currency": "",
+        "similarity": 0.51
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 691,
+      "name": "Shortbreads",
+      "desc": "These delicious, golden shortbread fingers deliver the unique Paterson's taste and contain less than 3% saturated fat. No 1 best-selling shortbread brand in Britain - suitable snack for vegetarians!",
+      "price_range_gbp": [
+        2.0,
+        2.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 121,
+        "competitor_item_name": "Paterson's Scottish Shortbread",
+        "competitor_description": "",
+        "competitor_price": 0.0,
+        "competitor_currency": "",
+        "similarity": 0.6851
+      },
+      {
+        "competitor_item_id": 153,
+        "competitor_item_name": "Paterson's Scottish Shortbread",
+        "competitor_description": "",
+        "competitor_price": 1.9,
+        "competitor_currency": "GBP",
+        "similarity": 0.6851
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 693,
+      "name": "You+ Chocolate Bar",
+      "desc": "Our brand new You+ milk chocolate filled with soft and rich milk cream will surely be a favourite of all! A perfect little treat on the go for every adult and children with a sweet tooth!",
+      "price_range_gbp": [
+        1.5,
+        2.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 137,
+        "competitor_item_name": "Cadbury Dairy Milk Biscoff Chocolate Bar",
+        "competitor_description": "",
+        "competitor_price": 0.0,
+        "competitor_currency": "",
+        "similarity": 0.639
+      },
+      {
+        "competitor_item_id": 148,
+        "competitor_item_name": "Cadbury Hot Chocolate",
+        "competitor_description": "",
+        "competitor_price": 3.5,
+        "competitor_currency": "GBP",
+        "similarity": 0.5649
+      },
+      {
+        "competitor_item_id": 149,
+        "competitor_item_name": "Chocolate Croissant",
+        "competitor_description": "",
+        "competitor_price": 3.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.5167
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 695,
+      "name": "Croissant Pistachio-Chocolate",
+      "desc": "Try our delicious new pistachio-chocolate cream filled croissant from Italy!",
+      "price_range_gbp": [
+        2.2,
+        3.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 149,
+        "competitor_item_name": "Chocolate Croissant",
+        "competitor_description": "",
+        "competitor_price": 3.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.7276
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 697,
+      "name": "Cadbury Dairy Milk Buttons",
+      "desc": "Giant button shaped bites of the classic, creamy Cadbury Dairy Milk chocolate. A favourite for all the family to share and enjoy. Made with sustainably sourced cocoa. Vegetarian friendly.",
+      "price_range_gbp": [
+        3.0,
+        3.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 141,
+        "competitor_item_name": "Cadbury Dairy Milk Buttons",
+        "competitor_description": "",
+        "competitor_price": 3.75,
+        "competitor_currency": "GBP",
+        "similarity": 0.8436
+      },
+      {
+        "competitor_item_id": 137,
+        "competitor_item_name": "Cadbury Dairy Milk Biscoff Chocolate Bar",
+        "competitor_description": "",
+        "competitor_price": 0.0,
+        "competitor_currency": "",
+        "similarity": 0.6757
+      },
+      {
+        "competitor_item_id": 148,
+        "competitor_item_name": "Cadbury Hot Chocolate",
+        "competitor_description": "",
+        "competitor_price": 3.5,
+        "competitor_currency": "GBP",
+        "similarity": 0.584
+      },
+      {
+        "competitor_item_id": 138,
+        "competitor_item_name": "Cadbury Nibbly Fingers",
+        "competitor_description": "",
+        "competitor_price": 0.0,
+        "competitor_currency": "",
+        "similarity": 0.5055
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 700,
+      "name": "Croissant 50g",
+      "desc": "Try this croissant! Made from a light dough with a creamy, rich chocolate filling - the best choice for either breakfast or as an afternoon snack!",
+      "price_range_gbp": [
+        2.5,
+        2.8
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 149,
+        "competitor_item_name": "Chocolate Croissant",
+        "competitor_description": "",
+        "competitor_price": 3.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.746
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 703,
+      "name": "Cadbury Twirl 43g",
+      "desc": "Two fingers of indulgent chocolatey swirls wrapped in smooth Cadbury milk chocolate that melts in your mouth as the twirling ribbons unfold! Rolled with smooth chocolate covering with a unique combination of chocolate twirls and curls from England.",
+      "price_range_gbp": [
+        2.2,
+        2.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 148,
+        "competitor_item_name": "Cadbury Hot Chocolate",
+        "competitor_description": "",
+        "competitor_price": 3.5,
+        "competitor_currency": "GBP",
+        "similarity": 0.5928
+      },
+      {
+        "competitor_item_id": 138,
+        "competitor_item_name": "Cadbury Nibbly Fingers",
+        "competitor_description": "",
+        "competitor_price": 0.0,
+        "competitor_currency": "",
+        "similarity": 0.5848
+      },
+      {
+        "competitor_item_id": 141,
+        "competitor_item_name": "Cadbury Dairy Milk Buttons",
+        "competitor_description": "",
+        "competitor_price": 3.75,
+        "competitor_currency": "GBP",
+        "similarity": 0.5384
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 704,
+      "name": "Shortbreads 40g",
+      "desc": "These delicious, golden shortbread fingers deliver the unique Paterson's taste and contain less than 3% saturated fat. No 1 best-selling shortbread brand in Britain - suitable snack for vegetarians!",
+      "price_range_gbp": [
+        2.2,
+        2.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 121,
+        "competitor_item_name": "Paterson's Scottish Shortbread",
+        "competitor_description": "",
+        "competitor_price": 0.0,
+        "competitor_currency": "",
+        "similarity": 0.6465
+      },
+      {
+        "competitor_item_id": 153,
+        "competitor_item_name": "Paterson's Scottish Shortbread",
+        "competitor_description": "",
+        "competitor_price": 1.9,
+        "competitor_currency": "GBP",
+        "similarity": 0.6465
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 705,
+      "name": "You+ Chocolate Bar 20g",
+      "desc": "Our brand new You plus  milk chocolate filled with soft and rich milk cream will surely be a favourite of all! A perfect little treat on the go for every adult and children with a sweet tooth!",
+      "price_range_gbp": [
+        2.0,
+        2.1
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 137,
+        "competitor_item_name": "Cadbury Dairy Milk Biscoff Chocolate Bar",
+        "competitor_description": "",
+        "competitor_price": 0.0,
+        "competitor_currency": "",
+        "similarity": 0.5994
+      },
+      {
+        "competitor_item_id": 148,
+        "competitor_item_name": "Cadbury Hot Chocolate",
+        "competitor_description": "",
+        "competitor_price": 3.5,
+        "competitor_currency": "GBP",
+        "similarity": 0.5511
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 707,
+      "name": "Croissant Pistachio-Choco.",
+      "desc": "Try our delicious new pistachio chocolate cream filled croissant from Italy!",
+      "price_range_gbp": [
+        2.5,
+        3.2
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 149,
+        "competitor_item_name": "Chocolate Croissant",
+        "competitor_description": "",
+        "competitor_price": 3.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.6797
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 709,
+      "name": "Cadbury Dairy Milk Buttons 119",
+      "desc": "Giant button shaped bites of the classic, creamy Cadbury Dairy Milk chocolate. A favourite for all the family to share and enjoy. Made with sustainably sourced cocoa. Vegetarian friendly.",
+      "price_range_gbp": [
+        3.5,
+        3.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 141,
+        "competitor_item_name": "Cadbury Dairy Milk Buttons",
+        "competitor_description": "",
+        "competitor_price": 3.75,
+        "competitor_currency": "GBP",
+        "similarity": 0.8454
+      },
+      {
+        "competitor_item_id": 137,
+        "competitor_item_name": "Cadbury Dairy Milk Biscoff Chocolate Bar",
+        "competitor_description": "",
+        "competitor_price": 0.0,
+        "competitor_currency": "",
+        "similarity": 0.6642
+      },
+      {
+        "competitor_item_id": 148,
+        "competitor_item_name": "Cadbury Hot Chocolate",
+        "competitor_description": "",
+        "competitor_price": 3.5,
+        "competitor_currency": "GBP",
+        "similarity": 0.5815
+      },
+      {
+        "competitor_item_id": 138,
+        "competitor_item_name": "Cadbury Nibbly Fingers",
+        "competitor_description": "",
+        "competitor_price": 0.0,
+        "competitor_currency": "",
+        "similarity": 0.5194
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 717,
+      "name": "Biscotello",
+      "desc": "Sandwich biscuits with cocoa cream",
+      "price_range_gbp": [
+        1.0,
+        1.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 137,
+        "competitor_item_name": "Cadbury Dairy Milk Biscoff Chocolate Bar",
+        "competitor_description": "",
+        "competitor_price": 0.0,
+        "competitor_currency": "",
+        "similarity": 0.6404
+      },
+      {
+        "competitor_item_id": 149,
+        "competitor_item_name": "Chocolate Croissant",
+        "competitor_description": "",
+        "competitor_price": 3.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.538
+      },
+      {
+        "competitor_item_id": 126,
+        "competitor_item_name": "Afternoon Tea",
+        "competitor_description": "Sultana scone, Bonne Maman strawberry jam, afternoon tea cream and a clotted cream shortbread finger biscuit.",
+        "competitor_price": 5.5,
+        "competitor_currency": "GBP",
+        "similarity": 0.5162
+      },
+      {
+        "competitor_item_id": 148,
+        "competitor_item_name": "Cadbury Hot Chocolate",
+        "competitor_description": "",
+        "competitor_price": 3.5,
+        "competitor_currency": "GBP",
+        "similarity": 0.5011
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 718,
+      "name": "Biscotello UK",
+      "desc": "Sandwich biscuits with cocoa cream",
+      "price_range_gbp": [
+        1.0,
+        1.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 137,
+        "competitor_item_name": "Cadbury Dairy Milk Biscoff Chocolate Bar",
+        "competitor_description": "",
+        "competitor_price": 0.0,
+        "competitor_currency": "",
+        "similarity": 0.6399
+      },
+      {
+        "competitor_item_id": 149,
+        "competitor_item_name": "Chocolate Croissant",
+        "competitor_description": "",
+        "competitor_price": 3.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.5257
+      },
+      {
+        "competitor_item_id": 126,
+        "competitor_item_name": "Afternoon Tea",
+        "competitor_description": "Sultana scone, Bonne Maman strawberry jam, afternoon tea cream and a clotted cream shortbread finger biscuit.",
+        "competitor_price": 5.5,
+        "competitor_currency": "GBP",
+        "similarity": 0.5156
+      },
+      {
+        "competitor_item_id": 148,
+        "competitor_item_name": "Cadbury Hot Chocolate",
+        "competitor_description": "",
+        "competitor_price": 3.5,
+        "competitor_currency": "GBP",
+        "similarity": 0.5088
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 719,
+      "name": "Grzeski Mega chocolate wafer",
+      "desc": "Polish wafer layered with cocoa cream in chocolate.",
+      "price_range_gbp": [
+        1.8,
+        2.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 148,
+        "competitor_item_name": "Cadbury Hot Chocolate",
+        "competitor_description": "",
+        "competitor_price": 3.5,
+        "competitor_currency": "GBP",
+        "similarity": 0.532
+      },
+      {
+        "competitor_item_id": 137,
+        "competitor_item_name": "Cadbury Dairy Milk Biscoff Chocolate Bar",
+        "competitor_description": "",
+        "competitor_price": 0.0,
+        "competitor_currency": "",
+        "similarity": 0.5055
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 727,
+      "name": "Balaton Bumm",
+      "desc": "Hungarian wafer bar. It is a milk chocolate dipped wafer bar filled with caramel and wheat flakes. Stretchy caramel, crunchy wafers and wheat flakes make the BALATON Bumm taste experience perfect.",
+      "price_range_gbp": [
+        1.3,
+        2.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 137,
+        "competitor_item_name": "Cadbury Dairy Milk Biscoff Chocolate Bar",
+        "competitor_description": "",
+        "competitor_price": 0.0,
+        "competitor_currency": "",
+        "similarity": 0.5372
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 729,
+      "name": "Mini Marzipan Stollen",
+      "desc": "It is filled with juicy marzipan, raisins and candied fruits to round off its classic stollen taste.",
+      "price_range_gbp": [
+        2.3,
+        4.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 117,
+        "competitor_item_name": "Fruit Pastilles",
+        "competitor_description": "",
+        "competitor_price": 0.0,
+        "competitor_currency": "",
+        "similarity": 0.5106
+      },
+      {
+        "competitor_item_id": 154,
+        "competitor_item_name": "Fruit Pastilles",
+        "competitor_description": "",
+        "competitor_price": 1.9,
+        "competitor_currency": "GBP",
+        "similarity": 0.5106
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 731,
+      "name": "ROM Double Chocolate Bar",
+      "desc": "Classic Romanian rum flavored chocolate bar.",
+      "price_range_gbp": [
+        1.8,
+        2.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 137,
+        "competitor_item_name": "Cadbury Dairy Milk Biscoff Chocolate Bar",
+        "competitor_description": "",
+        "competitor_price": 0.0,
+        "competitor_currency": "",
+        "similarity": 0.5944
+      },
+      {
+        "competitor_item_id": 175,
+        "competitor_item_name": "Bacardi White Rum",
+        "competitor_description": "",
+        "competitor_price": 6.25,
+        "competitor_currency": "GBP",
+        "similarity": 0.5482
+      },
+      {
+        "competitor_item_id": 148,
+        "competitor_item_name": "Cadbury Hot Chocolate",
+        "competitor_description": "",
+        "competitor_price": 3.5,
+        "competitor_currency": "GBP",
+        "similarity": 0.5211
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 733,
+      "name": "ROM Biscuit Sandwich",
+      "desc": "Romanian vanilla sandwich biscuits with rum cream.",
+      "price_range_gbp": [
+        1.3,
+        1.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 126,
+        "competitor_item_name": "Afternoon Tea",
+        "competitor_description": "Sultana scone, Bonne Maman strawberry jam, afternoon tea cream and a clotted cream shortbread finger biscuit.",
+        "competitor_price": 5.5,
+        "competitor_currency": "GBP",
+        "similarity": 0.5587
+      },
+      {
+        "competitor_item_id": 137,
+        "competitor_item_name": "Cadbury Dairy Milk Biscoff Chocolate Bar",
+        "competitor_description": "",
+        "competitor_price": 0.0,
+        "competitor_currency": "",
+        "similarity": 0.5369
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 737,
+      "name": "Cadbury Nibbly Fingers",
+      "desc": "Crisp mini biscuits generously coated with creamy Cadbury Dairy Milk chocolate. Perfect on the go snacks for sharing with family and friends.",
+      "price_range_gbp": [
+        3.1,
+        3.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 138,
+        "competitor_item_name": "Cadbury Nibbly Fingers",
+        "competitor_description": "",
+        "competitor_price": 0.0,
+        "competitor_currency": "",
+        "similarity": 0.7698
+      },
+      {
+        "competitor_item_id": 137,
+        "competitor_item_name": "Cadbury Dairy Milk Biscoff Chocolate Bar",
+        "competitor_description": "",
+        "competitor_price": 0.0,
+        "competitor_currency": "",
+        "similarity": 0.6207
+      },
+      {
+        "competitor_item_id": 141,
+        "competitor_item_name": "Cadbury Dairy Milk Buttons",
+        "competitor_description": "",
+        "competitor_price": 3.75,
+        "competitor_currency": "GBP",
+        "similarity": 0.6161
+      },
+      {
+        "competitor_item_id": 148,
+        "competitor_item_name": "Cadbury Hot Chocolate",
+        "competitor_description": "",
+        "competitor_price": 3.5,
+        "competitor_currency": "GBP",
+        "similarity": 0.6131
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 738,
+      "name": "McVities Milk Choco.Digestives",
+      "desc": "McVities golden baked, crunchy wheat biscuits, topped with a layer of its signature silky smooth, milk chocolate.",
+      "price_range_gbp": [
+        2.2,
+        2.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 137,
+        "competitor_item_name": "Cadbury Dairy Milk Biscoff Chocolate Bar",
+        "competitor_description": "",
+        "competitor_price": 0.0,
+        "competitor_currency": "",
+        "similarity": 0.5474
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 742,
+      "name": "Mini Stollen Marzipan",
+      "desc": "It is filled with juicy marzipan, raisins and candied fruits to round off its classic stollen taste.",
+      "price_range_gbp": [
+        2.6,
+        5.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 117,
+        "competitor_item_name": "Fruit Pastilles",
+        "competitor_description": "",
+        "competitor_price": 0.0,
+        "competitor_currency": "",
+        "similarity": 0.5122
+      },
+      {
+        "competitor_item_id": 154,
+        "competitor_item_name": "Fruit Pastilles",
+        "competitor_description": "",
+        "competitor_price": 1.9,
+        "competitor_currency": "GBP",
+        "similarity": 0.5122
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 743,
+      "name": "Smarties Choco. Santa",
+      "desc": "Smarties milk chocolate Santa figure filled with chocolate dragees. Perfect for stocking fillers or as a small gift in the Advent season.",
+      "price_range_gbp": [
+        2.6,
+        5.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 137,
+        "competitor_item_name": "Cadbury Dairy Milk Biscoff Chocolate Bar",
+        "competitor_description": "",
+        "competitor_price": 0.0,
+        "competitor_currency": "",
+        "similarity": 0.5114
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 744,
+      "name": "Croissant 80g.",
+      "desc": "Croissant with a cocoa filling. Great breakfast option.",
+      "price_range_gbp": [
+        2.6,
+        3.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 149,
+        "competitor_item_name": "Chocolate Croissant",
+        "competitor_description": "",
+        "competitor_price": 3.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.7294
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 746,
+      "name": "Dubai Chocolate Bar",
+      "desc": "This delicacy features delicate kadayif and rich pistachio cream filling, creating an irresistible taste expirience.",
+      "price_range_gbp": [
+        3.1,
+        3.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 148,
+        "competitor_item_name": "Cadbury Hot Chocolate",
+        "competitor_description": "",
+        "competitor_price": 3.5,
+        "competitor_currency": "GBP",
+        "similarity": 0.5243
+      },
+      {
+        "competitor_item_id": 137,
+        "competitor_item_name": "Cadbury Dairy Milk Biscoff Chocolate Bar",
+        "competitor_description": "",
+        "competitor_price": 0.0,
+        "competitor_currency": "",
+        "similarity": 0.5241
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 748,
+      "name": "Milka Choco Sticks",
+      "desc": "Milka choco sticks is a tasty combination of crunchy sticks coated with delicious alpine milk chocolate. Biscuits sticks fully covered with alpine milk chocolate.",
+      "price_range_gbp": [
+        3.1,
+        4.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 137,
+        "competitor_item_name": "Cadbury Dairy Milk Biscoff Chocolate Bar",
+        "competitor_description": "",
+        "competitor_price": 0.0,
+        "competitor_currency": "",
+        "similarity": 0.5929
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 749,
+      "name": "Balaton Bumm White",
+      "desc": "Filled wafer covered with caramel, dipped in white chocolate with wheat flakes.",
+      "price_range_gbp": [
+        1.3,
+        1.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 137,
+        "competitor_item_name": "Cadbury Dairy Milk Biscoff Chocolate Bar",
+        "competitor_description": "",
+        "competitor_price": 0.0,
+        "competitor_currency": "",
+        "similarity": 0.5539
+      },
+      {
+        "competitor_item_id": 148,
+        "competitor_item_name": "Cadbury Hot Chocolate",
+        "competitor_description": "",
+        "competitor_price": 3.5,
+        "competitor_currency": "GBP",
+        "similarity": 0.548
+      },
+      {
+        "competitor_item_id": 149,
+        "competitor_item_name": "Chocolate Croissant",
+        "competitor_description": "",
+        "competitor_price": 3.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.5272
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 752,
+      "name": "Croissant 80g",
+      "desc": "Croissant with a cocoa filling. Great breakfast option.",
+      "price_range_gbp": [
+        3.1,
+        3.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 149,
+        "competitor_item_name": "Chocolate Croissant",
+        "competitor_description": "",
+        "competitor_price": 3.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.7367
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 753,
+      "name": "Dubai Chocolate Bar 30g",
+      "desc": "This delicacy features delicate kadayif and rich pistachio cream filling, creating an irresistible taste experience.",
+      "price_range_gbp": [
+        3.5,
+        4.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 137,
+        "competitor_item_name": "Cadbury Dairy Milk Biscoff Chocolate Bar",
+        "competitor_description": "",
+        "competitor_price": 0.0,
+        "competitor_currency": "",
+        "similarity": 0.507
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 758,
+      "name": "Squashies Original 60g",
+      "desc": "The original raspberry and milk drumstick flavour, here recreated by Swizzels in a squidgy sweet form.",
+      "price_range_gbp": [
+        2.5,
+        2.8
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 122,
+        "competitor_item_name": "Squashies",
+        "competitor_description": "",
+        "competitor_price": 0.0,
+        "competitor_currency": "",
+        "similarity": 0.6192
+      },
+      {
+        "competitor_item_id": 151,
+        "competitor_item_name": "Squashies",
+        "competitor_description": "",
+        "competitor_price": 1.9,
+        "competitor_currency": "GBP",
+        "similarity": 0.6192
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 759,
+      "name": "Kit Kat Ball",
+      "desc": "KitKat Ball are milk chocolate balls with a crunchy cereal centre coated with confectioners cream. Both crunchy and melt-in-the-mouth, these balls are ideal to share with friends or family.",
+      "price_range_gbp": [
+        2.2,
+        2.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 119,
+        "competitor_item_name": "KitKat",
+        "competitor_description": "",
+        "competitor_price": 0.0,
+        "competitor_currency": "",
+        "similarity": 0.5039
+      },
+      {
+        "competitor_item_id": 152,
+        "competitor_item_name": "KitKat",
+        "competitor_description": "",
+        "competitor_price": 1.9,
+        "competitor_currency": "GBP",
+        "similarity": 0.5039
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 760,
+      "name": "Fitness Milk Chocolate Banana",
+      "desc": "Breakfast cereal bars with wheat and wholemeal oats and delicious chocolate-banana flavour.",
+      "price_range_gbp": [
+        1.8,
+        2.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 137,
+        "competitor_item_name": "Cadbury Dairy Milk Biscoff Chocolate Bar",
+        "competitor_description": "",
+        "competitor_price": 0.0,
+        "competitor_currency": "",
+        "similarity": 0.5553
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 816,
+      "name": "Mozzarella & Pesto Pasta Salad",
+      "desc": "Pesto pasta with lettuce, roasted sun-dried tomatoes and mozzarella balls.",
+      "price_range_gbp": [
+        7.5,
+        8.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 124,
+        "competitor_item_name": "Margherita Pizza Twist",
+        "competitor_description": "Tangy tomato and gooey mozzarella make the perfect combo in this super-tasty twist.",
+        "competitor_price": 5.8,
+        "competitor_currency": "GBP",
+        "similarity": 0.5157
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 817,
+      "name": "Ham Hock&Smoked Cheddar Sandw.",
+      "desc": "Applewood smoked Cheddar, ham hock and free range mayonnaise on malted bread.",
+      "price_range_gbp": [
+        6.2,
+        7.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 109,
+        "competitor_item_name": "Ham & Cheese Toastie",
+        "competitor_description": "Full-flavoured ham hock with mature cheddar cheese, served in toasted, cheese-topped sourdough bread.",
+        "competitor_price": 5.2,
+        "competitor_currency": "GBP",
+        "similarity": 0.6731
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 818,
+      "name": "Cheddar Ploughmans Sandwich",
+      "desc": "Barber's mature Cheddar cheese with onion mayonnaise, sliced tomatoes, seasonal leaves & sweet pickle on malted bread.",
+      "price_range_gbp": [
+        6.2,
+        7.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 111,
+        "competitor_item_name": "Cheese Ploughman's Roll",
+        "competitor_description": "Mature cheddar cheese ploughman's with Branston Pickle on tiger bread.",
+        "competitor_price": 5.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.6643
+      },
+      {
+        "competitor_item_id": 130,
+        "competitor_item_name": "Ploughman's",
+        "competitor_description": "Cream crackers, Peter's Yard sourdough crackers, soft cheddar cheese, cheese with fine herbs, Branston Pickle and pickled onions.",
+        "competitor_price": 6.5,
+        "competitor_currency": "GBP",
+        "similarity": 0.6119
+      },
+      {
+        "competitor_item_id": 128,
+        "competitor_item_name": "Mini Cheddars",
+        "competitor_description": "Original",
+        "competitor_price": 2.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.5125
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 819,
+      "name": "Southern Fried Chicken Wrap",
+      "desc": "Southern fried chicken with barbecue sauce and seasonal leaves in a white tortilla wrap.",
+      "price_range_gbp": [
+        6.6,
+        7.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 113,
+        "competitor_item_name": "Chicken & Bacon Roll",
+        "competitor_description": "Chargrilled chicken, streaky bacon, spring onion and celery, with mayonnaise and salad cream, topped with mixed leaf on tiger bread.",
+        "competitor_price": 5.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.5624
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 827,
+      "name": "Nesquik Wafer",
+      "desc": "Nesquik Wafer filled with milk cream, dipped in milk chocolate, 26g.",
+      "price_range_gbp": [
+        1.8,
+        2.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 137,
+        "competitor_item_name": "Cadbury Dairy Milk Biscoff Chocolate Bar",
+        "competitor_description": "",
+        "competitor_price": 0.0,
+        "competitor_currency": "",
+        "similarity": 0.5201
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 829,
+      "name": "Tonys Chocolonely Milk Car. SS",
+      "desc": "Tony's creamy Belgian fairtrade milk chocolate, filled with firm bits of crunchy caramel and a grain of sea salt.",
+      "price_range_gbp": [
+        2.2,
+        2.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 137,
+        "competitor_item_name": "Cadbury Dairy Milk Biscoff Chocolate Bar",
+        "competitor_description": "",
+        "competitor_price": 0.0,
+        "competitor_currency": "",
+        "similarity": 0.5053
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 843,
+      "name": "Creamy Edam Emmental Croissant",
+      "desc": "Croissant with Edam and Emmental cheese, plain butter cream.",
+      "price_range_gbp": [
+        5.0,
+        5.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 149,
+        "competitor_item_name": "Chocolate Croissant",
+        "competitor_description": "",
+        "competitor_price": 3.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.5269
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 844,
+      "name": "Premium Pastrami&Emmental Roll",
+      "desc": "Lye roll with pastrami and Emmentaler, basil and red pesto butter cream & dried tomato.",
+      "price_range_gbp": [
+        7.0,
+        7.0
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 113,
+        "competitor_item_name": "Chicken & Bacon Roll",
+        "competitor_description": "Chargrilled chicken, streaky bacon, spring onion and celery, with mayonnaise and salad cream, topped with mixed leaf on tiger bread.",
+        "competitor_price": 5.0,
+        "competitor_currency": "GBP",
+        "similarity": 0.5063
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 850,
+      "name": "Chips Hot & Spicy",
+      "desc": "Pringles Hot & Spicy crisps pack a bold and spicy flavour certain to satisfy even the most intense of cravings.",
+      "price_range_gbp": [
+        3.5,
+        3.5
+      ],
+      "currency": "GBP"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 115,
+        "competitor_item_name": "Pringles - Sour Cream & Onion",
+        "competitor_description": "",
+        "competitor_price": 0.0,
+        "competitor_currency": "",
+        "similarity": 0.5534
+      },
+      {
+        "competitor_item_id": 135,
+        "competitor_item_name": "Pringles",
+        "competitor_description": "Sour Cream & Onion",
+        "competitor_price": 2.8,
+        "competitor_currency": "GBP",
+        "similarity": 0.5487
+      }
+    ]
+  }
+]
