@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# ignoring large embeding sjson files
+3 competitior(ryan-jet2cafe-Eurowings) Info/comp_embeddings.json
+3 competitior(ryan-jet2cafe-Eurowings) Info/gg_embeddings.json
+gg_embeddings.json
+comp_embeddings.json
