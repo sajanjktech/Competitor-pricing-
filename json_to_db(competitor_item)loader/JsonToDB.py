@@ -19,7 +19,7 @@ engine = create_engine(connection_string)
 # ---------------------------------------------------------
 # FOLDER CONTAINING MULTIPLE JSON FILES
 # ---------------------------------------------------------
-OUTPUT_FOLDER = "../llm_item_output" # Adjust the path as needed
+OUTPUT_FOLDER = "../pdf_item_extract_llm/llm_output"  # Adjust the path as needed
 
 json_files = [
     f for f in os.listdir(OUTPUT_FOLDER)
@@ -31,6 +31,7 @@ if not json_files:
     exit()
 
 print(f"📁 Found {len(json_files)} JSON files to process.\n")
+
 
 # ---------------------------------------------------------
 # MAPPING FUNCTION
@@ -52,8 +53,9 @@ def map_keys(raw):
         "page": raw.get("page"),
     }
 
+
 # ---------------------------------------------------------
-# SQL INSERT (DO NOT INCLUDE item_id or created_at)
+# SQL INSERT (NO item_id OR created_at)
 # ---------------------------------------------------------
 insert_sql = text("""
 INSERT INTO dbo.competitor_item_details (
@@ -88,8 +90,9 @@ VALUES (
 )
 """)
 
+
 # ---------------------------------------------------------
-# VALIDATION: Must have item name
+# VALIDATION: Must have item name + price
 # ---------------------------------------------------------
 def is_invalid(mapped):
     return (
@@ -98,6 +101,7 @@ def is_invalid(mapped):
         mapped["price"] is None
     )
 
+
 # ---------------------------------------------------------
 # PROCESS ALL JSON FILES
 # ---------------------------------------------------------
@@ -105,6 +109,7 @@ total_inserted = 0
 total_skipped = 0
 
 for json_file in json_files:
+
     file_path = os.path.join(OUTPUT_FOLDER, json_file)
     print(f"\n📄 Processing file: {json_file}")
 
@@ -133,11 +138,12 @@ for json_file in json_files:
     total_inserted += count_inserted
     total_skipped += count_skipped
 
+
 # ---------------------------------------------------------
 # FINAL REPORT
 # ---------------------------------------------------------
 print("\n===============================================")
-print("               FINAL IMPORT REPORT             ")
+print("             FINAL IMPORT REPORT")
 print("===============================================")
 print(f"Total JSON files processed: {len(json_files)}")
 print(f"Total rows inserted:        {total_inserted}")

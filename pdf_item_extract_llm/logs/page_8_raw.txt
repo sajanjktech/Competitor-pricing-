@@ -1,0 +1,31 @@
+```json
+{
+  "detected_competitor_name": "",
+  "detected_catalog_effective_start": "",
+  "detected_catalog_effective_end": "",
+  "items": [
+    {
+      "Item_name": "FRIES IN THE SKIES",
+      "Item_description": "Crispy French fries (125 g) with creamy, vegan Hellmann's mayonnaise or Heinz ketchup dip.",
+      "Item_brand": null,
+      "Item_Quantity": "125 g",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Savoury Snacks",
+      "Item_price": 5.90,
+      "Item_currency": "EUR",
+      "menu_page": "8"
+    },
+    {
+      "Item_name": "CURRYWURST",
+      "Item_description": "The cult dish from Berlin. The spicy sausage in a piquant curry sauce is a unique taste experience (200 g).",
+      "Item_brand": null,
+      "Item_Quantity": "200 g",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Fresh Food",
+      "Item_price": 7.90,
+      "Item_currency": "EUR",
+      "menu_page": "8"
+    }
+  ]
+}
+```

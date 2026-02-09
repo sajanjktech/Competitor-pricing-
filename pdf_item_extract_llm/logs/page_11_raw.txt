@@ -1,0 +1,31 @@
+```json
+{
+  "detected_competitor_name": "",
+  "detected_catalog_effective_start": "",
+  "detected_catalog_effective_end": "",
+  "items": [
+    {
+      "Item_name": "Goldberg Tonic Water",
+      "Item_description": null,
+      "Item_brand": "Goldberg",
+      "Item_Quantity": "150 ML",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Cold Drink",
+      "Item_price": 3.00,
+      "Item_currency": "EUR",
+      "menu_page": "11"
+    },
+    {
+      "Item_name": "Share Bio Fruit Zitrone & Minze",
+      "Item_description": "Organic Fruit Lemon & Mint",
+      "Item_brand": "Share",
+      "Item_Quantity": "500 ML",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Cold Drink",
+      "Item_price": 3.90,
+      "Item_currency": "EUR",
+      "menu_page": "11"
+    }
+  ]
+}
+```

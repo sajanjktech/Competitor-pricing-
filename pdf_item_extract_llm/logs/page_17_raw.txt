@@ -1,0 +1,42 @@
+```json
+{
+  "detected_competitor_name": "",
+  "detected_catalog_effective_start": "",
+  "detected_catalog_effective_end": "",
+  "items": [
+    {
+      "Item_name": "Salami Snack Selection Premium with Olives",
+      "Item_description": "Snack selection with salami in pretzel and heart shapes, salted pastry pretzels, salt cookies heart and olives (80g).",
+      "Item_brand": null,
+      "Item_Quantity": "80g",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Savoury Snacks",
+      "Item_price": 6.90,
+      "Item_currency": "EUR",
+      "menu_page": "17"
+    },
+    {
+      "Item_name": "Seeberger Snack2Go Nut Trio Roasted & Salted",
+      "Item_description": null,
+      "Item_brand": "Seeberger",
+      "Item_Quantity": "50g",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Savoury Snacks",
+      "Item_price": 3.50,
+      "Item_currency": "EUR",
+      "menu_page": "17"
+    },
+    {
+      "Item_name": "Pringles Original / Pringles Sweet Paprika",
+      "Item_description": null,
+      "Item_brand": "Pringles",
+      "Item_Quantity": "40g",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Savoury Snacks",
+      "Item_price": 3.30,
+      "Item_currency": "EUR",
+      "menu_page": "17"
+    }
+  ]
+}
+```

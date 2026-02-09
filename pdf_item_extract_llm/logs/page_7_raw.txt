@@ -1,0 +1,31 @@
+```json
+{
+  "detected_competitor_name": "",
+  "detected_catalog_effective_start": "",
+  "detected_catalog_effective_end": "",
+  "items": [
+    {
+      "Item_name": "KÖRNERBAGEL CHEDDAR",
+      "Item_description": "Whole grain bagel with cheddar, cream cheese, tomato, green pesto and fresh romaine lettuce (170 g).",
+      "Item_brand": null,
+      "Item_Quantity": "170 g",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Fresh Food",
+      "Item_price": 5.90,
+      "Item_currency": "EUR",
+      "menu_page": "7"
+    },
+    {
+      "Item_name": "LAUGENECKE TRUTHAHNSALAMI",
+      "Item_description": "Pretzel corner with turkey salami, slightly spicy Spanish salsa, cream cheese, orange and yellow carrots, and crisp romaine lettuce (160 g).",
+      "Item_brand": null,
+      "Item_Quantity": "160 g",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Fresh Food",
+      "Item_price": 5.90,
+      "Item_currency": "EUR",
+      "menu_page": "7"
+    }
+  ]
+}
+```

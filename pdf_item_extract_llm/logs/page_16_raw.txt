@@ -1,0 +1,42 @@
+```json
+{
+  "detected_competitor_name": "",
+  "detected_catalog_effective_start": "",
+  "detected_catalog_effective_end": "",
+  "items": [
+    {
+      "Item_name": "SNICKERS",
+      "Item_description": null,
+      "Item_brand": null,
+      "Item_Quantity": "50 G",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Sweet Snacks",
+      "Item_price": 2.90,
+      "Item_currency": "EUR",
+      "menu_page": "16"
+    },
+    {
+      "Item_name": "RED BAND FRUCHTGUMMI",
+      "Item_description": "FRUIT GUMS",
+      "Item_brand": "Red Band",
+      "Item_Quantity": "200 G",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Sweet Snacks",
+      "Item_price": 3.90,
+      "Item_currency": "EUR",
+      "menu_page": "16"
+    },
+    {
+      "Item_name": "GLOWKITCHEN BANANA BREAD",
+      "Item_description": null,
+      "Item_brand": "Glowkitchen",
+      "Item_Quantity": "70 G",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Sweet Snacks",
+      "Item_price": 3.90,
+      "Item_currency": "EUR",
+      "menu_page": "16"
+    }
+  ]
+}
+```

@@ -1,0 +1,42 @@
+```json
+{
+  "detected_competitor_name": "Eurowings",
+  "detected_catalog_effective_start": "",
+  "detected_catalog_effective_end": "",
+  "items": [
+    {
+      "Item_name": "Dallmayr Kaffee",
+      "Item_description": "Coffee",
+      "Item_brand": "Dallmayr",
+      "Item_Quantity": "200 ML",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Hot Drink",
+      "Item_price": 3.50,
+      "Item_currency": "EUR",
+      "menu_page": "14"
+    },
+    {
+      "Item_name": "ChariTea",
+      "Item_description": "ChariTea Ceylon Breakfast/green tea",
+      "Item_brand": "ChariTea",
+      "Item_Quantity": "200 ML",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Hot Drink",
+      "Item_price": 3.30,
+      "Item_currency": "EUR",
+      "menu_page": "14"
+    },
+    {
+      "Item_name": "Lavazza",
+      "Item_description": "Freshly brewed coffee",
+      "Item_brand": "Lavazza",
+      "Item_Quantity": "300 ML",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Hot Drink",
+      "Item_price": 4.90,
+      "Item_currency": "EUR",
+      "menu_page": "14"
+    }
+  ]
+}
+```

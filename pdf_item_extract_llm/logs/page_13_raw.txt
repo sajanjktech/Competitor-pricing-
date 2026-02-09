@@ -1,0 +1,20 @@
+```json
+{
+  "detected_competitor_name": "Eurowings",
+  "detected_catalog_effective_start": "",
+  "detected_catalog_effective_end": "",
+  "items": [
+    {
+      "Item_name": "SAFt CO2 Offset",
+      "Item_description": "Achieved with Sustainable Aviation Fuel (SAF) and high-quality climate protection projects.",
+      "Item_brand": "Franz Josef Rauch",
+      "Item_Quantity": "1",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Cold Drink",
+      "Item_price": 9.50,
+      "Item_currency": "EUR",
+      "menu_page": "13"
+    }
+  ]
+}
+```

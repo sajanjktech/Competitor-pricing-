@@ -1,0 +1,53 @@
+```json
+{
+  "detected_competitor_name": "",
+  "detected_catalog_effective_start": "",
+  "detected_catalog_effective_end": "",
+  "items": [
+    {
+      "Item_name": "Bloody Mary",
+      "Item_description": "Absolut Vodka + Rauch Tomatensaft / tomato juice",
+      "Item_brand": null,
+      "Item_Quantity": null,
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Alcohol",
+      "Item_price": 9.00,
+      "Item_currency": "EUR",
+      "menu_page": "21"
+    },
+    {
+      "Item_name": "Whiskey Cola",
+      "Item_description": "Jack Daniel’s Whiskey + Coca-Cola / Coca-Cola Zero",
+      "Item_brand": null,
+      "Item_Quantity": null,
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Alcohol",
+      "Item_price": 9.00,
+      "Item_currency": "EUR",
+      "menu_page": "21"
+    },
+    {
+      "Item_name": "Gin Tonic",
+      "Item_description": "Bombay Sapphire Gin + Goldberg Tonic Water",
+      "Item_brand": null,
+      "Item_Quantity": null,
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Alcohol",
+      "Item_price": 9.00,
+      "Item_currency": "EUR",
+      "menu_page": "21"
+    },
+    {
+      "Item_name": "Spirits",
+      "Item_description": "Bombay Sapphire Gin (50 ml) / Absolut Vodka (50 ml) / Jack Daniel’s Whiskey (50 ml)",
+      "Item_brand": null,
+      "Item_Quantity": "50 ml",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Alcohol",
+      "Item_price": 6.50,
+      "Item_currency": "EUR",
+      "menu_page": "21"
+    }
+  ]
+}
+```

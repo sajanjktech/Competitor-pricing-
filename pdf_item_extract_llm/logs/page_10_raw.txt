@@ -1,0 +1,53 @@
+```json
+{
+  "detected_competitor_name": "",
+  "detected_catalog_effective_start": "",
+  "detected_catalog_effective_end": "",
+  "items": [
+    {
+      "Item_name": "COCA-COLA / COCA-COLA ZERO",
+      "Item_description": null,
+      "Item_brand": "Coca-Cola",
+      "Item_Quantity": "330 ML",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Cold Drink",
+      "Item_price": 3.50,
+      "Item_currency": "EUR",
+      "menu_page": "10"
+    },
+    {
+      "Item_name": "HOCHWALD APFELSCHORLE",
+      "Item_description": "APPLE SPRITZER",
+      "Item_brand": "Hochwald",
+      "Item_Quantity": "500 ML",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Cold Drink",
+      "Item_price": 3.90,
+      "Item_currency": "EUR",
+      "menu_page": "10"
+    },
+    {
+      "Item_name": "VÖSLAUER MINERALWASSER MEDIUM / STILL",
+      "Item_description": "MINERAL WATER MEDIUM SPARKLING / STILL",
+      "Item_brand": "Vöslauer",
+      "Item_Quantity": "500 ML",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Cold Drink",
+      "Item_price": 3.30,
+      "Item_currency": "EUR",
+      "menu_page": "10"
+    },
+    {
+      "Item_name": "RAUCH ORANGENSAFT / TOMATENSAFT",
+      "Item_description": "ORANGE JUICE / TOMATO JUICE",
+      "Item_brand": "Rauch",
+      "Item_Quantity": "200 ML",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Cold Drink",
+      "Item_price": 3.50,
+      "Item_currency": "EUR",
+      "menu_page": "10"
+    }
+  ]
+}
+```

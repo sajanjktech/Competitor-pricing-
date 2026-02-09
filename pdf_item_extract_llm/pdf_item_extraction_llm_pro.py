@@ -13,9 +13,9 @@ from openai import AzureOpenAI
 # ======================================================
 load_dotenv()
 
-INPUT_DIR = os.path.join(os.path.dirname(__file__), "../input_files")
-OUTPUT_DIR = "output"
-LOG_DIR = "logs"
+INPUT_DIR = os.path.join(os.path.dirname(__file__), "input_files")
+OUTPUT_DIR = os.path.join(os.path.dirname(__file__), "llm_output")
+LOG_DIR = os.path.join(os.path.dirname(__file__), "logs")
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 os.makedirs(LOG_DIR, exist_ok=True)

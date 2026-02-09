@@ -1,0 +1,31 @@
+```json
+{
+  "detected_competitor_name": "",
+  "detected_catalog_effective_start": "",
+  "detected_catalog_effective_end": "",
+  "items": [
+    {
+      "Item_name": "Riesling Motzenbäcker 2024 Trocken",
+      "Item_description": "This Riesling grew on the beautiful vineyard slopes of the Haardt (Palatinate). The terroir is defined by sandy soil, which gives the wine an aroma of peach, apricot, and yellow apple. The fresh acidity on the finish makes the wine exciting and elegant.",
+      "Item_brand": "Motzenbäcker",
+      "Item_Quantity": "187 ML",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Alcohol",
+      "Item_price": 9.50,
+      "Item_currency": "EUR",
+      "menu_page": "19"
+    },
+    {
+      "Item_name": "Pinot Noir Motzenbäcker 2023 Trocken",
+      "Item_description": "This Pinot Noir (Spätburgunder) presents a ruby-red colour in the glass. On the nose, one finds an aroma reminiscent of dark cherry. This Pinot Noir was allowed to mature in a wooden barrel for over 20 months, giving it an elegant tannin structure and a full body. Meat and pasta are the perfect match for the Pinot Noir.",
+      "Item_brand": "Motzenbäcker",
+      "Item_Quantity": "187 ML",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Alcohol",
+      "Item_price": 9.50,
+      "Item_currency": "EUR",
+      "menu_page": "19"
+    }
+  ]
+}
+```

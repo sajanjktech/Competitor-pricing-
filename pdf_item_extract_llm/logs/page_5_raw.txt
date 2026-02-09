@@ -1,0 +1,64 @@
+```json
+{
+  "detected_competitor_name": "",
+  "detected_catalog_effective_start": "",
+  "detected_catalog_effective_end": "",
+  "items": [
+    {
+      "Item_name": "Curry Combo",
+      "Item_description": "1 currywurst + 1 french fries + 1 non-alcoholic drink up to €4",
+      "Item_brand": null,
+      "Item_Quantity": null,
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Fresh Food",
+      "Item_price": 16.00,
+      "Item_currency": "EUR",
+      "menu_page": "5"
+    },
+    {
+      "Item_name": "Long Drink Special",
+      "Item_description": "1 spirit + 1 non-alcoholic drink",
+      "Item_brand": null,
+      "Item_Quantity": null,
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Alcohol",
+      "Item_price": 9.00,
+      "Item_currency": "EUR",
+      "menu_page": "5"
+    },
+    {
+      "Item_name": "Aperitivo Deal",
+      "Item_description": "1 aperitivo-box + 1 wine up to €8, sparkling wine, or spritzer",
+      "Item_brand": null,
+      "Item_Quantity": null,
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Alcohol",
+      "Item_price": 13.00,
+      "Item_currency": "EUR",
+      "menu_page": "5"
+    },
+    {
+      "Item_name": "Upgrade Plus",
+      "Item_description": "Upgrade your drink to a beer or premium Lavazza coffee",
+      "Item_brand": null,
+      "Item_Quantity": null,
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Alcohol",
+      "Item_price": 1.00,
+      "Item_currency": "EUR",
+      "menu_page": "5"
+    },
+    {
+      "Item_name": "Upgrade Premium",
+      "Item_description": "Upgrade your drink to a wine up to €8, prosecco, or spritzer",
+      "Item_brand": null,
+      "Item_Quantity": null,
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Alcohol",
+      "Item_price": 3.00,
+      "Item_currency": "EUR",
+      "menu_page": "5"
+    }
+  ]
+}
+```

@@ -1,0 +1,31 @@
+```json
+{
+  "detected_competitor_name": "",
+  "detected_catalog_effective_start": "",
+  "detected_catalog_effective_end": "",
+  "items": [
+    {
+      "Item_name": "Panini Caprese",
+      "Item_description": "Ciabatta bread with creamy mozzarella, cherry tomato slices, pesto rosso spread, and velvety basil butter (170 g).",
+      "Item_brand": null,
+      "Item_Quantity": "170 g",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Fresh Food",
+      "Item_price": 5.90,
+      "Item_currency": "EUR",
+      "menu_page": "6"
+    },
+    {
+      "Item_name": "Family Deal",
+      "Item_description": "2 sandwiches of your choice + 2 non-alcoholic drinks up to €4 each.",
+      "Item_brand": null,
+      "Item_Quantity": null,
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Fresh Food",
+      "Item_price": 15.00,
+      "Item_currency": "EUR",
+      "menu_page": "6"
+    }
+  ]
+}
+```

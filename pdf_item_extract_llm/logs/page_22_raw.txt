@@ -1,0 +1,31 @@
+```json
+{
+  "detected_competitor_name": "",
+  "detected_catalog_effective_start": "",
+  "detected_catalog_effective_end": "",
+  "items": [
+    {
+      "Item_name": "Salami Snack Selection",
+      "Item_description": "Premium mit Oliven",
+      "Item_brand": "Breu",
+      "Item_Quantity": null,
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Savoury Snacks",
+      "Item_price": null,
+      "Item_currency": "",
+      "menu_page": "22"
+    },
+    {
+      "Item_name": "Goldberg Tonic Water",
+      "Item_description": "Original Goldberg Aviator Edition",
+      "Item_brand": "Goldberg",
+      "Item_Quantity": "0.15L",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Cold Drink",
+      "Item_price": null,
+      "Item_currency": "",
+      "menu_page": "22"
+    }
+  ]
+}
+```

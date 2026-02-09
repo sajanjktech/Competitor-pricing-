@@ -5,7 +5,7 @@ IMPORTANT:
 - Extract metadata ONLY if printed on THIS page.
 
 If this page contains:
-- competitor/vendor/catalog name
+- competitor/vendor/catalog name  Only(Ryanair,Easy Jet Europe,Easy Jet UK,Jet2,Vueling,Eurowings)
 - catalog effective start date
 - catalog effective end date
 
