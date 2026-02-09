@@ -1,13 +1,12 @@
-```json
 {
   "detected_competitor_name": "",
   "detected_catalog_effective_start": "",
   "detected_catalog_effective_end": "",
   "items": [
     {
-      "Item_name": "L’Osteria Pasta Maccheroncini Colorati",
-      "Item_description": "Italian pasta with juicy tomato sauce, crunchy peppers, fried zucchini and aubergine, all seasoned just right with mild onions and Italian herbs (300 g).",
-      "Item_brand": "L’Osteria",
+      "Item_name": "L'Osteria Pasta Maccheroncini Colorati",
+      "Item_description": "Italian pasta with juicy tomato sauce, crunchy peppers, fried zucchini and aubergine, all seasoned just right with mild onions and Italian herbs.",
+      "Item_brand": "L'Osteria",
       "Item_Quantity": "300 g",
       "Item_parent_category": "Cafe",
       "Item_sales_category": "Fresh Food",
@@ -17,4 +16,3 @@
     }
   ]
 }
-```

@@ -39,14 +39,15 @@ THREAD_COUNT = 5
 # SYSTEM PROMPT
 # ======================================================
 def load_system_prompt():
-    with open("system_prompt.txt", "r", encoding="utf-8") as f:
+    with open("system_prompt_img.txt", "r", encoding="utf-8") as f:
         return f.read()
 
 SYSTEM_PROMPT_TEMPLATE = load_system_prompt()
 
 def build_prompt(page_text, page_num):
+    # 👇 We ignore text completely (Vision OCR handles everything)
     return SYSTEM_PROMPT_TEMPLATE.format(
-        page_text=page_text or "",
+        page_text="",     # No text sent anymore
         page_num=page_num
     )
 
@@ -126,29 +127,30 @@ def process_single_page(pdf_path, idx, catalog_name):
     page = doc[idx]
     page_num = idx + 1
 
-    text = page.get_text("text").strip()
-    prompt = build_prompt(text, page_num)
+    # ❌ Removed: text = page.get_text("text").strip()
+    # ❌ Removed: prompt = build_prompt(text, page_num)
+
+    # ✔ New: build prompt WITHOUT text
+    prompt = build_prompt("", page_num)
 
     pix = page.get_pixmap(dpi=200)
     png_bytes = pix.tobytes("png")
     data_url = "data:image/png;base64," + base64.b64encode(png_bytes).decode()
 
-    total = fitz.open(pdf_path).page_count if hasattr(fitz.open(pdf_path), "page_count") else "?"
     print(f"➡️ Page {page_num}: Sending to LLM…")
 
     raw = call_azure_with_retry(data_url, prompt)
 
+    # Save raw output
     with open(os.path.join(LOG_DIR, f"page_{page_num}_raw.txt"), "w", encoding="utf-8") as f:
         f.write(raw or "")
 
     parsed = safe_parse(raw)
 
-    # Extract metadata from this page
     comp = parsed.get("detected_competitor_name")
     start = parsed.get("detected_catalog_effective_start")
     end = parsed.get("detected_catalog_effective_end")
 
-    # seasonal conversion
     start, _ = convert_seasonal(start)
     _, end = convert_seasonal(end)
 
@@ -174,12 +176,11 @@ def process_single_page(pdf_path, idx, catalog_name):
             "page": page_num
         }
 
-        # normalize nulls
+        # normalize null values
         for k, v in out.items():
             if v in ["", "none", "null", None]:
                 out[k] = None
 
-        # numeric price
         if out["price"] is not None:
             try:
                 out["price"] = float(out["price"])
@@ -218,7 +219,6 @@ def process_pdf(pdf_path):
         for f in concurrent.futures.as_completed(futures):
             page_results.append(f.result())
 
-    # consolidate metadata
     competitor = next((r["competitor"] for r in page_results if r["competitor"]), None)
     catalog_start = next((r["start"] for r in page_results if r["start"]), None)
     catalog_end = next((r["end"] for r in page_results if r["end"]), None)
@@ -228,8 +228,6 @@ def process_pdf(pdf_path):
     print(f"✔ Catalog Start: {catalog_start}")
     print(f"✔ Catalog End: {catalog_end}")
 
-
-    # inject final metadata into every item
     final_items = []
     for r in page_results:
         for item in r["items"]:
@@ -238,7 +236,6 @@ def process_pdf(pdf_path):
             item["catalog_end"] = catalog_end
             final_items.append(item)
 
-    # sort correctly
     final_items = sorted(final_items, key=lambda x: x["page"])
 
     out_path = os.path.join(OUTPUT_DIR, f"{catalog_name}_items.json")

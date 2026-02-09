@@ -1,4 +1,3 @@
-```json
 {
   "detected_competitor_name": "",
   "detected_catalog_effective_start": "",
@@ -28,4 +27,3 @@
     }
   ]
 }
-```

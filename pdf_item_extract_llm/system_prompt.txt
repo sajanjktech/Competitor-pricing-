@@ -35,16 +35,17 @@ STRICT ITEM EXTRACTION RULES
 =========================
 1. Extract ONLY items printed on THIS PAGE.
 2. DO NOT invent items, prices, descriptions, or categories.
-3. Use EXACT page spelling (translate non-English to English).
+3. Use EXACT page spelling **(Always translate non-English data to English)**.
 4. If item has no price → "Item_price": null
 5. Allowed currencies = GBP, EUR, USD only.
 6. Choose quantity closest to the product name.
-7. Must belong to allowed categories:
+7. Item Must belong to allowed categories:
 
 Cafe → Alcohol, Cold Drink, Fresh Food, Hot Drink, Savoury Snacks, Sweet Snacks, Gifting  
-Boutique → Accessories, Gadgets, Gents Fragrance, Ladies Fragrance, Food Gifting, Logo, Skincare & Make-up  
+Boutique → Accessories, Gadgets, Gents Fragrance, Ladies Fragrance, Logo, Skincare & Make-up  
 Virtual → Tickets  
-Duty Free → DF Spirits, Tobacco, Other, Dry Store
+Duty Free → DF Spirits, Tobacco 
+Dry Store
 
 =========================
 OUTPUT FORMAT

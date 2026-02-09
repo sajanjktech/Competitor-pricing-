@@ -1,4 +1,3 @@
-```json
 {
   "detected_competitor_name": "",
   "detected_catalog_effective_start": "",
@@ -6,7 +5,7 @@
   "items": [
     {
       "Item_name": "Salami Snack Selection",
-      "Item_description": "Premium mit Oliven",
+      "Item_description": "Premium with olives",
       "Item_brand": "Breu",
       "Item_Quantity": null,
       "Item_parent_category": "Cafe",
@@ -28,4 +27,3 @@
     }
   ]
 }
-```

@@ -1,4 +1,3 @@
-```json
 {
   "detected_competitor_name": "",
   "detected_catalog_effective_start": "",
@@ -17,7 +16,7 @@
     },
     {
       "Item_name": "Whiskey Cola",
-      "Item_description": "Jack Daniel’s Whiskey + Coca-Cola / Coca-Cola Zero",
+      "Item_description": "Jack Daniel's Whiskey + Coca-Cola / Coca-Cola Zero",
       "Item_brand": null,
       "Item_Quantity": null,
       "Item_parent_category": "Cafe",
@@ -39,7 +38,7 @@
     },
     {
       "Item_name": "Spirits",
-      "Item_description": "Bombay Sapphire Gin (50 ml) / Absolut Vodka (50 ml) / Jack Daniel’s Whiskey (50 ml)",
+      "Item_description": "Bombay Sapphire Gin (50 ml) / Absolut Vodka (50 ml) / Jack Daniel's Whiskey (50 ml)",
       "Item_brand": null,
       "Item_Quantity": "50 ml",
       "Item_parent_category": "Cafe",
@@ -50,4 +49,3 @@
     }
   ]
 }
-```

@@ -1,4 +1,3 @@
-```json
 {
   "detected_competitor_name": "",
   "detected_catalog_effective_start": "",
@@ -6,15 +5,14 @@
   "items": [
     {
       "Item_name": "Pasta Deal",
-      "Item_description": "A tasty pasta from L’Osteria – with tomatoes, bell pepper, zucchini and aubergine for full Italian flavour.",
-      "Item_brand": "L’Osteria",
+      "Item_description": null,
+      "Item_brand": "L'Osteria",
       "Item_Quantity": null,
-      "Item_parent_category": "Cafe",
-      "Item_sales_category": "Fresh Food",
+      "Item_parent_category": "",
+      "Item_sales_category": "",
       "Item_price": null,
       "Item_currency": "",
       "menu_page": "2"
     }
   ]
 }
-```

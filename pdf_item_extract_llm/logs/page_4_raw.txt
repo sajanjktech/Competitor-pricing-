@@ -5,7 +5,7 @@
   "detected_catalog_effective_end": "",
   "items": [
     {
-      "Item_name": "SWEET DEAL",
+      "Item_name": "Sweet Deal",
       "Item_description": "1 sweet treat + 1 hot drink up to €4",
       "Item_brand": null,
       "Item_Quantity": null,
@@ -16,7 +16,7 @@
       "menu_page": "4"
     },
     {
-      "Item_name": "SANDWICH SAVER",
+      "Item_name": "Sandwich Saver",
       "Item_description": "1 sandwich + 1 non-alcoholic drink up to €4",
       "Item_brand": null,
       "Item_Quantity": null,
@@ -27,9 +27,9 @@
       "menu_page": "4"
     },
     {
-      "Item_name": "PASTA DEAL",
-      "Item_description": "1 L’Osteria pasta + 1 non-alcoholic drink up to €4",
-      "Item_brand": "L’Osteria",
+      "Item_name": "Pasta Deal",
+      "Item_description": "1 L'Osteria pasta + 1 non-alcoholic drink up to €4",
+      "Item_brand": "L'Osteria",
       "Item_Quantity": null,
       "Item_parent_category": "Cafe",
       "Item_sales_category": "Fresh Food",
@@ -38,7 +38,7 @@
       "menu_page": "4"
     },
     {
-      "Item_name": "FRENCH FRIES SPECIAL",
+      "Item_name": "French Fries Special",
       "Item_description": "1 French fries + 1 non-alcoholic drink up to €4",
       "Item_brand": null,
       "Item_Quantity": null,

@@ -1,4 +1,3 @@
-```json
 {
   "detected_competitor_name": "",
   "detected_catalog_effective_start": "",
@@ -6,9 +5,9 @@
   "items": [
     {
       "Item_name": "Glowkitchen Mini Banana Bread",
-      "Item_description": "Sweet, juicy & soft as a cloud. Up to 52% less sugar than conventional sponge cakes.",
+      "Item_description": "Glowkitchen Banana Bread will make your taste buds fly as breakfast, coffee treat or easy snack.",
       "Item_brand": "Glowkitchen",
-      "Item_Quantity": "1 piece",
+      "Item_Quantity": null,
       "Item_parent_category": "Cafe",
       "Item_sales_category": "Sweet Snacks",
       "Item_price": null,
@@ -17,9 +16,9 @@
     },
     {
       "Item_name": "Krombacher Pils",
-      "Item_description": "Brewed with Felsquellwasser®.",
+      "Item_description": "Mit Felsquellwasser gebraut.",
       "Item_brand": "Krombacher",
-      "Item_Quantity": "1 can",
+      "Item_Quantity": null,
       "Item_parent_category": "Cafe",
       "Item_sales_category": "Alcohol",
       "Item_price": null,
@@ -28,4 +27,3 @@
     }
   ]
 }
-```

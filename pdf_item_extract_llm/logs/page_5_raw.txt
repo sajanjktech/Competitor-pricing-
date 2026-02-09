@@ -1,4 +1,3 @@
-```json
 {
   "detected_competitor_name": "",
   "detected_catalog_effective_start": "",
@@ -43,7 +42,7 @@
       "Item_brand": null,
       "Item_Quantity": null,
       "Item_parent_category": "Cafe",
-      "Item_sales_category": "Alcohol",
+      "Item_sales_category": "Cold Drink",
       "Item_price": 1.00,
       "Item_currency": "EUR",
       "menu_page": "5"
@@ -61,4 +60,3 @@
     }
   ]
 }
-```

@@ -1,4 +1,3 @@
-```json
 {
   "detected_competitor_name": "",
   "detected_catalog_effective_start": "",
@@ -8,7 +7,7 @@
       "Item_name": "Krombacher Pils",
       "Item_description": null,
       "Item_brand": "Krombacher",
-      "Item_Quantity": "330 ML",
+      "Item_Quantity": "330ml",
       "Item_parent_category": "Cafe",
       "Item_sales_category": "Alcohol",
       "Item_price": 4.50,
@@ -17,4 +16,3 @@
     }
   ]
 }
-```

@@ -1,11 +1,10 @@
-```json
 {
   "detected_competitor_name": "",
   "detected_catalog_effective_start": "",
   "detected_catalog_effective_end": "",
   "items": [
     {
-      "Item_name": "BELGIAN TRIPLE CHOCOLATE COOKIE",
+      "Item_name": "Belgian Triple Chocolate Cookie",
       "Item_description": "Handmade cookie with Belgian dark chocolate (75g).",
       "Item_brand": null,
       "Item_Quantity": "75g",
@@ -17,4 +16,3 @@
     }
   ]
 }
-```

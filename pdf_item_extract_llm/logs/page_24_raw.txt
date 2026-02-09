@@ -1,14 +1,13 @@
-```json
 {
   "detected_competitor_name": "",
   "detected_catalog_effective_start": "",
   "detected_catalog_effective_end": "",
   "items": [
     {
-      "Item_name": "Barton & Guestier Cuvée Spéciale White Wine",
+      "Item_name": "Cuvée Spéciale White Wine",
       "Item_description": null,
       "Item_brand": "Barton & Guestier",
-      "Item_Quantity": "187ml",
+      "Item_Quantity": "18.75cl",
       "Item_parent_category": "Cafe",
       "Item_sales_category": "Alcohol",
       "Item_price": null,
@@ -16,10 +15,10 @@
       "menu_page": "24"
     },
     {
-      "Item_name": "Barton & Guestier Cuvée Spéciale Red Wine",
+      "Item_name": "Cuvée Spéciale Red Wine",
       "Item_description": null,
       "Item_brand": "Barton & Guestier",
-      "Item_Quantity": "187ml",
+      "Item_Quantity": "18.75cl",
       "Item_parent_category": "Cafe",
       "Item_sales_category": "Alcohol",
       "Item_price": null,
@@ -28,7 +27,7 @@
     },
     {
       "Item_name": "Scavi & Ray Prosecco",
-      "Item_description": "Finest Prosecco. Made in Italy.",
+      "Item_description": "A taste for every story. Finest Prosecco. Made in Italy.",
       "Item_brand": "Scavi & Ray",
       "Item_Quantity": null,
       "Item_parent_category": "Cafe",
@@ -39,4 +38,3 @@
     }
   ]
 }
-```

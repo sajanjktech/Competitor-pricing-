@@ -1,14 +1,13 @@
-```json
 {
   "detected_competitor_name": "",
   "detected_catalog_effective_start": "",
   "detected_catalog_effective_end": "",
   "items": [
     {
-      "Item_name": "SNICKERS",
+      "Item_name": "Snickers",
       "Item_description": null,
       "Item_brand": null,
-      "Item_Quantity": "50 G",
+      "Item_Quantity": "50g",
       "Item_parent_category": "Cafe",
       "Item_sales_category": "Sweet Snacks",
       "Item_price": 2.90,
@@ -16,10 +15,10 @@
       "menu_page": "16"
     },
     {
-      "Item_name": "RED BAND FRUCHTGUMMI",
-      "Item_description": "FRUIT GUMS",
+      "Item_name": "Red Band Fruchtgummi",
+      "Item_description": null,
       "Item_brand": "Red Band",
-      "Item_Quantity": "200 G",
+      "Item_Quantity": "200g",
       "Item_parent_category": "Cafe",
       "Item_sales_category": "Sweet Snacks",
       "Item_price": 3.90,
@@ -27,10 +26,10 @@
       "menu_page": "16"
     },
     {
-      "Item_name": "GLOWKITCHEN BANANA BREAD",
+      "Item_name": "Glowkitchen Banana Bread",
       "Item_description": null,
       "Item_brand": "Glowkitchen",
-      "Item_Quantity": "70 G",
+      "Item_Quantity": "70g",
       "Item_parent_category": "Cafe",
       "Item_sales_category": "Sweet Snacks",
       "Item_price": 3.90,
@@ -39,4 +38,3 @@
     }
   ]
 }
-```
