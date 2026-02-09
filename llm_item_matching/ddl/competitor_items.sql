@@ -1,4 +1,4 @@
-SELECT top(5)
+SELECT 
             item_id,
             brand,
             item_name,
@@ -14,4 +14,4 @@ SELECT top(5)
             catalog_end,
             page
         FROM competitor_item_details
-        WHERE sales_category IN ('Alcohol', 'DF Spirits')
+        -- WHERE sales_category IN ('Alcohol', 'DF Spirits')
