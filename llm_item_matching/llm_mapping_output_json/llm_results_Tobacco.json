@@ -1,0 +1,250 @@
+[
+  {
+    "gate_item": {
+      "id": 767,
+      "name": "Marlboro Gold 200",
+      "item_onboard_name": "Marlboro Gold 200",
+      "desc": "This is an age restricted item, and you may be asked to verify your age upon delivery.",
+      "parent_category": "4.Duty Free",
+      "sales_category": "Tobacco"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 135,
+        "competitor_item_name": "Marlboro Gold 200s",
+        "brand": "Marlboro",
+        "quantity": "200",
+        "competitor_description": null,
+        "parent_category": "Duty Free",
+        "sales_category": "Tobacco",
+        "price": 55.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 6,
+        "reasoning": "The names are highly similar, the brand matches, and the quantities are identical.",
+        "tags": "name-similar,brand-match,quantity-exact",
+        "similarity_final": 0.95
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 768,
+      "name": "Marlboro Red 200",
+      "item_onboard_name": "Marlboro Red 200",
+      "desc": "This is an age restricted item, and you may be asked to verify your age upon delivery.",
+      "parent_category": "4.Duty Free",
+      "sales_category": "Tobacco"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 136,
+        "competitor_item_name": "Marlboro Red 200s",
+        "brand": "Marlboro",
+        "quantity": "200",
+        "competitor_description": null,
+        "parent_category": "Duty Free",
+        "sales_category": "Tobacco",
+        "price": 55.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 6,
+        "reasoning": "The names are highly similar, the brand matches, and the quantities are identical.",
+        "tags": "name-similar,brand-match,quantity-exact",
+        "similarity_final": 0.95
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 769,
+      "name": "Benson & Hedges 200",
+      "item_onboard_name": "Benson & Hedges 200",
+      "desc": "This is an age restricted item, and you may be asked to verify your age upon delivery.",
+      "parent_category": "4.Duty Free",
+      "sales_category": "Tobacco"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 133,
+        "competitor_item_name": "Benson & Hedges 200s",
+        "brand": "Benson & Hedges",
+        "quantity": "200",
+        "competitor_description": null,
+        "parent_category": "Duty Free",
+        "sales_category": "Tobacco",
+        "price": 60.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 6,
+        "reasoning": "The names are highly similar, the brand matches, and the quantities are identical.",
+        "tags": "name-similar,brand-match,quantity-exact",
+        "similarity_final": 0.95
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 771,
+      "name": "Amber Leaf Rolling Tobacco 250g",
+      "item_onboard_name": "Amber Leaf Rolling Tobacco 250",
+      "desc": "This is an age restricted item, and you may be asked to verify your age upon delivery.",
+      "parent_category": "4.Duty Free",
+      "sales_category": "Tobacco"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 137,
+        "competitor_item_name": "Amber Leaf 250g",
+        "brand": "Amber Leaf",
+        "quantity": "250g",
+        "competitor_description": null,
+        "parent_category": "Duty Free",
+        "sales_category": "Tobacco",
+        "price": 65.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 6,
+        "reasoning": "The names are similar, the brand matches, and the quantities are identical.",
+        "tags": "name-similar,brand-match,quantity-exact",
+        "similarity_final": 0.9
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 773,
+      "name": "Lambert & Butler 200",
+      "item_onboard_name": "Lambert & Butler 200",
+      "desc": "This is an age restricted item, and you may be asked to verify your age upon delivery.",
+      "parent_category": "4.Duty Free",
+      "sales_category": "Tobacco"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 134,
+        "competitor_item_name": "Lambert & Butler Original Silver 200s",
+        "brand": "Lambert & Butler",
+        "quantity": "200",
+        "competitor_description": null,
+        "parent_category": "Duty Free",
+        "sales_category": "Tobacco",
+        "price": 62.5,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 6,
+        "reasoning": "The names are highly similar, and the quantities match exactly.",
+        "tags": "name-similar,quantity-exact",
+        "similarity_final": 0.9
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 777,
+      "name": "Marlboro Red 200 PL",
+      "item_onboard_name": "Marlboro Red 200 PL",
+      "desc": "This is an age restricted item, and you may be asked to verify your age upon delivery.",
+      "parent_category": "4.Duty Free",
+      "sales_category": "Tobacco"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 136,
+        "competitor_item_name": "Marlboro Red 200s",
+        "brand": "Marlboro",
+        "quantity": "200",
+        "competitor_description": null,
+        "parent_category": "Duty Free",
+        "sales_category": "Tobacco",
+        "price": 55.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 6,
+        "reasoning": "The names are highly similar, both specify 'Marlboro Red' and '200', and the product type matches.",
+        "tags": "name-similar,quantity-exact,type-match",
+        "similarity_final": 0.95
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 778,
+      "name": "Marlboro Gold 200 PL",
+      "item_onboard_name": "Marlboro Gold 200 PL",
+      "desc": "This is an age restricted item, and you may be asked to verify your age upon delivery.",
+      "parent_category": "4.Duty Free",
+      "sales_category": "Tobacco"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 135,
+        "competitor_item_name": "Marlboro Gold 200s",
+        "brand": "Marlboro",
+        "quantity": "200",
+        "competitor_description": null,
+        "parent_category": "Duty Free",
+        "sales_category": "Tobacco",
+        "price": 55.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 6,
+        "reasoning": "The names are highly similar, both specify 'Marlboro Gold' and '200', and the product type matches.",
+        "tags": "name-similar,quantity-exact,type-match",
+        "similarity_final": 0.95
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 785,
+      "name": "Golden Virginia 250g UK",
+      "item_onboard_name": "Golden Virginia 250g",
+      "desc": "This is an age restricted item, and you may be asked to verify your age upon delivery.",
+      "parent_category": "4.Duty Free",
+      "sales_category": "Tobacco"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 138,
+        "competitor_item_name": "Golden Virginia 250g",
+        "brand": "Golden Virginia",
+        "quantity": "250g",
+        "competitor_description": null,
+        "parent_category": "Duty Free",
+        "sales_category": "Tobacco",
+        "price": 57.5,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 6,
+        "reasoning": "The names are identical, and the quantities match exactly at 250g.",
+        "tags": "name-similar,quantity-exact",
+        "similarity_final": 1.0
+      }
+    ]
+  }
+]

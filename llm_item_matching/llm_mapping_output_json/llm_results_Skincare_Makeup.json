@@ -1,0 +1,1003 @@
+[
+  {
+    "gate_item": {
+      "id": 597,
+      "name": "Clinique All about moisture Set",
+      "item_onboard_name": "Clinique All about moistureSet",
+      "desc": "Travel Exclusive. Set contains: Moisture Surge 100-Hour Auto Replenishing Hydrator, Moisture Surge, Face Spray Thirsty Skin Relief, All About Eyes Serum De-Puffing Eye Massage. Skin type: all skin types. Allergy Tested. 100% Fragrance Free",
+      "parent_category": "2.Boutique",
+      "sales_category": "Skincare & Make-up"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 185,
+        "competitor_item_name": "Moisture Surge 100H Auto-Replenishing Hydrator",
+        "brand": "Clinique",
+        "quantity": "75 ml",
+        "competitor_description": "Non-stop hydration for glowing skin on-the-go.",
+        "parent_category": "Boutique",
+        "sales_category": "Skincare & Make-up",
+        "price": 49.9,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 16,
+        "reasoning": "The name and description align closely with the gate item, as both focus on hydration and are part of the Clinique Moisture Surge line.",
+        "tags": "name-similar,desc-similar,brand-match",
+        "similarity_final": 0.9
+      },
+      {
+        "competitor_item_id": 186,
+        "competitor_item_name": "Moisture Surge Face Spray Thirsty Skin Relief",
+        "brand": "Clinique",
+        "quantity": "30 ml",
+        "competitor_description": "Quick spritz for an instant moisture boost.",
+        "parent_category": "Boutique",
+        "sales_category": "Skincare & Make-up",
+        "price": 49.9,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 16,
+        "reasoning": "The name and description match components of the gate item, specifically the face spray for hydration, and both are from Clinique.",
+        "tags": "name-similar,desc-similar,brand-match",
+        "similarity_final": 0.88
+      },
+      {
+        "competitor_item_id": 187,
+        "competitor_item_name": "All About Eyes Serum De-Puffing Eye Massager",
+        "brand": "Clinique",
+        "quantity": "15 ml",
+        "competitor_description": "Refreshes on contact and brightens over time.",
+        "parent_category": "Boutique",
+        "sales_category": "Skincare & Make-up",
+        "price": 49.9,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 16,
+        "reasoning": "The name and description match a specific component of the gate item, focusing on eye care and hydration, and both are from Clinique.",
+        "tags": "name-similar,desc-similar,brand-match",
+        "similarity_final": 0.87
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 602,
+      "name": "Scientia Notox eye serum 15ml",
+      "item_onboard_name": "Scientia Notox eye serum 15ml",
+      "desc": "Take action against fine lines, puffiness, wrinkles and circles with Notox Eye Serum. For smooth, lifted and radiant eyes. Cruelty free. Vegan Society approved and offer sustainable glass, aluminium and FSC certified packaging printed with soy ink.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Skincare & Make-up"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 187,
+        "competitor_item_name": "All About Eyes Serum De-Puffing Eye Massager",
+        "brand": "Clinique",
+        "quantity": "15 ml",
+        "competitor_description": "Refreshes on contact and brightens over time.",
+        "parent_category": "Boutique",
+        "sales_category": "Skincare & Make-up",
+        "price": 49.9,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 16,
+        "reasoning": "Both products target eye care, addressing puffiness and fine lines. The names and descriptions align in purpose, and the quantities are identical at 15ml.",
+        "tags": "name-similar,desc-similar,quantity-exact",
+        "similarity_final": 0.85
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 603,
+      "name": "Kylie Lip Kit",
+      "item_onboard_name": "Kylie Lip Kit",
+      "desc": "This Matte Lip Kit lets you create Kylie's long-lasting matte lip looks. The Matte Liquid Lipstick & Lip Liner duo is Kylie's perfect ready-to-go lip routine. The kit's highly pigmented formulas are vegan.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Skincare & Make-up"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 183,
+        "competitor_item_name": "Color Riche Nude Lipsticks Trio",
+        "brand": "L’Oréal Paris",
+        "quantity": "3",
+        "competitor_description": "This set contains three full size Color Riche nude lipsticks (Nude 235, Violet Saturne 214, Rose Tendre 303).",
+        "parent_category": "Boutique",
+        "sales_category": "Skincare & Make-up",
+        "price": 29.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 15,
+        "reasoning": "Both products are lip-focused, with the competitor item offering a set of lipsticks. The descriptions align in providing a complete lip solution.",
+        "tags": "desc-similar,type-match",
+        "similarity_final": 0.78
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 605,
+      "name": "Kylie Kylash Mascara",
+      "item_onboard_name": "Kylie Kylash Mascara",
+      "desc": "THE NEW KYLASH VOLUME MASCARA Get lifted, defined, and fuller lashes with Kylash Volume Mascara. Featuring a clean and vegan formula that doesn t compromise on performance, this mascara provides instant volume, length and holds curl.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Skincare & Make-up"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 184,
+        "competitor_item_name": "Volume Million Lashes Set Duo",
+        "brand": "L’Oréal Paris",
+        "quantity": "2 x 11 ml",
+        "competitor_description": "Mascara N°1 Black 2 x 11 ml. Discover the iconic Volume Million Lashes Mascara, now available in a duo pack of full size.",
+        "parent_category": "Boutique",
+        "sales_category": "Skincare & Make-up",
+        "price": 22.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 15,
+        "reasoning": "Both products are mascaras designed to enhance lashes. The descriptions align in providing volume and definition.",
+        "tags": "desc-similar,type-match",
+        "similarity_final": 0.8
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 606,
+      "name": "Revlon Uniq One Hair Treatment 50ml",
+      "item_onboard_name": "Revlon Uniq One Hair Treatment",
+      "desc": "The multi-benefit leave-in hair treatment brings professional hair care into your home. This vegan hair care detangling spray combines 10 amazing benefits in just one product, including adding shine, body and UV protection, and helps prevent split ends. Your knot-free hair will stay put all day long so you ll never worry about looking or feeling unstyled. Works anywhere & any time, on wet or dry hair.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Skincare & Make-up"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 192,
+        "competitor_item_name": "Moroccanoil Hair Treatment",
+        "brand": "Moroccanoil",
+        "quantity": "25 ml",
+        "competitor_description": "A versatile, argan oil-infused hair treatment and styler that promotes softer, stronger hair with increased shine and less frizz. The non-greasy and fast-absorbing formula is fragranced with the signature Moroccanoil scent, a blend of spicy amber and warm florals. Use before styling or as needed for quick conditioning or touch-ups. For all hair types.",
+        "parent_category": "Boutique",
+        "sales_category": "Skincare & Make-up",
+        "price": 15.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 17,
+        "reasoning": "Both are multi-benefit hair treatments that improve hair texture and manageability. The descriptions align in purpose, though the quantities differ slightly.",
+        "tags": "desc-similar,type-match",
+        "similarity_final": 0.77
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 612,
+      "name": "Marine Miracle Cream",
+      "item_onboard_name": "Marine Miracle Cream",
+      "desc": "This rich and luxurious cream uses the natural healing benefits of sea marine ingredients such algae, giant sea kelp and sea salt extract combined with an advanced rejuvenating formula. Deeply hydrating, but lightweight, it nourishes and rejuvenates dry skin, whilst helping to minimise fine lines and wrinkles.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Skincare & Make-up"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 194,
+        "competitor_item_name": "Egyptian Magic All Purpose Skin Cream",
+        "brand": "Egyptian Magic",
+        "quantity": "75 ml",
+        "competitor_description": "This all-purpose, all-natural balm is made from six of nature's most powerful moisturising and healing ingredients. Use as a facial moisturiser and eye cream, hair conditioner, lip balm, nail and cuticle conditioner, and to treat conditions like eczema, psoriasis and atopic dermatitis. Its formula also makes it perfect for helping to fade scars, heal blemishes and prevent stretch marks.",
+        "parent_category": "Boutique",
+        "sales_category": "Skincare & Make-up",
+        "price": 34.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 17,
+        "reasoning": "Both products are rich creams designed for moisturizing and healing skin, with natural ingredients and multi-purpose benefits.",
+        "tags": "desc-similar,type-match",
+        "similarity_final": 0.78
+      },
+      {
+        "competitor_item_id": 195,
+        "competitor_item_name": "Elizabeth Arden Visible Difference Refining Moisture Cream Complex",
+        "brand": "Elizabeth Arden",
+        "quantity": "100 ml",
+        "competitor_description": "This travel exclusive size offers a rich cream that cushions skin with moisture and provides an occlusive barrier to prevent moisture loss. The formula will restore smoothness, with 94% of women seeing a dramatic improvement in skin’s hydration. It also improves clarity, texture and tone and adds radiance.",
+        "parent_category": "Boutique",
+        "sales_category": "Skincare & Make-up",
+        "price": 20.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 17,
+        "reasoning": "Both are rich creams focused on hydration and improving skin texture, with a similar purpose of rejuvenating dry skin.",
+        "tags": "desc-similar,type-match",
+        "similarity_final": 0.76
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 613,
+      "name": "L'oreal Hyaluron serum",
+      "item_onboard_name": "L'oreal Hyaluron serum",
+      "desc": "Its advanced formula is quick to absorb and delivers a non-greasy finish. The Revitalift serum contains a scientifically formulated blend of 3 forms of pure Hyaluronic Acid to help retain skin's own moisture.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Skincare & Make-up"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 189,
+        "competitor_item_name": "Egyptian Gold Retinol Serum",
+        "brand": "Grounded",
+        "quantity": "50 ml",
+        "competitor_description": "Targets wrinkles, blemishes, and signs of ageing.",
+        "parent_category": "Boutique",
+        "sales_category": "Skincare & Make-up",
+        "price": 27.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 16,
+        "reasoning": "Both are serums targeting skin hydration and anti-aging, with advanced formulas for improving skin appearance.",
+        "tags": "desc-similar,type-match",
+        "similarity_final": 0.77
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 615,
+      "name": "My ToyBoy Mascara",
+      "item_onboard_name": "My ToyBoy Mascara",
+      "desc": "The biggest mascara ever seen on the market! For an immediate WOW effect, to leave you breathless. 4D action mascara: ultra volumizing high definition, promotes the natural growth of eyelashes in just 30 days.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Skincare & Make-up"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 184,
+        "competitor_item_name": "Volume Million Lashes Set Duo",
+        "brand": "L’Oréal Paris",
+        "quantity": "2 x 11 ml",
+        "competitor_description": "Mascara N°1 Black 2 x 11 ml. Discover the iconic Volume Million Lashes Mascara, now available in a duo pack of full size.",
+        "parent_category": "Boutique",
+        "sales_category": "Skincare & Make-up",
+        "price": 22.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 15,
+        "reasoning": "Both are mascaras with a focus on volumizing and enhancing eyelashes, offering high-impact results.",
+        "tags": "type-match,desc-similar",
+        "similarity_final": 0.79
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 617,
+      "name": "Babor Ampules Hydra Plus 14ml UK",
+      "item_onboard_name": "Babor Ampules Hydra Plus",
+      "desc": "7 Day Hydra Plus Ampoules. Hydration booster for your skin. Concentrates offer an immediate, multidimensional moisture boost, lasting 24h.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Skincare & Make-up"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 185,
+        "competitor_item_name": "Moisture Surge 100H Auto-Replenishing Hydrator",
+        "brand": "Clinique",
+        "quantity": "75 ml",
+        "competitor_description": "Non-stop hydration for glowing skin on-the-go.",
+        "parent_category": "Boutique",
+        "sales_category": "Skincare & Make-up",
+        "price": 49.9,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 16,
+        "reasoning": "Both products focus on hydration for the skin, with similar descriptions emphasizing moisture boost.",
+        "tags": "desc-similar,type-match",
+        "similarity_final": 0.78
+      },
+      {
+        "competitor_item_id": 186,
+        "competitor_item_name": "Moisture Surge Face Spray Thirsty Skin Relief",
+        "brand": "Clinique",
+        "quantity": "30 ml",
+        "competitor_description": "Quick spritz for an instant moisture boost.",
+        "parent_category": "Boutique",
+        "sales_category": "Skincare & Make-up",
+        "price": 49.9,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 16,
+        "reasoning": "Both products provide an instant moisture boost for the skin, aligning in purpose and description.",
+        "tags": "desc-similar,type-match",
+        "similarity_final": 0.76
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 618,
+      "name": "Kylie Lip Kit UK",
+      "item_onboard_name": "Kylie Matte Lip Kit",
+      "desc": "This Matte Lip Kit lets you create Kylie's long-lasting matte lip looks. The Matte Liquid Lipstick  and  Lip Liner duo is Kylie's perfect ready-to-go lip routine. The kit's highly pigmented formulas are vegan.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Skincare & Make-up"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 183,
+        "competitor_item_name": "Color Riche Nude Lipsticks Trio",
+        "brand": "L’Oréal Paris",
+        "quantity": "3",
+        "competitor_description": "This set contains three full size Color Riche nude lipsticks (Nude 235, Violet Saturne 214, Rose Tendre 303).",
+        "parent_category": "Boutique",
+        "sales_category": "Skincare & Make-up",
+        "price": 29.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 15,
+        "reasoning": "Both products are lip-focused, with the competitor item offering a set of lipsticks and the gate item providing a lip kit.",
+        "tags": "type-match,desc-similar",
+        "similarity_final": 0.77
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 622,
+      "name": "Marine Miracle Cream UK",
+      "item_onboard_name": "Marine Miracle Creme",
+      "desc": "This rich and luxurious cream uses the natural healing benefits of sea marine ingredients such algae, giant sea kelp and sea salt extract combined with an advanced rejuvenating formula. Deeply hydrating, but lightweight, it nourishes and rejuvenates dry skin, whilst helping to minimise fine lines and wrinkles.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Skincare & Make-up"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 194,
+        "competitor_item_name": "Egyptian Magic All Purpose Skin Cream",
+        "brand": "Egyptian Magic",
+        "quantity": "75 ml",
+        "competitor_description": "This all-purpose, all-natural balm is made from six of nature's most powerful moisturising and healing ingredients. Use as a facial moisturiser and eye cream, hair conditioner, lip balm, nail and cuticle conditioner, and to treat conditions like eczema, psoriasis and atopic dermatitis. Its formula also makes it perfect for helping to fade scars, heal blemishes and prevent stretch marks.",
+        "parent_category": "Boutique",
+        "sales_category": "Skincare & Make-up",
+        "price": 34.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 17,
+        "reasoning": "Both products are rich creams with natural ingredients aimed at moisturizing and healing the skin. The descriptions align in purpose and benefits.",
+        "tags": "desc-similar,type-match",
+        "similarity_final": 0.78
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 623,
+      "name": "L'oreal Hyaluron serum UK",
+      "item_onboard_name": "L'oreal Hyaluron serum 30ml",
+      "desc": "Its advanced formula is quick to absorb and delivers a non-greasy finish. The Revitalift serum contains a scientifically formulated blend of 3 forms of pure Hyaluronic Acid to help retain skin's own moisture.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Skincare & Make-up"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 189,
+        "competitor_item_name": "Egyptian Gold Retinol Serum",
+        "brand": "Grounded",
+        "quantity": "50 ml",
+        "competitor_description": "Targets wrinkles, blemishes, and signs of ageing.",
+        "parent_category": "Boutique",
+        "sales_category": "Skincare & Make-up",
+        "price": 27.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 16,
+        "reasoning": "Both are serums targeting skin hydration and anti-aging, with advanced formulas for improving skin appearance.",
+        "tags": "desc-similar,type-match",
+        "similarity_final": 0.76
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 625,
+      "name": "My ToyBoy Mascara UK",
+      "item_onboard_name": "My Toy Boy Mascara",
+      "desc": "The biggest mascara ever seen on the market! For an immediate WOW effect, to leave you breathless. 4D action mascara: ultra volumizing high definition, promotes the natural growth of eyelashes in just 30 days.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Skincare & Make-up"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 184,
+        "competitor_item_name": "Volume Million Lashes Set Duo",
+        "brand": "L’Oréal Paris",
+        "quantity": "2 x 11 ml",
+        "competitor_description": "Mascara N°1 Black 2 x 11 ml. Discover the iconic Volume Million Lashes Mascara, now available in a duo pack of full size.",
+        "parent_category": "Boutique",
+        "sales_category": "Skincare & Make-up",
+        "price": 22.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 15,
+        "reasoning": "Both are mascaras focused on volumizing and enhancing eyelashes, with similar product purposes.",
+        "tags": "type-match,desc-similar",
+        "similarity_final": 0.8
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 627,
+      "name": "Sol de Janeiro Bum Bum Cream 75ml",
+      "item_onboard_name": "Sol de Janeiro Bum Bum Cream",
+      "desc": "Helps visibly smooth and tighten the appearance of the skin thanks to potent, caffeine-rich Guarana Extract. Fast absorbing Cupuacu Butter delivers deep hydration and essential fatty-acids deep into the skin. Pistachio, salted caramel and vanilla scented.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Skincare & Make-up"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 191,
+        "competitor_item_name": "Brazilian Bum Bum Cream",
+        "brand": "Sol de Janeiro",
+        "quantity": "75 ml",
+        "competitor_description": "Fast-absorbing body cream with a visibly tightening formula.",
+        "parent_category": "Boutique",
+        "sales_category": "Skincare & Make-up",
+        "price": 17.9,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 16,
+        "reasoning": "The names are highly similar, both describe a fast-absorbing body cream with a visibly tightening formula, and the quantity matches exactly at 75ml.",
+        "tags": "name-similar,desc-similar,quantity-exact",
+        "similarity_final": 0.98
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 630,
+      "name": "L'oreal Shades of Nudes Lipstick Trio",
+      "item_onboard_name": "L'oreal Shades of Nudes Trio",
+      "desc": "A lipstick trio collection, that celebrates the timeless beauty of nude shades. It offers a range of nude tones that suit every skin tone and occasion, providing a versatile and sophisticated lip look.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Skincare & Make-up"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 183,
+        "competitor_item_name": "Color Riche Nude Lipsticks Trio",
+        "brand": "L’Oréal Paris",
+        "quantity": "3",
+        "competitor_description": "This set contains three full size Color Riche nude lipsticks (Nude 235, Violet Saturne 214, Rose Tendre 303).",
+        "parent_category": "Boutique",
+        "sales_category": "Skincare & Make-up",
+        "price": 29.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 15,
+        "reasoning": "The names are highly similar, both describe a trio of nude lipsticks, and the brand matches exactly as L’Oréal Paris.",
+        "tags": "name-similar,brand-match,desc-similar",
+        "similarity_final": 0.95
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 635,
+      "name": "Clinique All about moisture Set UK",
+      "item_onboard_name": "Clinique All about moisture s.",
+      "desc": "A travel-exclusive collection that focusing on providing continuous hydration and skincare essentials for glowing and refreshed skin while on the go. Contains 100H Auto-Replenishing Hydrator, Face Spray Thirsty Skin Relief, Serum De-Puffing Eye Massage.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Skincare & Make-up"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 185,
+        "competitor_item_name": "Moisture Surge 100H Auto-Replenishing Hydrator",
+        "brand": "Clinique",
+        "quantity": "75 ml",
+        "competitor_description": "Non-stop hydration for glowing skin on-the-go.",
+        "parent_category": "Boutique",
+        "sales_category": "Skincare & Make-up",
+        "price": 49.9,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 16,
+        "reasoning": "The competitor item matches due to name similarity, description alignment on hydration benefits, and brand match.",
+        "tags": "name-similar,desc-similar,brand-match",
+        "similarity_final": 0.85
+      },
+      {
+        "competitor_item_id": 186,
+        "competitor_item_name": "Moisture Surge Face Spray Thirsty Skin Relief",
+        "brand": "Clinique",
+        "quantity": "30 ml",
+        "competitor_description": "Quick spritz for an instant moisture boost.",
+        "parent_category": "Boutique",
+        "sales_category": "Skincare & Make-up",
+        "price": 49.9,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 16,
+        "reasoning": "The competitor item matches due to name similarity, description alignment on hydration benefits, and brand match.",
+        "tags": "name-similar,desc-similar,brand-match",
+        "similarity_final": 0.82
+      },
+      {
+        "competitor_item_id": 187,
+        "competitor_item_name": "All About Eyes Serum De-Puffing Eye Massager",
+        "brand": "Clinique",
+        "quantity": "15 ml",
+        "competitor_description": "Refreshes on contact and brightens over time.",
+        "parent_category": "Boutique",
+        "sales_category": "Skincare & Make-up",
+        "price": 49.9,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 16,
+        "reasoning": "The competitor item matches due to name similarity, description alignment on skincare benefits, and brand match.",
+        "tags": "name-similar,desc-similar,brand-match",
+        "similarity_final": 0.8
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 637,
+      "name": "Sol de Janeiro Bum Bum Cream 75ml UK",
+      "item_onboard_name": "Sol de Janeiro BumBum Cream",
+      "desc": "Helps visibly smooth and tighten the appearance of the skin thanks to potent, caffeine-rich Guarana Extract. Fast absorbing Cupuacu Butter delivers deep hydration and essential fatty-acids deep into the skin. Pistachio, salted caramel and vanilla scented.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Skincare & Make-up"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 191,
+        "competitor_item_name": "Brazilian Bum Bum Cream",
+        "brand": "Sol de Janeiro",
+        "quantity": "75 ml",
+        "competitor_description": "Fast-absorbing body cream with a visibly tightening formula.",
+        "parent_category": "Boutique",
+        "sales_category": "Skincare & Make-up",
+        "price": 17.9,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 16,
+        "reasoning": "The names are highly similar, both describe a fast-absorbing body cream with a visibly tightening formula, and the quantities match exactly at 75ml.",
+        "tags": "name-similar,desc-similar,quantity-exact",
+        "similarity_final": 0.98
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 640,
+      "name": "Biotherm Aquapower gel 75ml UK",
+      "item_onboard_name": "Biotherm Aquapower gel 75ml",
+      "desc": "A hydrating gel that nourishes the skin to help it fight dryness, feelings of tightness and skin roughness caused by daily external aggressions.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Skincare & Make-up"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 185,
+        "competitor_item_name": "Moisture Surge 100H Auto-Replenishing Hydrator",
+        "brand": "Clinique",
+        "quantity": "75 ml",
+        "competitor_description": "Non-stop hydration for glowing skin on-the-go.",
+        "parent_category": "Boutique",
+        "sales_category": "Skincare & Make-up",
+        "price": 49.9,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 16,
+        "reasoning": "Both products are hydrating skincare items targeting dryness, and the quantities are close (75ml vs 75ml).",
+        "tags": "desc-similar,quantity-exact",
+        "similarity_final": 0.77
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 641,
+      "name": "L'oreal Paris Telescopic Lift Duo UK",
+      "item_onboard_name": "L'oreal Paris Telescopic Lift.",
+      "desc": "Elevate your lashes to new heights with a two-pack of L'Oreal Paris Telescopic Lift Mascara Black. This mascara visibly elongates your lashes by up to 5mm. Vegan formula.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Skincare & Make-up"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 184,
+        "competitor_item_name": "Volume Million Lashes Set Duo",
+        "brand": "L’Oréal Paris",
+        "quantity": "2 x 11 ml",
+        "competitor_description": "Mascara N°1 Black 2 x 11 ml. Discover the iconic Volume Million Lashes Mascara, now available in a duo pack of full size.",
+        "parent_category": "Boutique",
+        "sales_category": "Skincare & Make-up",
+        "price": 22.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 15,
+        "reasoning": "Both are mascara duo packs from L’Oréal Paris, and the product types align closely.",
+        "tags": "name-similar,brand-match,type-match",
+        "similarity_final": 0.8
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 646,
+      "name": "Dr. PawPaw It Does It All 100ml UK",
+      "item_onboard_name": "Dr.PawPaw It Does It All 100ml",
+      "desc": "7 in 1 hair treatment styler. All-in-one hair treatment that smoothes, adds shine, protects from heat and more. Cruelty free.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Skincare & Make-up"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 192,
+        "competitor_item_name": "Moroccanoil Hair Treatment",
+        "brand": "Moroccanoil",
+        "quantity": "25 ml",
+        "competitor_description": "A versatile, argan oil-infused hair treatment and styler that promotes softer, stronger hair with increased shine and less frizz. The non-greasy and fast-absorbing formula is fragranced with the signature Moroccanoil scent, a blend of spicy amber and warm florals. Use before styling or as needed for quick conditioning or touch-ups. For all hair types.",
+        "parent_category": "Boutique",
+        "sales_category": "Skincare & Make-up",
+        "price": 15.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 17,
+        "reasoning": "Both are multi-purpose hair treatments with similar benefits like smoothing, adding shine, and protecting hair. Quantities are close (100ml vs 25ml).",
+        "tags": "name-similar,desc-similar,quantity-close",
+        "similarity_final": 0.78
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 656,
+      "name": "L'oreal Shades of Nudes Lipstick Trio UK",
+      "item_onboard_name": "L'oreal Shades of Nudes Lipsti",
+      "desc": "A lipstick trio collection, that celebrates the timeless beauty of nude shades. It offers a range of nude tones that suit every skin tone and occasion, providing a versatile and sophisticated lip look.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Skincare & Make-up"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 183,
+        "competitor_item_name": "Color Riche Nude Lipsticks Trio",
+        "brand": "L’Oréal Paris",
+        "quantity": "3",
+        "competitor_description": "This set contains three full size Color Riche nude lipsticks (Nude 235, Violet Saturne 214, Rose Tendre 303).",
+        "parent_category": "Boutique",
+        "sales_category": "Skincare & Make-up",
+        "price": 29.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 15,
+        "reasoning": "The names are highly similar, both describe a nude lipstick trio, and the quantities match exactly.",
+        "tags": "name-similar,quantity-exact,desc-similar",
+        "similarity_final": 0.92
+      },
+      {
+        "competitor_item_id": 163,
+        "competitor_item_name": "L'ORÉAL COLOR RICHE",
+        "brand": "L'ORÉAL",
+        "quantity": "3",
+        "competitor_description": "Nude Lipsticks Trio",
+        "parent_category": "Boutique",
+        "sales_category": "Skincare & Make-up",
+        "price": 29.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 11,
+        "reasoning": "The names are similar, both describe a nude lipstick trio, and the quantities match exactly.",
+        "tags": "name-similar,quantity-exact,desc-similar",
+        "similarity_final": 0.85
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 657,
+      "name": "Dr. PawPaw It Does It All 100ml",
+      "item_onboard_name": "Dr. PawPaw It Does It All 100m",
+      "desc": "7 in 1 hair treatment styler. All-in-one hair treatment that smoothes, adds shine, protects from heat and more. Cruelty free.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Skincare & Make-up"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 192,
+        "competitor_item_name": "Moroccanoil Hair Treatment",
+        "brand": "Moroccanoil",
+        "quantity": "25 ml",
+        "competitor_description": "A versatile, argan oil-infused hair treatment and styler that promotes softer, stronger hair with increased shine and less frizz. The non-greasy and fast-absorbing formula is fragranced with the signature Moroccanoil scent, a blend of spicy amber and warm florals. Use before styling or as needed for quick conditioning or touch-ups. For all hair types.",
+        "parent_category": "Boutique",
+        "sales_category": "Skincare & Make-up",
+        "price": 15.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 17,
+        "reasoning": "Both are multi-purpose hair treatments with similar functionalities like smoothing, adding shine, and protecting hair. The quantities are close (100ml vs 25ml).",
+        "tags": "desc-similar,quantity-close,type-match",
+        "similarity_final": 0.78
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 662,
+      "name": "Helia-D Anti-wrinkle Day Cream With Tokaji Wine 50ml",
+      "item_onboard_name": "Helia-D Day Cream 50ml",
+      "desc": "Anti-wrinkle cream developed for all skin types. Vegan composition with the unique combination of carefully selected natural ingredients. Bakuchiol is a special, plant-based antioxidant that may contribute to more elastic, smoother skin and may reduce wrinkles. The cream contains tokaji wine extract, hyaluronic acid, grape seed oil, shea butter, panthenol and vitamin E that help the skin to stay hydrated.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Skincare & Make-up"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 196,
+        "competitor_item_name": "Elizabeth Arden Good Night's Sleep Restoring Cream",
+        "brand": "Elizabeth Arden",
+        "quantity": "50 ml",
+        "competitor_description": "Soothing the skin, relaxing the senses. Good Night’s Sleep is enriched with powerful natural extracts known to calm and comfort skin. The soft, aromatic scent of lavender, honeysuckle and orange helps ease away the cares of the day to promote a restful sleep.",
+        "parent_category": "Boutique",
+        "sales_category": "Skincare & Make-up",
+        "price": 20.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 17,
+        "reasoning": "Both are creams targeting skin hydration and care, with similar quantities (50ml). The descriptions align in promoting smoother, hydrated skin.",
+        "tags": "desc-similar,quantity-exact",
+        "similarity_final": 0.78
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 663,
+      "name": "Helia-D Anti-wrinkle Eye Cream With Tokaji Wine 15ml",
+      "item_onboard_name": "Helia-D Eye Cream 15ml",
+      "desc": "Anti-wrinkle eye cream with tokaji wine extrac and bakuchiol for all skin types.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Skincare & Make-up"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 187,
+        "competitor_item_name": "All About Eyes Serum De-Puffing Eye Massager",
+        "brand": "Clinique",
+        "quantity": "15 ml",
+        "competitor_description": "Refreshes on contact and brightens over time.",
+        "parent_category": "Boutique",
+        "sales_category": "Skincare & Make-up",
+        "price": 49.9,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 16,
+        "reasoning": "Both are eye care products with the same quantity (15ml) and focus on improving the eye area, such as reducing puffiness and wrinkles.",
+        "tags": "type-match,quantity-exact",
+        "similarity_final": 0.8
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 664,
+      "name": "Sabon After Shave All-in-One Face Moisturizer",
+      "item_onboard_name": "Sabon After Shave Moisturizer",
+      "desc": "100ml, lightweight, non-sticky vegan formula, which includes 96% natural origin ingredients",
+      "parent_category": "2.Boutique",
+      "sales_category": "Skincare & Make-up"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 195,
+        "competitor_item_name": "Elizabeth Arden Visible Difference Refining Moisture Cream Complex",
+        "brand": "Elizabeth Arden",
+        "quantity": "100 ml",
+        "competitor_description": "This travel exclusive size offers a rich cream that cushions skin with moisture and provides an occlusive barrier to prevent moisture loss. The formula will restore smoothness, with 94% of women seeing a dramatic improvement in skin’s hydration. It also improves clarity, texture and tone and adds radiance.",
+        "parent_category": "Boutique",
+        "sales_category": "Skincare & Make-up",
+        "price": 20.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 17,
+        "reasoning": "Both are face moisturizers with a focus on hydration and skin improvement, and the quantities are close (100ml vs 100ml).",
+        "tags": "type-match,quantity-exact",
+        "similarity_final": 0.77
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 666,
+      "name": "Sabon After Shave All-in-One Face Moisturizer UK",
+      "item_onboard_name": "Sabon After Shave Face Moist.",
+      "desc": "100ml, lightweight, non-sticky vegan formula, which includes 96% natural origin ingredients",
+      "parent_category": "2.Boutique",
+      "sales_category": "Skincare & Make-up"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 195,
+        "competitor_item_name": "Elizabeth Arden Visible Difference Refining Moisture Cream Complex",
+        "brand": "Elizabeth Arden",
+        "quantity": "100 ml",
+        "competitor_description": "This travel exclusive size offers a rich cream that cushions skin with moisture and provides an occlusive barrier to prevent moisture loss. The formula will restore smoothness, with 94% of women seeing a dramatic improvement in skin’s hydration. It also improves clarity, texture and tone and adds radiance.",
+        "parent_category": "Boutique",
+        "sales_category": "Skincare & Make-up",
+        "price": 20.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 17,
+        "reasoning": "Both are face moisturizers with a focus on hydration and skin improvement, and the quantities are close (100ml vs 100ml).",
+        "tags": "type-match,quantity-exact",
+        "similarity_final": 0.77
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 680,
+      "name": "Nuxe Mixed Set",
+      "item_onboard_name": "Nuxe Mixed Set",
+      "desc": "This kit contains: 1 Mini Huile Prodigieuse Multi-purposeDry Oil (10ml), 1 Reve de Miel Hand and Nail Cream (15ml), 1 Reve de Miel Ultra-Nourishing Lip Balm (15g), 1 Very Rose Micellar Makeup Remover Water (100ml) and 1 Creme Fraiche de Beaute moisturizing plumping cream (30ml).",
+      "parent_category": "2.Boutique",
+      "sales_category": "Skincare & Make-up"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 188,
+        "competitor_item_name": "Huile Prodigieuse Face, Body and Hair Dry Oil",
+        "brand": "Nuxe",
+        "quantity": "100 ml",
+        "competitor_description": "Nourishes, repairs, and beautifies skin and hair.",
+        "parent_category": "Boutique",
+        "sales_category": "Skincare & Make-up",
+        "price": 31.5,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 16,
+        "reasoning": "The competitor item matches the Nuxe brand and includes a similar product type (multi-purpose oil) with the same quantity (100ml).",
+        "tags": "brand-match,type-match,quantity-exact",
+        "similarity_final": 0.78
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 681,
+      "name": "Nuxe Mixed Set UK",
+      "item_onboard_name": "Nuxe Mixed Travel Set",
+      "desc": "This kit contains: 1 Mini Huile Prodigieuse Multi-purposeDry Oil (10ml), 1 Reve de Miel Hand and Nail Cream (15ml), 1 Reve de Miel Ultra-Nourishing Lip Balm (15g), 1 Very Rose Micellar Makeup Remover Water (100ml) and 1 Creme Fraiche de Beaute moisturizing plumping cream (30ml).",
+      "parent_category": "2.Boutique",
+      "sales_category": "Skincare & Make-up"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 188,
+        "competitor_item_name": "Huile Prodigieuse Face, Body and Hair Dry Oil",
+        "brand": "Nuxe",
+        "quantity": "100 ml",
+        "competitor_description": "Nourishes, repairs, and beautifies skin and hair.",
+        "parent_category": "Boutique",
+        "sales_category": "Skincare & Make-up",
+        "price": 31.5,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 16,
+        "reasoning": "The competitor item matches the Nuxe brand and includes a similar product type (multi-purpose oil) with the same quantity (100ml).",
+        "tags": "brand-match,type-match,quantity-exact",
+        "similarity_final": 0.78
+      }
+    ]
+  }
+]

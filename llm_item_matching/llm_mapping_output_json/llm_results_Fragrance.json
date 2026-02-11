@@ -1,0 +1,1995 @@
+[
+  {
+    "gate_item": {
+      "id": 297,
+      "name": "Davidoff The Game EdT 100ml",
+      "item_onboard_name": "Davidoff The Game",
+      "desc": "Top Notes: Gin fizz, Juniper berry Middle Notes: Precious woods, Iris Base Notes: Ebony Launched in 2012",
+      "parent_category": "2.Boutique",
+      "sales_category": "Gents Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 147,
+        "competitor_item_name": "DAVIDOFF The Game",
+        "brand": "DAVIDOFF",
+        "quantity": "100ml",
+        "competitor_description": "EDT spray",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 30.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "reasoning": "The names are identical, the quantity matches exactly, and both are EDT sprays.",
+        "tags": "name-similar,quantity-exact",
+        "similarity_final": 1.0
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 302,
+      "name": "Versace The Dreamer EdT 50ml",
+      "item_onboard_name": "Versace The Dreamer EdT 50ml",
+      "desc": "It is a transparent perfume, warm and fresh at the same time. Subtle and sweet designer scent for men. Top notes are Juniper, Tarragon and Artemisia; middle notes are iris, Lily and Flax; base notes are Tobacco blossom and Amber. Launched during the 2010's",
+      "parent_category": "2.Boutique",
+      "sales_category": "Gents Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 169,
+        "competitor_item_name": "VERSACE EROS",
+        "brand": "VERSACE",
+        "quantity": "50ml",
+        "competitor_description": "EDT Spray, 50ml",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 60.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 11,
+        "reasoning": "Both are Versace fragrances for men with similar product type and quantity. The names and descriptions suggest alignment in style and target audience.",
+        "tags": "name-similar,brand-match,quantity-exact,type-match",
+        "similarity_final": 0.78
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 305,
+      "name": "Giorgio Armani He EdT 100ml",
+      "item_onboard_name": "Giorgio Armani He EdT 100ml",
+      "desc": "Top notes are Yuzu, Sage and Cardamo, Middle notes are Nutmeg, Rose and Orris Root, Base notes are White Musk, Sandalwood, Vetiver and Tonka Bean, Launched in 2020",
+      "parent_category": "2.Boutique",
+      "sales_category": "Gents Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 154,
+        "competitor_item_name": "EMPORIO ARMANI HE",
+        "brand": "Emporio Armani",
+        "quantity": "100ml",
+        "competitor_description": "EDT Spray, 100ml",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 50.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 8,
+        "reasoning": "The names are highly similar, both include 'Armani He' and the quantities match exactly at 100ml.",
+        "tags": "name-similar,quantity-exact",
+        "similarity_final": 0.95
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 309,
+      "name": "Hugo Boss Dark Blue EdT 75ml",
+      "item_onboard_name": "Hugo Boss Dark Blue EdT 75ml",
+      "desc": "Top notes are Ginger, Grapefruit, Orange, Lime and Lemon, middle notes are Cypress, Mahogany, Cardamom, Geranium and Sage, base notes are Vanilla, Cedar, Benzoin, Vetiver and Patchouli. Launched in 1999.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Gents Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 149,
+        "competitor_item_name": "HUGO BOSS Dark Blue",
+        "brand": "HUGO BOSS",
+        "quantity": "75ml",
+        "competitor_description": "EDT spray",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 30.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "reasoning": "The names are nearly identical, both include 'Hugo Boss Dark Blue', and the quantities match exactly at 75ml.",
+        "tags": "name-similar,quantity-exact",
+        "similarity_final": 0.98
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 312,
+      "name": "Calvin Klein CK Free EdT 50 ml",
+      "item_onboard_name": "Calvin Klein CK Free EdT 50 ml",
+      "desc": "Top notes are Juniper Berries, Star Anise, Wormwood and Jackfruit; Middle notes are Suede, Tobacco, Coffee and Buchu or Agathosma; Base notes are Virginia Cedar, Oak, Patchouli and Woody Notes; Launched in 2009",
+      "parent_category": "2.Boutique",
+      "sales_category": "Gents Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 140,
+        "competitor_item_name": "CALVIN KLEIN ck free",
+        "brand": "CALVIN KLEIN",
+        "quantity": "50ml",
+        "competitor_description": "EDT spray",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 20.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "reasoning": "The names are highly similar, the brand matches, and the quantity is exact.",
+        "tags": "name-similar,brand-match,quantity-exact",
+        "similarity_final": 0.95
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 313,
+      "name": "Versace Eros EdT 50ml",
+      "item_onboard_name": "Versace Eros EdT 50ml",
+      "desc": "Top notes are Mint, Green Apple and Lemon, Middle notes are Tonka Bean, Ambroxan and Geranium,Base notes are Madagascar Vanilla, Virginian Cedar, Atlas Cedar, Vetiver and Oakmoss,Launched in 2012",
+      "parent_category": "2.Boutique",
+      "sales_category": "Gents Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 158,
+        "competitor_item_name": "VERSACE EROS",
+        "brand": "VERSACE",
+        "quantity": "50ml",
+        "competitor_description": "EDT Spray, 50ml",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 60.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 9,
+        "reasoning": "The names are highly similar, the brand matches, and the quantity is exact.",
+        "tags": "name-similar,brand-match,quantity-exact",
+        "similarity_final": 0.97
+      },
+      {
+        "competitor_item_id": 169,
+        "competitor_item_name": "VERSACE EROS",
+        "brand": "VERSACE",
+        "quantity": "50ml",
+        "competitor_description": "EDT Spray, 50ml",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 60.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 11,
+        "reasoning": "The names are identical, the quantities match exactly, and both are Eau de Toilette sprays.",
+        "tags": "name-similar,quantity-exact,type-match",
+        "similarity_final": 0.95
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 316,
+      "name": "Davidoff The Game EdT 100ml UK",
+      "item_onboard_name": "Davidoff The Game EdT 100ml",
+      "desc": "Top Notes: Gin fizz, Juniper berry; Middle Notes: Precious woods, Iris; Base Notes: Ebony; Launched in 2012",
+      "parent_category": "2.Boutique",
+      "sales_category": "Gents Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 147,
+        "competitor_item_name": "DAVIDOFF The Game",
+        "brand": "DAVIDOFF",
+        "quantity": "100ml",
+        "competitor_description": "EDT spray",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 30.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "reasoning": "The names are identical, the quantities match exactly, and both are EDT sprays.",
+        "tags": "name-similar,quantity-exact",
+        "similarity_final": 1.0
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 320,
+      "name": "Versace The Dreamer EdT 50ml UK",
+      "item_onboard_name": "Versace The Dreamer EdT 50m",
+      "desc": "It is a transparent perfume, warm and fresh at the same time; Subtle and sweet designer scent for men; Top notes are Juniper, Tarragon and Artemisia; middle notes are iris, Lily and Flax; base notes are Tobacco blossom and Amber; Launched during the 2010's",
+      "parent_category": "2.Boutique",
+      "sales_category": "Gents Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 169,
+        "competitor_item_name": "VERSACE EROS",
+        "brand": "VERSACE",
+        "quantity": "50ml",
+        "competitor_description": "EDT Spray, 50ml",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 60.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 11,
+        "reasoning": "The competitor item matches on brand (Versace) and quantity (50ml), and both are Eau de Toilette products.",
+        "tags": "brand-match,quantity-exact,type-match",
+        "similarity_final": 0.78
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 321,
+      "name": "Giorgio Armani He EdT 100ml UK",
+      "item_onboard_name": "Giorgio Armani He EdT 100m",
+      "desc": "Top notes are Yuzu, Sage and Cardamom; Middle notes are Nutmeg, Rose and Orris Root; Base notes are White Musk, Sandalwood, Vetiver and Tonka Bean; Launched in 2020",
+      "parent_category": "2.Boutique",
+      "sales_category": "Gents Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 154,
+        "competitor_item_name": "EMPORIO ARMANI HE",
+        "brand": "Emporio Armani",
+        "quantity": "100ml",
+        "competitor_description": "EDT Spray, 100ml",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 50.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 8,
+        "reasoning": "The names are highly similar, both include 'Armani He', and the quantities match exactly at 100ml.",
+        "tags": "name-similar,quantity-exact",
+        "similarity_final": 0.92
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 325,
+      "name": "Calvin Klein CK Free EdT 50 ml UK",
+      "item_onboard_name": "Calvin Klein CK Free EdT 50ml",
+      "desc": "Top notes are Juniper Berries, Star Anise, Wormwood and Jackfruit; Middle notes are Suede, Tobacco, Coffee and Buchu or Agathosma; Base notes are Virginia Cedar, Oak, Patchouli and Woody Notes; Launched in 2009",
+      "parent_category": "2.Boutique",
+      "sales_category": "Gents Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 140,
+        "competitor_item_name": "CALVIN KLEIN ck free",
+        "brand": "CALVIN KLEIN",
+        "quantity": "50ml",
+        "competitor_description": "EDT spray",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 20.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "reasoning": "The names are highly similar, the brand matches, and the quantity is identical at 50ml.",
+        "tags": "name-similar,brand-match,quantity-exact",
+        "similarity_final": 0.95
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 326,
+      "name": "Versace Eros EdT 50ml UK",
+      "item_onboard_name": "Versace Eros 50ml EdT",
+      "desc": "Top notes are Mint, Green Apple and Lemon; Middle notes are Tonka Bean, Ambroxan and Geranium; Base notes are Madagascar Vanilla, Virginian Cedar, Atlas Cedar, Vetiver and Oakmoss; Launched in 2012",
+      "parent_category": "2.Boutique",
+      "sales_category": "Gents Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 169,
+        "competitor_item_name": "VERSACE EROS",
+        "brand": "VERSACE",
+        "quantity": "50ml",
+        "competitor_description": "EDT Spray, 50ml",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 60.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 11,
+        "reasoning": "The names are identical, the quantity matches exactly, and both are Eau de Toilette sprays.",
+        "tags": "name-similar,quantity-exact",
+        "similarity_final": 1.0
+      },
+      {
+        "competitor_item_id": 158,
+        "competitor_item_name": "VERSACE EROS",
+        "brand": "VERSACE",
+        "quantity": "50ml",
+        "competitor_description": "EDT Spray, 50ml",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 60.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 9,
+        "reasoning": "The names are nearly identical, the brand matches, and the quantity is exactly the same at 50ml.",
+        "tags": "name-similar,brand-match,quantity-exact",
+        "similarity_final": 0.97
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 327,
+      "name": "Antonio Banderas The Golden Secret 100ml",
+      "item_onboard_name": "AB The Golden Secret EdT 100ml",
+      "desc": "Top notes are Apple, Mint and Green Notes, middle notes are Nutmeg, Pepper and Cumin, base notes are Leather, Cedar and Musk, Launched in 2011.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Gents Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 146,
+        "competitor_item_name": "BANDERAS The Golden Secret",
+        "brand": "BANDERAS",
+        "quantity": "100ml",
+        "competitor_description": "EDT spray",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 20.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "reasoning": "The names are highly similar, the brand matches, and the quantity is identical at 100ml.",
+        "tags": "name-similar,brand-match,quantity-exact",
+        "similarity_final": 0.96
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 331,
+      "name": "Antonio Banderas The Golden Secret 100ml UK",
+      "item_onboard_name": "AB The Golden Secret 100ml EdT",
+      "desc": "Top notes are Apple, Mint and Green Notes, middle notes are Nutmeg, Pepper and Cumin, base notes are Leather, Cedar and Musk, Launched in 2011.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Gents Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 146,
+        "competitor_item_name": "BANDERAS The Golden Secret",
+        "brand": "BANDERAS",
+        "quantity": "100ml",
+        "competitor_description": "EDT spray",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 20.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "reasoning": "The names are highly similar, both include 'The Golden Secret', and the quantities match exactly at 100ml.",
+        "tags": "name-similar,brand-match,quantity-exact",
+        "similarity_final": 0.95
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 340,
+      "name": "Hugo Boss Dark Blue EdT 75ml UK",
+      "item_onboard_name": "Hugo Boss Dark Blue EdT 75mlUK",
+      "desc": "Top notes are Ginger, Grapefruit, Orange, Lime and Lemon, middle notes are Cypress, Mahogany, Cardamom, Geranium and Sage, base notes are Vanilla, Cedar, Benzoin, Vetiver and Patchouli. Launched in 1999.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Gents Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 149,
+        "competitor_item_name": "HUGO BOSS Dark Blue",
+        "brand": "HUGO BOSS",
+        "quantity": "75ml",
+        "competitor_description": "EDT spray",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 30.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "reasoning": "The names are identical, the quantities match exactly, and both are described as EDT sprays.",
+        "tags": "name-similar,quantity-exact,desc-similar,brand-match",
+        "similarity_final": 1.0
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 348,
+      "name": "Dsquared 2 Wood EdT 50ml",
+      "item_onboard_name": "Dsquared 2 Wood EdT 50ml",
+      "desc": "Unisex fragrance. Top notes are Lemon, Citron and Pink Pepper. Middle notes are Cedar, Haitian Vetiver, Cypress and Silver Fir. Base notes are Musk and Amber. Launched in 2021.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Gents Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 143,
+        "competitor_item_name": "DSQUARED2 Green Wood",
+        "brand": "DSQUARED2",
+        "quantity": "50ml",
+        "competitor_description": "EDT spray",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 20.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "reasoning": "The names are similar, both are EDT sprays, and the quantities match exactly at 50ml.",
+        "tags": "name-similar,quantity-exact,type-match",
+        "similarity_final": 0.85
+      },
+      {
+        "competitor_item_id": 144,
+        "competitor_item_name": "DSQUARED2 Red Wood",
+        "brand": "DSQUARED2",
+        "quantity": "50ml",
+        "competitor_description": "EDT spray",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 20.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "reasoning": "The names are similar, both are EDT sprays, and the quantities match exactly at 50ml.",
+        "tags": "name-similar,quantity-exact,type-match",
+        "similarity_final": 0.85
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 349,
+      "name": "Dsquared 2 Wood EdT 50ml UK",
+      "item_onboard_name": "Dsquared 2 Wood 50ml EdT",
+      "desc": "Unisex fragrance. Top notes are Lemon, Citron and Pink Pepper. Middle notes are Cedar, Haitian Vetiver, Cypress and Silver Fir. Base notes are Musk and Amber. Launched in 2021.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Gents Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 143,
+        "competitor_item_name": "DSQUARED2 Green Wood",
+        "brand": "DSQUARED2",
+        "quantity": "50ml",
+        "competitor_description": "EDT spray",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 20.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "reasoning": "The names are similar, both are EDT sprays, and the quantities match exactly at 50ml.",
+        "tags": "name-similar,quantity-exact,type-match",
+        "similarity_final": 0.85
+      },
+      {
+        "competitor_item_id": 144,
+        "competitor_item_name": "DSQUARED2 Red Wood",
+        "brand": "DSQUARED2",
+        "quantity": "50ml",
+        "competitor_description": "EDT spray",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 20.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "reasoning": "The names are similar, both are EDT sprays, and the quantities match exactly at 50ml.",
+        "tags": "name-similar,quantity-exact,type-match",
+        "similarity_final": 0.85
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 350,
+      "name": "Versace Eros Energy EdP 50ml",
+      "item_onboard_name": "Versace Eros Energy 50ml.",
+      "desc": "Top notes are Lemon, Lime, Grapefruit, Blood Orange, Sicilian Bergamot and Mandarin Orange. Middle notes are Pink Pepper, White Amber and Black Currant. Base notes are Oakmoss, Musk and Patchouli. Lanuched in 2024.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Gents Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 158,
+        "competitor_item_name": "VERSACE EROS",
+        "brand": "VERSACE",
+        "quantity": "50ml",
+        "competitor_description": "EDT Spray, 50ml",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 60.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 9,
+        "reasoning": "The names are highly similar, both referencing 'Versace Eros' and the same quantity of 50ml. The product type and brand also align.",
+        "tags": "name-similar,brand-match,quantity-exact,type-match",
+        "similarity_final": 0.92
+      },
+      {
+        "competitor_item_id": 169,
+        "competitor_item_name": "VERSACE EROS",
+        "brand": "VERSACE",
+        "quantity": "50ml",
+        "competitor_description": "EDT Spray, 50ml",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 60.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 11,
+        "reasoning": "The names are highly similar, both include 'Versace Eros' and the quantity matches exactly at 50ml. The product type aligns as both are fragrances.",
+        "tags": "name-similar,quantity-exact,type-match",
+        "similarity_final": 0.88
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 352,
+      "name": "Versace Eros Energy EdP 50ml UK",
+      "item_onboard_name": "Versace Eros Energy 50ml",
+      "desc": "Top notes are Lemon, Lime, Grapefruit, Blood Orange, Sicilian Bergamot and Mandarin Orange. Middle notes are Pink Pepper, White Amber and Black Currant. Base notes are Oakmoss, Musk and Patchouli. Lanuched in 2024.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Gents Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 158,
+        "competitor_item_name": "VERSACE EROS",
+        "brand": "VERSACE",
+        "quantity": "50ml",
+        "competitor_description": "EDT Spray, 50ml",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 60.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 9,
+        "reasoning": "The names are highly similar, both referencing 'Versace Eros' and the same quantity of 50ml. The product type and brand also align.",
+        "tags": "name-similar,brand-match,quantity-exact,type-match",
+        "similarity_final": 0.92
+      },
+      {
+        "competitor_item_id": 169,
+        "competitor_item_name": "VERSACE EROS",
+        "brand": "VERSACE",
+        "quantity": "50ml",
+        "competitor_description": "EDT Spray, 50ml",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 60.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 11,
+        "reasoning": "The names are highly similar, both include 'Versace Eros' and the quantity matches exactly at 50ml. The product type aligns as both are fragrances.",
+        "tags": "name-similar,quantity-exact,type-match",
+        "similarity_final": 0.88
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 356,
+      "name": "Banderas Essence of Success EdT 100ml",
+      "item_onboard_name": "Banderas Essence of Success",
+      "desc": "Top notes: Bergamot, Green Apple. Middle notes: Sage, Lavender, Geranium. Base notes: Patchouli, Amber. Launched in 2025.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Gents Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 139,
+        "competitor_item_name": "BANDERAS Essence Of Success",
+        "brand": "BANDERAS",
+        "quantity": "100ml",
+        "competitor_description": "EDT spray",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 20.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "reasoning": "The names are highly similar, the brand matches, and the quantity is identical.",
+        "tags": "name-similar,brand-match,quantity-exact",
+        "similarity_final": 0.95
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 358,
+      "name": "Banderas Essence of Success EdT 100ml UK",
+      "item_onboard_name": "Banderas Essence of Success.",
+      "desc": "Top notes: Bergamot, Green Apple. Middle notes: Sage, Lavender, Geranium. Base notes: Patchouli, Amber. Launched in 2025.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Gents Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 139,
+        "competitor_item_name": "BANDERAS Essence Of Success",
+        "brand": "BANDERAS",
+        "quantity": "100ml",
+        "competitor_description": "EDT spray",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 20.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "reasoning": "The names are highly similar, the brand matches, and the quantity is identical.",
+        "tags": "name-similar,brand-match,quantity-exact",
+        "similarity_final": 0.95
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 415,
+      "name": "Versace Woman",
+      "item_onboard_name": "Versace Woman",
+      "desc": "Versace Woman",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 151,
+        "competitor_item_name": "VERSACE Woman",
+        "brand": "VERSACE",
+        "quantity": "50ml",
+        "competitor_description": "EDP spray",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 30.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "reasoning": "The names are identical, and the product type matches as both are perfumes.",
+        "tags": "name-similar,type-match",
+        "similarity_final": 1.0
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 416,
+      "name": "CK Sheer Beauty 50ml",
+      "item_onboard_name": "CK Sheer Beauty 50ml",
+      "desc": "Top notes are Bellini, Bergamot and Red Berries, middle notes are Peony, Jasmine and Pink Lily, base notes are Musk, Sandalwood and Vanilla. Launched in 2012.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 142,
+        "competitor_item_name": "CALVIN KLEIN Sheer Beauty",
+        "brand": "CALVIN KLEIN",
+        "quantity": "50ml",
+        "competitor_description": "EDT spray",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 20.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "reasoning": "The names are highly similar, the brand matches, and the quantity is identical.",
+        "tags": "name-similar,brand-match,quantity-exact",
+        "similarity_final": 0.95
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 418,
+      "name": "Hugo Boss Ma Vie L'Eau EdT 50ml",
+      "item_onboard_name": "Hugo Boss MaVie L'Eau EdT 50ml",
+      "desc": "Floral fragrance for women ; Inspired by spring, tempting scent ; Top note is Cactus Flower; middle notes are Peony, Magnolia and Pink Rose; base notes are White Musk and Cedar; Launched in 2018",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 152,
+        "competitor_item_name": "BOSS Ma Vie L'Eau",
+        "brand": "BOSS",
+        "quantity": "50ml",
+        "competitor_description": "EDT spray",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 30.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "reasoning": "The names are highly similar, the brand matches, and the quantity is identical.",
+        "tags": "name-similar,brand-match,quantity-exact",
+        "similarity_final": 0.95
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 419,
+      "name": "Carolina Herrera Good Girl EdP 30ml",
+      "item_onboard_name": "CH Good Girl EdP 30ml",
+      "desc": "Sexy, amber floral, oriental fragrance for women. Top notes of Almond and Coffee give way to a heart of exotic Jasmine Sambac and Tuberose. The depth of Cocoa, Tonka Beans, Vanilla, and Sandalwood round off the distinctive base note. Launched in 2016",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 178,
+        "competitor_item_name": "GOOD GIRL",
+        "brand": "CAROLINA HERRERA",
+        "quantity": "30ml",
+        "competitor_description": "EDP Spray, 30ml",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 61.5,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 14,
+        "reasoning": "The names are identical, the brand matches, and the quantity is exact.",
+        "tags": "name-similar,brand-match,quantity-exact",
+        "similarity_final": 1.0
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 420,
+      "name": "Michael Kors Sexy Amber EdP 100ml",
+      "item_onboard_name": "Michael K Sexy Amber",
+      "desc": "Top notes is Amber; Middle notes is Sandalwood; Base notes in Jasmine; Launched in 2013",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 174,
+        "competitor_item_name": "MICHAEL KORS SEXY AMBER",
+        "brand": "Michael Kors",
+        "quantity": "100ml",
+        "competitor_description": "EDP Spray, 100ml",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 40.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 13,
+        "reasoning": "The names are identical, the brand matches, and the quantity is exact.",
+        "tags": "name-similar,brand-match,quantity-exact",
+        "similarity_final": 1.0
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 424,
+      "name": "YSL Libre EdP 30ml",
+      "item_onboard_name": "YSL Libre EdP 30ml",
+      "desc": "A sensual oriental fougere. A fragrance of liberty and freedom and of living by your own rules. Top notes: Mandarin orange, lavender and black currant",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 177,
+        "competitor_item_name": "YVES SAINT LAURENT LIBRE",
+        "brand": "Yves Saint Laurent",
+        "quantity": "30ml",
+        "competitor_description": "EDP Spray, 30ml",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 68.5,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 13,
+        "reasoning": "The names are nearly identical, the brand matches, and the quantity is exact.",
+        "tags": "name-similar,brand-match,quantity-exact",
+        "similarity_final": 1.0
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 427,
+      "name": "Giorgio Armani She EdP 100ml",
+      "item_onboard_name": "Giorgio Armani She EdP 100ml",
+      "desc": "Top notes are Citruses and Pear, Middle notes are Heliotrope, Cardamon, Angelica and Jasmine Base notes are White Musk, Almond, Vanilla, Cedar and Amber, Launched in 2020",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 172,
+        "competitor_item_name": "EMPORIO ARMANI SHE",
+        "brand": "Emporio Armani",
+        "quantity": "100ml",
+        "competitor_description": "EDP Spray, 100ml",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 50.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 12,
+        "reasoning": "The names are highly similar, the brand matches, and the quantity is exact.",
+        "tags": "name-similar,brand-match,quantity-exact",
+        "similarity_final": 0.95
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 429,
+      "name": "Elizabeth Arden 5th Avenue EdP 75 ml",
+      "item_onboard_name": "Elizabeth Arden 5th Avenue EdP",
+      "desc": "Fragrance classification: floral woody musky. Top notes are Petitgrain Sicily, Pink Peppercorn and Sparkling Prosecco Accord. Intricate, elegant and refined. Launched in 2017",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 141,
+        "competitor_item_name": "ELIZABETH ARDEN 5th Avenue NYC Uptown",
+        "brand": "ELIZABETH ARDEN",
+        "quantity": "75ml",
+        "competitor_description": "EDP spray",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 20.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "reasoning": "The names are highly similar, both include 'Elizabeth Arden 5th Avenue', and the quantities match exactly at 75ml.",
+        "tags": "name-similar,brand-match,quantity-exact",
+        "similarity_final": 0.85
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 435,
+      "name": "Dsquared2 Red Wood EdT 50ml",
+      "item_onboard_name": "Dsquared2 Red Wood EdT 50ml",
+      "desc": "Top notes are Cranberry, Pink Pepper; Middle notes are Litchi, Rose, Magnolia; Base notes are Musk, Cedar, Amberwood; Launched in 2019",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 144,
+        "competitor_item_name": "DSQUARED2 Red Wood",
+        "brand": "DSQUARED2",
+        "quantity": "50ml",
+        "competitor_description": "EDT spray",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 20.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "reasoning": "The names are identical, the brand matches, and the quantity is exact.",
+        "tags": "name-similar,brand-match,quantity-exact",
+        "similarity_final": 1.0
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 436,
+      "name": "Michael Kors Wonderlust EdP 50ml",
+      "item_onboard_name": "Michael Kors Wonderlust EdP 50",
+      "desc": "Top notes are Almond Milk, Bergamot, Pink Pepper; Middle notes are Heliotrope, Jasmine Sambac, Carnation; Base notes are Sandalwood, Benzoin, Cashmere Wood; Launched in 2016",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 180,
+        "competitor_item_name": "WONDERLUST",
+        "brand": "MICHAEL KORS",
+        "quantity": "50ml",
+        "competitor_description": "EDP Spray, 50ml",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 60.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 14,
+        "reasoning": "The names are highly similar, the brand matches, and the quantity is identical.",
+        "tags": "name-similar,brand-match,quantity-exact",
+        "similarity_final": 0.92
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 440,
+      "name": "Antonio Banderas The Icon Feminine",
+      "item_onboard_name": "Antonio Banderas The Icon",
+      "desc": "Top notes are Bergamot, Pear, Tangerine and Black Currant, Middle notes are Lavender, Orange Blossom, Freesia, Jasmine and Rose, Base notes are Tonka Bean, Vanilla, Musk and Sandalwood, Launched in 2023",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 148,
+        "competitor_item_name": "BANDERAS The Icon Feminine",
+        "brand": "BANDERAS",
+        "quantity": "100ml",
+        "competitor_description": "EDP spray",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 30.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "reasoning": "The names are identical, and both are EDP sprays with a matching product type.",
+        "tags": "name-similar,brand-match,type-match",
+        "similarity_final": 0.95
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 441,
+      "name": "Jean Paul Gaultier Scandal EdP 30ml",
+      "item_onboard_name": "Jean Paul Gaultier Scandal EdP",
+      "desc": "Top notes are Blood Orange and Mandarin Orange, Middle notes are Honey, Gardenia, Orange Blossom, Jasmine and Peach, Base notes are Beeswax, Caramel, Patchouli and Licorice, Launched in 2017",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 170,
+        "competitor_item_name": "JEAN PAUL GAULTIER SCANDAL POUR HOMME",
+        "brand": "JEAN PAUL GAULTIER",
+        "quantity": "50ml",
+        "competitor_description": "EDT Spray, 50ml",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 70.5,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 11,
+        "reasoning": "The name similarity is strong due to the shared 'Jean Paul Gaultier Scandal' branding, and the product type aligns as both are fragrances.",
+        "tags": "name-similar,brand-match,type-match",
+        "similarity_final": 0.78
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 442,
+      "name": "Lancome Miniature Set",
+      "item_onboard_name": "Lancome Miniature Set",
+      "desc": "Enjoy a delicate combination of all Lancome travel size fragrance scents with La Vie Est Belle, Miracle, Idole, and Tresor. This miniature fragrance set is ideal to bring your favourite Lancome s travel size fragrance with you anywhere.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 176,
+        "competitor_item_name": "LANCÔME TRÉSOR",
+        "brand": "Lancôme",
+        "quantity": "30ml",
+        "competitor_description": "EDP Spray, 30ml",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 40.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 13,
+        "reasoning": "The brand matches as both are Lancôme products, and the product type aligns as both are fragrances.",
+        "tags": "brand-match,type-match",
+        "similarity_final": 0.8
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 443,
+      "name": "Versace Woman UK",
+      "item_onboard_name": "Versace Woman EdP 100ml",
+      "desc": "Top notes: Rose, Jasmine Leaf and Bergamot; Middle notes: Raspberry, Plum, Lotus and Cedar ; Base notes: Musk and Amber; Launched in 2000",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 151,
+        "competitor_item_name": "VERSACE Woman",
+        "brand": "VERSACE",
+        "quantity": "50ml",
+        "competitor_description": "EDP spray",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 30.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "reasoning": "The names are highly similar, and both are EDP sprays of the same product type.",
+        "tags": "name-similar,brand-match,type-match",
+        "similarity_final": 0.92
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 444,
+      "name": "CK Sheer Beauty 50ml UK",
+      "item_onboard_name": "CK Sheer Beauty EdT 50ml",
+      "desc": "Head notes: bergamot, currant, Bellini cocktail; Base notes: sandalwood, vanilla, musk; Heart notes: jasmine, lily, peony; Launched in 2012",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 142,
+        "competitor_item_name": "CALVIN KLEIN Sheer Beauty",
+        "brand": "CALVIN KLEIN",
+        "quantity": "50ml",
+        "competitor_description": "EDT spray",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 20.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "reasoning": "The names are highly similar, both include 'Sheer Beauty' and the brand matches. The quantity is also identical at 50ml.",
+        "tags": "name-similar,brand-match,quantity-exact",
+        "similarity_final": 0.95
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 446,
+      "name": "Hugo Boss Ma Vie LEau EdT 50ml UK",
+      "item_onboard_name": "Hugo Boss Ma Vie L`eau EdT 50m",
+      "desc": "Floral fragrance for women; Inspired by spring, tempting scent; Top note is Cactus Flower; middle notes are Peony, Magnolia and Pink Rose; base notes are White Musk and Cedar; Launched in 2018",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 152,
+        "competitor_item_name": "BOSS Ma Vie L'Eau",
+        "brand": "BOSS",
+        "quantity": "50ml",
+        "competitor_description": "EDT spray",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 30.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "reasoning": "The names are very similar, both include 'Ma Vie L'Eau' and the brand matches. The quantity is also identical at 50ml.",
+        "tags": "name-similar,brand-match,quantity-exact",
+        "similarity_final": 0.92
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 447,
+      "name": "Carolina Herrera Good Girl EdP 30ml UK",
+      "item_onboard_name": "Carolina Herrera Good Girl EdP",
+      "desc": "Sexy, amber floral, oriental fragrance for women;  Top notes of Almond and Coffee give way to a heart of exotic Jasmine Sambac and Tuberose. The depth of Cocoa, Tonka Beans, Vanilla, and Sandalwood round off the distinctive base note.; Launched in 2016",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 178,
+        "competitor_item_name": "GOOD GIRL",
+        "brand": "CAROLINA HERRERA",
+        "quantity": "30ml",
+        "competitor_description": "EDP Spray, 30ml",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 61.5,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 14,
+        "reasoning": "The names are identical, and both are Eau de Parfum with the same quantity of 30ml.",
+        "tags": "name-similar,quantity-exact",
+        "similarity_final": 0.95
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 448,
+      "name": "Michael Kors Sexy Amber EdP 100ml UK",
+      "item_onboard_name": "Michael Kors Sexy Amber EdP",
+      "desc": "Top notes is Amber; Middle notes is Sandalwood; Base notes in Jasmine; Launched in 2013",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 174,
+        "competitor_item_name": "MICHAEL KORS SEXY AMBER",
+        "brand": "Michael Kors",
+        "quantity": "100ml",
+        "competitor_description": "EDP Spray, 100ml",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 40.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 13,
+        "reasoning": "The names are highly similar, the brand matches, and both are Eau de Parfum with the same quantity of 100ml.",
+        "tags": "name-similar,brand-match,quantity-exact",
+        "similarity_final": 0.98
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 449,
+      "name": "Giorgio Armani She EdP 100ml UK",
+      "item_onboard_name": "Giorgio Armani She EdP 100m",
+      "desc": "Top notes are Citruses and Pear; Middle notes are Heliotrope, Cardamon, Angelica and Jasmine; Base notes are White Musk, Almond, Vanilla, Cedar and Amber; Launched in 2020",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 172,
+        "competitor_item_name": "EMPORIO ARMANI SHE",
+        "brand": "Emporio Armani",
+        "quantity": "100ml",
+        "competitor_description": "EDP Spray, 100ml",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 50.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 12,
+        "reasoning": "The names are highly similar, both include 'Armani She', and the quantities match exactly at 100ml.",
+        "tags": "name-similar,quantity-exact",
+        "similarity_final": 0.95
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 453,
+      "name": "Michael Kors Wonderlust EdP 50ml UK",
+      "item_onboard_name": "Michael Kors Wonderlust EdP",
+      "desc": "Top notes are Almond Milk, Bergamot, Pink Pepper; Middle notes are Heliotrope, Jasmine Sambac, Carnation; Base notes are Sandalwood, Benzoin, Cashmere Wood; Launched in 2016",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 180,
+        "competitor_item_name": "WONDERLUST",
+        "brand": "MICHAEL KORS",
+        "quantity": "50ml",
+        "competitor_description": "EDP Spray, 50ml",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 60.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 14,
+        "reasoning": "The names are identical, and the quantities match exactly at 50ml.",
+        "tags": "name-similar,quantity-exact",
+        "similarity_final": 0.92
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 456,
+      "name": "Antonio Banderas The Icon Feminine UK",
+      "item_onboard_name": "Antonio Banderas The Icon Fem",
+      "desc": "Top notes are Bergamot, Pear, Tangerine and Black Currant;  Middle notes are Lavender, Orange Blossom, Freesia, Jasmine and Rose; Base notes are Tonka Bean, Vanilla, Musk and Sandalwood;  Launched in 2023",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 148,
+        "competitor_item_name": "BANDERAS The Icon Feminine",
+        "brand": "BANDERAS",
+        "quantity": "100ml",
+        "competitor_description": "EDP spray",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 30.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "reasoning": "The names are highly similar, and both describe the same product type with matching brand and description alignment.",
+        "tags": "name-similar,brand-match,desc-similar",
+        "similarity_final": 0.95
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 457,
+      "name": "Jean Paul Gaultier Scandal EdP 30ml UK",
+      "item_onboard_name": "JPG Scandal EdP 30ml",
+      "desc": "Top notes are Blood Orange and Mandarin Orange ; Middle notes are Honey, Gardenia, Orange Blossom, Jasmine and Peach; Base notes are Beeswax, Caramel, Patchouli and Licorice; Launched in 2017",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 170,
+        "competitor_item_name": "JEAN PAUL GAULTIER SCANDAL POUR HOMME",
+        "brand": "JEAN PAUL GAULTIER",
+        "quantity": "50ml",
+        "competitor_description": "EDT Spray, 50ml",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 70.5,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 11,
+        "reasoning": "The name similarity is strong due to the shared 'Jean Paul Gaultier Scandal' branding, though the competitor item is for men. The quantity is close.",
+        "tags": "name-similar,brand-match,quantity-close",
+        "similarity_final": 0.76
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 460,
+      "name": "Lancome Tresor EdP 30ml",
+      "item_onboard_name": "Lancome Tresor EdP 30ml",
+      "desc": "Top notes are Peach, Rose, Apricot Blossom, Lilac, Pineapple, Lily-of-the-Valley and Bergamot, middle notes are Rose, Iris, Heliotrope and Jasmine, base notes are Peach, Apricot, Vanilla, Sandalwood, Amber and Musk, Launched in 1990.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 176,
+        "competitor_item_name": "LANCÔME TRÉSOR",
+        "brand": "Lancôme",
+        "quantity": "30ml",
+        "competitor_description": "EDP Spray, 30ml",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 40.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 13,
+        "reasoning": "The names are highly similar, both refer to 'Lancome Tresor', and the quantities match exactly at 30ml.",
+        "tags": "name-similar,quantity-exact",
+        "similarity_final": 0.95
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 462,
+      "name": "Elizabeth Arden 5th Avenue NYC Love",
+      "item_onboard_name": "EA 5th Avenue NYC Love EdP 75m",
+      "desc": "Top notes are Pear and Sicilian Mandarin, middle notes are Freesia, Orange Blossom, Peony and Gardenia, base notes are Patchouli, Musk and Sandalwood, Launched in 2022.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 141,
+        "competitor_item_name": "ELIZABETH ARDEN 5th Avenue NYC Uptown",
+        "brand": "ELIZABETH ARDEN",
+        "quantity": "75ml",
+        "competitor_description": "EDP spray",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 20.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "reasoning": "The names are highly similar, both referencing 'Elizabeth Arden 5th Avenue NYC', and the product types align as EDP sprays with the same quantity of 75ml.",
+        "tags": "name-similar,brand-match,quantity-exact,type-match",
+        "similarity_final": 0.85
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 467,
+      "name": "Lancome Tresor EdP 30ml UK",
+      "item_onboard_name": "Lancome Tresor 30ml EdP",
+      "desc": "Top notes are Peach, Rose, Apricot Blossom, Lilac, Pineapple, Lily-of-the-Valley and Bergamot, middle notes are Rose, Iris, Heliotrope and Jasmine, base notes are Peach, Apricot, Vanilla, Sandalwood, Amber and Musk, Launched in 1990.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 176,
+        "competitor_item_name": "LANCÔME TRÉSOR",
+        "brand": "Lancôme",
+        "quantity": "30ml",
+        "competitor_description": "EDP Spray, 30ml",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 40.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 13,
+        "reasoning": "The names are identical, the product type matches, and the quantity is exact.",
+        "tags": "name-similar,quantity-exact,type-match",
+        "similarity_final": 1.0
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 469,
+      "name": "Elizabeth Arden 5th Avenue NYC Love UK",
+      "item_onboard_name": "EA 5th Avenue NYC Love 75ml",
+      "desc": "Top notes are Pear and Sicilian Mandarin, middle notes are Freesia, Orange Blossom, Peony and Gardenia, base notes are Patchouli, Musk and Sandalwood, Launched in 2022.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 141,
+        "competitor_item_name": "ELIZABETH ARDEN 5th Avenue NYC Uptown",
+        "brand": "ELIZABETH ARDEN",
+        "quantity": "75ml",
+        "competitor_description": "EDP spray",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 20.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "reasoning": "The names are highly similar, both referencing 'Elizabeth Arden 5th Avenue NYC', and the quantities match exactly at 75ml.",
+        "tags": "name-similar,brand-match,quantity-exact",
+        "similarity_final": 0.85
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 473,
+      "name": "Banderas Her Golden Secret EdT 80ml",
+      "item_onboard_name": "Banderas Her Golden Secret EdT",
+      "desc": "Banderas Her Golden Secret EdT 80ml",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 146,
+        "competitor_item_name": "BANDERAS The Golden Secret",
+        "brand": "BANDERAS",
+        "quantity": "100ml",
+        "competitor_description": "EDT spray",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 20.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "reasoning": "The names are very similar, both referencing 'Banderas Golden Secret', and the product type matches as EDT.",
+        "tags": "name-similar,brand-match,type-match",
+        "similarity_final": 0.88
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 475,
+      "name": "Marc Jacobs Daisy Wild EdP 30ml",
+      "item_onboard_name": "Marc Jacobs Daisy Wild EdP 30m",
+      "desc": "Marc Jacobs Daisy Wild EdP 30ml",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 175,
+        "competitor_item_name": "MARC JACOBS DAISY WILD",
+        "brand": "Marc Jacobs",
+        "quantity": "30ml",
+        "competitor_description": "EDP Spray, 30ml",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 59.5,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 13,
+        "reasoning": "The names are identical, the quantities match exactly, and the product type is the same.",
+        "tags": "name-similar,quantity-exact,type-match",
+        "similarity_final": 1.0
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 476,
+      "name": "Banderas Her Golden Secret EdT 80ml UK",
+      "item_onboard_name": "Banderas Her Golden S.EdT UK",
+      "desc": "Banderas Her Golden Secret EdT 80ml UK",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 146,
+        "competitor_item_name": "BANDERAS The Golden Secret",
+        "brand": "BANDERAS",
+        "quantity": "100ml",
+        "competitor_description": "EDT spray",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 20.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "reasoning": "The names are highly similar, both include 'Golden Secret', and the brand matches exactly.",
+        "tags": "name-similar,brand-match",
+        "similarity_final": 0.85
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 478,
+      "name": "Marc Jacobs Daisy Wild EdP 30ml UK",
+      "item_onboard_name": "Marc Jacobs Daisy Wild EdP UK",
+      "desc": "Top note is Banana Flower, middle notes are Jasmine and Macadamia, base notes are Vetiver and Sandalwood. Launched in 2024.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 175,
+        "competitor_item_name": "MARC JACOBS DAISY WILD",
+        "brand": "Marc Jacobs",
+        "quantity": "30ml",
+        "competitor_description": "EDP Spray, 30ml",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 59.5,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 13,
+        "reasoning": "The names are identical, the quantities match exactly, and the product type is the same.",
+        "tags": "name-similar,quantity-exact,type-match",
+        "similarity_final": 1.0
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 483,
+      "name": "Versace Woman EdP 50ml",
+      "item_onboard_name": "Versace Woman EdP 50ml",
+      "desc": "Top notes are Rose, Jasmine Leaf and Bergamot. Middle notes are Raspberry, Plum, Lotus and Cedar. Base notes are Musk and Amber. Launched in 2000.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 151,
+        "competitor_item_name": "VERSACE Woman",
+        "brand": "VERSACE",
+        "quantity": "50ml",
+        "competitor_description": "EDP spray",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 30.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "reasoning": "The names are identical, the product type matches as both are EDP, and the quantity is exactly the same at 50ml.",
+        "tags": "name-similar,quantity-exact,type-match",
+        "similarity_final": 1.0
+      },
+      {
+        "competitor_item_id": 169,
+        "competitor_item_name": "VERSACE EROS",
+        "brand": "VERSACE",
+        "quantity": "50ml",
+        "competitor_description": "EDT Spray, 50ml",
+        "parent_category": "Boutique",
+        "sales_category": "Gents Fragrance",
+        "price": 60.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 11,
+        "reasoning": "The brand matches (Versace), and the quantity is identical at 50ml. Both are perfumes, though the names and descriptions differ.",
+        "tags": "brand-match,quantity-exact,type-match",
+        "similarity_final": 0.78
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 484,
+      "name": "Valentino Valentina EdP 50ml",
+      "item_onboard_name": "Valentino Valentina 50ml",
+      "desc": "Top notes are Strawberry and Bergamot. Middle notes are Jasmine Sambac and Patchouli. Base notes are Vanilla and Cedar Essence. Launched in 2025.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 171,
+        "competitor_item_name": "VALENTINO VALENTINA",
+        "brand": "Valentino",
+        "quantity": "50ml",
+        "competitor_description": "EDP Spray, 50ml",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 50.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 12,
+        "reasoning": "The names are nearly identical, the brand matches, and the quantity is exact at 50ml.",
+        "tags": "name-similar,brand-match,quantity-exact",
+        "similarity_final": 0.98
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 487,
+      "name": "Versace Woman EdP 50ml UK",
+      "item_onboard_name": "Versace Woman 50ml EdP",
+      "desc": "Top notes are Rose, Jasmine Leaf and Bergamot. Middle notes are Raspberry, Plum, Lotus and Cedar. Base notes are Musk and Amber. Launched in 2000.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 151,
+        "competitor_item_name": "VERSACE Woman",
+        "brand": "VERSACE",
+        "quantity": "50ml",
+        "competitor_description": "EDP spray",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 30.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "reasoning": "The names are identical, the product type matches as both are EdP, and the quantity is exact at 50ml.",
+        "tags": "name-similar,quantity-exact,type-match",
+        "similarity_final": 1.0
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 488,
+      "name": "Valentino Valentina EdP 50ml UK",
+      "item_onboard_name": "Valentino Valentina 50ml EdP",
+      "desc": "Top notes are Strawberry and Bergamot. Middle notes are Jasmine Sambac and Patchouli. Base notes are Vanilla and Cedar Essence. Launched in 2025.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 171,
+        "competitor_item_name": "VALENTINO VALENTINA",
+        "brand": "Valentino",
+        "quantity": "50ml",
+        "competitor_description": "EDP Spray, 50ml",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 50.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 12,
+        "reasoning": "The names are nearly identical, the brand matches, and the quantity is exact at 50ml.",
+        "tags": "name-similar,brand-match,quantity-exact",
+        "similarity_final": 0.98
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 490,
+      "name": "Michael Kors Gorgeous EdP 50ml UK",
+      "item_onboard_name": "Michael Kors Gorgeous 50ml EdP",
+      "desc": "Top notes are Pink Pepper and Mandarin Orange. Middle notes are Tuberose, Jasmine Sambac, Orange Blossom, Tobacco and Ylang-Ylang. Base notes are Tonka Bean, Guaiac Wood, Cedar, Cashmeran, Benzoin, Suede and Styrax. Launched in 2021.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 180,
+        "competitor_item_name": "WONDERLUST",
+        "brand": "MICHAEL KORS",
+        "quantity": "50ml",
+        "competitor_description": "EDP Spray, 50ml",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 60.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 14,
+        "reasoning": "The competitor item matches on brand (Michael Kors) and has a similar product type (EdP) with a close quantity of 50ml.",
+        "tags": "brand-match,type-match,quantity-exact",
+        "similarity_final": 0.78
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 492,
+      "name": "Replay Green On Me for woman EdT 100ml UK",
+      "item_onboard_name": "Replay Green On Me EdT",
+      "desc": "Top notes are Bergamot, Mandarin and Ivy. Middle notes are Heliotrope, Orange Blossom and Green Apple. Base notes are Sandalwood, Patchouli and Vanilla. Launched in 2024.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 172,
+        "competitor_item_name": "EMPORIO ARMANI SHE",
+        "brand": "Emporio Armani",
+        "quantity": "100ml",
+        "competitor_description": "EDP Spray, 100ml",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 50.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 12,
+        "reasoning": "The competitor item has a similar product type (EdT) and an exact quantity match of 100ml.",
+        "tags": "type-match,quantity-exact",
+        "similarity_final": 0.76
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 496,
+      "name": "Viktor&Rolf Flowerbomb EdP 20ml",
+      "item_onboard_name": "Viktor&Rolf Flowerbomb EdP",
+      "desc": "Top notes: Tea, Bergamot and Osmanthus. Middle notes are Orchid, Jasmine, Rose, Freesia and African Orange Flower. Base notes are Patchouli, Musk and Vanilla. Launched in 2005.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 150,
+        "competitor_item_name": "VIKTOR & ROLF Flowerbomb",
+        "brand": "VIKTOR & ROLF",
+        "quantity": "20ml",
+        "competitor_description": "EDP spray",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 30.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "reasoning": "The names are identical, the product type matches as both are EDP, and the quantity is exact at 20ml.",
+        "tags": "name-similar,quantity-exact,type-match",
+        "similarity_final": 1.0
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 499,
+      "name": "YSL Libre EdP 30ml UK",
+      "item_onboard_name": "YSL Libre 30ml EdP",
+      "desc": "Top notes: Lavender, Mandarin Orange, Black Currant and Petitgrain. Middle notes: Lavender, Orange Blossom and Jasmine. Base notes: Madagascar Vanilla, Musk, Cedar and Ambergris. Launched in 2019.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 177,
+        "competitor_item_name": "YVES SAINT LAURENT LIBRE",
+        "brand": "Yves Saint Laurent",
+        "quantity": "30ml",
+        "competitor_description": "EDP Spray, 30ml",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 68.5,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 13,
+        "reasoning": "The names are identical after normalization, the brand matches, and the quantity is exact.",
+        "tags": "name-similar,brand-match,quantity-exact",
+        "similarity_final": 1.0
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 500,
+      "name": "Elizabeth Arden 5th Avenue EdP 75 ml UK",
+      "item_onboard_name": "Elizabeth Arden 5th Ave. 75ml",
+      "desc": "Top notes are Petitgrain Sicily, Pink Peppercorn and Sparkling Prosecco Accord. Intricate, elegant and refined. Launched in 2017",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 141,
+        "competitor_item_name": "ELIZABETH ARDEN 5th Avenue NYC Uptown",
+        "brand": "ELIZABETH ARDEN",
+        "quantity": "75ml",
+        "competitor_description": "EDP spray",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 20.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "reasoning": "The names are highly similar, both include 'Elizabeth Arden 5th Avenue', and the quantities match exactly at 75ml.",
+        "tags": "name-similar,quantity-exact",
+        "similarity_final": 0.85
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 503,
+      "name": "Viktor&Rolf Flowerbomb EdP 20ml UK",
+      "item_onboard_name": "Viktor&Rolf Flowerbomb 20ml",
+      "desc": "Top notes: Tea, Bergamot and Osmanthus. Middle notes are Orchid, Jasmine, Rose, Freesia and African Orange Flower. Base notes are Patchouli, Musk and Vanilla. Launched in 2005.",
+      "parent_category": "2.Boutique",
+      "sales_category": "Ladies Fragrance"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 150,
+        "competitor_item_name": "VIKTOR & ROLF Flowerbomb",
+        "brand": "VIKTOR & ROLF",
+        "quantity": "20ml",
+        "competitor_description": "EDP spray",
+        "parent_category": "Boutique",
+        "sales_category": "Ladies Fragrance",
+        "price": 30.0,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "reasoning": "The names are identical, the brand matches, and the quantities are exactly the same at 20ml.",
+        "tags": "name-similar,brand-match,quantity-exact",
+        "similarity_final": 0.95
+      }
+    ]
+  }
+]

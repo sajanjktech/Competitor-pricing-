@@ -3,6 +3,7 @@ def build_final_results(llm_results, gg_items, comp_items):
         g.item_row_id: {
             "id": g.item_row_id,
             "name": g.item_name,
+            "item_onboard_name": getattr(g, "item_onboard_name", None),
             "desc": g.item_description,
             "parent_category": getattr(g, "item_parent_sales_category_name", None),
             "sales_category": getattr(g, "item_sales_category_name", None)

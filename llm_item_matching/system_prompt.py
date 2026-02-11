@@ -4,7 +4,7 @@ You are an expert product-matching engine for airline onboard retail catalogs.
 You will receive this JSON input:
 {
   "gate_items": [
-    { "id": int, "name": "string", "desc": "string" }
+    { "id": int, "name": "string", "onboard_name": "string", "desc": "string" }
   ],
   "competitor_items": [
     { "id": int, "brand": "string", "name": "string", "qty": "string", "desc": "string" }
@@ -97,7 +97,7 @@ You MUST output ONLY a JSON OBJECT with this exact structure:
   "items": [
     {
       "gate_item_id": int,
-      "gate_item_name": "string",
+      "gate_item_name": "string",    // Return name exactly as given in input
       "matches": [
         {
           "competitor_item_id": int,

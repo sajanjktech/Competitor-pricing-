@@ -1,0 +1,462 @@
+[
+  {
+    "gate_item": {
+      "id": 228,
+      "name": "Premium Pretzel Sandwich",
+      "item_onboard_name": "Pretzel Sandwich",
+      "desc": "Can t choose between cheese and salami? We have the best option for you, Half cheese half salami on a lye sesame pretzel with herb spread.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Fresh Food"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 13,
+        "competitor_item_name": "LAUGENECKE TRUTHAHNSALAMI",
+        "brand": null,
+        "quantity": "160 g",
+        "competitor_description": "Pretzel corner with turkey salami, slightly spicy Spanish salsa, cream cheese, orange and yellow carrots, and crisp romaine lettuce (160 g).",
+        "parent_category": "Cafe",
+        "sales_category": "Fresh Food",
+        "price": 5.9,
+        "currency": "EUR",
+        "competitor_name": "Eurowings",
+        "catalog_name": "Eurowings_Bistro_Winter_2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "reasoning": "The name and description both indicate a pretzel-based sandwich with turkey salami, aligning closely with the gate item.",
+        "tags": "name-similar,desc-similar,type-match",
+        "similarity_final": 0.85
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 230,
+      "name": "Italian Ciabatta Sandwich",
+      "item_onboard_name": "Italian Ciabatta Sandwich",
+      "desc": "Pistachio Mortadella, steamed spinach, tomato-basil butter cream and Italian tomato sauce on a ciabatta bread. The Mortadella contains pork",
+      "parent_category": "1.Cafe",
+      "sales_category": "Fresh Food"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 10,
+        "competitor_item_name": "Panini Caprese",
+        "brand": null,
+        "quantity": "170 g",
+        "competitor_description": "Ciabatta bread with creamy mozzarella, cherry tomato slices, pesto rosso spread, and velvety basil butter (170 g).",
+        "parent_category": "Cafe",
+        "sales_category": "Fresh Food",
+        "price": 5.9,
+        "currency": "EUR",
+        "competitor_name": "Eurowings",
+        "catalog_name": "Eurowings_Bistro_Winter_2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 6,
+        "reasoning": "Both items are ciabatta-based sandwiches with Italian-style ingredients, including tomato and basil spreads.",
+        "tags": "desc-similar,type-match",
+        "similarity_final": 0.78
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 232,
+      "name": "Turkey & Cheese Lye Baguette",
+      "item_onboard_name": "Turkey & Cheese Lye Baguette",
+      "desc": "Turkey breast slices, Gouda cheese, 1000 Island dressing & pickles on a lye baguette",
+      "parent_category": "1.Cafe",
+      "sales_category": "Fresh Food"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 13,
+        "competitor_item_name": "LAUGENECKE TRUTHAHNSALAMI",
+        "brand": null,
+        "quantity": "160 g",
+        "competitor_description": "Pretzel corner with turkey salami, slightly spicy Spanish salsa, cream cheese, orange and yellow carrots, and crisp romaine lettuce (160 g).",
+        "parent_category": "Cafe",
+        "sales_category": "Fresh Food",
+        "price": 5.9,
+        "currency": "EUR",
+        "competitor_name": "Eurowings",
+        "catalog_name": "Eurowings_Bistro_Winter_2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "reasoning": "Both items feature turkey-based ingredients and are served on pretzel-style bread, with similar flavor profiles.",
+        "tags": "name-similar,desc-similar,type-match,language-normalized",
+        "similarity_final": 0.8
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 237,
+      "name": "Croissant Meat Sandwich UK",
+      "item_onboard_name": "Croissant Meat Sandwich 150g",
+      "desc": "Try our Croissant sandwich with turkey salami, smoked turkey slice, grilled vegetables and basil butter cream. The sandwich is pork-free.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Fresh Food"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 13,
+        "competitor_item_name": "LAUGENECKE TRUTHAHNSALAMI",
+        "brand": null,
+        "quantity": "160 g",
+        "competitor_description": "Pretzel corner with turkey salami, slightly spicy Spanish salsa, cream cheese, orange and yellow carrots, and crisp romaine lettuce (160 g).",
+        "parent_category": "Cafe",
+        "sales_category": "Fresh Food",
+        "price": 5.9,
+        "currency": "EUR",
+        "competitor_name": "Eurowings",
+        "catalog_name": "Eurowings_Bistro_Winter_2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "reasoning": "Both items feature turkey salami and similar sandwich-style compositions, with complementary ingredients like vegetables and cream-based spreads.",
+        "tags": "name-similar,desc-similar,type-match",
+        "similarity_final": 0.81
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 245,
+      "name": "Double Meat Croissant Sandwich",
+      "item_onboard_name": "Double Meat Croissant Sandwich",
+      "desc": "Turkey ham and turkey salami with red pesto basil mayonnaise and leafy spinach on a croissant bread.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Fresh Food"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 13,
+        "competitor_item_name": "LAUGENECKE TRUTHAHNSALAMI",
+        "brand": null,
+        "quantity": "160 g",
+        "competitor_description": "Pretzel corner with turkey salami, slightly spicy Spanish salsa, cream cheese, orange and yellow carrots, and crisp romaine lettuce (160 g).",
+        "parent_category": "Cafe",
+        "sales_category": "Fresh Food",
+        "price": 5.9,
+        "currency": "EUR",
+        "competitor_name": "Eurowings",
+        "catalog_name": "Eurowings_Bistro_Winter_2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "reasoning": "Both items feature turkey salami and a bread base, with complementary ingredients like pesto and leafy greens.",
+        "tags": "name-similar,desc-similar,type-match",
+        "similarity_final": 0.78
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 246,
+      "name": "Ham & Cheese Baguette",
+      "item_onboard_name": "Ham & Cheese Baguette",
+      "desc": "Rye seeded baguette, turkey breast with ham and Trappist cheese, natural butter cream, Italian tomato chutney, steamed leafy spinach.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Fresh Food"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 51,
+        "competitor_item_name": "Ham & Cheese Toastie",
+        "brand": null,
+        "quantity": null,
+        "competitor_description": "Full-flavoured ham hock with mature cheddar cheese, served in toasted, cheese-topped sourdough bread.",
+        "parent_category": "Cafe",
+        "sales_category": "Fresh Food",
+        "price": 5.2,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 2,
+        "reasoning": "Both items are ham and cheese-based, with similar bread types and complementary ingredients.",
+        "tags": "name-similar,desc-similar,type-match",
+        "similarity_final": 0.8
+      },
+      {
+        "competitor_item_id": 257,
+        "competitor_item_name": "Hot Ham & Cheese Panini",
+        "brand": null,
+        "quantity": null,
+        "competitor_description": "Warm ciabatta bread with melted cheddar cheese and cooked ham",
+        "parent_category": "Cafe",
+        "sales_category": "Fresh Food",
+        "price": 6.75,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 26,
+        "reasoning": "The names and descriptions both indicate a ham and cheese sandwich product, and the product types align closely.",
+        "tags": "name-similar,desc-similar,type-match",
+        "similarity_final": 0.78
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 251,
+      "name": "Ham & Cheese Panini UK",
+      "item_onboard_name": "Ham & Cheese Panini",
+      "desc": "Ham & Cheese Panini UK",
+      "parent_category": "1.Cafe",
+      "sales_category": "Fresh Food"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 257,
+        "competitor_item_name": "Hot Ham & Cheese Panini",
+        "brand": null,
+        "quantity": null,
+        "competitor_description": "Warm ciabatta bread with melted cheddar cheese and cooked ham",
+        "parent_category": "Cafe",
+        "sales_category": "Fresh Food",
+        "price": 6.75,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 26,
+        "reasoning": "The names are highly similar, and both describe a panini with ham and cheese as the main ingredients.",
+        "tags": "name-similar,desc-similar,type-match",
+        "similarity_final": 0.85
+      },
+      {
+        "competitor_item_id": 51,
+        "competitor_item_name": "Ham & Cheese Toastie",
+        "brand": null,
+        "quantity": null,
+        "competitor_description": "Full-flavoured ham hock with mature cheddar cheese, served in toasted, cheese-topped sourdough bread.",
+        "parent_category": "Cafe",
+        "sales_category": "Fresh Food",
+        "price": 5.2,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 2,
+        "reasoning": "The names are similar, both include ham and cheese as key ingredients, and the product types align as toasted bread items.",
+        "tags": "name-similar,type-match",
+        "similarity_final": 0.78
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 253,
+      "name": "Dairy Free Turkey Ham Baguette",
+      "item_onboard_name": "Dairy Free Turkey Ham Baguette",
+      "desc": "Rye seedy baguette with Turkey breast ham, mayonnaise with coarse pepper, Italian tomato chutney and steamed leafy spinach. This sandwich is produced without any dairy product (there is no cheese in it).",
+      "parent_category": "1.Cafe",
+      "sales_category": "Fresh Food"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 13,
+        "competitor_item_name": "LAUGENECKE TRUTHAHNSALAMI",
+        "brand": null,
+        "quantity": "160 g",
+        "competitor_description": "Pretzel corner with turkey salami, slightly spicy Spanish salsa, cream cheese, orange and yellow carrots, and crisp romaine lettuce (160 g).",
+        "parent_category": "Cafe",
+        "sales_category": "Fresh Food",
+        "price": 5.9,
+        "currency": "EUR",
+        "competitor_name": "Eurowings",
+        "catalog_name": "Eurowings_Bistro_Winter_2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "reasoning": "The competitor item contains turkey salami and similar sandwich ingredients like lettuce and salsa, aligning with the turkey ham and vegetable profile of the gate item.",
+        "tags": "name-similar,desc-similar,type-match",
+        "similarity_final": 0.78
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 817,
+      "name": "Ham Hock & Smoked Cheddar Sandwich UK",
+      "item_onboard_name": "Ham Hock&Smoked Cheddar Sandw.",
+      "desc": "Applewood smoked Cheddar, ham hock and free range mayonnaise on malted bread.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Fresh Food"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 51,
+        "competitor_item_name": "Ham & Cheese Toastie",
+        "brand": null,
+        "quantity": null,
+        "competitor_description": "Full-flavoured ham hock with mature cheddar cheese, served in toasted, cheese-topped sourdough bread.",
+        "parent_category": "Cafe",
+        "sales_category": "Fresh Food",
+        "price": 5.2,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 2,
+        "reasoning": "Both items feature ham and cheddar cheese as primary ingredients, with similar preparation styles involving bread.",
+        "tags": "name-similar,desc-similar,type-match",
+        "similarity_final": 0.8
+      },
+      {
+        "competitor_item_id": 257,
+        "competitor_item_name": "Hot Ham & Cheese Panini",
+        "brand": null,
+        "quantity": null,
+        "competitor_description": "Warm ciabatta bread with melted cheddar cheese and cooked ham",
+        "parent_category": "Cafe",
+        "sales_category": "Fresh Food",
+        "price": 6.75,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 26,
+        "reasoning": "The names indicate similar ingredients (ham and cheese), and the descriptions align on the presence of ham and cheese in a bread-based product.",
+        "tags": "name-similar,desc-similar,type-match",
+        "similarity_final": 0.78
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 818,
+      "name": "Cheddar Ploughmans Sandwich UK",
+      "item_onboard_name": "Cheddar Ploughmans Sandwich",
+      "desc": "Barber's mature Cheddar cheese with onion mayonnaise, sliced tomatoes, seasonal leaves & sweet pickle on malted bread.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Fresh Food"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 48,
+        "competitor_item_name": "Cheese Ploughman’s Roll",
+        "brand": null,
+        "quantity": null,
+        "competitor_description": "Mature cheddar cheese ploughman’s with Branston Pickle on tiger bread.",
+        "parent_category": "Cafe",
+        "sales_category": "Fresh Food",
+        "price": 5.0,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 2,
+        "reasoning": "The competitor item matches closely in name and description, featuring mature cheddar cheese and pickle, which are key components of the gate item.",
+        "tags": "name-similar,desc-similar,type-match",
+        "similarity_final": 0.85
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 841,
+      "name": "Ham & Emmental Ciabatta",
+      "item_onboard_name": "Ham & Emmental Ciabatta",
+      "desc": "Cheesy ciabatta with ham and Emmental.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Fresh Food"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 257,
+        "competitor_item_name": "Hot Ham & Cheese Panini",
+        "brand": null,
+        "quantity": null,
+        "competitor_description": "Warm ciabatta bread with melted cheddar cheese and cooked ham",
+        "parent_category": "Cafe",
+        "sales_category": "Fresh Food",
+        "price": 6.75,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 26,
+        "reasoning": "The names indicate similar products with ham and cheese, and both descriptions align on the presence of ham and melted cheese in bread.",
+        "tags": "name-similar,desc-similar,type-match",
+        "similarity_final": 0.8
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 842,
+      "name": "Turkey Salami & Edam Delight",
+      "item_onboard_name": "Turkey Salami & Edam Delight",
+      "desc": "Lye baguette with turkey salami, Edam cheese, parsley and garlic butter cream.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Fresh Food"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 13,
+        "competitor_item_name": "LAUGENECKE TRUTHAHNSALAMI",
+        "brand": null,
+        "quantity": "160 g",
+        "competitor_description": "Pretzel corner with turkey salami, slightly spicy Spanish salsa, cream cheese, orange and yellow carrots, and crisp romaine lettuce (160 g).",
+        "parent_category": "Cafe",
+        "sales_category": "Fresh Food",
+        "price": 5.9,
+        "currency": "EUR",
+        "competitor_name": "Eurowings",
+        "catalog_name": "Eurowings_Bistro_Winter_2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "reasoning": "Both items feature turkey salami and a similar bread type (pretzel/lye). Descriptions align in product type and ingredients.",
+        "tags": "name-similar,desc-similar,type-match",
+        "similarity_final": 0.81
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 853,
+      "name": "Turkey Salami & Edam Delight UK",
+      "item_onboard_name": "Turkey Salami Edam Delight",
+      "desc": "Lye baguette with turkey salami, Edam cheese, parsley and garlic butter cream.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Fresh Food"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 13,
+        "competitor_item_name": "LAUGENECKE TRUTHAHNSALAMI",
+        "brand": null,
+        "quantity": "160 g",
+        "competitor_description": "Pretzel corner with turkey salami, slightly spicy Spanish salsa, cream cheese, orange and yellow carrots, and crisp romaine lettuce (160 g).",
+        "parent_category": "Cafe",
+        "sales_category": "Fresh Food",
+        "price": 5.9,
+        "currency": "EUR",
+        "competitor_name": "Eurowings",
+        "catalog_name": "Eurowings_Bistro_Winter_2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 7,
+        "reasoning": "The names both reference turkey salami, and the descriptions align with similar ingredients like turkey salami and cream-based spreads.",
+        "tags": "name-similar,desc-similar,type-match",
+        "similarity_final": 0.87
+      }
+    ]
+  }
+]

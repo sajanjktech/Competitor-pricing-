@@ -1,5 +1,5 @@
 # category_runner.py
-
+import os
 import json
 from db_loader import load_gate_group_items, load_competitor_items
 from llm_matcher import match_all_items_llm
@@ -10,11 +10,11 @@ from result_builder import build_final_results
 # Each entry maps: visible label → list of categories in DB
 # ---------------------------------------------------------
 CATEGORY_GROUPS = {
-    # "Alcohol_DFSpirits": ["Alcohol", "DF Spirits"],
+    "Alcohol_DFSpirits": ["Alcohol", "DF Spirits"]
 
     # "Fragrance": ["Ladies Fragrance", "Gents Fragrance"],
 
-    "Snacks": ["Sweet Snacks", "Savoury Snacks"]
+    # "Snacks": ["Sweet Snacks", "Savoury Snacks"],
 
     # "Drinks": ["Cold Drink", "Hot Drink"],
 
@@ -30,6 +30,9 @@ CATEGORY_GROUPS = {
 
     # "Tickets_Logo": ["Tickets", "Logo"]
 }
+
+
+os.makedirs("llm_mapping_output_json", exist_ok=True)
 
 # ---------------------------------------------------------
 # CATEGORY FILTER HELPERS
@@ -80,7 +83,7 @@ def run_category_matching():
         print("➡ Building final enriched results...")
         final_result = build_final_results(llm_raw, gg, comp)
 
-        output_path = f"llm_results_{group_name}.json"
+        output_path = f"llm_mapping_output_json/llm_results_{group_name}.json"
         with open(output_path, "w", encoding="utf-8") as f:
             json.dump(final_result, f, indent=2, ensure_ascii=False)
 

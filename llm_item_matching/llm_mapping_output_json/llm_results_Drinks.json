@@ -1,0 +1,2740 @@
+[
+  {
+    "gate_item": {
+      "id": 167,
+      "name": "Mineral Water Still",
+      "item_onboard_name": "Water Still",
+      "desc": "Sparkling or still? Stay hydrated and ask for a Natur Aqua mineral water! It is bottled in Zalaszentgrot, where the water also comes from. The pleasant taste of the Natur Aqua mineral waters comes from its unique mineral composition, obtained from a depth of 685 meters and filtered for 14,000 years.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Cold Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 19,
+        "competitor_item_name": "VÖSLAUER MINERALWASSER MEDIUM / STILL",
+        "brand": "Vöslauer",
+        "quantity": "500 ML",
+        "competitor_description": "Mineral Water Medium Sparkling / Still",
+        "parent_category": "Cafe",
+        "sales_category": "Cold Drink",
+        "price": 3.3,
+        "currency": "EUR",
+        "competitor_name": "Eurowings",
+        "catalog_name": "Eurowings_Bistro_Winter_2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 10,
+        "reasoning": "The names are highly similar, both explicitly mention 'Still' mineral water, and the product types align.",
+        "tags": "name-similar,type-match",
+        "similarity_final": 0.92
+      },
+      {
+        "competitor_item_id": 95,
+        "competitor_item_name": "Harrogate Spring Water",
+        "brand": "Harrogate",
+        "quantity": "330ml",
+        "competitor_description": "Still / Sparkling",
+        "parent_category": "Cafe",
+        "sales_category": "Cold Drink",
+        "price": 2.1,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 10,
+        "reasoning": "Both items are still mineral water, and the description 'Still / Sparkling' aligns with the gate item's description.",
+        "tags": "name-similar,desc-similar,type-match",
+        "similarity_final": 0.85
+      },
+      {
+        "competitor_item_id": 221,
+        "competitor_item_name": "San Benedetto Still Water",
+        "brand": null,
+        "quantity": "500ml",
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Cold Drink",
+        "price": 3.5,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 21,
+        "reasoning": "Both items are still water, and the product type matches closely.",
+        "tags": "name-similar,type-match",
+        "similarity_final": 0.8
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 168,
+      "name": "Mineral Water Sparkling",
+      "item_onboard_name": "Water Sparkling",
+      "desc": "Sparkling or still? Stay hydrated and ask for a Natur Aqua mineral water! It is bottled in Zalaszentgrot, where the water also comes from. The pleasant taste of the Natur Aqua mineral waters comes from its unique mineral composition, obtained from a depth of 685 meters and filtered for 14,000 years.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Cold Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 19,
+        "competitor_item_name": "VÖSLAUER MINERALWASSER MEDIUM / STILL",
+        "brand": "Vöslauer",
+        "quantity": "500 ML",
+        "competitor_description": "Mineral Water Medium Sparkling / Still",
+        "parent_category": "Cafe",
+        "sales_category": "Cold Drink",
+        "price": 3.3,
+        "currency": "EUR",
+        "competitor_name": "Eurowings",
+        "catalog_name": "Eurowings_Bistro_Winter_2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 10,
+        "reasoning": "The names are similar, and the product type matches as both include sparkling mineral water.",
+        "tags": "name-similar,type-match",
+        "similarity_final": 0.88
+      },
+      {
+        "competitor_item_id": 95,
+        "competitor_item_name": "Harrogate Spring Water",
+        "brand": "Harrogate",
+        "quantity": "330ml",
+        "competitor_description": "Still / Sparkling",
+        "parent_category": "Cafe",
+        "sales_category": "Cold Drink",
+        "price": 2.1,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 10,
+        "reasoning": "Both items are sparkling mineral water, and the description 'Still / Sparkling' aligns with the gate item's description.",
+        "tags": "name-similar,desc-similar,type-match",
+        "similarity_final": 0.85
+      },
+      {
+        "competitor_item_id": 222,
+        "competitor_item_name": "San Benedetto Sparkling Water",
+        "brand": null,
+        "quantity": "500ml",
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Cold Drink",
+        "price": 3.5,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 21,
+        "reasoning": "The names indicate both are sparkling mineral waters, and the quantity is close (500ml vs unspecified).",
+        "tags": "name-similar,quantity-close,type-match",
+        "similarity_final": 0.78
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 169,
+      "name": "Cappy Apple Juice",
+      "item_onboard_name": "Apple Juice",
+      "desc": "Apple Juice",
+      "parent_category": "1.Cafe",
+      "sales_category": "Cold Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 18,
+        "competitor_item_name": "HOCHWALD APFELSCHORLE",
+        "brand": "Hochwald",
+        "quantity": "500 ML",
+        "competitor_description": "Apple Spritzer",
+        "parent_category": "Cafe",
+        "sales_category": "Cold Drink",
+        "price": 3.9,
+        "currency": "EUR",
+        "competitor_name": "Eurowings",
+        "catalog_name": "Eurowings_Bistro_Winter_2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 10,
+        "reasoning": "The names and descriptions indicate both are apple-based beverages, and the product types align.",
+        "tags": "name-similar,desc-similar,type-match",
+        "similarity_final": 0.8
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 172,
+      "name": "Cappy Orange Juice",
+      "item_onboard_name": "Cappy Orange Juice",
+      "desc": "Get a Cappy 100% orange juice full of the goodness from high quality fruits. A great drink to start your day as part of a nourishing breakfast, which is the most important meal of the day. Fill your glass and the glasses of your loved ones with Cappy and watch the goodness spread.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Cold Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 20,
+        "competitor_item_name": "RAUCH ORANGENSAFT / TOMATENSAFT",
+        "brand": "Rauch",
+        "quantity": "200 ML",
+        "competitor_description": "Orange Juice / Tomato Juice",
+        "parent_category": "Cafe",
+        "sales_category": "Cold Drink",
+        "price": 3.5,
+        "currency": "EUR",
+        "competitor_name": "Eurowings",
+        "catalog_name": "Eurowings_Bistro_Winter_2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 10,
+        "reasoning": "The competitor item matches due to name similarity ('Orange Juice' in both) and product type alignment as both are orange juices.",
+        "tags": "name-similar,type-match",
+        "similarity_final": 0.85
+      },
+      {
+        "competitor_item_id": 103,
+        "competitor_item_name": "Tropicana Smooth Orange Juice",
+        "brand": "Tropicana",
+        "quantity": "250ml",
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Cold Drink",
+        "price": 2.85,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 10,
+        "reasoning": "Both items are orange juices with a focus on quality and natural goodness. The names are highly similar, and the product types match.",
+        "tags": "name-similar,type-match",
+        "similarity_final": 0.85
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 173,
+      "name": "Coca-Cola",
+      "item_onboard_name": "Coca-Cola",
+      "desc": "The best way to refresh when you are thirsty is to get a Coca-Cola cold drink, delicious taste in a cane, Experience joy on board and open happiness!",
+      "parent_category": "1.Cafe",
+      "sales_category": "Cold Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 93,
+        "competitor_item_name": "Coca-Cola",
+        "brand": "Coca-Cola",
+        "quantity": "330ml",
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Cold Drink",
+        "price": 2.85,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 10,
+        "reasoning": "The names are identical, and both represent the same product type with matching brand.",
+        "tags": "name-similar,brand-match,type-match",
+        "similarity_final": 0.95
+      },
+      {
+        "competitor_item_id": 17,
+        "competitor_item_name": "COCA-COLA / COCA-COLA ZERO",
+        "brand": "Coca-Cola",
+        "quantity": "330 ML",
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Cold Drink",
+        "price": 3.5,
+        "currency": "EUR",
+        "competitor_name": "Eurowings",
+        "catalog_name": "Eurowings_Bistro_Winter_2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 10,
+        "reasoning": "The competitor item matches due to name similarity ('Coca-Cola' in both) and brand match.",
+        "tags": "name-similar,brand-match",
+        "similarity_final": 0.9
+      },
+      {
+        "competitor_item_id": 219,
+        "competitor_item_name": "Coca-Cola Original Taste",
+        "brand": null,
+        "quantity": "330ml",
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Cold Drink",
+        "price": 3.75,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 21,
+        "reasoning": "The names are highly similar, and both represent the same product type. The brand is also consistent.",
+        "tags": "name-similar,brand-match,type-match",
+        "similarity_final": 0.9
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 174,
+      "name": "Coca-Cola Zero",
+      "item_onboard_name": "Coca-Cola Zero",
+      "desc": "Get a Sugar free Coca-Cola on board, original Coke flavour with zero sugar, Experience joy on board and open happiness!",
+      "parent_category": "1.Cafe",
+      "sales_category": "Cold Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 218,
+        "competitor_item_name": "Coca-Cola Zero Sugar",
+        "brand": null,
+        "quantity": "330ml",
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Cold Drink",
+        "price": 3.75,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 21,
+        "reasoning": "The names are highly similar, and both represent the same product type with zero sugar. The brand is also consistent.",
+        "tags": "name-similar,brand-match,type-match",
+        "similarity_final": 0.95
+      },
+      {
+        "competitor_item_id": 17,
+        "competitor_item_name": "COCA-COLA / COCA-COLA ZERO",
+        "brand": "Coca-Cola",
+        "quantity": "330 ML",
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Cold Drink",
+        "price": 3.5,
+        "currency": "EUR",
+        "competitor_name": "Eurowings",
+        "catalog_name": "Eurowings_Bistro_Winter_2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 10,
+        "reasoning": "The competitor item matches due to name similarity ('Coca-Cola Zero' explicitly mentioned) and brand match.",
+        "tags": "name-similar,brand-match",
+        "similarity_final": 0.9
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 175,
+      "name": "Fanta",
+      "item_onboard_name": "Fanta",
+      "desc": "Want a fruity taste, bright and bubbly drink? Fanta is carbonated drink with tingly. Coca Cola launched the world's number one orange-flavored soft drink back in 1955. Great as a mixer!",
+      "parent_category": "1.Cafe",
+      "sales_category": "Cold Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 217,
+        "competitor_item_name": "Fanta Orange",
+        "brand": null,
+        "quantity": "330ml",
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Cold Drink",
+        "price": 3.75,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 21,
+        "reasoning": "The names are highly similar, and both represent the same product type. The brand is implicitly consistent.",
+        "tags": "name-similar,type-match",
+        "similarity_final": 0.9
+      },
+      {
+        "competitor_item_id": 88,
+        "competitor_item_name": "Fanta Lemon",
+        "brand": "Fanta",
+        "quantity": "330ml",
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Cold Drink",
+        "price": 2.85,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 10,
+        "reasoning": "The competitor item matches due to name similarity ('Fanta' in both) and product type alignment as both are carbonated soft drinks.",
+        "tags": "name-similar,type-match",
+        "similarity_final": 0.8
+      },
+      {
+        "competitor_item_id": 89,
+        "competitor_item_name": "Fanta Orange Zero",
+        "brand": "Fanta",
+        "quantity": "330ml",
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Cold Drink",
+        "price": 2.85,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 10,
+        "reasoning": "The competitor item matches due to name similarity ('Fanta' in both) and product type alignment as both are carbonated soft drinks.",
+        "tags": "name-similar,type-match",
+        "similarity_final": 0.8
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 176,
+      "name": "Kinley Tonic 0.25L",
+      "item_onboard_name": "Kinley Tonic 0.25L",
+      "desc": "Get a refreshing Kinkey! Tonic-flavored carbonated soft drink to refresh and stay hydrated, Inspired by the elegance and bustle of the big cities. Kinley tonic can be used as a soft drink by itself, or as mixers for long drinks.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Cold Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 21,
+        "competitor_item_name": "Goldberg Tonic Water",
+        "brand": "Goldberg",
+        "quantity": "150 ML",
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Cold Drink",
+        "price": 3.0,
+        "currency": "EUR",
+        "competitor_name": "Eurowings",
+        "catalog_name": "Eurowings_Bistro_Winter_2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 11,
+        "reasoning": "The competitor item matches due to product type alignment as both are tonic-flavored carbonated drinks.",
+        "tags": "type-match",
+        "similarity_final": 0.8
+      },
+      {
+        "competitor_item_id": 220,
+        "competitor_item_name": "Schweppes Tonic Water",
+        "brand": null,
+        "quantity": "150ml",
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Cold Drink",
+        "price": 2.75,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 21,
+        "reasoning": "Both are tonic water products with similar purposes as mixers or standalone drinks. The product types match.",
+        "tags": "type-match",
+        "similarity_final": 0.8
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 177,
+      "name": "Big Tom Tomato juice 0.15L",
+      "item_onboard_name": "Big Tom Tomato juice 0.15L",
+      "desc": "Big Tom is not just any ordinary tomato juice... it s bloody different. With 12 herbs & spices, Big Tom makes a wonderfully refreshing twist on a tomato juice. For starters, it s made of only the finest Portuguese tomatoes with a special blend of 21 herbs and spices, with a little hint of lemon and a dash of Worcestershire sauce for the best Bloody Mary mix ever... every time!",
+      "parent_category": "1.Cafe",
+      "sales_category": "Cold Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 20,
+        "competitor_item_name": "RAUCH ORANGENSAFT / TOMATENSAFT",
+        "brand": "Rauch",
+        "quantity": "200 ML",
+        "competitor_description": "Orange Juice / Tomato Juice",
+        "parent_category": "Cafe",
+        "sales_category": "Cold Drink",
+        "price": 3.5,
+        "currency": "EUR",
+        "competitor_name": "Eurowings",
+        "catalog_name": "Eurowings_Bistro_Winter_2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 10,
+        "reasoning": "The name includes 'Tomatensaft' which matches 'Tomato juice', and the product type aligns as both are tomato juices.",
+        "tags": "name-similar,type-match",
+        "similarity_final": 0.85
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 181,
+      "name": "Premium tonic",
+      "item_onboard_name": "Premium tonic",
+      "desc": "A refreshing light Premium Tonic Water, the blending of subtle botanical flavours with spring water and highest-quality quinine gives it the distinctively clean, crisp character of premium Tonic Water, with 57% fewer calories, Ask for the Whitley Neill Gin Tonic combo for a better tasting!",
+      "parent_category": "1.Cafe",
+      "sales_category": "Cold Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 21,
+        "competitor_item_name": "Goldberg Tonic Water",
+        "brand": "Goldberg",
+        "quantity": "150 ML",
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Cold Drink",
+        "price": 3.0,
+        "currency": "EUR",
+        "competitor_name": "Eurowings",
+        "catalog_name": "Eurowings_Bistro_Winter_2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 11,
+        "reasoning": "The name 'Tonic Water' matches 'Premium tonic', and both are of the same product type.",
+        "tags": "name-similar,type-match",
+        "similarity_final": 0.8
+      },
+      {
+        "competitor_item_id": 98,
+        "competitor_item_name": "Fever-Tree Light Mediterranean Tonic",
+        "brand": "Fever-Tree",
+        "quantity": "150ml",
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Cold Drink",
+        "price": 2.0,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 10,
+        "reasoning": "Both are premium tonic waters with a focus on high-quality ingredients and light characteristics.",
+        "tags": "name-similar,type-match",
+        "similarity_final": 0.8
+      },
+      {
+        "competitor_item_id": 99,
+        "competitor_item_name": "Fever-Tree Light Indian Tonic",
+        "brand": "Fever-Tree",
+        "quantity": "150ml",
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Cold Drink",
+        "price": 2.0,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 10,
+        "reasoning": "Both are premium tonic waters with light characteristics and high-quality ingredients.",
+        "tags": "name-similar,type-match",
+        "similarity_final": 0.78
+      },
+      {
+        "competitor_item_id": 220,
+        "competitor_item_name": "Schweppes Tonic Water",
+        "brand": null,
+        "quantity": "150ml",
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Cold Drink",
+        "price": 2.75,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 21,
+        "reasoning": "Both are tonic waters with a focus on refreshment and quality.",
+        "tags": "name-similar,type-match",
+        "similarity_final": 0.75
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 182,
+      "name": "Lemonade",
+      "item_onboard_name": "Lemonade",
+      "desc": "Made with real lemons, clear and refreshing! Try this great-tasting lemonade since 1845, the perfect drink to stay hydrated during your trip and enjoy every moment.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Cold Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 88,
+        "competitor_item_name": "Fanta Lemon",
+        "brand": "Fanta",
+        "quantity": "330ml",
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Cold Drink",
+        "price": 2.85,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 10,
+        "reasoning": "The names are similar, both referencing lemon-based beverages, and the product types align as refreshing lemon-flavored drinks.",
+        "tags": "name-similar,type-match",
+        "similarity_final": 0.78
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 185,
+      "name": "Mineral Water Still UK",
+      "item_onboard_name": "Mineral Water Still",
+      "desc": "Sparkling or still? Stay hydrated and ask for a Natur Aqua mineral water! It is bottled in Zalaszentgrot, where the water also comes from. The pleasant taste of the Natur Aqua mineral waters comes from its unique mineral composition, obtained from a depth of 685 meters and filtered for 14,000 years.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Cold Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 19,
+        "competitor_item_name": "VÖSLAUER MINERALWASSER MEDIUM / STILL",
+        "brand": "Vöslauer",
+        "quantity": "500 ML",
+        "competitor_description": "Mineral Water Medium Sparkling / Still",
+        "parent_category": "Cafe",
+        "sales_category": "Cold Drink",
+        "price": 3.3,
+        "currency": "EUR",
+        "competitor_name": "Eurowings",
+        "catalog_name": "Eurowings_Bistro_Winter_2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 10,
+        "reasoning": "The names and descriptions both indicate still mineral water, and the product types are identical.",
+        "tags": "name-similar,type-match",
+        "similarity_final": 0.85
+      },
+      {
+        "competitor_item_id": 95,
+        "competitor_item_name": "Harrogate Spring Water",
+        "brand": "Harrogate",
+        "quantity": "330ml",
+        "competitor_description": "Still / Sparkling",
+        "parent_category": "Cafe",
+        "sales_category": "Cold Drink",
+        "price": 2.1,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 10,
+        "reasoning": "Both are still mineral waters with similar product descriptions and purpose of hydration.",
+        "tags": "name-similar,desc-similar,type-match",
+        "similarity_final": 0.85
+      },
+      {
+        "competitor_item_id": 221,
+        "competitor_item_name": "San Benedetto Still Water",
+        "brand": null,
+        "quantity": "500ml",
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Cold Drink",
+        "price": 3.5,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 21,
+        "reasoning": "Both are still mineral waters with a focus on hydration, though no detailed description is provided for the competitor item.",
+        "tags": "name-similar,type-match",
+        "similarity_final": 0.8
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 186,
+      "name": "Mineral Water Sparkling UK",
+      "item_onboard_name": "Mineral Water Sparkling",
+      "desc": "Sparkling or still? Stay hydrated and ask for a Natur Aqua mineral water! It is bottled in Zalaszentgrot, where the water also comes from. The pleasant taste of the Natur Aqua mineral waters comes from its unique mineral composition, obtained from a depth of 685 meters and filtered for 14,000 years.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Cold Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 19,
+        "competitor_item_name": "VÖSLAUER MINERALWASSER MEDIUM / STILL",
+        "brand": "Vöslauer",
+        "quantity": "500 ML",
+        "competitor_description": "Mineral Water Medium Sparkling / Still",
+        "parent_category": "Cafe",
+        "sales_category": "Cold Drink",
+        "price": 3.3,
+        "currency": "EUR",
+        "competitor_name": "Eurowings",
+        "catalog_name": "Eurowings_Bistro_Winter_2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 10,
+        "reasoning": "The names and descriptions both indicate mineral water, and the product types align, including the sparkling variant.",
+        "tags": "name-similar,type-match",
+        "similarity_final": 0.85
+      },
+      {
+        "competitor_item_id": 95,
+        "competitor_item_name": "Harrogate Spring Water",
+        "brand": "Harrogate",
+        "quantity": "330ml",
+        "competitor_description": "Still / Sparkling",
+        "parent_category": "Cafe",
+        "sales_category": "Cold Drink",
+        "price": 2.1,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 10,
+        "reasoning": "Both are mineral waters offering sparkling options, with similar product descriptions and purpose of hydration.",
+        "tags": "name-similar,desc-similar,type-match",
+        "similarity_final": 0.8
+      },
+      {
+        "competitor_item_id": 222,
+        "competitor_item_name": "San Benedetto Sparkling Water",
+        "brand": null,
+        "quantity": "500ml",
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Cold Drink",
+        "price": 3.5,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 21,
+        "reasoning": "Both are sparkling mineral waters, and the product type matches closely despite the lack of description in the competitor item.",
+        "tags": "name-similar,type-match",
+        "similarity_final": 0.78
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 188,
+      "name": "Coca-cola UK",
+      "item_onboard_name": "Coca-Cola 33cl",
+      "desc": "The best way to refresh when you are thirsty is to get a Coca-Cola cold drink, delicious taste in a cane, Experience joy on board and open happiness!",
+      "parent_category": "1.Cafe",
+      "sales_category": "Cold Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 93,
+        "competitor_item_name": "Coca-Cola",
+        "brand": "Coca-Cola",
+        "quantity": "330ml",
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Cold Drink",
+        "price": 2.85,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 10,
+        "reasoning": "The names are highly similar, and the quantities are identical at 330ml.",
+        "tags": "name-similar,quantity-exact",
+        "similarity_final": 0.95
+      },
+      {
+        "competitor_item_id": 219,
+        "competitor_item_name": "Coca-Cola Original Taste",
+        "brand": null,
+        "quantity": "330ml",
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Cold Drink",
+        "price": 3.75,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 21,
+        "reasoning": "The names are similar, and the quantities are identical at 330ml.",
+        "tags": "name-similar,quantity-exact",
+        "similarity_final": 0.92
+      },
+      {
+        "competitor_item_id": 17,
+        "competitor_item_name": "COCA-COLA / COCA-COLA ZERO",
+        "brand": "Coca-Cola",
+        "quantity": "330 ML",
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Cold Drink",
+        "price": 3.5,
+        "currency": "EUR",
+        "competitor_name": "Eurowings",
+        "catalog_name": "Eurowings_Bistro_Winter_2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 10,
+        "reasoning": "The name 'Coca-Cola' matches exactly, and the quantity of 330ml is close to 33cl.",
+        "tags": "name-similar,quantity-close",
+        "similarity_final": 0.9
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 189,
+      "name": "Coca-cola zero UK",
+      "item_onboard_name": "Coca-Cola Zero 33cl",
+      "desc": "Get a Sugar free Coca-Cola on board, original Coke flavour with zero sugar, Experience joy on board and open happiness!",
+      "parent_category": "1.Cafe",
+      "sales_category": "Cold Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 218,
+        "competitor_item_name": "Coca-Cola Zero Sugar",
+        "brand": null,
+        "quantity": "330ml",
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Cold Drink",
+        "price": 3.75,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 21,
+        "reasoning": "The names are highly similar, and the quantities are identical at 330ml.",
+        "tags": "name-similar,quantity-exact",
+        "similarity_final": 0.96
+      },
+      {
+        "competitor_item_id": 17,
+        "competitor_item_name": "COCA-COLA / COCA-COLA ZERO",
+        "brand": "Coca-Cola",
+        "quantity": "330 ML",
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Cold Drink",
+        "price": 3.5,
+        "currency": "EUR",
+        "competitor_name": "Eurowings",
+        "catalog_name": "Eurowings_Bistro_Winter_2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 10,
+        "reasoning": "The name 'Coca-Cola Zero' matches exactly, and the quantity of 330ml is close to 33cl.",
+        "tags": "name-similar,quantity-close",
+        "similarity_final": 0.9
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 190,
+      "name": "Fanta UK",
+      "item_onboard_name": "Fanta 33cl",
+      "desc": "Want a fruity taste, bright and bubbly drink? Fanta is carbonated drink with tingly. Coca Cola launched the world's number one orange-flavored soft drink back in 1955. Great as a mixer!",
+      "parent_category": "1.Cafe",
+      "sales_category": "Cold Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 217,
+        "competitor_item_name": "Fanta Orange",
+        "brand": null,
+        "quantity": "330ml",
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Cold Drink",
+        "price": 3.75,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 21,
+        "reasoning": "The names are similar, and the quantities are identical at 330ml.",
+        "tags": "name-similar,quantity-exact",
+        "similarity_final": 0.93
+      },
+      {
+        "competitor_item_id": 89,
+        "competitor_item_name": "Fanta Orange Zero",
+        "brand": "Fanta",
+        "quantity": "330ml",
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Cold Drink",
+        "price": 2.85,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 10,
+        "reasoning": "The name 'Fanta' matches, and the quantity of 330ml is close to 33cl.",
+        "tags": "name-similar,quantity-close",
+        "similarity_final": 0.85
+      },
+      {
+        "competitor_item_id": 88,
+        "competitor_item_name": "Fanta Lemon",
+        "brand": "Fanta",
+        "quantity": "330ml",
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Cold Drink",
+        "price": 2.85,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 10,
+        "reasoning": "The name 'Fanta' matches, and the quantity of 330ml is close to 33cl.",
+        "tags": "name-similar,quantity-close",
+        "similarity_final": 0.8
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 191,
+      "name": "Kinley tonic 0.25L UK",
+      "item_onboard_name": "Kinley tonic 0.25l",
+      "desc": "Get a refreshing Kinkey! Tonic flavored carbonated soft drink to refresh and stay hydrated, Inspired by the elegance and bustle of the big cities. Kinley tonic can be used as a soft drink by itself, or as mixers for long drinks.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Cold Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 21,
+        "competitor_item_name": "Goldberg Tonic Water",
+        "brand": "Goldberg",
+        "quantity": "150 ML",
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Cold Drink",
+        "price": 3.0,
+        "currency": "EUR",
+        "competitor_name": "Eurowings",
+        "catalog_name": "Eurowings_Bistro_Winter_2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 11,
+        "reasoning": "The product type 'Tonic Water' matches, though the quantity differs slightly.",
+        "tags": "type-match",
+        "similarity_final": 0.8
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 192,
+      "name": "Big Tom Tomato juice 0.15L UK",
+      "item_onboard_name": "Big Tom Tomato juice 0.15l",
+      "desc": "Big Tom is not just any ordinary tomato juice... it's bloody different. With 12 herbs  and  spices, Big Tom makes a wonderfully refreshing twist on a tomato juice.For starters, it's made of only the finest Portuguese tomatoes with a special blend of 21 herbs and spices, with a little hint of lemon and a dash of Worcestershire sauce for the best Bloody Mary mix ever... every time!",
+      "parent_category": "1.Cafe",
+      "sales_category": "Cold Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 20,
+        "competitor_item_name": "RAUCH ORANGENSAFT / TOMATENSAFT",
+        "brand": "Rauch",
+        "quantity": "200 ML",
+        "competitor_description": "Orange Juice / Tomato Juice",
+        "parent_category": "Cafe",
+        "sales_category": "Cold Drink",
+        "price": 3.5,
+        "currency": "EUR",
+        "competitor_name": "Eurowings",
+        "catalog_name": "Eurowings_Bistro_Winter_2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 10,
+        "reasoning": "The competitor item includes tomato juice, which matches the gate item's product type. Both are beverages with similar purposes, and the name indicates a clear overlap.",
+        "tags": "name-similar,type-match",
+        "similarity_final": 0.85
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 199,
+      "name": "Kinley Ginger Ale 0.25L",
+      "item_onboard_name": "Kinley Ginger Ale 0.25L",
+      "desc": "Kinley Ginger Ale carbonated soft drink with ginger flavour. A balanced tonic with the refreshing taste of ginger. It can be a great addition mixed with alcoholic beverages.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Cold Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 96,
+        "competitor_item_name": "Fever-Tree Ginger Ale",
+        "brand": "Fever-Tree",
+        "quantity": "150ml",
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Cold Drink",
+        "price": 2.0,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 10,
+        "reasoning": "Both are ginger ale carbonated soft drinks with similar product type and purpose. The names are highly similar.",
+        "tags": "name-similar,type-match",
+        "similarity_final": 0.85
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 200,
+      "name": "Kinley Ginger Ale 0.25L UK",
+      "item_onboard_name": "Kinley Ginger Ale 0.25L UK",
+      "desc": "Kinley Ginger Ale carbonated soft drink with ginger flavour. A balanced tonic with the refreshing taste of ginger. It can be a great addition mixed with alcoholic beverages.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Cold Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 96,
+        "competitor_item_name": "Fever-Tree Ginger Ale",
+        "brand": "Fever-Tree",
+        "quantity": "150ml",
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Cold Drink",
+        "price": 2.0,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 10,
+        "reasoning": "Both are ginger ale carbonated soft drinks with similar product type and purpose. The names are highly similar.",
+        "tags": "name-similar,type-match",
+        "similarity_final": 0.85
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 203,
+      "name": "Szentkiralyi Lemon flavoured water",
+      "item_onboard_name": "Szentkiralyi Lemon flavoured w",
+      "desc": "Natural mineral water with added lemon extract, which is completely free of sugars and artificial sweeteners. It is slightly carbonated.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Cold Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 22,
+        "competitor_item_name": "Share Bio Fruit Zitrone & Minze",
+        "brand": "Share",
+        "quantity": "500 ML",
+        "competitor_description": "Organic Fruit Lemon & Mint",
+        "parent_category": "Cafe",
+        "sales_category": "Cold Drink",
+        "price": 3.9,
+        "currency": "EUR",
+        "competitor_name": "Eurowings",
+        "catalog_name": "Eurowings_Bistro_Winter_2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 11,
+        "reasoning": "Both products are lemon-flavored beverages with natural ingredients and slight carbonation inferred from the description.",
+        "tags": "name-similar,desc-similar,type-match",
+        "similarity_final": 0.78
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 205,
+      "name": "San Pellegrino Limonata",
+      "item_onboard_name": "San Pellegrino Limonata",
+      "desc": "Sanpellegrino Limonata is the premium lemon drink with only the best of Italian lemons to give you the authentic Italian drinking experience.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Cold Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 88,
+        "competitor_item_name": "Fanta Lemon",
+        "brand": "Fanta",
+        "quantity": "330ml",
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Cold Drink",
+        "price": 2.85,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 10,
+        "reasoning": "Both are lemon-flavored carbonated beverages, though San Pellegrino emphasizes premium Italian lemons.",
+        "tags": "name-similar,type-match",
+        "similarity_final": 0.76
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 212,
+      "name": "Sprite",
+      "item_onboard_name": "Sprite",
+      "desc": "Sprite is a perfectly clear lemon lime sparkling beverage with 100% natural flavors and no caffeine.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Cold Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 94,
+        "competitor_item_name": "Sprite Zero Sugar",
+        "brand": "Sprite",
+        "quantity": "330ml",
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Cold Drink",
+        "price": 2.85,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 10,
+        "reasoning": "The names are highly similar, and both describe a lemon-lime sparkling beverage. Brand matches as well.",
+        "tags": "name-similar,brand-match,type-match",
+        "similarity_final": 0.9
+      },
+      {
+        "competitor_item_id": 216,
+        "competitor_item_name": "Sprite Zero Sugar",
+        "brand": null,
+        "quantity": "330ml",
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Cold Drink",
+        "price": 3.75,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 21,
+        "reasoning": "The names are highly similar, and both describe a lemon-lime sparkling beverage. Brand matches as well.",
+        "tags": "name-similar,brand-match,type-match",
+        "similarity_final": 0.9
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 214,
+      "name": "Sprite UK",
+      "item_onboard_name": "Sprite 33cl",
+      "desc": "Sprite is a perfectly clear lemon lime sparkling beverage with 100% natural flavors and no caffeine.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Cold Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 94,
+        "competitor_item_name": "Sprite Zero Sugar",
+        "brand": "Sprite",
+        "quantity": "330ml",
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Cold Drink",
+        "price": 2.85,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 10,
+        "reasoning": "The names are highly similar, and both describe a lemon-lime sparkling beverage. Brand matches as well.",
+        "tags": "name-similar,brand-match,type-match",
+        "similarity_final": 0.9
+      },
+      {
+        "competitor_item_id": 216,
+        "competitor_item_name": "Sprite Zero Sugar",
+        "brand": null,
+        "quantity": "330ml",
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Cold Drink",
+        "price": 3.75,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 21,
+        "reasoning": "The names are highly similar, and both describe a lemon-lime sparkling beverage. Brand matches as well.",
+        "tags": "name-similar,brand-match,type-match",
+        "similarity_final": 0.9
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 218,
+      "name": "Cappy Orange Juice UK",
+      "item_onboard_name": "Cappy Orange Juice 33cl",
+      "desc": "Cappy 100% pure Orange is a tasty juice full of natural goodness from fruit. A delicious drink, great in the morning, perfect to start your day as part of a healthy and nourishing breakfast, the most important meal of the day.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Cold Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 20,
+        "competitor_item_name": "RAUCH ORANGENSAFT / TOMATENSAFT",
+        "brand": "Rauch",
+        "quantity": "200 ML",
+        "competitor_description": "Orange Juice / Tomato Juice",
+        "parent_category": "Cafe",
+        "sales_category": "Cold Drink",
+        "price": 3.5,
+        "currency": "EUR",
+        "competitor_name": "Eurowings",
+        "catalog_name": "Eurowings_Bistro_Winter_2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 10,
+        "reasoning": "The name indicates orange juice, which matches the gate item. The description also mentions orange juice, aligning with the product type.",
+        "tags": "name-similar,desc-similar,type-match",
+        "similarity_final": 0.78
+      },
+      {
+        "competitor_item_id": 103,
+        "competitor_item_name": "Tropicana Smooth Orange Juice",
+        "brand": "Tropicana",
+        "quantity": "250ml",
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Cold Drink",
+        "price": 2.85,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 10,
+        "reasoning": "The names indicate both are orange juices, and the product types align as 100% pure orange juice. The quantities are close (33cl vs 250ml).",
+        "tags": "name-similar,type-match,quantity-close",
+        "similarity_final": 0.78
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 374,
+      "name": "English Breakfast Tea",
+      "item_onboard_name": "Black Tea",
+      "desc": "Tea time? Try the delicious tea selection with full flavor. Birchall English Breakfast Tea is a unique, masterful blend, closely guarded by the fifth generation of Birchall Grahams family. Our teas are sourced entirely from estates across East Africa, from Rwanda through to the Rift Valley in Kenya, where the very best teas are to be found.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Hot Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 249,
+        "competitor_item_name": "Tea",
+        "brand": null,
+        "quantity": null,
+        "competitor_description": "Light and refreshing black tea",
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 3.75,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 24,
+        "reasoning": "The name and description both indicate a black tea product, aligning with the gate item.",
+        "tags": "name-similar,desc-similar,type-match",
+        "similarity_final": 0.8
+      },
+      {
+        "competitor_item_id": 25,
+        "competitor_item_name": "ChariTea",
+        "brand": "ChariTea",
+        "quantity": "200 ML",
+        "competitor_description": "ChariTea Ceylon Breakfast/green tea",
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 3.3,
+        "currency": "EUR",
+        "competitor_name": "Eurowings",
+        "catalog_name": "Eurowings_Bistro_Winter_2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 14,
+        "reasoning": "The description mentions breakfast tea, which aligns with the gate item's type and purpose.",
+        "tags": "desc-similar,type-match",
+        "similarity_final": 0.76
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 377,
+      "name": "You+ Coffee",
+      "item_onboard_name": "You+ Coffee",
+      "desc": "Discover our exclusive coffee with a unique taste above the clouds! This delicious blend of arabica and robusta beans with its perfect ratio is available only to Wizz Air customers - so elevate your coffee experience today. We know that you don't taste refreshments in the air the same way you do on the ground, so we have created a unique and complex coffee blend",
+      "parent_category": "1.Cafe",
+      "sales_category": "Hot Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 24,
+        "competitor_item_name": "Dallmayr Kaffee",
+        "brand": "Dallmayr",
+        "quantity": "200 ML",
+        "competitor_description": "Coffee",
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 3.5,
+        "currency": "EUR",
+        "competitor_name": "Eurowings",
+        "catalog_name": "Eurowings_Bistro_Winter_2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 14,
+        "reasoning": "Both items are coffee products, and the names and descriptions align semantically as coffee offerings.",
+        "tags": "name-similar,desc-similar,type-match",
+        "similarity_final": 0.78
+      },
+      {
+        "competitor_item_id": 250,
+        "competitor_item_name": "Lavazza Coffee",
+        "brand": "Lavazza",
+        "quantity": null,
+        "competitor_description": "Freshly brewed Italian coffee",
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 3.75,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 24,
+        "reasoning": "The names both refer to coffee, and the descriptions align in offering a unique coffee experience.",
+        "tags": "name-similar,desc-similar",
+        "similarity_final": 0.78
+      },
+      {
+        "competitor_item_id": 26,
+        "competitor_item_name": "Lavazza",
+        "brand": "Lavazza",
+        "quantity": "300 ML",
+        "competitor_description": "Freshly brewed coffee",
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 4.9,
+        "currency": "EUR",
+        "competitor_name": "Eurowings",
+        "catalog_name": "Eurowings_Bistro_Winter_2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 14,
+        "reasoning": "Both items are coffee products, and the description of freshly brewed coffee aligns with the gate item's unique coffee blend.",
+        "tags": "desc-similar,type-match",
+        "similarity_final": 0.76
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 378,
+      "name": "Starbucks Latte",
+      "item_onboard_name": "Starbucks Latte",
+      "desc": "Starbucks on-board! Take your favourite Starbucks Latte which combines 100% Arabica beans and dairy milk, topped with soft layer of foam.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Hot Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 100,
+        "competitor_item_name": "Starbucks Caffè Latte",
+        "brand": "Starbucks",
+        "quantity": "220ml",
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Cold Drink",
+        "price": 3.0,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 10,
+        "reasoning": "The names are highly similar, both referencing 'Latte' and the Starbucks brand. The product type and description align as both are coffee-based beverages with milk.",
+        "tags": "name-similar,brand-match,type-match",
+        "similarity_final": 0.9
+      },
+      {
+        "competitor_item_id": 71,
+        "competitor_item_name": "Costa Coffee Latte",
+        "brand": "Costa Coffee",
+        "quantity": null,
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 3.5,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 8,
+        "reasoning": "Both items are lattes, and the name similarity strongly indicates they are the same type of product.",
+        "tags": "name-similar,type-match",
+        "similarity_final": 0.85
+      },
+      {
+        "competitor_item_id": 70,
+        "competitor_item_name": "Costa Coffee Salted Caramel Latte",
+        "brand": "Costa Coffee",
+        "quantity": null,
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 3.5,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 8,
+        "reasoning": "Both items are lattes, and the name similarity indicates they are similar products.",
+        "tags": "name-similar,type-match",
+        "similarity_final": 0.8
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 379,
+      "name": "Starbucks Cappuccino",
+      "item_onboard_name": "Starbucks Cappuccino",
+      "desc": "Starbucks Cappucino? Get your favourite on board, 100% Arabica beans blended together with dairy milk and topped with a thick layer of foam .",
+      "parent_category": "1.Cafe",
+      "sales_category": "Hot Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 69,
+        "competitor_item_name": "Costa Coffee Creamy Cappuccino",
+        "brand": "Costa Coffee",
+        "quantity": null,
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 3.5,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 8,
+        "reasoning": "Both items are cappuccinos, and the name similarity strongly indicates they are the same type of product.",
+        "tags": "name-similar,type-match",
+        "similarity_final": 0.85
+      },
+      {
+        "competitor_item_id": 252,
+        "competitor_item_name": "Cappuccino",
+        "brand": null,
+        "quantity": null,
+        "competitor_description": "Delicious espresso with frothy milk",
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 3.75,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 24,
+        "reasoning": "The names are identical, and the descriptions both describe espresso with milk and foam.",
+        "tags": "name-similar,desc-similar",
+        "similarity_final": 0.85
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 380,
+      "name": "Premium peppermint tea",
+      "item_onboard_name": "Premium peppermint tea",
+      "desc": "Try the Classic Peppermint tea, made from only finest pure peppermint leaves, Caffeine free, perfect infusion to relax and enjoy your flying with us.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Hot Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 25,
+        "competitor_item_name": "ChariTea",
+        "brand": "ChariTea",
+        "quantity": "200 ML",
+        "competitor_description": "ChariTea Ceylon Breakfast/green tea",
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 3.3,
+        "currency": "EUR",
+        "competitor_name": "Eurowings",
+        "catalog_name": "Eurowings_Bistro_Winter_2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 14,
+        "reasoning": "Both items are tea products, and the description of tea aligns semantically with the gate item's peppermint tea.",
+        "tags": "desc-similar,type-match",
+        "similarity_final": 0.76
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 381,
+      "name": "Starbucks Hot Chocolate",
+      "item_onboard_name": "Starbucks Hot Chocolate",
+      "desc": "The perfect match with a rich chocolate powder layered with hints of delicious salted caramel taste for a delicious hot chocolate above the clouds. A smooth chocolate taste with caramelly notes.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Hot Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 75,
+        "competitor_item_name": "Cadbury Hot Chocolate",
+        "brand": "Cadbury",
+        "quantity": null,
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 3.5,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 8,
+        "reasoning": "Both items are hot chocolate products, and the name similarity indicates they are similar offerings.",
+        "tags": "name-similar,type-match",
+        "similarity_final": 0.8
+      },
+      {
+        "competitor_item_id": 253,
+        "competitor_item_name": "Hot Chocolate",
+        "brand": null,
+        "quantity": null,
+        "competitor_description": "Rich and creamy",
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 4.25,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 24,
+        "reasoning": "The names are similar, and both descriptions highlight a rich and creamy chocolate beverage.",
+        "tags": "name-similar,desc-similar",
+        "similarity_final": 0.8
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 383,
+      "name": "Hot Chocolate",
+      "item_onboard_name": "Hot Chocolate",
+      "desc": "The perfect blend of rich and velvety hot chocolate - make every sip an experience to remember!",
+      "parent_category": "1.Cafe",
+      "sales_category": "Hot Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 253,
+        "competitor_item_name": "Hot Chocolate",
+        "brand": null,
+        "quantity": null,
+        "competitor_description": "Rich and creamy",
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 4.25,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 24,
+        "reasoning": "The names are identical, and the descriptions both emphasize a rich and creamy hot chocolate experience.",
+        "tags": "name-similar,desc-similar",
+        "similarity_final": 0.95
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 384,
+      "name": "Cadbury Hot Chocolate",
+      "item_onboard_name": "Cadbury Hot Chocolate",
+      "desc": "Your very own hus in a mug. Deliciously silky and sweet just give it a good stir and you are ready to feel all warm inside. Made with sustainably sourced cocoa.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Hot Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 75,
+        "competitor_item_name": "Cadbury Hot Chocolate",
+        "brand": "Cadbury",
+        "quantity": null,
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 3.5,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 8,
+        "reasoning": "The names are identical, indicating the same product, and the brand matches exactly.",
+        "tags": "name-similar,brand-match",
+        "similarity_final": 1.0
+      },
+      {
+        "competitor_item_id": 253,
+        "competitor_item_name": "Hot Chocolate",
+        "brand": null,
+        "quantity": null,
+        "competitor_description": "Rich and creamy",
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 4.25,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 24,
+        "reasoning": "The names are similar, and both descriptions highlight a rich and creamy hot chocolate experience.",
+        "tags": "name-similar,desc-similar",
+        "similarity_final": 0.85
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 385,
+      "name": "English Breakfast Tea UK",
+      "item_onboard_name": "English Breakfast Tea",
+      "desc": "Tea time? Try the delicious English Breakfast Tea with full flavour.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Hot Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 249,
+        "competitor_item_name": "Tea",
+        "brand": null,
+        "quantity": null,
+        "competitor_description": "Light and refreshing black tea",
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 3.75,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 24,
+        "reasoning": "The names are semantically similar, and the competitor description aligns with the gate item's focus on black tea.",
+        "tags": "name-similar,desc-similar",
+        "similarity_final": 0.8
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 388,
+      "name": "You+ Coffee UK",
+      "item_onboard_name": "You+ Coffee Nescafe Gold",
+      "desc": "Discover our exclusive coffee with a unique taste above the clouds! This delicious blend of arabica and robusta beans with its perfect ratio is available only to Wizz Air customers so elevate your coffee experience today.We know that you dont taste refreshments in the air the same way you do on the ground, so we have created a unique and complex coffee blend",
+      "parent_category": "1.Cafe",
+      "sales_category": "Hot Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 24,
+        "competitor_item_name": "Dallmayr Kaffee",
+        "brand": "Dallmayr",
+        "quantity": "200 ML",
+        "competitor_description": "Coffee",
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 3.5,
+        "currency": "EUR",
+        "competitor_name": "Eurowings",
+        "catalog_name": "Eurowings_Bistro_Winter_2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 14,
+        "reasoning": "Both items are coffee products, and the descriptions align in terms of offering a unique coffee experience.",
+        "tags": "name-similar,desc-similar,type-match",
+        "similarity_final": 0.78
+      },
+      {
+        "competitor_item_id": 250,
+        "competitor_item_name": "Lavazza Coffee",
+        "brand": "Lavazza",
+        "quantity": null,
+        "competitor_description": "Freshly brewed Italian coffee",
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 3.75,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 24,
+        "reasoning": "Both items are coffee products, and the descriptions align in terms of offering a unique coffee experience. The competitor item lacks quantity information but matches on type and description.",
+        "tags": "name-similar,desc-similar,type-match",
+        "similarity_final": 0.78
+      },
+      {
+        "competitor_item_id": 26,
+        "competitor_item_name": "Lavazza",
+        "brand": "Lavazza",
+        "quantity": "300 ML",
+        "competitor_description": "Freshly brewed coffee",
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 4.9,
+        "currency": "EUR",
+        "competitor_name": "Eurowings",
+        "catalog_name": "Eurowings_Bistro_Winter_2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 14,
+        "reasoning": "Both items are coffee products, and the competitor item description of 'freshly brewed coffee' aligns with the gate item's focus on a unique coffee blend.",
+        "tags": "name-similar,desc-similar,type-match",
+        "similarity_final": 0.76
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 389,
+      "name": "Starbucks Latte UK",
+      "item_onboard_name": "Starbucks Latte 14g",
+      "desc": "Starbucks on-board! Take your favourite Starbucks Latte which combines 100 % Arabica beans and dairy milk, topped with soft layer of foam.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Hot Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 100,
+        "competitor_item_name": "Starbucks Caffè Latte",
+        "brand": "Starbucks",
+        "quantity": "220ml",
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Cold Drink",
+        "price": 3.0,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 10,
+        "reasoning": "The names are highly similar, both referencing 'Starbucks Latte', and the product type matches as a coffee-based beverage.",
+        "tags": "name-similar,type-match",
+        "similarity_final": 0.9
+      },
+      {
+        "competitor_item_id": 71,
+        "competitor_item_name": "Costa Coffee Latte",
+        "brand": "Costa Coffee",
+        "quantity": null,
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 3.5,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 8,
+        "reasoning": "Both items are lattes, and the names and product types are highly similar.",
+        "tags": "name-similar,type-match",
+        "similarity_final": 0.85
+      },
+      {
+        "competitor_item_id": 70,
+        "competitor_item_name": "Costa Coffee Salted Caramel Latte",
+        "brand": "Costa Coffee",
+        "quantity": null,
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 3.5,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 8,
+        "reasoning": "Both items are lattes, and the competitor item is a flavored variant, aligning with the gate item's product type.",
+        "tags": "name-similar,type-match",
+        "similarity_final": 0.8
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 390,
+      "name": "Starbucks Cappuccino UK",
+      "item_onboard_name": "Starbucks Cappuccino 14g",
+      "desc": "Starbucks Cappucino? Get your favourite on board, 100% Arabica beans blended together with dairy milk and topped with a thick layer of foam .",
+      "parent_category": "1.Cafe",
+      "sales_category": "Hot Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 69,
+        "competitor_item_name": "Costa Coffee Creamy Cappuccino",
+        "brand": "Costa Coffee",
+        "quantity": null,
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 3.5,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 8,
+        "reasoning": "Both items are cappuccinos, and the names and product types are highly similar.",
+        "tags": "name-similar,type-match",
+        "similarity_final": 0.85
+      },
+      {
+        "competitor_item_id": 252,
+        "competitor_item_name": "Cappuccino",
+        "brand": null,
+        "quantity": null,
+        "competitor_description": "Delicious espresso with frothy milk",
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 3.75,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 24,
+        "reasoning": "Both items are cappuccino products, with similar descriptions emphasizing espresso and frothy milk. The competitor item lacks brand and quantity information but matches strongly on type and description.",
+        "tags": "name-similar,desc-similar,type-match",
+        "similarity_final": 0.85
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 391,
+      "name": "Premium peppermint tea UK",
+      "item_onboard_name": "Premium peppermint tea bag",
+      "desc": "Try the Classic Peppermint tea, made from only finest pure peppermint leaves, Caffeine free, perfect infusion to relax and enjoy your flying with us.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Hot Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 25,
+        "competitor_item_name": "ChariTea",
+        "brand": "ChariTea",
+        "quantity": "200 ML",
+        "competitor_description": "ChariTea Ceylon Breakfast/green tea",
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 3.3,
+        "currency": "EUR",
+        "competitor_name": "Eurowings",
+        "catalog_name": "Eurowings_Bistro_Winter_2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 14,
+        "reasoning": "Both items are tea products, and the competitor item includes a tea variant that aligns with the gate item's type.",
+        "tags": "type-match",
+        "similarity_final": 0.76
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 392,
+      "name": "Cadbury Hot Chocolate UK",
+      "item_onboard_name": "Cadbury Hot Chocolate 28g",
+      "desc": "Your very own hug in a mug. Deliciously silky and sweet - just give it a good stir and you re ready to feel all warm inside! Made with sustainably sourced cocoa.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Hot Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 75,
+        "competitor_item_name": "Cadbury Hot Chocolate",
+        "brand": "Cadbury",
+        "quantity": null,
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 3.5,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 8,
+        "reasoning": "Both items are Cadbury hot chocolate products, and the names and product types are identical.",
+        "tags": "name-similar,brand-match,type-match",
+        "similarity_final": 0.95
+      },
+      {
+        "competitor_item_id": 253,
+        "competitor_item_name": "Hot Chocolate",
+        "brand": null,
+        "quantity": null,
+        "competitor_description": "Rich and creamy",
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 4.25,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 24,
+        "reasoning": "Both items are hot chocolate products, with similar descriptions highlighting a rich and creamy experience. The competitor item lacks brand and quantity information but matches on type and description.",
+        "tags": "name-similar,desc-similar,type-match",
+        "similarity_final": 0.8
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 395,
+      "name": "Barista Cup Coffee",
+      "item_onboard_name": "Barista Cup Coffee",
+      "desc": "Barista Cup s award-winning, fresh ground Guatemalan coffee on-board! It has smooth honey, spiced fruit, and dark chocolate notes.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Hot Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 24,
+        "competitor_item_name": "Dallmayr Kaffee",
+        "brand": "Dallmayr",
+        "quantity": "200 ML",
+        "competitor_description": "Coffee",
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 3.5,
+        "currency": "EUR",
+        "competitor_name": "Eurowings",
+        "catalog_name": "Eurowings_Bistro_Winter_2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 14,
+        "reasoning": "Both items are coffee products with similar descriptions indicating freshly brewed coffee.",
+        "tags": "name-similar,desc-similar,type-match",
+        "similarity_final": 0.78
+      },
+      {
+        "competitor_item_id": 250,
+        "competitor_item_name": "Lavazza Coffee",
+        "brand": "Lavazza",
+        "quantity": null,
+        "competitor_description": "Freshly brewed Italian coffee",
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 3.75,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 24,
+        "reasoning": "The names both refer to coffee, and the descriptions align in offering freshly brewed coffee with high-quality attributes.",
+        "tags": "name-similar,desc-similar",
+        "similarity_final": 0.78
+      },
+      {
+        "competitor_item_id": 26,
+        "competitor_item_name": "Lavazza",
+        "brand": "Lavazza",
+        "quantity": "300 ML",
+        "competitor_description": "Freshly brewed coffee",
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 4.9,
+        "currency": "EUR",
+        "competitor_name": "Eurowings",
+        "catalog_name": "Eurowings_Bistro_Winter_2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 14,
+        "reasoning": "Both items are freshly brewed coffee products, and the competitor's description aligns with the gate item's type.",
+        "tags": "desc-similar,type-match",
+        "similarity_final": 0.76
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 396,
+      "name": "Barista Cup Coffee UK",
+      "item_onboard_name": "Barista Cup Coffee UK",
+      "desc": "Barista Cup's award-winning, fresh ground Guatemalan coffee on-board! It has smooth honey, spiced fruit, and dark chocolate notes.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Hot Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 24,
+        "competitor_item_name": "Dallmayr Kaffee",
+        "brand": "Dallmayr",
+        "quantity": "200 ML",
+        "competitor_description": "Coffee",
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 3.5,
+        "currency": "EUR",
+        "competitor_name": "Eurowings",
+        "catalog_name": "Eurowings_Bistro_Winter_2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 14,
+        "reasoning": "Both items are coffee products with similar descriptions indicating freshly brewed coffee.",
+        "tags": "name-similar,desc-similar,type-match",
+        "similarity_final": 0.78
+      },
+      {
+        "competitor_item_id": 250,
+        "competitor_item_name": "Lavazza Coffee",
+        "brand": "Lavazza",
+        "quantity": null,
+        "competitor_description": "Freshly brewed Italian coffee",
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 3.75,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 24,
+        "reasoning": "The names both refer to coffee, and the descriptions align in offering freshly brewed coffee with high-quality attributes.",
+        "tags": "name-similar,desc-similar",
+        "similarity_final": 0.78
+      },
+      {
+        "competitor_item_id": 26,
+        "competitor_item_name": "Lavazza",
+        "brand": "Lavazza",
+        "quantity": "300 ML",
+        "competitor_description": "Freshly brewed coffee",
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 4.9,
+        "currency": "EUR",
+        "competitor_name": "Eurowings",
+        "catalog_name": "Eurowings_Bistro_Winter_2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 14,
+        "reasoning": "Both items are freshly brewed coffee products, and the competitor's description aligns with the gate item's type.",
+        "tags": "desc-similar,type-match",
+        "similarity_final": 0.76
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 399,
+      "name": "Starbucks Caramel Latte",
+      "item_onboard_name": "Starbucks Caramel Latte",
+      "desc": "This classic beverage combines 100% Arabica beans with dairy milk and our buttery caramel flavour topped with a soft layer of foam",
+      "parent_category": "1.Cafe",
+      "sales_category": "Hot Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 70,
+        "competitor_item_name": "Costa Coffee Salted Caramel Latte",
+        "brand": "Costa Coffee",
+        "quantity": null,
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 3.5,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 8,
+        "reasoning": "The names are highly similar, both referencing caramel latte, and the product types align as flavored coffee beverages.",
+        "tags": "name-similar,type-match",
+        "similarity_final": 0.8
+      },
+      {
+        "competitor_item_id": 100,
+        "competitor_item_name": "Starbucks Caffè Latte",
+        "brand": "Starbucks",
+        "quantity": "220ml",
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Cold Drink",
+        "price": 3.0,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 10,
+        "reasoning": "The names are similar, both are Starbucks coffee beverages, and the product types align.",
+        "tags": "name-similar,brand-match,type-match",
+        "similarity_final": 0.78
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 400,
+      "name": "Starbucks Caramel Latte UK",
+      "item_onboard_name": "Starbucks Caramel Latte sachet",
+      "desc": "This classic beverage combines 100 percentage Arabica beans with dairy milk and our buttery caramel flavour, topped with a soft layer of foam.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Hot Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 70,
+        "competitor_item_name": "Costa Coffee Salted Caramel Latte",
+        "brand": "Costa Coffee",
+        "quantity": null,
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 3.5,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 8,
+        "reasoning": "The names are highly similar, both referencing caramel latte, and the product types align as flavored coffee beverages.",
+        "tags": "name-similar,type-match",
+        "similarity_final": 0.8
+      },
+      {
+        "competitor_item_id": 100,
+        "competitor_item_name": "Starbucks Caffè Latte",
+        "brand": "Starbucks",
+        "quantity": "220ml",
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Cold Drink",
+        "price": 3.0,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 10,
+        "reasoning": "The names are similar, both are Starbucks coffee beverages, and the product types align.",
+        "tags": "name-similar,brand-match,type-match",
+        "similarity_final": 0.78
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 401,
+      "name": "Earl Grey Tea UK",
+      "item_onboard_name": "Earl Grey Tea",
+      "desc": "Earl Grey tea is one of the best known tea blends on the market. Traditionally,it is a simple blend of black tea and oil of bergamot.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Hot Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 249,
+        "competitor_item_name": "Tea",
+        "brand": null,
+        "quantity": null,
+        "competitor_description": "Light and refreshing black tea",
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 3.75,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 24,
+        "reasoning": "The name and description both indicate a black tea product, aligning with Earl Grey tea's type.",
+        "tags": "name-similar,desc-similar,type-match",
+        "similarity_final": 0.8
+      },
+      {
+        "competitor_item_id": 25,
+        "competitor_item_name": "ChariTea",
+        "brand": "ChariTea",
+        "quantity": "200 ML",
+        "competitor_description": "ChariTea Ceylon Breakfast/green tea",
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 3.3,
+        "currency": "EUR",
+        "competitor_name": "Eurowings",
+        "catalog_name": "Eurowings_Bistro_Winter_2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 14,
+        "reasoning": "The description mentions tea, and the product type aligns as tea beverages.",
+        "tags": "type-match",
+        "similarity_final": 0.75
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 402,
+      "name": "Segafredo Coffee",
+      "item_onboard_name": "Segafredo Coffee",
+      "desc": "Freshly brewed black coffee.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Hot Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 24,
+        "competitor_item_name": "Dallmayr Kaffee",
+        "brand": "Dallmayr",
+        "quantity": "200 ML",
+        "competitor_description": "Coffee",
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 3.5,
+        "currency": "EUR",
+        "competitor_name": "Eurowings",
+        "catalog_name": "Eurowings_Bistro_Winter_2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 14,
+        "reasoning": "The names and descriptions both refer to freshly brewed coffee, indicating a strong product type match.",
+        "tags": "name-similar,desc-similar,type-match",
+        "similarity_final": 0.85
+      },
+      {
+        "competitor_item_id": 250,
+        "competitor_item_name": "Lavazza Coffee",
+        "brand": "Lavazza",
+        "quantity": null,
+        "competitor_description": "Freshly brewed Italian coffee",
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 3.75,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 24,
+        "reasoning": "Both items are freshly brewed black coffee, and the product type matches closely.",
+        "tags": "name-similar,desc-similar,type-match",
+        "similarity_final": 0.85
+      },
+      {
+        "competitor_item_id": 26,
+        "competitor_item_name": "Lavazza",
+        "brand": "Lavazza",
+        "quantity": "300 ML",
+        "competitor_description": "Freshly brewed coffee",
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 4.9,
+        "currency": "EUR",
+        "competitor_name": "Eurowings",
+        "catalog_name": "Eurowings_Bistro_Winter_2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 14,
+        "reasoning": "The description and product type align as freshly brewed coffee.",
+        "tags": "desc-similar,type-match",
+        "similarity_final": 0.8
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 403,
+      "name": "Segafredo Cappuccino",
+      "item_onboard_name": "Segafredo Cappuccino",
+      "desc": "Rich coffee & creamy milk.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Hot Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 252,
+        "competitor_item_name": "Cappuccino",
+        "brand": null,
+        "quantity": null,
+        "competitor_description": "Delicious espresso with frothy milk",
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 3.75,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 24,
+        "reasoning": "The names are highly similar, and both descriptions align on coffee with creamy milk.",
+        "tags": "name-similar,desc-similar",
+        "similarity_final": 0.9
+      },
+      {
+        "competitor_item_id": 69,
+        "competitor_item_name": "Costa Coffee Creamy Cappuccino",
+        "brand": "Costa Coffee",
+        "quantity": null,
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 3.5,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 8,
+        "reasoning": "The names are highly similar, both describing a cappuccino, and the gate item's description aligns with the competitor's product type.",
+        "tags": "name-similar,type-match",
+        "similarity_final": 0.85
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 404,
+      "name": "Segafredo Oat Latte",
+      "item_onboard_name": "Segafredo Oat Latte",
+      "desc": "Smooth coffee & oat milk.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Hot Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 71,
+        "competitor_item_name": "Costa Coffee Latte",
+        "brand": "Costa Coffee",
+        "quantity": null,
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 3.5,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 8,
+        "reasoning": "The names are highly similar, both describing a latte, and the gate item's description aligns with the competitor's product type.",
+        "tags": "name-similar,type-match",
+        "similarity_final": 0.82
+      },
+      {
+        "competitor_item_id": 70,
+        "competitor_item_name": "Costa Coffee Salted Caramel Latte",
+        "brand": "Costa Coffee",
+        "quantity": null,
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 3.5,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 8,
+        "reasoning": "Both items are lattes, and the names share semantic similarity despite the flavor variation.",
+        "tags": "name-similar,type-match",
+        "similarity_final": 0.78
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 405,
+      "name": "Segafredo Hot Chocolate",
+      "item_onboard_name": "Segafredo Hot Chocolate",
+      "desc": "Velvety & indulgent.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Hot Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 75,
+        "competitor_item_name": "Cadbury Hot Chocolate",
+        "brand": "Cadbury",
+        "quantity": null,
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 3.5,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 8,
+        "reasoning": "The names are highly similar, both describing hot chocolate, and the gate item's description aligns with the competitor's product type.",
+        "tags": "name-similar,type-match",
+        "similarity_final": 0.88
+      },
+      {
+        "competitor_item_id": 253,
+        "competitor_item_name": "Hot Chocolate",
+        "brand": null,
+        "quantity": null,
+        "competitor_description": "Rich and creamy",
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 4.25,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 24,
+        "reasoning": "The names are identical, and both descriptions emphasize a rich and creamy chocolate beverage.",
+        "tags": "name-similar,desc-similar",
+        "similarity_final": 0.88
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 406,
+      "name": "Segafredo Coffee UK",
+      "item_onboard_name": "Segafredo Ground Coffee",
+      "desc": "Freshly brewed black coffee.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Hot Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 26,
+        "competitor_item_name": "Lavazza",
+        "brand": "Lavazza",
+        "quantity": "300 ML",
+        "competitor_description": "Freshly brewed coffee",
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 4.9,
+        "currency": "EUR",
+        "competitor_name": "Eurowings",
+        "catalog_name": "Eurowings_Bistro_Winter_2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 14,
+        "reasoning": "The descriptions align semantically, both describing freshly brewed coffee.",
+        "tags": "desc-similar,type-match",
+        "similarity_final": 0.83
+      },
+      {
+        "competitor_item_id": 24,
+        "competitor_item_name": "Dallmayr Kaffee",
+        "brand": "Dallmayr",
+        "quantity": "200 ML",
+        "competitor_description": "Coffee",
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 3.5,
+        "currency": "EUR",
+        "competitor_name": "Eurowings",
+        "catalog_name": "Eurowings_Bistro_Winter_2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 14,
+        "reasoning": "Both items describe freshly brewed coffee, and the descriptions align semantically.",
+        "tags": "desc-similar,type-match",
+        "similarity_final": 0.8
+      },
+      {
+        "competitor_item_id": 250,
+        "competitor_item_name": "Lavazza Coffee",
+        "brand": "Lavazza",
+        "quantity": null,
+        "competitor_description": "Freshly brewed Italian coffee",
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 3.75,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 24,
+        "reasoning": "The names indicate similar coffee products, and the descriptions both refer to freshly brewed coffee.",
+        "tags": "name-similar,desc-similar",
+        "similarity_final": 0.8
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 407,
+      "name": "Segafredo Cappuccino UK",
+      "item_onboard_name": "Segafredo Cappuccino cup",
+      "desc": "Rich coffee & creamy milk.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Hot Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 252,
+        "competitor_item_name": "Cappuccino",
+        "brand": null,
+        "quantity": null,
+        "competitor_description": "Delicious espresso with frothy milk",
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 3.75,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 24,
+        "reasoning": "The names are highly similar, and both descriptions align on coffee with creamy milk.",
+        "tags": "name-similar,desc-similar",
+        "similarity_final": 0.9
+      },
+      {
+        "competitor_item_id": 69,
+        "competitor_item_name": "Costa Coffee Creamy Cappuccino",
+        "brand": "Costa Coffee",
+        "quantity": null,
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 3.5,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 8,
+        "reasoning": "The names are highly similar, both describing a cappuccino, and the gate item's description aligns with the competitor's product type.",
+        "tags": "name-similar,type-match",
+        "similarity_final": 0.85
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 408,
+      "name": "Segafredo Oat Latte UK",
+      "item_onboard_name": "Segafredo Oat Latte cup",
+      "desc": "Smooth coffee & oat milk.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Hot Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 100,
+        "competitor_item_name": "Starbucks Caffè Latte",
+        "brand": "Starbucks",
+        "quantity": "220ml",
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Cold Drink",
+        "price": 3.0,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 10,
+        "reasoning": "The names indicate similar latte products, and both are coffee-based beverages. However, the competitor item lacks oat milk specificity.",
+        "tags": "name-similar,type-match",
+        "similarity_final": 0.78
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 409,
+      "name": "Segafredo Hot Chocolate UK",
+      "item_onboard_name": "Segafredo Hot Chocolate cup",
+      "desc": "Velvety & indulgent.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Hot Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 75,
+        "competitor_item_name": "Cadbury Hot Chocolate",
+        "brand": "Cadbury",
+        "quantity": null,
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 3.5,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 8,
+        "reasoning": "Both items are hot chocolate beverages with similar product type and name alignment.",
+        "tags": "name-similar,type-match",
+        "similarity_final": 0.85
+      },
+      {
+        "competitor_item_id": 253,
+        "competitor_item_name": "Hot Chocolate",
+        "brand": null,
+        "quantity": null,
+        "competitor_description": "Rich and creamy",
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 4.25,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 24,
+        "reasoning": "The names are highly similar, and both describe a hot chocolate beverage with a rich and creamy profile.",
+        "tags": "name-similar,desc-similar",
+        "similarity_final": 0.85
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 410,
+      "name": "Brodies Green Tea UK",
+      "item_onboard_name": "Brodies Green Tea",
+      "desc": "A light and refreshing blend of pure sencha green tea, packed full of antioxidants.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Hot Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 25,
+        "competitor_item_name": "ChariTea",
+        "brand": "ChariTea",
+        "quantity": "200 ML",
+        "competitor_description": "ChariTea Ceylon Breakfast/green tea",
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 3.3,
+        "currency": "EUR",
+        "competitor_name": "Eurowings",
+        "catalog_name": "Eurowings_Bistro_Winter_2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 14,
+        "reasoning": "The competitor item includes green tea, aligning with the gate item's product type and description.",
+        "tags": "desc-similar,type-match",
+        "similarity_final": 0.78
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 412,
+      "name": "Brodies Breakfast Tea UK",
+      "item_onboard_name": "Brodies Breakfast Tea",
+      "desc": "Fine quality black teas from Assam and Kenya are combined to produce a classic Breakfast blend. Bright, brisk and full of malty flavour.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Hot Drink"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 249,
+        "competitor_item_name": "Tea",
+        "brand": null,
+        "quantity": null,
+        "competitor_description": "Light and refreshing black tea",
+        "parent_category": "Cafe",
+        "sales_category": "Hot Drink",
+        "price": 3.75,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 24,
+        "reasoning": "The descriptions align as both refer to a light and refreshing black tea, and the product types match.",
+        "tags": "desc-similar,type-match",
+        "similarity_final": 0.78
+      }
+    ]
+  }
+]

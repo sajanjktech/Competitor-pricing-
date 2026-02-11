@@ -55,7 +55,7 @@ def match_all_items_llm(gg_items, comp_items):
     final_results = []
 
     gg_minimal = [
-        {"id": g.item_row_id, "name": g.item_name or "", "desc": g.item_description or ""}
+        {"id": g.item_row_id, "name": g.item_name or "", "onboard_name": g.item_onboard_name or "", "desc": g.item_description or ""}
         for g in gg_items
     ]
 

@@ -3,6 +3,7 @@
     "gate_item": {
       "id": 529,
       "name": "Chicken Soup Noodle",
+      "item_onboard_name": "Chicken Soup Noodle",
       "desc": "Enjoy your noodles with or without broth as desired - perfect for a quick and convenient snack on-the-go!",
       "parent_category": "1.Cafe",
       "sales_category": "Savoury Snacks"
@@ -23,9 +24,9 @@
         "catalog_start": "2026-01-01",
         "catalog_end": "2026-04-30",
         "competitor_page": 7,
-        "reasoning": "Both items are instant noodle-based snacks with chicken flavor, suitable for quick preparation.",
-        "tags": "name-similar,type-match",
-        "similarity_final": 0.85
+        "reasoning": "The names both reference noodle-based products, and the descriptions align as quick and convenient snack options.",
+        "tags": "name-similar,desc-similar,type-match",
+        "similarity_final": 0.8
       }
     ]
   },
@@ -33,6 +34,7 @@
     "gate_item": {
       "id": 530,
       "name": "Tomato Soup",
+      "item_onboard_name": "Tomato Soup",
       "desc": "Stir up a timeless classic! Taste the simple, yet delicious flavour of rich & sweet tomatoes in a warm cup of soup!",
       "parent_category": "1.Cafe",
       "sales_category": "Savoury Snacks"
@@ -53,9 +55,9 @@
         "catalog_start": "2026-01-01",
         "catalog_end": "2026-04-30",
         "competitor_page": 7,
-        "reasoning": "Both items are tomato-based soups, offering a warm and classic flavor profile.",
-        "tags": "name-similar,type-match",
-        "similarity_final": 0.88
+        "reasoning": "Both items are tomato-based soups, and the descriptions emphasize a warm and comforting experience.",
+        "tags": "name-similar,desc-similar,type-match",
+        "similarity_final": 0.85
       }
     ]
   },
@@ -63,6 +65,7 @@
     "gate_item": {
       "id": 531,
       "name": "Potato Chips Salt",
+      "item_onboard_name": "Chips Salt",
       "desc": "Craving Salt? These Potato Chips Salt are made from a mix of potato, rice flour, corn flour, and wheat starch. It is light and crispy and comes in a can! It offers a burst of flavor in every bite with none of the guilt.",
       "parent_category": "1.Cafe",
       "sales_category": "Savoury Snacks"
@@ -83,28 +86,9 @@
         "catalog_start": "2025-12-01",
         "catalog_end": "2026-02-28",
         "competitor_page": 23,
-        "reasoning": "Both items are salted potato chips, with similar product type and flavor alignment.",
-        "tags": "name-similar,type-match",
+        "reasoning": "The name and description align as both refer to salted potato chips, and the product type matches.",
+        "tags": "name-similar,desc-similar,type-match",
         "similarity_final": 0.85
-      },
-      {
-        "competitor_item_id": 33,
-        "competitor_item_name": "Pringles Original / Pringles Sweet Paprika",
-        "brand": "Pringles",
-        "quantity": "40 g",
-        "competitor_description": null,
-        "parent_category": "Cafe",
-        "sales_category": "Savoury Snacks",
-        "price": 3.3,
-        "currency": "EUR",
-        "competitor_name": "Eurowings",
-        "catalog_name": "Eurowings_Bistro_Winter_2025",
-        "catalog_start": "2025-12-01",
-        "catalog_end": "2026-02-28",
-        "competitor_page": 17,
-        "reasoning": "Both items are potato-based chips with a light and crispy texture, and the 'Original' flavor aligns with salted chips.",
-        "tags": "name-similar,type-match",
-        "similarity_final": 0.8
       },
       {
         "competitor_item_id": 65,
@@ -121,9 +105,9 @@
         "catalog_start": "2026-01-01",
         "catalog_end": "2026-04-30",
         "competitor_page": 7,
-        "reasoning": "The 'Salt & Vinegar' and 'Original' flavors match the salted potato chip profile.",
+        "reasoning": "The competitor item includes a salt-flavored variant, matching the gate item's flavor profile.",
         "tags": "name-similar,type-match",
-        "similarity_final": 0.78
+        "similarity_final": 0.8
       },
       {
         "competitor_item_id": 233,
@@ -140,8 +124,27 @@
         "catalog_start": "2025-12-01",
         "catalog_end": "2026-02-28",
         "competitor_page": 23,
-        "reasoning": "Both items are salted potato chips, with similar product type and flavor alignment.",
+        "reasoning": "The description and product type match as both are salted potato crisps.",
         "tags": "desc-similar,type-match",
+        "similarity_final": 0.8
+      },
+      {
+        "competitor_item_id": 33,
+        "competitor_item_name": "Pringles Original / Pringles Sweet Paprika",
+        "brand": "Pringles",
+        "quantity": "40 g",
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Savoury Snacks",
+        "price": 3.3,
+        "currency": "EUR",
+        "competitor_name": "Eurowings",
+        "catalog_name": "Eurowings_Bistro_Winter_2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 17,
+        "reasoning": "Both are potato-based chips, and the description of light and crispy texture aligns with the gate item.",
+        "tags": "type-match,desc-similar",
         "similarity_final": 0.78
       }
     ]
@@ -150,30 +153,12 @@
     "gate_item": {
       "id": 532,
       "name": "You+ Peanuts",
+      "item_onboard_name": "You+ Peanuts",
       "desc": "Peanuts are whole food that contains a variety of vitamins and minerals, ample protein and beneficial unsaturated fats. Since they are a plant food, they naturally contain no cholesterol. Perfect afternoon snack and the best companion for one, and an even better with two beers.",
       "parent_category": "1.Cafe",
       "sales_category": "Savoury Snacks"
     },
     "matches": [
-      {
-        "competitor_item_id": 32,
-        "competitor_item_name": "Seeberger Snack2Go Nut Trio Roasted & Salted",
-        "brand": "Seeberger",
-        "quantity": "50 g",
-        "competitor_description": null,
-        "parent_category": "Cafe",
-        "sales_category": "Savoury Snacks",
-        "price": 3.5,
-        "currency": "EUR",
-        "competitor_name": "Eurowings",
-        "catalog_name": "Eurowings_Bistro_Winter_2025",
-        "catalog_start": "2025-12-01",
-        "catalog_end": "2026-02-28",
-        "competitor_page": 17,
-        "reasoning": "Both items are nut-based snacks, with roasted and salted flavors aligning closely.",
-        "tags": "desc-similar,type-match",
-        "similarity_final": 0.82
-      },
       {
         "competitor_item_id": 232,
         "competitor_item_name": "Mr Filbert's Dry Roasted Peanuts",
@@ -189,28 +174,28 @@
         "catalog_start": "2025-12-01",
         "catalog_end": "2026-02-28",
         "competitor_page": 23,
-        "reasoning": "Both items are peanuts, with similar product type and nutritional focus.",
-        "tags": "name-similar,type-match",
-        "similarity_final": 0.8
+        "reasoning": "The name and product type match as both are peanuts, and the quantity is close.",
+        "tags": "name-similar,type-match,quantity-close",
+        "similarity_final": 0.88
       },
       {
-        "competitor_item_id": 243,
-        "competitor_item_name": "M&M's Peanut",
-        "brand": null,
-        "quantity": "45g",
+        "competitor_item_id": 32,
+        "competitor_item_name": "Seeberger Snack2Go Nut Trio Roasted & Salted",
+        "brand": "Seeberger",
+        "quantity": "50 g",
         "competitor_description": null,
         "parent_category": "Cafe",
-        "sales_category": "Sweet Snacks",
-        "price": 2.75,
+        "sales_category": "Savoury Snacks",
+        "price": 3.5,
         "currency": "EUR",
-        "competitor_name": "Ryanair",
-        "catalog_name": "Ryan air Retail winter 2025",
+        "competitor_name": "Eurowings",
+        "catalog_name": "Eurowings_Bistro_Winter_2025",
         "catalog_start": "2025-12-01",
         "catalog_end": "2026-02-28",
-        "competitor_page": 23,
-        "reasoning": "Both items are peanut-based snacks, aligning in product type and snack category.",
-        "tags": "name-similar,type-match",
-        "similarity_final": 0.78
+        "competitor_page": 17,
+        "reasoning": "Both items are nut-based snacks, and the competitor's roasted and salted nuts align with the gate item's description.",
+        "tags": "type-match,desc-similar",
+        "similarity_final": 0.77
       }
     ]
   },
@@ -218,6 +203,7 @@
     "gate_item": {
       "id": 533,
       "name": "Potato Chips Sour Cream",
+      "item_onboard_name": "Chips Sour Cream",
       "desc": "Sour cream lovers will simply enjoy the flavor of this sour cream & onion chips together. It is simply a natural flavour combination that please everybody.",
       "parent_category": "1.Cafe",
       "sales_category": "Savoury Snacks"
@@ -238,9 +224,9 @@
         "catalog_start": "2025-12-01",
         "catalog_end": "2026-02-28",
         "competitor_page": 23,
-        "reasoning": "Both items are sour cream and onion flavored potato chips, with strong flavor and type alignment.",
-        "tags": "name-similar,type-match",
-        "similarity_final": 0.88
+        "reasoning": "The name and description align as both refer to sour cream and onion flavored potato chips, and the product type matches.",
+        "tags": "name-similar,desc-similar,type-match",
+        "similarity_final": 0.87
       },
       {
         "competitor_item_id": 65,
@@ -257,9 +243,9 @@
         "catalog_start": "2026-01-01",
         "catalog_end": "2026-04-30",
         "competitor_page": 7,
-        "reasoning": "The 'Sour Cream & Onion' flavor matches the sour cream profile of the gate item.",
+        "reasoning": "The competitor item includes a sour cream & onion flavor, directly matching the gate item's flavor profile.",
         "tags": "name-similar,type-match",
-        "similarity_final": 0.85
+        "similarity_final": 0.82
       },
       {
         "competitor_item_id": 234,
@@ -276,9 +262,9 @@
         "catalog_start": "2025-12-01",
         "catalog_end": "2026-02-28",
         "competitor_page": 23,
-        "reasoning": "Both items are flavored potato chips with similar product type and flavor alignment.",
+        "reasoning": "The description and product type match as both are cheese and onion flavored potato crisps, which is a similar flavor profile.",
         "tags": "desc-similar,type-match",
-        "similarity_final": 0.76
+        "similarity_final": 0.78
       }
     ]
   },
@@ -286,6 +272,7 @@
     "gate_item": {
       "id": 534,
       "name": "Pepperoni Snack",
+      "item_onboard_name": "Pepperoni Snack",
       "desc": "Pepperoni snack made in Bekescsaba, Hungary. A high protein, all natural snack with a new flavour. Perfect with a drink.",
       "parent_category": "1.Cafe",
       "sales_category": "Savoury Snacks"
@@ -306,8 +293,8 @@
         "catalog_start": "2025-12-01",
         "catalog_end": "2026-02-28",
         "competitor_page": 17,
-        "reasoning": "Both items are meat-based snacks with similar product types, and the competitor item includes salami, which is closely related to pepperoni.",
-        "tags": "type-match,desc-similar",
+        "reasoning": "The name and description both indicate a similar type of cured meat snack, and the product types align.",
+        "tags": "name-similar,desc-similar,type-match",
         "similarity_final": 0.78
       }
     ]
@@ -316,6 +303,7 @@
     "gate_item": {
       "id": 535,
       "name": "Soup cheese cream",
+      "item_onboard_name": "Soup cheese cream",
       "desc": "We put our heart into your soups! Try this warm cream cheese soup with the crusty croutons to taste the most original flavour",
       "parent_category": "1.Cafe",
       "sales_category": "Savoury Snacks"
@@ -336,8 +324,8 @@
         "catalog_start": "2026-01-01",
         "catalog_end": "2026-04-30",
         "competitor_page": 7,
-        "reasoning": "Both items are soups, and while the competitor item is tomato-based, it aligns with the gate item in terms of product type and warm serving context.",
-        "tags": "type-match",
+        "reasoning": "Both items are soups, and the descriptions suggest a similar warm, creamy soup experience.",
+        "tags": "desc-similar,type-match",
         "similarity_final": 0.76
       }
     ]
@@ -346,6 +334,7 @@
     "gate_item": {
       "id": 536,
       "name": "Elephant pretzel",
+      "item_onboard_name": "Elephant pretzel",
       "desc": "From the oven to your hands! Enjoy these crispy and incredibly flattened Elephant squeezed pretzels with black and white sesame flavor. The combination of black and white sesame will surprise you, it gives the product a special taste, as the black sesame being used in ancient times in preparing Asian dishes.",
       "parent_category": "1.Cafe",
       "sales_category": "Savoury Snacks"
@@ -366,8 +355,8 @@
         "catalog_start": "2025-12-01",
         "catalog_end": "2026-02-28",
         "competitor_page": 23,
-        "reasoning": "Both items are pretzel-based snacks with a focus on unique flavors, and the competitor item mentions multi-seed, which aligns with the sesame flavor of the gate item.",
-        "tags": "name-similar,type-match",
+        "reasoning": "Both items are pretzel-based snacks with a focus on unique flavors, and the competitor's description of 'Multi-Seed Pretzel Thins' aligns with the gate item's sesame flavor profile.",
+        "tags": "name-similar,desc-similar,type-match",
         "similarity_final": 0.78
       }
     ]
@@ -376,6 +365,7 @@
     "gate_item": {
       "id": 537,
       "name": "Tapas Box",
+      "item_onboard_name": "Tapas box",
       "desc": "Make a real deal by ordering this premium Tapas plate, the flavour of the cured meat, speciality cheese and a variety of crackers will pop in your mouth and make you enjoy every bite, It is even better with two wine glasses to share!",
       "parent_category": "1.Cafe",
       "sales_category": "Savoury Snacks"
@@ -396,39 +386,9 @@
         "catalog_start": "2026-01-01",
         "catalog_end": "2026-04-30",
         "competitor_page": 7,
-        "reasoning": "Both items are tapas-style assortments featuring cured meats, crackers, and complementary flavors, aligning closely in product type and description.",
-        "tags": "type-match,desc-similar",
-        "similarity_final": 0.81
-      }
-    ]
-  },
-  {
-    "gate_item": {
-      "id": 538,
-      "name": "Krambals Bruschetta",
-      "desc": "Ask our crew member for a Krambals Bruschetta, each slice combines the authentic taste of a real ciabatta, with two delicious ingredients that complete each other to pure perfection. Revel in the ever-green combination of sun-ripe tomatoes and mild, soft mozzarella cheese.",
-      "parent_category": "1.Cafe",
-      "sales_category": "Savoury Snacks"
-    },
-    "matches": [
-      {
-        "competitor_item_id": 234,
-        "competitor_item_name": "Fairfields Farm",
-        "brand": null,
-        "quantity": "35g",
-        "competitor_description": "Cheese & Onion Crisps",
-        "parent_category": "Cafe",
-        "sales_category": "Savoury Snacks",
-        "price": 3.5,
-        "currency": "EUR",
-        "competitor_name": "Ryanair",
-        "catalog_name": "Ryan air Retail winter 2025",
-        "catalog_start": "2025-12-01",
-        "catalog_end": "2026-02-28",
-        "competitor_page": 23,
-        "reasoning": "Both items are crispy snacks with cheese flavor, and the competitor item aligns with the cheese and onion profile described in the gate item.",
-        "tags": "desc-similar,type-match",
-        "similarity_final": 0.76
+        "reasoning": "Both items are tapas offerings with cured meats and crackers, aligning in product type and description.",
+        "tags": "name-similar,desc-similar,type-match",
+        "similarity_final": 0.85
       }
     ]
   },
@@ -436,534 +396,7 @@
     "gate_item": {
       "id": 541,
       "name": "Cheese cracker",
-      "desc": "Mini Cheddars crackers with flavour to savour, these Mini Cheddars are baked to golden perfection and filled with all the deliciousness and crunch just for you to enjoy on board. Oven-baked with no artificial colours or flavours! Perfect for snacking.",
-      "parent_category": "1.Cafe",
-      "sales_category": "Savoury Snacks"
-    },
-    "matches": [
-      {
-        "competitor_item_id": 61,
-        "competitor_item_name": "Ploughman’s",
-        "brand": null,
-        "quantity": null,
-        "competitor_description": "Cream crackers, Peter’s Yard sourdough crackers, soft cheddar cheese, cheese with fine herbs, Branston Pickle and pickled onions.",
-        "parent_category": "Cafe",
-        "sales_category": "Savoury Snacks",
-        "price": 6.5,
-        "currency": "GBP",
-        "competitor_name": "Jet2cafe",
-        "catalog_name": "Jet2Cafe",
-        "catalog_start": "2026-01-01",
-        "catalog_end": "2026-04-30",
-        "competitor_page": 7,
-        "reasoning": "Both items include cheese crackers and emphasize savory snacking, aligning in product type and description.",
-        "tags": "desc-similar,type-match",
-        "similarity_final": 0.78
-      },
-      {
-        "competitor_item_id": 234,
-        "competitor_item_name": "Fairfields Farm",
-        "brand": null,
-        "quantity": "35g",
-        "competitor_description": "Cheese & Onion Crisps",
-        "parent_category": "Cafe",
-        "sales_category": "Savoury Snacks",
-        "price": 3.5,
-        "currency": "EUR",
-        "competitor_name": "Ryanair",
-        "catalog_name": "Ryan air Retail winter 2025",
-        "catalog_start": "2025-12-01",
-        "catalog_end": "2026-02-28",
-        "competitor_page": 23,
-        "reasoning": "Both items are cheese-flavored snacks with a crunchy texture, and the competitor description aligns with the gate item type.",
-        "tags": "name-similar,type-match,desc-similar",
-        "similarity_final": 0.78
-      },
-      {
-        "competitor_item_id": 62,
-        "competitor_item_name": "Kids’ Snack Box",
-        "brand": null,
-        "quantity": null,
-        "competitor_description": "Mini Cheddars, Freddo, Gummi Zone Pizza XL, Zombie gummy sweets and a pack of eco colouring pencils.",
-        "parent_category": "Cafe",
-        "sales_category": "Savoury Snacks",
-        "price": 5.5,
-        "currency": "GBP",
-        "competitor_name": "Jet2cafe",
-        "catalog_name": "Jet2Cafe",
-        "catalog_start": "2026-01-01",
-        "catalog_end": "2026-04-30",
-        "competitor_page": 7,
-        "reasoning": "Includes Mini Cheddars, which match the gate item's description of cheese crackers, indicating product type similarity.",
-        "tags": "desc-similar,type-match",
-        "similarity_final": 0.76
-      }
-    ]
-  },
-  {
-    "gate_item": {
-      "id": 544,
-      "name": "You+ Snack Box",
-      "desc": "More for less! Our brand new You+ Snack Box is now giving you the opportunity to taste 4 snacks for only 5EUR! With this offer you could also add a 500ml bottle of Mineral Water for only 2EUR! The Snack Box contains a You+ chocolate bar (20g), an Abonett gluten-free sandwich with cheese&chives (26g), Elephant Pretzels with salt (40g) and Papadopoulos Biscotello biscuits (28.5g).",
-      "parent_category": "1.Cafe",
-      "sales_category": "Savoury Snacks"
-    },
-    "matches": [
-      {
-        "competitor_item_id": 62,
-        "competitor_item_name": "Kids’ Snack Box",
-        "brand": null,
-        "quantity": null,
-        "competitor_description": "Mini Cheddars, Freddo, Gummi Zone Pizza XL, Zombie gummy sweets and a pack of eco colouring pencils.",
-        "parent_category": "Cafe",
-        "sales_category": "Savoury Snacks",
-        "price": 5.5,
-        "currency": "GBP",
-        "competitor_name": "Jet2cafe",
-        "catalog_name": "Jet2Cafe",
-        "catalog_start": "2026-01-01",
-        "catalog_end": "2026-04-30",
-        "competitor_page": 7,
-        "reasoning": "Both items are snack boxes containing multiple snack items, with similar variety and concept.",
-        "tags": "type-match,desc-similar",
-        "similarity_final": 0.78
-      },
-      {
-        "competitor_item_id": 227,
-        "competitor_item_name": "Olly's Pretzels",
-        "brand": null,
-        "quantity": "35g",
-        "competitor_description": "Multi-Seed Pretzel Thins",
-        "parent_category": "Cafe",
-        "sales_category": "Savoury Snacks",
-        "price": 3.5,
-        "currency": "EUR",
-        "competitor_name": "Ryanair",
-        "catalog_name": "Ryan air Retail winter 2025",
-        "catalog_start": "2025-12-01",
-        "catalog_end": "2026-02-28",
-        "competitor_page": 23,
-        "reasoning": "The competitor item matches the pretzel component of the Snack Box based on name similarity and close quantity.",
-        "tags": "name-similar,quantity-close",
-        "similarity_final": 0.78
-      },
-      {
-        "competitor_item_id": 245,
-        "competitor_item_name": "Kids Snack Box",
-        "brand": null,
-        "quantity": null,
-        "competitor_description": "Contents dependent on departing airport",
-        "parent_category": "Cafe",
-        "sales_category": "Sweet Snacks",
-        "price": 7.0,
-        "currency": "EUR",
-        "competitor_name": "Ryanair",
-        "catalog_name": "Ryan air Retail winter 2025",
-        "catalog_start": "2025-12-01",
-        "catalog_end": "2026-02-28",
-        "competitor_page": 23,
-        "reasoning": "Both items are snack boxes offering a variety of snacks, though the specific contents differ.",
-        "tags": "name-similar,type-match",
-        "similarity_final": 0.78
-      },
-      {
-        "competitor_item_id": 233,
-        "competitor_item_name": "Fairfields Farm",
-        "brand": null,
-        "quantity": "35g",
-        "competitor_description": "Sea Salted Crisps",
-        "parent_category": "Cafe",
-        "sales_category": "Savoury Snacks",
-        "price": 3.5,
-        "currency": "EUR",
-        "competitor_name": "Ryanair",
-        "catalog_name": "Ryan air Retail winter 2025",
-        "catalog_start": "2025-12-01",
-        "catalog_end": "2026-02-28",
-        "competitor_page": 23,
-        "reasoning": "The competitor item matches the salty snack component of the Snack Box based on description alignment and close quantity.",
-        "tags": "desc-similar,quantity-close",
-        "similarity_final": 0.76
-      }
-    ]
-  },
-  {
-    "gate_item": {
-      "id": 545,
-      "name": "Oloves Olives",
-      "desc": "Made with 100% all natural, simple ingredients and NO additives. High in flavor, low in calories. The packs contain no liquid, just tear open and enjoy. Each pack has at least 10 juicy olives, with no pits!",
-      "parent_category": "1.Cafe",
-      "sales_category": "Savoury Snacks"
-    },
-    "matches": [
-      {
-        "competitor_item_id": 31,
-        "competitor_item_name": "Salami Snack Selection Premium with Olives",
-        "brand": null,
-        "quantity": "80 g",
-        "competitor_description": "Snack selection with salami in pretzel and heart shapes, salted pastry pretzels, salt cookies heart and olives.",
-        "parent_category": "Cafe",
-        "sales_category": "Savoury Snacks",
-        "price": 6.9,
-        "currency": "EUR",
-        "competitor_name": "Eurowings",
-        "catalog_name": "Eurowings_Bistro_Winter_2025",
-        "catalog_start": "2025-12-01",
-        "catalog_end": "2026-02-28",
-        "competitor_page": 17,
-        "reasoning": "Both items prominently feature olives as part of their offering, aligning in product type and description.",
-        "tags": "type-match,desc-similar",
-        "similarity_final": 0.76
-      }
-    ]
-  },
-  {
-    "gate_item": {
-      "id": 546,
-      "name": "Chicken Soup Noodle UK",
-      "desc": "Enjoy your noodles with or without broth as desired - perfect for a quick and convenient snack on-the-go!",
-      "parent_category": "1.Cafe",
-      "sales_category": "Savoury Snacks"
-    },
-    "matches": [
-      {
-        "competitor_item_id": 66,
-        "competitor_item_name": "Pot Noodle",
-        "brand": null,
-        "quantity": null,
-        "competitor_description": "Chicken & Mushroom",
-        "parent_category": "Cafe",
-        "sales_category": "Savoury Snacks",
-        "price": 3.4,
-        "currency": "GBP",
-        "competitor_name": "Jet2cafe",
-        "catalog_name": "Jet2Cafe",
-        "catalog_start": "2026-01-01",
-        "catalog_end": "2026-04-30",
-        "competitor_page": 7,
-        "reasoning": "Both items are instant noodle products with chicken flavor, matching closely in type and description.",
-        "tags": "name-similar,type-match,desc-similar",
-        "similarity_final": 0.81
-      }
-    ]
-  },
-  {
-    "gate_item": {
-      "id": 547,
-      "name": "Tomato soup UK",
-      "desc": "Stir up a timeless classic! Taste the simple, yet delicious flavour of rich and sweet tomatoes in a warm cup of soup!",
-      "parent_category": "1.Cafe",
-      "sales_category": "Savoury Snacks"
-    },
-    "matches": [
-      {
-        "competitor_item_id": 68,
-        "competitor_item_name": "Heinz Cup Soup",
-        "brand": null,
-        "quantity": null,
-        "competitor_description": "Cream of Tomato",
-        "parent_category": "Cafe",
-        "sales_category": "Savoury Snacks",
-        "price": 2.6,
-        "currency": "GBP",
-        "competitor_name": "Jet2cafe",
-        "catalog_name": "Jet2Cafe",
-        "catalog_start": "2026-01-01",
-        "catalog_end": "2026-04-30",
-        "competitor_page": 7,
-        "reasoning": "Both items are tomato-based soups, matching closely in type and description.",
-        "tags": "name-similar,type-match,desc-similar",
-        "similarity_final": 0.83
-      }
-    ]
-  },
-  {
-    "gate_item": {
-      "id": 548,
-      "name": "Potato Chips Salt UK",
-      "desc": "Craving Salt? These Potato Chips Salt are made from a mix of potato, rice flour, corn flour, and wheat starch. It is light and crispy and comes in a can! It offers a burst of flavour in every bite with none of the guilt.",
-      "parent_category": "1.Cafe",
-      "sales_category": "Savoury Snacks"
-    },
-    "matches": [
-      {
-        "competitor_item_id": 229,
-        "competitor_item_name": "Pringles",
-        "brand": null,
-        "quantity": "40g",
-        "competitor_description": "Original",
-        "parent_category": "Cafe",
-        "sales_category": "Savoury Snacks",
-        "price": 3.25,
-        "currency": "EUR",
-        "competitor_name": "Ryanair",
-        "catalog_name": "Ryan air Retail winter 2025",
-        "catalog_start": "2025-12-01",
-        "catalog_end": "2026-02-28",
-        "competitor_page": 23,
-        "reasoning": "The competitor item matches based on name similarity, type match, and close quantity.",
-        "tags": "name-similar,type-match,quantity-close",
-        "similarity_final": 0.8
-      },
-      {
-        "competitor_item_id": 33,
-        "competitor_item_name": "Pringles Original / Pringles Sweet Paprika",
-        "brand": "Pringles",
-        "quantity": "40 g",
-        "competitor_description": null,
-        "parent_category": "Cafe",
-        "sales_category": "Savoury Snacks",
-        "price": 3.3,
-        "currency": "EUR",
-        "competitor_name": "Eurowings",
-        "catalog_name": "Eurowings_Bistro_Winter_2025",
-        "catalog_start": "2025-12-01",
-        "catalog_end": "2026-02-28",
-        "competitor_page": 17,
-        "reasoning": "Both items are potato-based chips with similar salty flavor profiles, matching in type and description.",
-        "tags": "type-match,desc-similar",
-        "similarity_final": 0.79
-      },
-      {
-        "competitor_item_id": 65,
-        "competitor_item_name": "Pringles",
-        "brand": null,
-        "quantity": null,
-        "competitor_description": "Salt & Vinegar, Original, Sour Cream & Onion",
-        "parent_category": "Cafe",
-        "sales_category": "Savoury Snacks",
-        "price": 2.8,
-        "currency": "GBP",
-        "competitor_name": "Jet2cafe",
-        "catalog_name": "Jet2Cafe",
-        "catalog_start": "2026-01-01",
-        "catalog_end": "2026-04-30",
-        "competitor_page": 7,
-        "reasoning": "Both items are potato chips with salty flavors, aligning in type and description.",
-        "tags": "type-match,desc-similar",
-        "similarity_final": 0.77
-      },
-      {
-        "competitor_item_id": 233,
-        "competitor_item_name": "Fairfields Farm",
-        "brand": null,
-        "quantity": "35g",
-        "competitor_description": "Sea Salted Crisps",
-        "parent_category": "Cafe",
-        "sales_category": "Savoury Snacks",
-        "price": 3.5,
-        "currency": "EUR",
-        "competitor_name": "Ryanair",
-        "catalog_name": "Ryan air Retail winter 2025",
-        "catalog_start": "2025-12-01",
-        "catalog_end": "2026-02-28",
-        "competitor_page": 23,
-        "reasoning": "The competitor item matches based on description alignment, type match, and close quantity.",
-        "tags": "desc-similar,type-match,quantity-close",
-        "similarity_final": 0.77
-      }
-    ]
-  },
-  {
-    "gate_item": {
-      "id": 549,
-      "name": "You+ Peanuts UK",
-      "desc": "Say yes to this Peanuts selection lightly salted to maintain the peanuts original flavour and healthy qualities, you will be amazed by the crunchy texture, perfect snack while enjoying your flight with us! Even better with two beers",
-      "parent_category": "1.Cafe",
-      "sales_category": "Savoury Snacks"
-    },
-    "matches": [
-      {
-        "competitor_item_id": 232,
-        "competitor_item_name": "Mr Filbert's Dry Roasted Peanuts",
-        "brand": null,
-        "quantity": "40g",
-        "competitor_description": null,
-        "parent_category": "Cafe",
-        "sales_category": "Savoury Snacks",
-        "price": 2.75,
-        "currency": "EUR",
-        "competitor_name": "Ryanair",
-        "catalog_name": "Ryan air Retail winter 2025",
-        "catalog_start": "2025-12-01",
-        "catalog_end": "2026-02-28",
-        "competitor_page": 23,
-        "reasoning": "Both items are peanuts with a focus on maintaining original flavor. The name and product type align closely.",
-        "tags": "name-similar,type-match",
-        "similarity_final": 0.85
-      },
-      {
-        "competitor_item_id": 32,
-        "competitor_item_name": "Seeberger Snack2Go Nut Trio Roasted & Salted",
-        "brand": "Seeberger",
-        "quantity": "50 g",
-        "competitor_description": null,
-        "parent_category": "Cafe",
-        "sales_category": "Savoury Snacks",
-        "price": 3.5,
-        "currency": "EUR",
-        "competitor_name": "Eurowings",
-        "catalog_name": "Eurowings_Bistro_Winter_2025",
-        "catalog_start": "2025-12-01",
-        "catalog_end": "2026-02-28",
-        "competitor_page": 17,
-        "reasoning": "Both items are nut-based snacks with roasted and salted flavor profiles, aligning in product type and description.",
-        "tags": "desc-similar,type-match",
-        "similarity_final": 0.78
-      },
-      {
-        "competitor_item_id": 243,
-        "competitor_item_name": "M&M's Peanut",
-        "brand": null,
-        "quantity": "45g",
-        "competitor_description": null,
-        "parent_category": "Cafe",
-        "sales_category": "Sweet Snacks",
-        "price": 2.75,
-        "currency": "EUR",
-        "competitor_name": "Ryanair",
-        "catalog_name": "Ryan air Retail winter 2025",
-        "catalog_start": "2025-12-01",
-        "catalog_end": "2026-02-28",
-        "competitor_page": 23,
-        "reasoning": "Both items are peanut-based snacks, with name similarity and product type alignment.",
-        "tags": "name-similar,type-match",
-        "similarity_final": 0.78
-      }
-    ]
-  },
-  {
-    "gate_item": {
-      "id": 550,
-      "name": "Potato Chips Sour Cream UK",
-      "desc": "Sour cream lovers will simply enjoy the flavour of this sour cream and onion chips together. It s simply a natural flavour combination that please everybody.",
-      "parent_category": "1.Cafe",
-      "sales_category": "Savoury Snacks"
-    },
-    "matches": [
-      {
-        "competitor_item_id": 228,
-        "competitor_item_name": "Pringles",
-        "brand": null,
-        "quantity": "40g",
-        "competitor_description": "Sour Cream & Onion",
-        "parent_category": "Cafe",
-        "sales_category": "Savoury Snacks",
-        "price": 3.25,
-        "currency": "EUR",
-        "competitor_name": "Ryanair",
-        "catalog_name": "Ryan air Retail winter 2025",
-        "catalog_start": "2025-12-01",
-        "catalog_end": "2026-02-28",
-        "competitor_page": 23,
-        "reasoning": "Both items are sour cream and onion flavored potato chips, with strong alignment in name and product type.",
-        "tags": "name-similar,type-match",
-        "similarity_final": 0.88
-      },
-      {
-        "competitor_item_id": 65,
-        "competitor_item_name": "Pringles",
-        "brand": null,
-        "quantity": null,
-        "competitor_description": "Salt & Vinegar, Original, Sour Cream & Onion",
-        "parent_category": "Cafe",
-        "sales_category": "Savoury Snacks",
-        "price": 2.8,
-        "currency": "GBP",
-        "competitor_name": "Jet2cafe",
-        "catalog_name": "Jet2Cafe",
-        "catalog_start": "2026-01-01",
-        "catalog_end": "2026-04-30",
-        "competitor_page": 7,
-        "reasoning": "The competitor item includes Sour Cream & Onion flavor, matching the gate item's flavor profile and product type.",
-        "tags": "name-similar,type-match",
-        "similarity_final": 0.8
-      }
-    ]
-  },
-  {
-    "gate_item": {
-      "id": 551,
-      "name": "Elephant pretzel UK",
-      "desc": "From the oven to your hands! Enjoy these crispy and incredibly flattened Elephant squeezed pretzels with black and white sesame flavor. The combination of black and white sesame will surprise you, it gives the product a special taste, as the black sesame being used in ancient times in preparing Asian dishes.",
-      "parent_category": "1.Cafe",
-      "sales_category": "Savoury Snacks"
-    },
-    "matches": [
-      {
-        "competitor_item_id": 227,
-        "competitor_item_name": "Olly's Pretzels",
-        "brand": null,
-        "quantity": "35g",
-        "competitor_description": "Multi-Seed Pretzel Thins",
-        "parent_category": "Cafe",
-        "sales_category": "Savoury Snacks",
-        "price": 3.5,
-        "currency": "EUR",
-        "competitor_name": "Ryanair",
-        "catalog_name": "Ryan air Retail winter 2025",
-        "catalog_start": "2025-12-01",
-        "catalog_end": "2026-02-28",
-        "competitor_page": 23,
-        "reasoning": "Both items are pretzels with a focus on seeds and unique flavors. The product type and description align.",
-        "tags": "type-match,desc-similar",
-        "similarity_final": 0.8
-      },
-      {
-        "competitor_item_id": 31,
-        "competitor_item_name": "Salami Snack Selection Premium with Olives",
-        "brand": null,
-        "quantity": "80 g",
-        "competitor_description": "Snack selection with salami in pretzel and heart shapes, salted pastry pretzels, salt cookies heart and olives.",
-        "parent_category": "Cafe",
-        "sales_category": "Savoury Snacks",
-        "price": 6.9,
-        "currency": "EUR",
-        "competitor_name": "Eurowings",
-        "catalog_name": "Eurowings_Bistro_Winter_2025",
-        "catalog_start": "2025-12-01",
-        "catalog_end": "2026-02-28",
-        "competitor_page": 17,
-        "reasoning": "Both items include pretzels as a key component, aligning in product type and description.",
-        "tags": "type-match,desc-similar",
-        "similarity_final": 0.76
-      }
-    ]
-  },
-  {
-    "gate_item": {
-      "id": 552,
-      "name": "Tapas box UK",
-      "desc": "Make a real deal by ordering this premium Tapas plate, the flavour of the cured meat, speciality cheese and a variety of crackers will pop in your mouth and make you enjoy every bite, It is even better with two wine glasses to share!",
-      "parent_category": "1.Cafe",
-      "sales_category": "Savoury Snacks"
-    },
-    "matches": [
-      {
-        "competitor_item_id": 63,
-        "competitor_item_name": "Spanish Tapas",
-        "brand": null,
-        "quantity": null,
-        "competitor_description": "Picos Cracker pack, Serrano jamon, garlic and thyme olives and sobrasada paste.",
-        "parent_category": "Cafe",
-        "sales_category": "Savoury Snacks",
-        "price": 6.5,
-        "currency": "GBP",
-        "competitor_name": "Jet2cafe",
-        "catalog_name": "Jet2Cafe",
-        "catalog_start": "2026-01-01",
-        "catalog_end": "2026-04-30",
-        "competitor_page": 7,
-        "reasoning": "Both items are tapas-style snack boxes featuring cured meats, crackers, and olives, matching in product type and description.",
-        "tags": "name-similar,type-match,desc-similar",
-        "similarity_final": 0.85
-      }
-    ]
-  },
-  {
-    "gate_item": {
-      "id": 554,
-      "name": "Cheese cracker UK",
+      "item_onboard_name": "Cheese cracker",
       "desc": "Mini Cheddars crackers with flavour to savour, these Mini Cheddars are baked to golden perfection and filled with all the deliciousness and crunch just for you to enjoy on board. Oven-baked with no artificial colours or flavours! Perfect for snacking.",
       "parent_category": "1.Cafe",
       "sales_category": "Savoury Snacks"
@@ -984,8 +417,401 @@
         "catalog_start": "2026-01-01",
         "catalog_end": "2026-04-30",
         "competitor_page": 7,
-        "reasoning": "The name 'Mini Cheddars' is identical, and both items are cheese-flavored crackers.",
+        "reasoning": "The name and description both indicate a cheese-flavored cracker snack, aligning closely in product type and purpose.",
+        "tags": "name-similar,desc-similar,type-match",
+        "similarity_final": 0.8
+      },
+      {
+        "competitor_item_id": 234,
+        "competitor_item_name": "Fairfields Farm",
+        "brand": null,
+        "quantity": "35g",
+        "competitor_description": "Cheese & Onion Crisps",
+        "parent_category": "Cafe",
+        "sales_category": "Savoury Snacks",
+        "price": 3.5,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 23,
+        "reasoning": "The competitor item 'Cheese & Onion Crisps' aligns with the gate item due to similar product type (cheese-flavored snack) and description alignment.",
+        "tags": "desc-similar,type-match",
+        "similarity_final": 0.78
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 545,
+      "name": "Oloves Olives",
+      "item_onboard_name": "Oloves Olives",
+      "desc": "Made with 100% all natural, simple ingredients and NO additives. High in flavor, low in calories. The packs contain no liquid, just tear open and enjoy. Each pack has at least 10 juicy olives, with no pits!",
+      "parent_category": "1.Cafe",
+      "sales_category": "Savoury Snacks"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 31,
+        "competitor_item_name": "Salami Snack Selection Premium with Olives",
+        "brand": null,
+        "quantity": "80 g",
+        "competitor_description": "Snack selection with salami in pretzel and heart shapes, salted pastry pretzels, salt cookies heart and olives.",
+        "parent_category": "Cafe",
+        "sales_category": "Savoury Snacks",
+        "price": 6.9,
+        "currency": "EUR",
+        "competitor_name": "Eurowings",
+        "catalog_name": "Eurowings_Bistro_Winter_2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 17,
+        "reasoning": "Both items include olives as a key component, and the descriptions align in terms of snack-type offerings.",
+        "tags": "name-similar,desc-similar,type-match",
+        "similarity_final": 0.78
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 546,
+      "name": "Chicken Soup Noodle UK",
+      "item_onboard_name": "Chicken Soup Noodle pot",
+      "desc": "Enjoy your noodles with or without broth as desired - perfect for a quick and convenient snack on-the-go!",
+      "parent_category": "1.Cafe",
+      "sales_category": "Savoury Snacks"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 66,
+        "competitor_item_name": "Pot Noodle",
+        "brand": null,
+        "quantity": null,
+        "competitor_description": "Chicken & Mushroom",
+        "parent_category": "Cafe",
+        "sales_category": "Savoury Snacks",
+        "price": 3.4,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 7,
+        "reasoning": "Both items are chicken-flavored noodle snacks, and the descriptions emphasize convenience and quick preparation.",
+        "tags": "name-similar,desc-similar,type-match",
+        "similarity_final": 0.8
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 547,
+      "name": "Tomato soup UK",
+      "item_onboard_name": "Tomato soup",
+      "desc": "Stir up a timeless classic! Taste the simple, yet delicious flavour of rich and sweet tomatoes in a warm cup of soup!",
+      "parent_category": "1.Cafe",
+      "sales_category": "Savoury Snacks"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 68,
+        "competitor_item_name": "Heinz Cup Soup",
+        "brand": null,
+        "quantity": null,
+        "competitor_description": "Cream of Tomato",
+        "parent_category": "Cafe",
+        "sales_category": "Savoury Snacks",
+        "price": 2.6,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 7,
+        "reasoning": "Both items are tomato-based soups, and the descriptions highlight their classic and comforting nature.",
+        "tags": "name-similar,desc-similar,type-match",
+        "similarity_final": 0.85
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 548,
+      "name": "Potato Chips Salt UK",
+      "item_onboard_name": "Potato Chips Salt",
+      "desc": "Craving Salt? These Potato Chips Salt are made from a mix of potato, rice flour, corn flour, and wheat starch. It is light and crispy and comes in a can! It offers a burst of flavour in every bite with none of the guilt.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Savoury Snacks"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 229,
+        "competitor_item_name": "Pringles",
+        "brand": null,
+        "quantity": "40g",
+        "competitor_description": "Original",
+        "parent_category": "Cafe",
+        "sales_category": "Savoury Snacks",
+        "price": 3.25,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 23,
+        "reasoning": "Both items are salted potato-based snacks with similar product types and quantities.",
+        "tags": "name-similar,quantity-close,type-match",
+        "similarity_final": 0.8
+      },
+      {
+        "competitor_item_id": 233,
+        "competitor_item_name": "Fairfields Farm",
+        "brand": null,
+        "quantity": "35g",
+        "competitor_description": "Sea Salted Crisps",
+        "parent_category": "Cafe",
+        "sales_category": "Savoury Snacks",
+        "price": 3.5,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 23,
+        "reasoning": "Both items are salted potato-based snacks with similar product types and quantities.",
+        "tags": "desc-similar,quantity-close,type-match",
+        "similarity_final": 0.78
+      },
+      {
+        "competitor_item_id": 33,
+        "competitor_item_name": "Pringles Original / Pringles Sweet Paprika",
+        "brand": "Pringles",
+        "quantity": "40 g",
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Savoury Snacks",
+        "price": 3.3,
+        "currency": "EUR",
+        "competitor_name": "Eurowings",
+        "catalog_name": "Eurowings_Bistro_Winter_2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 17,
+        "reasoning": "Both items are salted potato-based snacks, and the competitor item includes a similar portion size.",
+        "tags": "name-similar,desc-similar,type-match",
+        "similarity_final": 0.77
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 549,
+      "name": "You+ Peanuts UK",
+      "item_onboard_name": "You+ Peanuts 50g",
+      "desc": "Say yes to this Peanuts selection lightly salted to maintain the peanuts original flavour and healthy qualities, you will be amazed by the crunchy texture, perfect snack while enjoying your flight with us! Even better with two beers",
+      "parent_category": "1.Cafe",
+      "sales_category": "Savoury Snacks"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 232,
+        "competitor_item_name": "Mr Filbert's Dry Roasted Peanuts",
+        "brand": null,
+        "quantity": "40g",
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Savoury Snacks",
+        "price": 2.75,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 23,
+        "reasoning": "Both items are peanuts with a focus on maintaining the original flavor. The names and product types align closely.",
         "tags": "name-similar,type-match",
+        "similarity_final": 0.85
+      },
+      {
+        "competitor_item_id": 32,
+        "competitor_item_name": "Seeberger Snack2Go Nut Trio Roasted & Salted",
+        "brand": "Seeberger",
+        "quantity": "50 g",
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Savoury Snacks",
+        "price": 3.5,
+        "currency": "EUR",
+        "competitor_name": "Eurowings",
+        "catalog_name": "Eurowings_Bistro_Winter_2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 17,
+        "reasoning": "Both items are roasted and salted nut snacks with similar quantities, making them comparable products.",
+        "tags": "name-similar,quantity-close,type-match",
+        "similarity_final": 0.78
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 550,
+      "name": "Potato Chips Sour Cream UK",
+      "item_onboard_name": "Potato Chips Sour Cream",
+      "desc": "Sour cream lovers will simply enjoy the flavour of this sour cream and onion chips together. It s simply a natural flavour combination that please everybody.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Savoury Snacks"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 228,
+        "competitor_item_name": "Pringles",
+        "brand": null,
+        "quantity": "40g",
+        "competitor_description": "Sour Cream & Onion",
+        "parent_category": "Cafe",
+        "sales_category": "Savoury Snacks",
+        "price": 3.25,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 23,
+        "reasoning": "Both items are sour cream and onion flavored potato chips. The descriptions and product types match closely.",
+        "tags": "name-similar,desc-similar,type-match",
+        "similarity_final": 0.88
+      },
+      {
+        "competitor_item_id": 65,
+        "competitor_item_name": "Pringles",
+        "brand": null,
+        "quantity": null,
+        "competitor_description": "Salt & Vinegar, Original, Sour Cream & Onion",
+        "parent_category": "Cafe",
+        "sales_category": "Savoury Snacks",
+        "price": 2.8,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 7,
+        "reasoning": "The competitor item includes a sour cream & onion flavor, which matches the gate item's flavor profile.",
+        "tags": "name-similar,type-match",
+        "similarity_final": 0.8
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 551,
+      "name": "Elephant pretzel UK",
+      "item_onboard_name": "Elephant pretzel 80g",
+      "desc": "From the oven to your hands! Enjoy these crispy and incredibly flattened Elephant squeezed pretzels with black and white sesame flavor. The combination of black and white sesame will surprise you, it gives the product a special taste, as the black sesame being used in ancient times in preparing Asian dishes.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Savoury Snacks"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 227,
+        "competitor_item_name": "Olly's Pretzels",
+        "brand": null,
+        "quantity": "35g",
+        "competitor_description": "Multi-Seed Pretzel Thins",
+        "parent_category": "Cafe",
+        "sales_category": "Savoury Snacks",
+        "price": 3.5,
+        "currency": "EUR",
+        "competitor_name": "Ryanair",
+        "catalog_name": "Ryan air Retail winter 2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 23,
+        "reasoning": "Both items are pretzels with a focus on unique flavors and textures. The product types align closely.",
+        "tags": "name-similar,type-match",
+        "similarity_final": 0.8
+      },
+      {
+        "competitor_item_id": 31,
+        "competitor_item_name": "Salami Snack Selection Premium with Olives",
+        "brand": null,
+        "quantity": "80 g",
+        "competitor_description": "Snack selection with salami in pretzel and heart shapes, salted pastry pretzels, salt cookies heart and olives.",
+        "parent_category": "Cafe",
+        "sales_category": "Savoury Snacks",
+        "price": 6.9,
+        "currency": "EUR",
+        "competitor_name": "Eurowings",
+        "catalog_name": "Eurowings_Bistro_Winter_2025",
+        "catalog_start": "2025-12-01",
+        "catalog_end": "2026-02-28",
+        "competitor_page": 17,
+        "reasoning": "Both items include pretzels as a key component, and the quantities are close.",
+        "tags": "type-match,quantity-close",
+        "similarity_final": 0.76
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 552,
+      "name": "Tapas box UK",
+      "item_onboard_name": "Tapas box 77g",
+      "desc": "Make a real deal by ordering this premium Tapas plate, the flavour of the cured meat, speciality cheese and a variety of crackers will pop in your mouth and make you enjoy every bite, It is even better with two wine glasses to share!",
+      "parent_category": "1.Cafe",
+      "sales_category": "Savoury Snacks"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 63,
+        "competitor_item_name": "Spanish Tapas",
+        "brand": null,
+        "quantity": null,
+        "competitor_description": "Picos Cracker pack, Serrano jamon, garlic and thyme olives and sobrasada paste.",
+        "parent_category": "Cafe",
+        "sales_category": "Savoury Snacks",
+        "price": 6.5,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 7,
+        "reasoning": "Both items are tapas-style snack boxes with similar components like cured meats and crackers.",
+        "tags": "name-similar,type-match",
+        "similarity_final": 0.85
+      }
+    ]
+  },
+  {
+    "gate_item": {
+      "id": 554,
+      "name": "Cheese cracker UK",
+      "item_onboard_name": "Cheese crackers",
+      "desc": "Mini Cheddars crackers with flavour to savour, these Mini Cheddars are baked to golden perfection and filled with all the deliciousness and crunch just for you to enjoy on board. Oven-baked with no artificial colours or flavours! Perfect for snacking.",
+      "parent_category": "1.Cafe",
+      "sales_category": "Savoury Snacks"
+    },
+    "matches": [
+      {
+        "competitor_item_id": 67,
+        "competitor_item_name": "Mini Cheddars",
+        "brand": null,
+        "quantity": null,
+        "competitor_description": "Original",
+        "parent_category": "Cafe",
+        "sales_category": "Savoury Snacks",
+        "price": 2.0,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 7,
+        "reasoning": "The names are highly similar, and the descriptions align as both refer to Mini Cheddars crackers with a focus on snacking.",
+        "tags": "name-similar,desc-similar",
         "similarity_final": 0.9
       },
       {
@@ -1003,9 +829,9 @@
         "catalog_start": "2026-01-01",
         "catalog_end": "2026-04-30",
         "competitor_page": 7,
-        "reasoning": "The competitor item includes Mini Cheddars, which matches the name and product type of the gate item. Both are cheese-flavored crackers.",
-        "tags": "name-similar,type-match",
-        "similarity_final": 0.85
+        "reasoning": "The description mentions Mini Cheddars as part of the snack box, indicating a partial match.",
+        "tags": "desc-similar",
+        "similarity_final": 0.78
       },
       {
         "competitor_item_id": 234,
@@ -1022,7 +848,7 @@
         "catalog_start": "2025-12-01",
         "catalog_end": "2026-02-28",
         "competitor_page": 23,
-        "reasoning": "Both items are cheese-flavored snacks with a crunchy texture, and the competitor item description aligns with the gate item type.",
+        "reasoning": "The competitor item 'Cheese & Onion Crisps' shares a similar product type and flavor profile with the gate item 'Cheese cracker UK', both being cheese-flavored snacks.",
         "tags": "name-similar,type-match",
         "similarity_final": 0.78
       }
@@ -1032,6 +858,7 @@
     "gate_item": {
       "id": 556,
       "name": "Oloves Olives UK",
+      "item_onboard_name": "Oloves Olives 30g",
       "desc": "Made with 100% all natural, simple ingredients and NO additives. High in flavor, low in calories. The packs contain no liquid, just tear open and enjoy. Each pack has at least 10 juicy olives, with no pits!",
       "parent_category": "1.Cafe",
       "sales_category": "Savoury Snacks"
@@ -1052,148 +879,9 @@
         "catalog_start": "2026-01-01",
         "catalog_end": "2026-04-30",
         "competitor_page": 7,
-        "reasoning": "The competitor item includes garlic and thyme olives, which aligns with the product type and description of the gate item.",
-        "tags": "type-match,desc-similar",
+        "reasoning": "Both items include olives, and the descriptions align in highlighting olives as a key component.",
+        "tags": "desc-similar,type-match",
         "similarity_final": 0.8
-      },
-      {
-        "competitor_item_id": 31,
-        "competitor_item_name": "Salami Snack Selection Premium with Olives",
-        "brand": null,
-        "quantity": "80 g",
-        "competitor_description": "Snack selection with salami in pretzel and heart shapes, salted pastry pretzels, salt cookies heart and olives.",
-        "parent_category": "Cafe",
-        "sales_category": "Savoury Snacks",
-        "price": 6.9,
-        "currency": "EUR",
-        "competitor_name": "Eurowings",
-        "catalog_name": "Eurowings_Bistro_Winter_2025",
-        "catalog_start": "2025-12-01",
-        "catalog_end": "2026-02-28",
-        "competitor_page": 17,
-        "reasoning": "The competitor item contains olives, matching the product type of the gate item.",
-        "tags": "type-match",
-        "similarity_final": 0.78
-      }
-    ]
-  },
-  {
-    "gate_item": {
-      "id": 558,
-      "name": "Doritos Nachos & Salsa Box",
-      "desc": "Original flavour Doritos nachos with mild salsa.",
-      "parent_category": "1.Cafe",
-      "sales_category": "Savoury Snacks"
-    },
-    "matches": [
-      {
-        "competitor_item_id": 229,
-        "competitor_item_name": "Pringles",
-        "brand": null,
-        "quantity": "40g",
-        "competitor_description": "Original",
-        "parent_category": "Cafe",
-        "sales_category": "Savoury Snacks",
-        "price": 3.25,
-        "currency": "EUR",
-        "competitor_name": "Ryanair",
-        "catalog_name": "Ryan air Retail winter 2025",
-        "catalog_start": "2025-12-01",
-        "catalog_end": "2026-02-28",
-        "competitor_page": 23,
-        "reasoning": "Both items are crunchy snacks with a savory flavor profile, and the competitor item description suggests a similar type of product.",
-        "tags": "type-match",
-        "similarity_final": 0.76
-      }
-    ]
-  },
-  {
-    "gate_item": {
-      "id": 559,
-      "name": "Beef Soup Noodle",
-      "desc": "Noodles with rich stir fried broth and vegetables and herbs: carrots, onion leaves, parsley, peppers. And exotic and Asian taste is provided by a light play of anise and cinnamon.",
-      "parent_category": "1.Cafe",
-      "sales_category": "Savoury Snacks"
-    },
-    "matches": [
-      {
-        "competitor_item_id": 66,
-        "competitor_item_name": "Pot Noodle",
-        "brand": null,
-        "quantity": null,
-        "competitor_description": "Chicken & Mushroom",
-        "parent_category": "Cafe",
-        "sales_category": "Savoury Snacks",
-        "price": 3.4,
-        "currency": "GBP",
-        "competitor_name": "Jet2cafe",
-        "catalog_name": "Jet2Cafe",
-        "catalog_start": "2026-01-01",
-        "catalog_end": "2026-04-30",
-        "competitor_page": 7,
-        "reasoning": "Both items are noodle-based dishes with a focus on rich flavors, though the competitor item specifies chicken and mushroom flavor.",
-        "tags": "name-similar,type-match",
-        "similarity_final": 0.78
-      }
-    ]
-  },
-  {
-    "gate_item": {
-      "id": 560,
-      "name": "Pickstick Snack Sausage UK",
-      "desc": "Dry cured, fermented pork sausage in edible alginate casing. This mild snack sausage with its unique decor-coating is a real delicacy. Due to the small pack size you can take it with you anywhere.",
-      "parent_category": "1.Cafe",
-      "sales_category": "Savoury Snacks"
-    },
-    "matches": [
-      {
-        "competitor_item_id": 31,
-        "competitor_item_name": "Salami Snack Selection Premium with Olives",
-        "brand": null,
-        "quantity": "80 g",
-        "competitor_description": "Snack selection with salami in pretzel and heart shapes, salted pastry pretzels, salt cookies heart and olives.",
-        "parent_category": "Cafe",
-        "sales_category": "Savoury Snacks",
-        "price": 6.9,
-        "currency": "EUR",
-        "competitor_name": "Eurowings",
-        "catalog_name": "Eurowings_Bistro_Winter_2025",
-        "catalog_start": "2025-12-01",
-        "catalog_end": "2026-02-28",
-        "competitor_page": 17,
-        "reasoning": "Both items are snack-sized cured meat products, with the competitor item featuring salami and additional components like olives.",
-        "tags": "type-match,desc-similar",
-        "similarity_final": 0.76
-      }
-    ]
-  },
-  {
-    "gate_item": {
-      "id": 562,
-      "name": "Beef Soup Noodle UK",
-      "desc": "Noodles with rich stir fried broth and vegetables and herbs: carrots, onion leaves, parsley, peppers. And exotic and Asian taste is provided by a light play of anise and cinnamon.",
-      "parent_category": "1.Cafe",
-      "sales_category": "Savoury Snacks"
-    },
-    "matches": [
-      {
-        "competitor_item_id": 66,
-        "competitor_item_name": "Pot Noodle",
-        "brand": null,
-        "quantity": null,
-        "competitor_description": "Chicken & Mushroom",
-        "parent_category": "Cafe",
-        "sales_category": "Savoury Snacks",
-        "price": 3.4,
-        "currency": "GBP",
-        "competitor_name": "Jet2cafe",
-        "catalog_name": "Jet2Cafe",
-        "catalog_start": "2026-01-01",
-        "catalog_end": "2026-04-30",
-        "competitor_page": 7,
-        "reasoning": "Both items are noodle-based dishes with a focus on rich flavors, though the competitor item specifies chicken and mushroom flavor.",
-        "tags": "name-similar,type-match",
-        "similarity_final": 0.78
       }
     ]
   },
@@ -1201,6 +889,7 @@
     "gate_item": {
       "id": 564,
       "name": "Potato Chips Salt & Vinegar UK",
+      "item_onboard_name": "Potato Chips Salt & Vinegar",
       "desc": "Pringles chips with a little vinegar, a touch of salt and lots of crunch.",
       "parent_category": "1.Cafe",
       "sales_category": "Savoury Snacks"
@@ -1221,7 +910,7 @@
         "catalog_start": "2025-12-01",
         "catalog_end": "2026-02-28",
         "competitor_page": 23,
-        "reasoning": "Both items are salt and vinegar flavored potato chips, with strong name similarity and matching product type.",
+        "reasoning": "The names are highly similar, both explicitly mention 'Salt & Vinegar', and the product types match as potato chips.",
         "tags": "name-similar,type-match",
         "similarity_final": 0.92
       },
@@ -1240,8 +929,8 @@
         "catalog_start": "2026-01-01",
         "catalog_end": "2026-04-30",
         "competitor_page": 7,
-        "reasoning": "The name and description both indicate salt and vinegar flavored Pringles chips, matching the gate item closely.",
-        "tags": "name-similar,desc-similar,type-match",
+        "reasoning": "The name and description both indicate Salt & Vinegar flavored Pringles, which matches the gate item closely.",
+        "tags": "name-similar,desc-similar,variant-match",
         "similarity_final": 0.9
       }
     ]
@@ -1250,6 +939,7 @@
     "gate_item": {
       "id": 568,
       "name": "Pick Salami",
+      "item_onboard_name": "Pick Salami",
       "desc": "The PICK Winter Salami is a smoked and dry cured salami made from excellent, premium quality, natural ingredients with classic seasoning.",
       "parent_category": "1.Cafe",
       "sales_category": "Savoury Snacks"
@@ -1270,9 +960,9 @@
         "catalog_start": "2025-12-01",
         "catalog_end": "2026-02-28",
         "competitor_page": 17,
-        "reasoning": "Both items feature salami as the main product, with similar descriptions of premium quality and snack format.",
-        "tags": "desc-similar,type-match",
-        "similarity_final": 0.78
+        "reasoning": "Both items involve salami as the primary product, and the descriptions align on premium quality and snack format.",
+        "tags": "type-match,desc-similar",
+        "similarity_final": 0.8
       }
     ]
   },
@@ -1280,6 +970,7 @@
     "gate_item": {
       "id": 570,
       "name": "Lajkonik Talarki Krakowskie",
+      "item_onboard_name": "Lajkonik Talarki Krakowskie",
       "desc": "Salty Polish pretzel cracker. Delicious, thin and exceptionally crunchy rings baked in a traditional way in a golden color. Light and delicate.",
       "parent_category": "1.Cafe",
       "sales_category": "Savoury Snacks"
@@ -1300,8 +991,8 @@
         "catalog_start": "2025-12-01",
         "catalog_end": "2026-02-28",
         "competitor_page": 23,
-        "reasoning": "Both items are salty pretzel-based snacks with thin and crunchy characteristics, aligning in product type and description.",
-        "tags": "desc-similar,type-match",
+        "reasoning": "Both are salty pretzel-based snacks with a focus on thin and crunchy texture.",
+        "tags": "name-similar,desc-similar,type-match",
         "similarity_final": 0.78
       }
     ]
@@ -1310,6 +1001,7 @@
     "gate_item": {
       "id": 575,
       "name": "Tapas plate",
+      "item_onboard_name": "Tapas plate",
       "desc": "Tapas plate with mixed olives, bruschetta cup, sticks fuet, breadsticks and cheese pops.",
       "parent_category": "1.Cafe",
       "sales_category": "Savoury Snacks"
@@ -1330,8 +1022,8 @@
         "catalog_start": "2026-01-01",
         "catalog_end": "2026-04-30",
         "competitor_page": 7,
-        "reasoning": "Both items describe a tapas-style offering with olives and other complementary snacks, aligning in product type and description.",
-        "tags": "desc-similar,type-match",
+        "reasoning": "Both items are tapas plates with similar components like olives and crackers, indicating a strong product type match.",
+        "tags": "name-similar,type-match",
         "similarity_final": 0.85
       }
     ]
@@ -1340,6 +1032,7 @@
     "gate_item": {
       "id": 576,
       "name": "Tapas plate UK",
+      "item_onboard_name": "Tapas plate 100gr",
       "desc": "Tapas plate with mixed olives, bruschetta cup, sticks fuet, breadsticks and cheese pops.",
       "parent_category": "1.Cafe",
       "sales_category": "Savoury Snacks"
@@ -1360,8 +1053,8 @@
         "catalog_start": "2026-01-01",
         "catalog_end": "2026-04-30",
         "competitor_page": 7,
-        "reasoning": "Both items describe a tapas-style offering with olives and other complementary snacks, aligning in product type and description.",
-        "tags": "desc-similar,type-match",
+        "reasoning": "Both items are tapas plates with similar components like olives and crackers, indicating a strong product type match.",
+        "tags": "name-similar,type-match",
         "similarity_final": 0.85
       }
     ]
@@ -1370,6 +1063,7 @@
     "gate_item": {
       "id": 578,
       "name": "Nogradi Salty Pretzels",
+      "item_onboard_name": "Nogradi Salty Pretzels",
       "desc": "The Nogradi Salty Pretzels offer a classic Hungarian snack experience with their perfectly crisp and crunchy texture. Timeless favourite for snack lovers.",
       "parent_category": "1.Cafe",
       "sales_category": "Savoury Snacks"
@@ -1390,58 +1084,9 @@
         "catalog_start": "2025-12-01",
         "catalog_end": "2026-02-28",
         "competitor_page": 23,
-        "reasoning": "Both items are pretzels and share a similar product type and description of being a salty snack.",
-        "tags": "name-similar,type-match",
-        "similarity_final": 0.78
-      }
-    ]
-  },
-  {
-    "gate_item": {
-      "id": 579,
-      "name": "Kabanos classic UK",
-      "desc": "Salty Polish pretzel cracker. Delicious, thin and exceptionally crunchy rings baked in a traditional way in a golden color. Light and delicate.",
-      "parent_category": "1.Cafe",
-      "sales_category": "Savoury Snacks"
-    },
-    "matches": [
-      {
-        "competitor_item_id": 31,
-        "competitor_item_name": "Salami Snack Selection Premium with Olives",
-        "brand": null,
-        "quantity": "80 g",
-        "competitor_description": "Snack selection with salami in pretzel and heart shapes, salted pastry pretzels, salt cookies heart and olives.",
-        "parent_category": "Cafe",
-        "sales_category": "Savoury Snacks",
-        "price": 6.9,
-        "currency": "EUR",
-        "competitor_name": "Eurowings",
-        "catalog_name": "Eurowings_Bistro_Winter_2025",
-        "catalog_start": "2025-12-01",
-        "catalog_end": "2026-02-28",
-        "competitor_page": 17,
-        "reasoning": "Both items include salty pretzel crackers and share a similar snack type, with overlapping product descriptions.",
-        "tags": "desc-similar,type-match",
-        "similarity_final": 0.78
-      },
-      {
-        "competitor_item_id": 227,
-        "competitor_item_name": "Olly's Pretzels",
-        "brand": null,
-        "quantity": "35g",
-        "competitor_description": "Multi-Seed Pretzel Thins",
-        "parent_category": "Cafe",
-        "sales_category": "Savoury Snacks",
-        "price": 3.5,
-        "currency": "EUR",
-        "competitor_name": "Ryanair",
-        "catalog_name": "Ryan air Retail winter 2025",
-        "catalog_start": "2025-12-01",
-        "catalog_end": "2026-02-28",
-        "competitor_page": 23,
-        "reasoning": "Both items are pretzel-based snacks with a focus on crunchiness and traditional preparation methods.",
-        "tags": "name-similar,type-match",
-        "similarity_final": 0.78
+        "reasoning": "Both items are pretzels, and the descriptions align in terms of being a snack with a crisp texture.",
+        "tags": "name-similar,type-match,desc-similar",
+        "similarity_final": 0.8
       }
     ]
   },
@@ -1449,6 +1094,7 @@
     "gate_item": {
       "id": 581,
       "name": "Crinklys Cheese & Onion UK",
+      "item_onboard_name": "Crinklys Cheese & Onion",
       "desc": "Oven baked, not fried crackers. Suitable for vegetarians.",
       "parent_category": "1.Cafe",
       "sales_category": "Savoury Snacks"
@@ -1469,77 +1115,9 @@
         "catalog_start": "2025-12-01",
         "catalog_end": "2026-02-28",
         "competitor_page": 23,
-        "reasoning": "Both items are cheese and onion flavored snacks, suitable for vegetarians, with a focus on baked preparation.",
-        "tags": "desc-similar,type-match",
-        "similarity_final": 0.76
-      }
-    ]
-  },
-  {
-    "gate_item": {
-      "id": 584,
-      "name": "Nobys Nuts Sweet Chilli UK",
-      "desc": "Coated in a crisp and crunchy shell, dusted with sweet chilli and coated with a cheeky hit of spice. Tasty Nobby's peanuts in a handy size for convenient snacking at any time of the day.",
-      "parent_category": "1.Cafe",
-      "sales_category": "Savoury Snacks"
-    },
-    "matches": [
-      {
-        "competitor_item_id": 32,
-        "competitor_item_name": "Seeberger Snack2Go Nut Trio Roasted & Salted",
-        "brand": "Seeberger",
-        "quantity": "50 g",
-        "competitor_description": null,
-        "parent_category": "Cafe",
-        "sales_category": "Savoury Snacks",
-        "price": 3.5,
-        "currency": "EUR",
-        "competitor_name": "Eurowings",
-        "catalog_name": "Eurowings_Bistro_Winter_2025",
-        "catalog_start": "2025-12-01",
-        "catalog_end": "2026-02-28",
-        "competitor_page": 17,
-        "reasoning": "Both items are nut-based snacks, with similar product type and snack format. The competitor item lacks a detailed description but aligns in type.",
-        "tags": "type-match",
+        "reasoning": "Both items are cheese and onion flavored snacks, and the descriptions align in terms of product type.",
+        "tags": "name-similar,desc-similar,type-match",
         "similarity_final": 0.78
-      },
-      {
-        "competitor_item_id": 232,
-        "competitor_item_name": "Mr Filbert's Dry Roasted Peanuts",
-        "brand": null,
-        "quantity": "40g",
-        "competitor_description": null,
-        "parent_category": "Cafe",
-        "sales_category": "Savoury Snacks",
-        "price": 2.75,
-        "currency": "EUR",
-        "competitor_name": "Ryanair",
-        "catalog_name": "Ryan air Retail winter 2025",
-        "catalog_start": "2025-12-01",
-        "catalog_end": "2026-02-28",
-        "competitor_page": 23,
-        "reasoning": "Both items are peanut-based snacks, and the competitor item aligns with the gate item's product type despite lacking a detailed description.",
-        "tags": "type-match",
-        "similarity_final": 0.78
-      },
-      {
-        "competitor_item_id": 243,
-        "competitor_item_name": "M&M's Peanut",
-        "brand": null,
-        "quantity": "45g",
-        "competitor_description": null,
-        "parent_category": "Cafe",
-        "sales_category": "Sweet Snacks",
-        "price": 2.75,
-        "currency": "EUR",
-        "competitor_name": "Ryanair",
-        "catalog_name": "Ryan air Retail winter 2025",
-        "catalog_start": "2025-12-01",
-        "catalog_end": "2026-02-28",
-        "competitor_page": 23,
-        "reasoning": "Both items are peanut-based snacks, with a focus on crunchy texture and flavor. The competitor item aligns with the gate item in product type.",
-        "tags": "type-match",
-        "similarity_final": 0.76
       }
     ]
   },
@@ -1547,6 +1125,7 @@
     "gate_item": {
       "id": 585,
       "name": "Walkers Baked Cheese & Onion UK",
+      "item_onboard_name": "Walkers Baked Cheese & Onion",
       "desc": "Delicious Baked Walkers crisps with a classic Cheese and Onion flavouring. Baked for extra crispy crunchiness. Walkers Baked contain 50% less fat than regular potato crisps.",
       "parent_category": "1.Cafe",
       "sales_category": "Savoury Snacks"
@@ -1567,9 +1146,9 @@
         "catalog_start": "2025-12-01",
         "catalog_end": "2026-02-28",
         "competitor_page": 23,
-        "reasoning": "Both items are cheese and onion flavored crisps, with strong alignment in name and product type.",
-        "tags": "name-similar,type-match",
-        "similarity_final": 0.85
+        "reasoning": "The competitor item has a similar product type (cheese & onion crisps) and matches in description meaning.",
+        "tags": "desc-similar,type-match",
+        "similarity_final": 0.78
       }
     ]
   },
@@ -1577,6 +1156,7 @@
     "gate_item": {
       "id": 586,
       "name": "Snack a Jacks Salt n Vinegar UK",
+      "item_onboard_name": "Snack a Jacks Salt n Vinegar",
       "desc": "Zingy flavour jumbo snacks made with rice and corn. Light, crunchy and wonderfully tasty, Snack A Jacks Salt & Vinegar Rice Cakes are delicious snacks.",
       "parent_category": "1.Cafe",
       "sales_category": "Savoury Snacks"
@@ -1597,27 +1177,8 @@
         "catalog_start": "2025-12-01",
         "catalog_end": "2026-02-28",
         "competitor_page": 23,
-        "reasoning": "Both items share the salt and vinegar flavor profile, and are snack products with similar taste characteristics.",
-        "tags": "name-similar,type-match",
-        "similarity_final": 0.77
-      },
-      {
-        "competitor_item_id": 65,
-        "competitor_item_name": "Pringles",
-        "brand": null,
-        "quantity": null,
-        "competitor_description": "Salt & Vinegar, Original, Sour Cream & Onion",
-        "parent_category": "Cafe",
-        "sales_category": "Savoury Snacks",
-        "price": 2.8,
-        "currency": "GBP",
-        "competitor_name": "Jet2cafe",
-        "catalog_name": "Jet2Cafe",
-        "catalog_start": "2026-01-01",
-        "catalog_end": "2026-04-30",
-        "competitor_page": 7,
-        "reasoning": "Both items are salty snacks with a similar flavor profile (Salt & Vinegar). The competitor item matches in type and flavor.",
-        "tags": "type-match,desc-similar",
+        "reasoning": "The competitor item shares a similar flavor profile (salt & vinegar) and is a snack product.",
+        "tags": "desc-similar,type-match",
         "similarity_final": 0.76
       }
     ]
@@ -1626,6 +1187,7 @@
     "gate_item": {
       "id": 587,
       "name": "Savoursmiths crisps UK",
+      "item_onboard_name": "Savoursmiths crisps 35g",
       "desc": "100% pure, crystal white desert salt from an ancient and pristine source in the Kalahari Desert creates an exceptional tasting crisp, enhancing and enriching the flavour of our delicious spuds. Simplicity at its best.",
       "parent_category": "1.Cafe",
       "sales_category": "Savoury Snacks"
@@ -1646,7 +1208,7 @@
         "catalog_start": "2025-12-01",
         "catalog_end": "2026-02-28",
         "competitor_page": 23,
-        "reasoning": "Both items are salted crisps, with alignment in product type and flavor description.",
+        "reasoning": "Both items are sea-salted crisps with a focus on high-quality ingredients.",
         "tags": "desc-similar,type-match",
         "similarity_final": 0.8
       }
@@ -1656,6 +1218,7 @@
     "gate_item": {
       "id": 588,
       "name": "Penn State Pretzel UK",
+      "item_onboard_name": "Penn State Pretzel 30g",
       "desc": "Perfectly baked to form wholesome crispy wheat and potato pretzel knots.",
       "parent_category": "1.Cafe",
       "sales_category": "Savoury Snacks"
@@ -1676,118 +1239,9 @@
         "catalog_start": "2025-12-01",
         "catalog_end": "2026-02-28",
         "competitor_page": 23,
-        "reasoning": "Both items are pretzel-based snacks, with alignment in product type and description.",
-        "tags": "type-match,desc-similar",
-        "similarity_final": 0.82
-      },
-      {
-        "competitor_item_id": 31,
-        "competitor_item_name": "Salami Snack Selection Premium with Olives",
-        "brand": null,
-        "quantity": "80 g",
-        "competitor_description": "Snack selection with salami in pretzel and heart shapes, salted pastry pretzels, salt cookies heart and olives.",
-        "parent_category": "Cafe",
-        "sales_category": "Savoury Snacks",
-        "price": 6.9,
-        "currency": "EUR",
-        "competitor_name": "Eurowings",
-        "catalog_name": "Eurowings_Bistro_Winter_2025",
-        "catalog_start": "2025-12-01",
-        "catalog_end": "2026-02-28",
-        "competitor_page": 17,
-        "reasoning": "The competitor item includes pretzels as part of the snack selection, aligning with the gate item's pretzel type.",
-        "tags": "type-match",
-        "similarity_final": 0.75
-      }
-    ]
-  },
-  {
-    "gate_item": {
-      "id": 589,
-      "name": "Vegetable Soup Noodle",
-      "desc": "Nissin Cup Noodles Veggie Miso combines the subtle taste of Japanese Miso paste with the powerfully spicy aroma of vegetables. A dash of ginger and chili create a ramen soup that promises a truly Asian pleasure for vegetarians and all Asian cuisine enthusiasts.",
-      "parent_category": "1.Cafe",
-      "sales_category": "Savoury Snacks"
-    },
-    "matches": [
-      {
-        "competitor_item_id": 66,
-        "competitor_item_name": "Pot Noodle",
-        "brand": null,
-        "quantity": null,
-        "competitor_description": "Chicken & Mushroom",
-        "parent_category": "Cafe",
-        "sales_category": "Savoury Snacks",
-        "price": 3.4,
-        "currency": "GBP",
-        "competitor_name": "Jet2cafe",
-        "catalog_name": "Jet2Cafe",
-        "catalog_start": "2026-01-01",
-        "catalog_end": "2026-04-30",
-        "competitor_page": 7,
-        "reasoning": "Both items are instant noodle cups with similar preparation style and savory flavors, though the competitor item specifies chicken & mushroom flavor.",
-        "tags": "name-similar,type-match",
-        "similarity_final": 0.78
-      }
-    ]
-  },
-  {
-    "gate_item": {
-      "id": 590,
-      "name": "Vegetable Soup Noodle UK",
-      "desc": "Nissin Cup Noodles Veggie Miso combines the subtle taste of Japanese Miso paste with the powerfully spicy aroma of vegetables. A dash of ginger and chili create a ramen soup that promises a truly Asian pleasure for vegetarians and all Asian cuisine enthusiasts.",
-      "parent_category": "1.Cafe",
-      "sales_category": "Savoury Snacks"
-    },
-    "matches": [
-      {
-        "competitor_item_id": 66,
-        "competitor_item_name": "Pot Noodle",
-        "brand": null,
-        "quantity": null,
-        "competitor_description": "Chicken & Mushroom",
-        "parent_category": "Cafe",
-        "sales_category": "Savoury Snacks",
-        "price": 3.4,
-        "currency": "GBP",
-        "competitor_name": "Jet2cafe",
-        "catalog_name": "Jet2Cafe",
-        "catalog_start": "2026-01-01",
-        "catalog_end": "2026-04-30",
-        "competitor_page": 7,
-        "reasoning": "Both items are instant noodle cups with similar preparation style and savory flavors, though the competitor item specifies chicken & mushroom flavor.",
-        "tags": "name-similar,type-match",
-        "similarity_final": 0.78
-      }
-    ]
-  },
-  {
-    "gate_item": {
-      "id": 596,
-      "name": "Pasta Mushroom Cream UK",
-      "desc": "Knorr Creamy Mushroom Pot Pasta is made with sustainably sourced mushrooms, is a source of protein, and is free of colorants and added preservatives.",
-      "parent_category": "1.Cafe",
-      "sales_category": "Savoury Snacks"
-    },
-    "matches": [
-      {
-        "competitor_item_id": 66,
-        "competitor_item_name": "Pot Noodle",
-        "brand": null,
-        "quantity": null,
-        "competitor_description": "Chicken & Mushroom",
-        "parent_category": "Cafe",
-        "sales_category": "Savoury Snacks",
-        "price": 3.4,
-        "currency": "GBP",
-        "competitor_name": "Jet2cafe",
-        "catalog_name": "Jet2Cafe",
-        "catalog_start": "2026-01-01",
-        "catalog_end": "2026-04-30",
-        "competitor_page": 7,
-        "reasoning": "Both items are quick-preparation pasta snacks with creamy mushroom flavor profiles, aligning in product type and description meaning.",
-        "tags": "desc-similar,type-match",
-        "similarity_final": 0.78
+        "reasoning": "Both items are pretzel snacks with similar quantities and product type.",
+        "tags": "type-match,quantity-close",
+        "similarity_final": 0.85
       }
     ]
   },
@@ -1795,6 +1249,7 @@
     "gate_item": {
       "id": 685,
       "name": "Snickers",
+      "item_onboard_name": "Snickers",
       "desc": "Packed with roasted peanuts, nougat, caramel and milk chocolate, Snickers handles your hunger so you can handle things that don't relate to hunger at all. Fun fact: Snickers was introduced in 1930, named after the favorite horse of the Mars family.",
       "parent_category": "1.Cafe",
       "sales_category": "Sweet Snacks"
@@ -1815,7 +1270,7 @@
         "catalog_start": "2025-12-01",
         "catalog_end": "2026-02-28",
         "competitor_page": 16,
-        "reasoning": "Exact name match and identical product type as a chocolate bar with peanuts, nougat, and caramel.",
+        "reasoning": "The names are identical, and both refer to the same product type (Snickers bar).",
         "tags": "name-similar,type-match",
         "similarity_final": 1.0
       },
@@ -1834,15 +1289,15 @@
         "catalog_start": "2025-12-01",
         "catalog_end": "2026-02-28",
         "competitor_page": 23,
-        "reasoning": "The names are identical, indicating the same product, and the competitor item's quantity is close to typical single-serving sizes.",
-        "tags": "name-similar,quantity-close",
-        "similarity_final": 0.95
+        "reasoning": "The names are identical, indicating the same product.",
+        "tags": "name-similar",
+        "similarity_final": 1.0
       },
       {
-        "competitor_item_id": 243,
-        "competitor_item_name": "M&M's Peanut",
+        "competitor_item_id": 241,
+        "competitor_item_name": "Twix",
         "brand": null,
-        "quantity": "45g",
+        "quantity": "50g",
         "competitor_description": null,
         "parent_category": "Cafe",
         "sales_category": "Sweet Snacks",
@@ -1853,9 +1308,9 @@
         "catalog_start": "2025-12-01",
         "catalog_end": "2026-02-28",
         "competitor_page": 23,
-        "reasoning": "Both items are chocolate-based snacks with peanuts, aligning in product type and ingredients.",
-        "tags": "type-match,desc-similar",
-        "similarity_final": 0.78
+        "reasoning": "Both are chocolate-based snacks with caramel and nougat elements, making them similar in product type and appeal.",
+        "tags": "type-match",
+        "similarity_final": 0.76
       }
     ]
   },
@@ -1863,6 +1318,7 @@
     "gate_item": {
       "id": 686,
       "name": "Kit Kat",
+      "item_onboard_name": "Kit Kat",
       "desc": "Have a longer break with KitKat 4 fingers milk chocolate bar. Delicious crispy wafers covered with soft milk chocolate, nicely divided into 4 equal parts to double the pleasure",
       "parent_category": "1.Cafe",
       "sales_category": "Sweet Snacks"
@@ -1883,9 +1339,9 @@
         "catalog_start": "2026-01-01",
         "catalog_end": "2026-04-30",
         "competitor_page": 9,
-        "reasoning": "The names are identical, and both describe the same product type: a chocolate bar with crispy wafers.",
-        "tags": "name-similar,type-match",
-        "similarity_final": 0.95
+        "reasoning": "The names are identical, indicating the same product.",
+        "tags": "name-similar",
+        "similarity_final": 1.0
       },
       {
         "competitor_item_id": 239,
@@ -1902,7 +1358,7 @@
         "catalog_start": "2025-12-01",
         "catalog_end": "2026-02-28",
         "competitor_page": 23,
-        "reasoning": "The names are identical, indicating the same product, and both are milk chocolate wafer bars.",
+        "reasoning": "The names are identical, and both refer to the same product type of milk chocolate with wafers.",
         "tags": "name-similar,type-match",
         "similarity_final": 0.95
       }
@@ -1910,38 +1366,9 @@
   },
   {
     "gate_item": {
-      "id": 687,
-      "name": "Wafer rolls",
-      "desc": "A unique combination of crispy wafer rolls with cocoa and hazelnut filling that melts in the mouth and awakens the senses. A perfect choice for you and your friends, as a daily indulgence!",
-      "parent_category": "1.Cafe",
-      "sales_category": "Sweet Snacks"
-    },
-    "matches": [
-      {
-        "competitor_item_id": 238,
-        "competitor_item_name": "Kinder Bueno",
-        "brand": null,
-        "quantity": "43g",
-        "competitor_description": null,
-        "parent_category": "Cafe",
-        "sales_category": "Sweet Snacks",
-        "price": 2.75,
-        "currency": "EUR",
-        "competitor_name": "Ryanair",
-        "catalog_name": "Ryan air Retail winter 2025",
-        "catalog_start": "2025-12-01",
-        "catalog_end": "2026-02-28",
-        "competitor_page": 23,
-        "reasoning": "Both products feature crispy wafers with chocolate and hazelnut filling, aligning in type and description.",
-        "tags": "type-match,desc-similar",
-        "similarity_final": 0.78
-      }
-    ]
-  },
-  {
-    "gate_item": {
       "id": 688,
       "name": "M&Ms 90g sharebag",
+      "item_onboard_name": "M&Ms 90g sharebag",
       "desc": "M&Ms Peanut Chocolate Candy is a little nutty , a lot tasty and always full of fun. Enjoy roasted peanuts covered in delicious chocolate and a colorful candy shell. Share this bag with your friend or travel partner",
       "parent_category": "1.Cafe",
       "sales_category": "Sweet Snacks"
@@ -1962,9 +1389,9 @@
         "catalog_start": "2025-12-01",
         "catalog_end": "2026-02-28",
         "competitor_page": 23,
-        "reasoning": "Both products are M&M's Peanut Chocolate Candy, with similar names and product type.",
+        "reasoning": "The names are highly similar, and both describe peanut chocolate candy with a colorful shell.",
         "tags": "name-similar,type-match",
-        "similarity_final": 0.92
+        "similarity_final": 0.8
       }
     ]
   },
@@ -1972,6 +1399,7 @@
     "gate_item": {
       "id": 690,
       "name": "Cadbury Twirl",
+      "item_onboard_name": "Cadbury Twirl",
       "desc": "Two fingers of indulgent chocolatey swirls wrapped in smooth Cadbury milk chocolate that melts in your mouth as the twirling ribbons unfold! Rolled with smooth chocolate covering with a unique combination of chocolate twirls and curls from England.",
       "parent_category": "1.Cafe",
       "sales_category": "Sweet Snacks"
@@ -1992,47 +1420,9 @@
         "catalog_start": "2026-01-01",
         "catalog_end": "2026-04-30",
         "competitor_page": 9,
-        "reasoning": "The names are highly similar, and both describe the same product type: a chocolate bar with swirls and curls.",
-        "tags": "name-similar,type-match",
-        "similarity_final": 0.92
-      },
-      {
-        "competitor_item_id": 77,
-        "competitor_item_name": "Cadbury Dairy Milk Biscoff Chocolate Bar",
-        "brand": "Cadbury",
-        "quantity": "105g",
-        "competitor_description": null,
-        "parent_category": "Cafe",
-        "sales_category": "Sweet Snacks",
-        "price": 3.75,
-        "currency": "GBP",
-        "competitor_name": "Jet2cafe",
-        "catalog_name": "Jet2Cafe",
-        "catalog_start": "2026-01-01",
-        "catalog_end": "2026-04-30",
-        "competitor_page": 8,
-        "reasoning": "Both items are Cadbury milk chocolate products with indulgent qualities, though the specific format differs.",
-        "tags": "name-similar,brand-match",
-        "similarity_final": 0.78
-      },
-      {
-        "competitor_item_id": 78,
-        "competitor_item_name": "Cadbury Nibbly Fingers",
-        "brand": "Cadbury",
-        "quantity": "125g",
-        "competitor_description": null,
-        "parent_category": "Cafe",
-        "sales_category": "Sweet Snacks",
-        "price": 3.75,
-        "currency": "GBP",
-        "competitor_name": "Jet2cafe",
-        "catalog_name": "Jet2Cafe",
-        "catalog_start": "2026-01-01",
-        "catalog_end": "2026-04-30",
-        "competitor_page": 8,
-        "reasoning": "Both items are Cadbury chocolate products featuring finger-like formats, aligning in brand and product type.",
-        "tags": "name-similar,brand-match,type-match",
-        "similarity_final": 0.76
+        "reasoning": "The names are highly similar, and both refer to the same chocolate product.",
+        "tags": "name-similar",
+        "similarity_final": 0.95
       }
     ]
   },
@@ -2040,6 +1430,7 @@
     "gate_item": {
       "id": 691,
       "name": "Shortbreads",
+      "item_onboard_name": "Shortbreads",
       "desc": "These delicious, golden shortbread fingers deliver the unique Paterson's taste and contain less than 3% saturated fat. No 1 best-selling shortbread brand in Britain - suitable snack for vegetarians!",
       "parent_category": "1.Cafe",
       "sales_category": "Sweet Snacks"
@@ -2060,7 +1451,7 @@
         "catalog_start": "2026-01-01",
         "catalog_end": "2026-04-30",
         "competitor_page": 9,
-        "reasoning": "The names are highly similar, both explicitly referencing shortbread. The gate item mentions Paterson's as the brand, which matches the competitor item's brand.",
+        "reasoning": "The names are highly similar, both explicitly refer to shortbread, and the gate item mentions Paterson's as the brand.",
         "tags": "name-similar,brand-match",
         "similarity_final": 0.95
       },
@@ -2079,28 +1470,9 @@
         "catalog_start": "2025-12-01",
         "catalog_end": "2026-02-28",
         "competitor_page": 23,
-        "reasoning": "The names are similar, both referencing shortbread. While the brands differ, the product type aligns closely.",
+        "reasoning": "The names are similar, both explicitly refer to shortbread, and the product type matches.",
         "tags": "name-similar,type-match",
         "similarity_final": 0.8
-      },
-      {
-        "competitor_item_id": 78,
-        "competitor_item_name": "Cadbury Nibbly Fingers",
-        "brand": "Cadbury",
-        "quantity": "125g",
-        "competitor_description": null,
-        "parent_category": "Cafe",
-        "sales_category": "Sweet Snacks",
-        "price": 3.75,
-        "currency": "GBP",
-        "competitor_name": "Jet2cafe",
-        "catalog_name": "Jet2Cafe",
-        "catalog_start": "2026-01-01",
-        "catalog_end": "2026-04-30",
-        "competitor_page": 8,
-        "reasoning": "Both items are finger-shaped snacks with a focus on indulgence, and the name similarity contributes to the match.",
-        "tags": "name-similar,type-match",
-        "similarity_final": 0.78
       }
     ]
   },
@@ -2108,30 +1480,12 @@
     "gate_item": {
       "id": 693,
       "name": "You+ Chocolate Bar",
+      "item_onboard_name": "You+ Chocolate Bar",
       "desc": "Our brand new You+ milk chocolate filled with soft and rich milk cream will surely be a favourite of all! A perfect little treat on the go for every adult and children with a sweet tooth!",
       "parent_category": "1.Cafe",
       "sales_category": "Sweet Snacks"
     },
     "matches": [
-      {
-        "competitor_item_id": 77,
-        "competitor_item_name": "Cadbury Dairy Milk Biscoff Chocolate Bar",
-        "brand": "Cadbury",
-        "quantity": "105g",
-        "competitor_description": null,
-        "parent_category": "Cafe",
-        "sales_category": "Sweet Snacks",
-        "price": 3.75,
-        "currency": "GBP",
-        "competitor_name": "Jet2cafe",
-        "catalog_name": "Jet2Cafe",
-        "catalog_start": "2026-01-01",
-        "catalog_end": "2026-04-30",
-        "competitor_page": 8,
-        "reasoning": "Both are milk chocolate bars, and the product type and name similarity contribute to the match.",
-        "tags": "name-similar,type-match",
-        "similarity_final": 0.81
-      },
       {
         "competitor_item_id": 238,
         "competitor_item_name": "Kinder Bueno",
@@ -2147,8 +1501,8 @@
         "catalog_start": "2025-12-01",
         "catalog_end": "2026-02-28",
         "competitor_page": 23,
-        "reasoning": "Both items are milk chocolate products with creamy fillings, appealing to similar audiences with a sweet tooth.",
-        "tags": "name-similar,type-match",
+        "reasoning": "Both are chocolate bars with creamy fillings, indicating a similar product type.",
+        "tags": "type-match",
         "similarity_final": 0.78
       }
     ]
@@ -2157,6 +1511,7 @@
     "gate_item": {
       "id": 694,
       "name": "Haribo Mini Gold Bears",
+      "item_onboard_name": "Haribo Mini Gold Bears",
       "desc": "Delicious Gummy Candy. Full of flavor and delight. Truly original and unique.",
       "parent_category": "1.Cafe",
       "sales_category": "Sweet Snacks"
@@ -2177,28 +1532,9 @@
         "catalog_start": "2025-12-01",
         "catalog_end": "2026-02-28",
         "competitor_page": 23,
-        "reasoning": "Both items are gummy candies from the Haribo brand, with similar names and product types.",
+        "reasoning": "The names are highly similar, indicating the same product type, and both are gummy candies.",
         "tags": "name-similar,type-match",
-        "similarity_final": 0.95
-      },
-      {
-        "competitor_item_id": 29,
-        "competitor_item_name": "RED BAND FRUCHTGUMMI",
-        "brand": "Red Band",
-        "quantity": "200 G",
-        "competitor_description": "FRUIT GUMS",
-        "parent_category": "Cafe",
-        "sales_category": "Sweet Snacks",
-        "price": 3.9,
-        "currency": "EUR",
-        "competitor_name": "Eurowings",
-        "catalog_name": "Eurowings_Bistro_Winter_2025",
-        "catalog_start": "2025-12-01",
-        "catalog_end": "2026-02-28",
-        "competitor_page": 16,
-        "reasoning": "Both are gummy candies with similar product types, and the description alignment supports the match.",
-        "tags": "type-match,desc-similar",
-        "similarity_final": 0.85
+        "similarity_final": 0.9
       },
       {
         "competitor_item_id": 79,
@@ -2215,7 +1551,7 @@
         "catalog_start": "2026-01-01",
         "catalog_end": "2026-04-30",
         "competitor_page": 8,
-        "reasoning": "The brand matches (Haribo), and both items are gummy candies, aligning in product type.",
+        "reasoning": "The brand matches, and both are Haribo gummy candy products.",
         "tags": "brand-match,type-match",
         "similarity_final": 0.85
       }
@@ -2225,6 +1561,7 @@
     "gate_item": {
       "id": 697,
       "name": "Cadbury Dairy Milk Buttons",
+      "item_onboard_name": "Cadbury Dairy Milk Buttons",
       "desc": "Giant button shaped bites of the classic, creamy Cadbury Dairy Milk chocolate. A favourite for all the family to share and enjoy. Made with sustainably sourced cocoa. Vegetarian friendly.",
       "parent_category": "1.Cafe",
       "sales_category": "Sweet Snacks"
@@ -2245,8 +1582,8 @@
         "catalog_start": "2026-01-01",
         "catalog_end": "2026-04-30",
         "competitor_page": 8,
-        "reasoning": "The names are identical, and both items are Cadbury branded products with matching product type.",
-        "tags": "name-similar,brand-match,type-match",
+        "reasoning": "The names are identical, and the brand matches exactly.",
+        "tags": "name-similar,brand-match",
         "similarity_final": 1.0
       },
       {
@@ -2264,28 +1601,9 @@
         "catalog_start": "2026-01-01",
         "catalog_end": "2026-04-30",
         "competitor_page": 8,
-        "reasoning": "Both items are Cadbury branded chocolate products, and the name similarity indicates they are part of the same product family.",
-        "tags": "name-similar,brand-match",
-        "similarity_final": 0.78
-      },
-      {
-        "competitor_item_id": 78,
-        "competitor_item_name": "Cadbury Nibbly Fingers",
-        "brand": "Cadbury",
-        "quantity": "125g",
-        "competitor_description": null,
-        "parent_category": "Cafe",
-        "sales_category": "Sweet Snacks",
-        "price": 3.75,
-        "currency": "GBP",
-        "competitor_name": "Jet2cafe",
-        "catalog_name": "Jet2Cafe",
-        "catalog_start": "2026-01-01",
-        "catalog_end": "2026-04-30",
-        "competitor_page": 8,
-        "reasoning": "Both items are Cadbury branded chocolate products, and the name similarity suggests they are closely related.",
-        "tags": "name-similar,brand-match",
-        "similarity_final": 0.76
+        "reasoning": "The competitor item shares the same brand and product type (Cadbury Dairy Milk chocolate), though it is a different variant.",
+        "tags": "brand-match,type-match",
+        "similarity_final": 0.75
       }
     ]
   },
@@ -2293,30 +1611,12 @@
     "gate_item": {
       "id": 701,
       "name": "Kit Kat UK",
+      "item_onboard_name": "Kit Kat 41.5g",
       "desc": "Have a longer break with KitKat 4 fingers milk chocolate bar. Delicious crispy wafers covered with soft milk chocolate, nicely divided into 4 equal parts to double the pleasure",
       "parent_category": "1.Cafe",
       "sales_category": "Sweet Snacks"
     },
     "matches": [
-      {
-        "competitor_item_id": 84,
-        "competitor_item_name": "KitKat",
-        "brand": null,
-        "quantity": null,
-        "competitor_description": null,
-        "parent_category": "Cafe",
-        "sales_category": "Sweet Snacks",
-        "price": 1.9,
-        "currency": "GBP",
-        "competitor_name": "Jet2cafe",
-        "catalog_name": "Jet2Cafe",
-        "catalog_start": "2026-01-01",
-        "catalog_end": "2026-04-30",
-        "competitor_page": 9,
-        "reasoning": "The names are identical, indicating the same product, and both items describe a milk chocolate bar with crispy wafers.",
-        "tags": "name-similar,desc-similar",
-        "similarity_final": 0.95
-      },
       {
         "competitor_item_id": 239,
         "competitor_item_name": "KitKat",
@@ -2332,39 +1632,28 @@
         "catalog_start": "2025-12-01",
         "catalog_end": "2026-02-28",
         "competitor_page": 23,
-        "reasoning": "The names are identical, indicating the same product, and the description aligns with the gate item’s features of crispy wafers and milk chocolate.",
-        "tags": "name-similar,desc-similar",
-        "similarity_final": 0.95
-      }
-    ]
-  },
-  {
-    "gate_item": {
-      "id": 702,
-      "name": "Wafer rolls UK",
-      "desc": "A unique combination of crispy wafer rolls with cocoa and hazelnut filling that melts in the mouth and awakens the senses. A perfect choice for you and your friends, as a daily indulgence!",
-      "parent_category": "1.Cafe",
-      "sales_category": "Sweet Snacks"
-    },
-    "matches": [
+        "reasoning": "The names are identical, and the quantities match exactly at 41.5g.",
+        "tags": "name-similar,quantity-exact",
+        "similarity_final": 1.0
+      },
       {
-        "competitor_item_id": 238,
-        "competitor_item_name": "Kinder Bueno",
+        "competitor_item_id": 84,
+        "competitor_item_name": "KitKat",
         "brand": null,
-        "quantity": "43g",
+        "quantity": null,
         "competitor_description": null,
         "parent_category": "Cafe",
         "sales_category": "Sweet Snacks",
-        "price": 2.75,
-        "currency": "EUR",
-        "competitor_name": "Ryanair",
-        "catalog_name": "Ryan air Retail winter 2025",
-        "catalog_start": "2025-12-01",
-        "catalog_end": "2026-02-28",
-        "competitor_page": 23,
-        "reasoning": "Both products feature crispy wafers with a creamy filling, and the descriptions suggest similar indulgent qualities.",
-        "tags": "desc-similar,type-match",
-        "similarity_final": 0.78
+        "price": 1.9,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 9,
+        "reasoning": "The names are identical, and both refer to the same product type of chocolate wafer bar.",
+        "tags": "name-similar,type-match",
+        "similarity_final": 0.95
       }
     ]
   },
@@ -2372,6 +1661,7 @@
     "gate_item": {
       "id": 703,
       "name": "Cadbury Twirl UK",
+      "item_onboard_name": "Cadbury Twirl 43g",
       "desc": "Two fingers of indulgent chocolatey swirls wrapped in smooth Cadbury milk chocolate that melts in your mouth as the twirling ribbons unfold! Rolled with smooth chocolate covering with a unique combination of chocolate twirls and curls from England.",
       "parent_category": "1.Cafe",
       "sales_category": "Sweet Snacks"
@@ -2392,47 +1682,9 @@
         "catalog_start": "2026-01-01",
         "catalog_end": "2026-04-30",
         "competitor_page": 9,
-        "reasoning": "The names are highly similar, and both describe a chocolate product with swirls and curls, aligning in product type.",
+        "reasoning": "The names are highly similar, and both describe the same product type of chocolate bar with swirls.",
         "tags": "name-similar,type-match",
         "similarity_final": 0.92
-      },
-      {
-        "competitor_item_id": 77,
-        "competitor_item_name": "Cadbury Dairy Milk Biscoff Chocolate Bar",
-        "brand": "Cadbury",
-        "quantity": "105g",
-        "competitor_description": null,
-        "parent_category": "Cafe",
-        "sales_category": "Sweet Snacks",
-        "price": 3.75,
-        "currency": "GBP",
-        "competitor_name": "Jet2cafe",
-        "catalog_name": "Jet2Cafe",
-        "catalog_start": "2026-01-01",
-        "catalog_end": "2026-04-30",
-        "competitor_page": 8,
-        "reasoning": "Both items are Cadbury chocolate products with indulgent milk chocolate features, and the competitor item aligns with the description of smooth chocolate.",
-        "tags": "name-similar,brand-match,desc-similar",
-        "similarity_final": 0.78
-      },
-      {
-        "competitor_item_id": 78,
-        "competitor_item_name": "Cadbury Nibbly Fingers",
-        "brand": "Cadbury",
-        "quantity": "125g",
-        "competitor_description": null,
-        "parent_category": "Cafe",
-        "sales_category": "Sweet Snacks",
-        "price": 3.75,
-        "currency": "GBP",
-        "competitor_name": "Jet2cafe",
-        "catalog_name": "Jet2Cafe",
-        "catalog_start": "2026-01-01",
-        "catalog_end": "2026-04-30",
-        "competitor_page": 8,
-        "reasoning": "Both items are Cadbury chocolate products, and the competitor item features chocolate fingers, which aligns with the gate item's description of chocolate swirls and fingers.",
-        "tags": "name-similar,brand-match,desc-similar",
-        "similarity_final": 0.76
       }
     ]
   },
@@ -2440,6 +1692,7 @@
     "gate_item": {
       "id": 704,
       "name": "Shortbreads UK",
+      "item_onboard_name": "Shortbreads 40g",
       "desc": "These delicious, golden shortbread fingers deliver the unique Paterson's taste and contain less than 3% saturated fat. No 1 best-selling shortbread brand in Britain - suitable snack for vegetarians!",
       "parent_category": "1.Cafe",
       "sales_category": "Sweet Snacks"
@@ -2460,9 +1713,9 @@
         "catalog_start": "2026-01-01",
         "catalog_end": "2026-04-30",
         "competitor_page": 9,
-        "reasoning": "The names are similar, and both describe shortbread products, with matching brand and product type.",
-        "tags": "name-similar,brand-match,type-match",
-        "similarity_final": 0.9
+        "reasoning": "The names and descriptions align, both referring to shortbread products, and the brand matches.",
+        "tags": "name-similar,desc-similar,brand-match",
+        "similarity_final": 0.88
       },
       {
         "competitor_item_id": 236,
@@ -2479,9 +1732,9 @@
         "catalog_start": "2025-12-01",
         "catalog_end": "2026-02-28",
         "competitor_page": 23,
-        "reasoning": "The names are similar, and both describe shortbread products, aligning in product type.",
+        "reasoning": "The names and product types are similar, both referring to shortbread snacks.",
         "tags": "name-similar,type-match",
-        "similarity_final": 0.88
+        "similarity_final": 0.8
       }
     ]
   },
@@ -2489,6 +1742,7 @@
     "gate_item": {
       "id": 706,
       "name": "Haribo Mini Gold Bears UK",
+      "item_onboard_name": "Haribo Mini Gold Bears 10g",
       "desc": "Delicious Gummy Candy. Full of flavor and delight. Truly original and unique.",
       "parent_category": "1.Cafe",
       "sales_category": "Sweet Snacks"
@@ -2509,26 +1763,7 @@
         "catalog_start": "2025-12-01",
         "catalog_end": "2026-02-28",
         "competitor_page": 23,
-        "reasoning": "The names are highly similar, both referring to Haribo gummy bears. The product type and description align as gummy candy.",
-        "tags": "name-similar,type-match",
-        "similarity_final": 0.92
-      },
-      {
-        "competitor_item_id": 29,
-        "competitor_item_name": "RED BAND FRUCHTGUMMI",
-        "brand": "Red Band",
-        "quantity": "200 G",
-        "competitor_description": "FRUIT GUMS",
-        "parent_category": "Cafe",
-        "sales_category": "Sweet Snacks",
-        "price": 3.9,
-        "currency": "EUR",
-        "competitor_name": "Eurowings",
-        "catalog_name": "Eurowings_Bistro_Winter_2025",
-        "catalog_start": "2025-12-01",
-        "catalog_end": "2026-02-28",
-        "competitor_page": 16,
-        "reasoning": "Both items are fruit gummy candies with similar product type and name alignment.",
+        "reasoning": "The names are highly similar, indicating the same product line, and both are gummy candies.",
         "tags": "name-similar,type-match",
         "similarity_final": 0.85
       },
@@ -2547,9 +1782,9 @@
         "catalog_start": "2026-01-01",
         "catalog_end": "2026-04-30",
         "competitor_page": 8,
-        "reasoning": "Both items are Haribo branded gummy candies, with name similarity and matching product type.",
-        "tags": "name-similar,brand-match,type-match",
-        "similarity_final": 0.85
+        "reasoning": "The name similarity between 'Haribo Mini Gold Bears' and 'Haribo Travel Parade' indicates they are both Haribo gummy candy products, though the exact variety differs.",
+        "tags": "name-similar,brand-match",
+        "similarity_final": 0.78
       }
     ]
   },
@@ -2557,6 +1792,7 @@
     "gate_item": {
       "id": 709,
       "name": "Cadbury Dairy Milk Buttons UK",
+      "item_onboard_name": "Cadbury Dairy Milk Buttons 119",
       "desc": "Giant button shaped bites of the classic, creamy Cadbury Dairy Milk chocolate. A favourite for all the family to share and enjoy. Made with sustainably sourced cocoa. Vegetarian friendly.",
       "parent_category": "1.Cafe",
       "sales_category": "Sweet Snacks"
@@ -2577,7 +1813,7 @@
         "catalog_start": "2026-01-01",
         "catalog_end": "2026-04-30",
         "competitor_page": 8,
-        "reasoning": "Exact name match and same brand, indicating identical product.",
+        "reasoning": "The name and brand are identical, and both products are Cadbury Dairy Milk Buttons, though the quantities differ slightly.",
         "tags": "name-similar,brand-match",
         "similarity_final": 0.95
       },
@@ -2596,8 +1832,8 @@
         "catalog_start": "2026-01-01",
         "catalog_end": "2026-04-30",
         "competitor_page": 8,
-        "reasoning": "Both items are Cadbury Dairy Milk chocolate products, with brand match and similar product type.",
-        "tags": "brand-match,type-match",
+        "reasoning": "Both items are Cadbury Dairy Milk products, and the names indicate a strong similarity in product type (chocolate).",
+        "tags": "name-similar,brand-match,type-match",
         "similarity_final": 0.78
       },
       {
@@ -2615,8 +1851,8 @@
         "catalog_start": "2026-01-01",
         "catalog_end": "2026-04-30",
         "competitor_page": 8,
-        "reasoning": "Both items are Cadbury chocolate products, with brand match and similar product type.",
-        "tags": "brand-match,type-match",
+        "reasoning": "Both items are Cadbury products, and the names suggest they are chocolate-based snacks.",
+        "tags": "name-similar,brand-match,type-match",
         "similarity_final": 0.76
       }
     ]
@@ -2625,6 +1861,7 @@
     "gate_item": {
       "id": 720,
       "name": "Assorted biscuits",
+      "item_onboard_name": "Assorted biscuits",
       "desc": "Four different type of shortbread biscuits, different in shapes and colors, but always good because they come from ancient and traditional recipes. Italian product.",
       "parent_category": "1.Cafe",
       "sales_category": "Sweet Snacks"
@@ -2645,26 +1882,7 @@
         "catalog_start": "2026-01-01",
         "catalog_end": "2026-04-30",
         "competitor_page": 9,
-        "reasoning": "Both items are biscuit products, and the gate item description mentions shortbread, aligning with the competitor item's name.",
-        "tags": "name-similar,type-match",
-        "similarity_final": 0.78
-      },
-      {
-        "competitor_item_id": 246,
-        "competitor_item_name": "Stroopwafels",
-        "brand": null,
-        "quantity": "Pack of 2",
-        "competitor_description": "The authentic Dutch Stroopwafels. Pack of 2 waffles",
-        "parent_category": "Cafe",
-        "sales_category": "Sweet Snacks",
-        "price": 2.75,
-        "currency": "EUR",
-        "competitor_name": "Ryanair",
-        "catalog_name": "Ryan air Retail winter 2025",
-        "catalog_start": "2025-12-01",
-        "catalog_end": "2026-02-28",
-        "competitor_page": 24,
-        "reasoning": "Both items are biscuit-based products, and the competitor item is described as traditional waffles, aligning with the gate item's description of traditional recipes.",
+        "reasoning": "Both items are biscuit products, and the gate item description mentions shortbread, aligning with the competitor's product type.",
         "tags": "type-match,desc-similar",
         "similarity_final": 0.78
       },
@@ -2683,69 +1901,9 @@
         "catalog_start": "2025-12-01",
         "catalog_end": "2026-02-28",
         "competitor_page": 23,
-        "reasoning": "The gate item mentions shortbread biscuits, which matches the competitor item's product type.",
-        "tags": "name-similar,type-match",
-        "similarity_final": 0.76
-      }
-    ]
-  },
-  {
-    "gate_item": {
-      "id": 726,
-      "name": "GO ON Protein Crisp Bar",
-      "desc": "Protein Crisp Bar was created for anyone who loves quick and healthy snacks.This peanut caramel falvoured bar is very crispy and very greedy.10g protein.",
-      "parent_category": "1.Cafe",
-      "sales_category": "Sweet Snacks"
-    },
-    "matches": [
-      {
-        "competitor_item_id": 237,
-        "competitor_item_name": "Snickers",
-        "brand": null,
-        "quantity": "50g",
-        "competitor_description": null,
-        "parent_category": "Cafe",
-        "sales_category": "Sweet Snacks",
-        "price": 2.75,
-        "currency": "EUR",
-        "competitor_name": "Ryanair",
-        "catalog_name": "Ryan air Retail winter 2025",
-        "catalog_start": "2025-12-01",
-        "catalog_end": "2026-02-28",
-        "competitor_page": 23,
-        "reasoning": "Both items are snack bars with caramel and peanuts as key ingredients, aligning in product type and description.",
-        "tags": "desc-similar,type-match",
-        "similarity_final": 0.76
-      }
-    ]
-  },
-  {
-    "gate_item": {
-      "id": 727,
-      "name": "Balaton Bumm",
-      "desc": "Hungarian wafer bar. It is a milk chocolate dipped wafer bar filled with caramel and wheat flakes. Stretchy caramel, crunchy wafers and wheat flakes make the BALATON Bumm taste experience perfect.",
-      "parent_category": "1.Cafe",
-      "sales_category": "Sweet Snacks"
-    },
-    "matches": [
-      {
-        "competitor_item_id": 82,
-        "competitor_item_name": "Twix",
-        "brand": null,
-        "quantity": null,
-        "competitor_description": null,
-        "parent_category": "Cafe",
-        "sales_category": "Sweet Snacks",
-        "price": 1.9,
-        "currency": "GBP",
-        "competitor_name": "Jet2cafe",
-        "catalog_name": "Jet2Cafe",
-        "catalog_start": "2026-01-01",
-        "catalog_end": "2026-04-30",
-        "competitor_page": 9,
-        "reasoning": "Both are chocolate-coated wafer bars with caramel filling, showing strong product type similarity.",
+        "reasoning": "The gate item mentions shortbread biscuits, which matches the competitor's product type.",
         "tags": "type-match,desc-similar",
-        "similarity_final": 0.78
+        "similarity_final": 0.76
       }
     ]
   },
@@ -2753,6 +1911,7 @@
     "gate_item": {
       "id": 737,
       "name": "Cadbury Nibbly Fingers UK",
+      "item_onboard_name": "Cadbury Nibbly Fingers",
       "desc": "Crisp mini biscuits generously coated with creamy Cadbury Dairy Milk chocolate. Perfect on the go snacks for sharing with family and friends.",
       "parent_category": "1.Cafe",
       "sales_category": "Sweet Snacks"
@@ -2773,28 +1932,9 @@
         "catalog_start": "2026-01-01",
         "catalog_end": "2026-04-30",
         "competitor_page": 8,
-        "reasoning": "The names are identical, and both describe mini biscuits coated with Cadbury Dairy Milk chocolate. Quantity is close (125g vs unspecified).",
-        "tags": "name-similar,brand-match,desc-similar,quantity-close",
+        "reasoning": "The names are identical, and the product type matches as both are chocolate-coated biscuits.",
+        "tags": "name-similar,type-match",
         "similarity_final": 0.95
-      },
-      {
-        "competitor_item_id": 81,
-        "competitor_item_name": "Cadbury Dairy Milk Buttons",
-        "brand": "Cadbury",
-        "quantity": "100g",
-        "competitor_description": null,
-        "parent_category": "Cafe",
-        "sales_category": "Sweet Snacks",
-        "price": 3.75,
-        "currency": "GBP",
-        "competitor_name": "Jet2cafe",
-        "catalog_name": "Jet2Cafe",
-        "catalog_start": "2026-01-01",
-        "catalog_end": "2026-04-30",
-        "competitor_page": 8,
-        "reasoning": "Both items are Cadbury chocolate products and suitable for snacking, with name similarity and shared brand.",
-        "tags": "name-similar,brand-match",
-        "similarity_final": 0.78
       }
     ]
   },
@@ -2802,6 +1942,7 @@
     "gate_item": {
       "id": 750,
       "name": "Kit Kat Chocolate Bunny",
+      "item_onboard_name": "Kit Kat Chocolate Bunny",
       "desc": "Made out of delicious KitKat milk chocolate and wafer. KitKat Milk Chocolate Easter Bunny is a foil-wrapped, hollow chocolate bunny filled with light-tasting, crispy KitKat wafer throughout the shell.",
       "parent_category": "1.Cafe",
       "sales_category": "Sweet Snacks"
@@ -2822,7 +1963,7 @@
         "catalog_start": "2026-01-01",
         "catalog_end": "2026-04-30",
         "competitor_page": 9,
-        "reasoning": "The name 'KitKat' matches exactly, and both items are chocolate products featuring KitKat's signature wafer.",
+        "reasoning": "The names are highly similar, both referencing KitKat, and the product type matches as chocolate with wafer.",
         "tags": "name-similar,type-match",
         "similarity_final": 0.85
       },
@@ -2841,9 +1982,9 @@
         "catalog_start": "2025-12-01",
         "catalog_end": "2026-02-28",
         "competitor_page": 23,
-        "reasoning": "The name 'KitKat' matches closely with 'Kit Kat Chocolate Bunny', and both products feature KitKat milk chocolate and wafer.",
+        "reasoning": "The names are highly similar, indicating the same brand and product type, though the competitor item lacks a detailed description.",
         "tags": "name-similar,type-match",
-        "similarity_final": 0.85
+        "similarity_final": 0.8
       }
     ]
   },
@@ -2851,6 +1992,7 @@
     "gate_item": {
       "id": 755,
       "name": "Kit Kat Chocolate Bunny UK",
+      "item_onboard_name": "Kit Kat Chocolate Bunny 45g",
       "desc": "Made out of delicious KitKat milk chocolate and wafer. KitKat Milk Chocolate Easter Bunny is a foil-wrapped, hollow chocolate bunny filled with light-tasting, crispy KitKat wafer throughout the shell.",
       "parent_category": "1.Cafe",
       "sales_category": "Sweet Snacks"
@@ -2871,9 +2013,9 @@
         "catalog_start": "2026-01-01",
         "catalog_end": "2026-04-30",
         "competitor_page": 9,
-        "reasoning": "The name 'KitKat' matches exactly, and both items are chocolate-based products with KitKat branding.",
-        "tags": "name-similar,brand-match,type-match",
-        "similarity_final": 0.85
+        "reasoning": "The names are highly similar, both referring to KitKat products, and the product type matches as chocolate-based items.",
+        "tags": "name-similar,type-match",
+        "similarity_final": 0.8
       },
       {
         "competitor_item_id": 239,
@@ -2890,8 +2032,8 @@
         "catalog_start": "2025-12-01",
         "catalog_end": "2026-02-28",
         "competitor_page": 23,
-        "reasoning": "The name 'KitKat' matches closely, and both items are made of KitKat milk chocolate and wafer.",
-        "tags": "name-similar,type-match",
+        "reasoning": "The names are highly similar, both referencing KitKat chocolate. The competitor item's quantity is close to the gate item's weight.",
+        "tags": "name-similar,quantity-close",
         "similarity_final": 0.78
       }
     ]
@@ -2900,6 +2042,7 @@
     "gate_item": {
       "id": 758,
       "name": "Squashies Original UK",
+      "item_onboard_name": "Squashies Original 60g",
       "desc": "The original raspberry and milk drumstick flavour, here recreated by Swizzels in a squidgy sweet form.",
       "parent_category": "1.Cafe",
       "sales_category": "Sweet Snacks"
@@ -2920,9 +2063,9 @@
         "catalog_start": "2026-01-01",
         "catalog_end": "2026-04-30",
         "competitor_page": 9,
-        "reasoning": "The names are highly similar, and both products are described as soft, chewy sweets with a focus on the Squashies brand.",
+        "reasoning": "The names are highly similar, and both refer to the same product type by Swizzels with a focus on the Squashies brand.",
         "tags": "name-similar,brand-match",
-        "similarity_final": 0.95
+        "similarity_final": 0.9
       }
     ]
   },
@@ -2930,11 +2073,31 @@
     "gate_item": {
       "id": 759,
       "name": "Kit Kat Ball",
+      "item_onboard_name": "Kit Kat Ball",
       "desc": "KitKat Ball are milk chocolate balls with a crunchy cereal centre coated with confectioners cream. Both crunchy and melt-in-the-mouth, these balls are ideal to share with friends or family.",
       "parent_category": "1.Cafe",
       "sales_category": "Sweet Snacks"
     },
     "matches": [
+      {
+        "competitor_item_id": 84,
+        "competitor_item_name": "KitKat",
+        "brand": null,
+        "quantity": null,
+        "competitor_description": null,
+        "parent_category": "Cafe",
+        "sales_category": "Sweet Snacks",
+        "price": 1.9,
+        "currency": "GBP",
+        "competitor_name": "Jet2cafe",
+        "catalog_name": "Jet2Cafe",
+        "catalog_start": "2026-01-01",
+        "catalog_end": "2026-04-30",
+        "competitor_page": 9,
+        "reasoning": "The names are similar, indicating the same product line, though the competitor item lacks specific details about the form (e.g., balls).",
+        "tags": "name-similar",
+        "similarity_final": 0.8
+      },
       {
         "competitor_item_id": 239,
         "competitor_item_name": "KitKat",
@@ -2950,9 +2113,9 @@
         "catalog_start": "2025-12-01",
         "catalog_end": "2026-02-28",
         "competitor_page": 23,
-        "reasoning": "The name similarity indicates both products are KitKat branded items, and both involve chocolate-based treats.",
+        "reasoning": "The names are highly similar, both referencing 'KitKat', and both are chocolate-based products.",
         "tags": "name-similar,type-match",
-        "similarity_final": 0.78
+        "similarity_final": 0.8
       }
     ]
   },
@@ -2960,6 +2123,7 @@
     "gate_item": {
       "id": 761,
       "name": "Haribo Gold Bears 100g",
+      "item_onboard_name": "Haribo Gold Bears 100g",
       "desc": "Everyone knows them and for good reason. After all, this unmistakable original has delighted fans big and small, young and old since 1922. With flavours ranging from pineapple to lemon, the six colourful Goldbears represent one thing above all else: irresistible joy thats fun to share.",
       "parent_category": "1.Cafe",
       "sales_category": "Sweet Snacks"
@@ -2980,28 +2144,9 @@
         "catalog_start": "2025-12-01",
         "catalog_end": "2026-02-28",
         "competitor_page": 23,
-        "reasoning": "The names are identical, and the quantity matches exactly at 100g.",
-        "tags": "name-similar,quantity-exact",
+        "reasoning": "The names are nearly identical, the quantities match exactly, and both refer to the same product type of gummy candy.",
+        "tags": "name-similar,quantity-exact,type-match",
         "similarity_final": 1.0
-      },
-      {
-        "competitor_item_id": 29,
-        "competitor_item_name": "RED BAND FRUCHTGUMMI",
-        "brand": "Red Band",
-        "quantity": "200 G",
-        "competitor_description": "FRUIT GUMS",
-        "parent_category": "Cafe",
-        "sales_category": "Sweet Snacks",
-        "price": 3.9,
-        "currency": "EUR",
-        "competitor_name": "Eurowings",
-        "catalog_name": "Eurowings_Bistro_Winter_2025",
-        "catalog_start": "2025-12-01",
-        "catalog_end": "2026-02-28",
-        "competitor_page": 16,
-        "reasoning": "Both items are fruit gummies, with similar product type and description alignment. Quantity is close (100g vs 200g).",
-        "tags": "type-match,desc-similar,quantity-close",
-        "similarity_final": 0.85
       },
       {
         "competitor_item_id": 79,
@@ -3018,8 +2163,8 @@
         "catalog_start": "2026-01-01",
         "catalog_end": "2026-04-30",
         "competitor_page": 8,
-        "reasoning": "Both items are Haribo-branded gummy candies, and the name similarity indicates they are part of the same product family.",
-        "tags": "name-similar,brand-match",
+        "reasoning": "The competitor item shares the same brand and is a similar product type (gummy candies), though the exact variety differs.",
+        "tags": "name-similar,brand-match,type-match",
         "similarity_final": 0.78
       }
     ]
@@ -3028,6 +2173,7 @@
     "gate_item": {
       "id": 831,
       "name": "Haribo Gold Bears 100g UK",
+      "item_onboard_name": "Haribo Gold Bears",
       "desc": "This unmistakable original has delighted fans big and small, young and old since 1922. With flavours ranging from pineapple to lemon, the six colourful Goldbears represent one thing above all else: irresistible joy thats fun to share.",
       "parent_category": "1.Cafe",
       "sales_category": "Sweet Snacks"
@@ -3048,28 +2194,9 @@
         "catalog_start": "2025-12-01",
         "catalog_end": "2026-02-28",
         "competitor_page": 23,
-        "reasoning": "The name and quantity are identical, and both items represent the same product type.",
+        "reasoning": "The names are highly similar, and both products are 100g packs of Haribo Gold Bears with identical product type and description alignment.",
         "tags": "name-similar,quantity-exact,type-match",
-        "similarity_final": 1.0
-      },
-      {
-        "competitor_item_id": 29,
-        "competitor_item_name": "RED BAND FRUCHTGUMMI",
-        "brand": "Red Band",
-        "quantity": "200 G",
-        "competitor_description": "FRUIT GUMS",
-        "parent_category": "Cafe",
-        "sales_category": "Sweet Snacks",
-        "price": 3.9,
-        "currency": "EUR",
-        "competitor_name": "Eurowings",
-        "catalog_name": "Eurowings_Bistro_Winter_2025",
-        "catalog_start": "2025-12-01",
-        "catalog_end": "2026-02-28",
-        "competitor_page": 16,
-        "reasoning": "Both items are fruit gummy candies, with similar product type and purpose. Quantity is close (100g vs 200g).",
-        "tags": "type-match,quantity-close",
-        "similarity_final": 0.78
+        "similarity_final": 0.95
       },
       {
         "competitor_item_id": 79,
@@ -3086,39 +2213,9 @@
         "catalog_start": "2026-01-01",
         "catalog_end": "2026-04-30",
         "competitor_page": 8,
-        "reasoning": "Both items are Haribo-branded gummy candies, and the gate item description aligns with the competitor's product type despite the larger quantity.",
+        "reasoning": "The competitor item shares the same brand (Haribo) and is a similar type of gummy candy product, though the exact flavors and quantity differ.",
         "tags": "name-similar,brand-match,type-match",
-        "similarity_final": 0.78
-      }
-    ]
-  },
-  {
-    "gate_item": {
-      "id": 832,
-      "name": "Milka Mini Snow Balls UK",
-      "desc": "Delightful mini treats with smooth milk cream and covered in Milka's s signature Alpine milk chocolate. Shaped like little snowballs, they're a festive sweet perfect for sharing, gifting, or enjoying during holiday seaso",
-      "parent_category": "1.Cafe",
-      "sales_category": "Sweet Snacks"
-    },
-    "matches": [
-      {
-        "competitor_item_id": 81,
-        "competitor_item_name": "Cadbury Dairy Milk Buttons",
-        "brand": "Cadbury",
-        "quantity": "100g",
-        "competitor_description": null,
-        "parent_category": "Cafe",
-        "sales_category": "Sweet Snacks",
-        "price": 3.75,
-        "currency": "GBP",
-        "competitor_name": "Jet2cafe",
-        "catalog_name": "Jet2Cafe",
-        "catalog_start": "2026-01-01",
-        "catalog_end": "2026-04-30",
-        "competitor_page": 8,
-        "reasoning": "Both items are milk chocolate-based treats, and the competitor item aligns with the festive and sharing nature described in the gate item.",
-        "tags": "name-similar,type-match",
-        "similarity_final": 0.78
+        "similarity_final": 0.8
       }
     ]
   },
@@ -3126,6 +2223,7 @@
     "gate_item": {
       "id": 850,
       "name": "Potato Chips Hot & Spicy",
+      "item_onboard_name": "Chips Hot & Spicy",
       "desc": "Pringles Hot & Spicy crisps pack a bold and spicy flavour certain to satisfy even the most intense of cravings.",
       "parent_category": "1.Cafe",
       "sales_category": "Savoury Snacks"
@@ -3146,28 +2244,9 @@
         "catalog_start": "2025-12-01",
         "catalog_end": "2026-02-28",
         "competitor_page": 17,
-        "reasoning": "The competitor item matches based on name similarity and product type inference, as both are potato-based chips with similar flavor profiles.",
+        "reasoning": "The name indicates a similar product type (crisps), and the description aligns with flavored potato chips.",
         "tags": "name-similar,type-match",
         "similarity_final": 0.78
-      },
-      {
-        "competitor_item_id": 65,
-        "competitor_item_name": "Pringles",
-        "brand": null,
-        "quantity": null,
-        "competitor_description": "Salt & Vinegar, Original, Sour Cream & Onion",
-        "parent_category": "Cafe",
-        "sales_category": "Savoury Snacks",
-        "price": 2.8,
-        "currency": "GBP",
-        "competitor_name": "Jet2cafe",
-        "catalog_name": "Jet2Cafe",
-        "catalog_start": "2026-01-01",
-        "catalog_end": "2026-04-30",
-        "competitor_page": 7,
-        "reasoning": "The competitor item matches based on name similarity and product type inference, as both are potato chips with overlapping flavor options.",
-        "tags": "name-similar,type-match",
-        "similarity_final": 0.76
       }
     ]
   }

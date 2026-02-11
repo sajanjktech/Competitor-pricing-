@@ -17,7 +17,7 @@ connection_string = f"mssql+pymssql://{username}:{password}@{server}/{database}"
 engine = create_engine(connection_string)
 
 # Folder containing final matching output JSONs
-MATCH_FOLDER = os.path.join(os.path.dirname(__file__))
+MATCH_FOLDER = os.path.join(os.path.dirname(__file__),"llm_mapping_output_json")
 
 json_files = [
     f for f in os.listdir(MATCH_FOLDER)
@@ -34,6 +34,7 @@ insert_sql = text("""
 INSERT INTO dbo.llm_competitor_price_comparison (
     gate_item_row_id,
     gate_item_name,
+    gate_item_onboard_name,
     competitor_item_id,
     competitor_name,
     competitor_item_name,
@@ -58,6 +59,7 @@ INSERT INTO dbo.llm_competitor_price_comparison (
 VALUES (
     :gate_item_row_id,
     :gate_item_name,
+    :gate_item_onboard_name,
     :competitor_item_id,
     :competitor_name,
     :competitor_item_name,
@@ -126,6 +128,7 @@ for jf in json_files:
                 row = {
                     "gate_item_row_id": gg["id"],
                     "gate_item_name": gg["name"],
+                    "gate_item_onboard_name": gg.get("item_onboard_name"),
                     "gate_item_description": gg.get("desc"),
                     "gate_parent_category": gg.get("parent_category"),
                     "gate_sales_category": gg.get("sales_category"),
