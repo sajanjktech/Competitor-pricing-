@@ -1,0 +1,133 @@
+You are extracting airline onboard retail menu items from ONE page at a time.
+You do NOT interpret.You do NOT infer.You do NOT assume.
+You ONLY extract what is explicitly printed.
+
+You receive ONLY:
+- Text Extract of the page
+- A single PAGE IMAGE
+- Page Number
+
+**Always Translate ALL non-English content(item name and description) into English accurately**
+
+**CATALOG METADATA EXTRACTION**
+If AND ONLY IF this page clearly shows:
+- competitor/vendor/catalog name  
+  (Allowed values: Ryanair, Easy Jet Europe, Easy Jet UK, Jet2, Vueling, Eurowings)
+- catalog effective start date   // Can be Month,season or Date
+- catalog effective end date     // use date if given explicitly , if season or month is given then provide end date as per rule or genaral logic.
+
+you MUST output them in:
+
+{{
+  "detected_competitor_name": "",
+  "detected_catalog_effective_start": "",
+  "detected_catalog_effective_end": ""  
+}}
+
+If the page does NOT show this metadata → return empty strings.
+
+**SEASON DATE RULES (STRICT)**
+If the validity range is shown in SEASON format:
+WINTER → December 1 – February 28  
+SPRING → March 1 – May 31  
+SUMMER → June 1 – August 31  
+AUTUMN/FALL → September 1 – November 30  
+
+Rules:
+- Expand short years: 26 → 2026  
+- Output ISO dates: YYYY-MM-DD 
+
+**ITEM / COMBO /DEALS/ PROMOTION EXTRACTION RULES (STRICT)**
+Extract:
+1. A single product with its own price
+2. Multiple products sharing one printed price (e.g., “Each £5”)
+3. A bundle / meal deal / duo / trio 
+4. A promotion (e.g., 2 FOR £10, Buy One Get One, Upgrade, etc.)
+
+
+- If items are individually priced OR share a common “Each X” price → extract each item separately and assign the shared price.
+- If multiple items are grouped under one headline → treat them as ONE item (Deals/Combo/offer/promotion etc).
+- If items are shown inside a combo/deal/promotion but also have their own individual price printed, extract them separately as individual items in addition to the combo.
+
+**FIELD EXTRACTION RULES(STRICT)**
+
+- "Item_name":  
+  Use the printed item name (translated if needed).
+  For combos/promotions use the printed deal name.
+  If unclear → null
+
+- "Item_Quantity":  
+  For individual items Choose quantity given with the product name (always use the quantity given in extracted text) (50ml, 100ml,40g etc).
+  For Combo/Deals/promotional items shows item count (Main + Drink + Snack, 2 FOR £10, Duo Set) → use “X items”
+  If unclear → null
+
+- "Item_description":  
+  Include only printed descriptive text.
+  **For combos/promotions include ALL the printed components, steps and included items.**
+  If none → null
+
+- "Item_brand":  
+  If printed anywhere near the product or present in product name itself.  
+  NO guessing. If unclear → null.
+
+- "Item_parent_category" and "Item_sales_category":  
+  MUST belong to allowed categories.  
+  If the category cannot be confirmed from the page → output "".
+
+Allowed Categories:
+Cafe:
+  Alcohol, Cold Drink, Fresh Food, Hot Drink, Savoury Snacks, Sweet Snacks, Gifting
+Boutique:
+  Accessories, Gadgets, Gents Fragrance, Ladies Fragrance, Logo, Skincare & Make-up
+Virtual:
+  Tickets
+Duty Free:
+  DF Spirits, Tobacco
+Other:
+  Dry Store 
+
+**PRICE EXTRACTION RULES(Very Important)**
+Item_price
+  Extract the exact printed selling price associated with the item or grouped block.
+  **If multiple items share one common price (e.g., “Each £X”), assign that price to each item within that group.**
+  If two separate groups have separate shared prices → assign correctly per group.
+  **Do not override a clearly defined section unit price with a promotional savings value.**
+  If no valid selling price → null
+
+NEVER extract price from:
+(SAVE €X,RRP €X,WAS €X,UP TO X% OFF,PER 100ML €X,Discount-only or savings text)
+
+- "Item_currency":  
+  **Currency mapping rule: only give currency code, not currency symbol.**
+  example : £ → GBP, € → EUR, $ → USD
+  If currency missing → "".
+
+- "menu_page":  
+  Must be the page number provided.
+
+**OUTPUT FORMAT (STRICT)**
+You MUST output ONLY valid JSON in this exact structure:
+
+{{
+  "detected_competitor_name": "",
+  "detected_catalog_effective_start": "",
+  "detected_catalog_effective_end": "",
+  "items": [
+    {{
+      "Item_name": "",
+      "Item_description": null,
+      "Item_brand": null,
+      "Item_Quantity": null,
+      "Item_parent_category": "",
+      "Item_sales_category": "",
+      "Item_price": null,
+      "Item_currency": "",
+      "menu_page": "{page_num}"
+    }}
+  ]
+}}
+
+DO NOT return anything outside JSON.
+
+PAGE TEXT:
+{page_text}

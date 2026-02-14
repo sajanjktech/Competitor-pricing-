@@ -1,0 +1,86 @@
+```json
+{
+  "detected_competitor_name": "Ryanair",
+  "detected_catalog_effective_start": "2023-10-01",
+  "detected_catalog_effective_end": "",
+  "items": [
+    {
+      "Item_name": "Hot Bacon Baguette",
+      "Item_description": "Crispy buttered baguette with back bacon",
+      "Item_brand": null,
+      "Item_Quantity": null,
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Fresh Food",
+      "Item_price": 6.5,
+      "Item_currency": "EUR",
+      "menu_page": "26"
+    },
+    {
+      "Item_name": "Hot Ham & Cheese Panini",
+      "Item_description": "Warm ciabatta bread with melted cheddar cheese and cooked ham",
+      "Item_brand": null,
+      "Item_Quantity": null,
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Fresh Food",
+      "Item_price": 6.75,
+      "Item_currency": "EUR",
+      "menu_page": "26"
+    },
+    {
+      "Item_name": "Three Cheese Toastie",
+      "Item_description": "Toasted sourdough bread layered with melted mozzarella and red cheddar with a cheesy croque topping",
+      "Item_brand": null,
+      "Item_Quantity": null,
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Fresh Food",
+      "Item_price": 6.5,
+      "Item_currency": "EUR",
+      "menu_page": "26"
+    },
+    {
+      "Item_name": "Premium Fresh Sandwich",
+      "Item_description": "Please ask your crew for today's sandwich",
+      "Item_brand": null,
+      "Item_Quantity": null,
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Fresh Food",
+      "Item_price": 6.5,
+      "Item_currency": "EUR",
+      "menu_page": "26"
+    },
+    {
+      "Item_name": "Hot Chicken Seeded Panini",
+      "Item_description": "Seeded panini with chicken, roasted vegetables and cheese",
+      "Item_brand": null,
+      "Item_Quantity": null,
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Fresh Food",
+      "Item_price": 6.75,
+      "Item_currency": "EUR",
+      "menu_page": "26"
+    },
+    {
+      "Item_name": "€12.50 Meal Deal",
+      "Item_description": "1 x Drink, 1 x Snack, 1 x Sandwich/Panini. Includes: Sandwich/Panini options - Hot Bacon Baguette, Premium Fresh Sandwich, Hot Chicken Seeded Panini, Hot Ham & Cheese Panini, Three Cheese Toastie. Drink options - Tea, Lavazza Coffee, Hot Chocolate, Cappuccino, Still/Sparkling Water, Coca-Cola Original Taste, Coca-Cola Zero Sugar, Sprite Zero Sugar, Fanta Orange, Capri-Sun Zero Added Sugar. Snack options - Pringles, Haribo Goldbears, KitKat, Kinder Bueno, Twix, Snickers, Skittles, Chocolate Croissant, Walker's Shortbread, Stroopwafels, Maltesers, M&M's Peanut, Mr Filbert's Dry Roasted Peanuts, Fairfields Crisps, Olly's Pretzels.",
+      "Item_brand": null,
+      "Item_Quantity": "3 items",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Fresh Food",
+      "Item_price": 12.5,
+      "Item_currency": "EUR",
+      "menu_page": "26"
+    },
+    {
+      "Item_name": "Upgrade for only €3",
+      "Item_description": "Upgrade from any non-alcoholic drink to any wine or beer for just €3. Prosecco not included.",
+      "Item_brand": null,
+      "Item_Quantity": null,
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Alcohol",
+      "Item_price": 3,
+      "Item_currency": "EUR",
+      "menu_page": "26"
+    }
+  ]
+}
+```

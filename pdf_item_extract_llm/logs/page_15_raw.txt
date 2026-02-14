@@ -1,18 +1,42 @@
+```json
 {
-  "detected_competitor_name": "",
-  "detected_catalog_effective_start": "",
+  "detected_competitor_name": "Ryanair",
+  "detected_catalog_effective_start": "2023-10-01",
   "detected_catalog_effective_end": "",
   "items": [
     {
-      "Item_name": "Belgian Triple Chocolate Cookie",
-      "Item_description": "Handmade cookie with Belgian dark chocolate (75g).",
-      "Item_brand": null,
-      "Item_Quantity": "75g",
-      "Item_parent_category": "Cafe",
-      "Item_sales_category": "Sweet Snacks",
-      "Item_price": 3.50,
+      "Item_name": "Morphe 18R Runway Ready Eyeshadow Palette",
+      "Item_description": "Fashion takes flight in an essential 18-pan artistry curation for any destination. Perfectly packed with ultra-versatile, universally flattering neutrals in Morphe’s signature matte, metallic and shimmer finishes. This on-trend palette guarantees a stylish arrival, day or night, near or far.",
+      "Item_brand": "Morphe",
+      "Item_Quantity": "18-pan",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Skincare & Make-up",
+      "Item_price": "29.00",
       "Item_currency": "EUR",
-      "menu_page": "15"
+      "menu_page": "29"
+    },
+    {
+      "Item_name": "L’Oréal Paris Color Riche Nude Lipsticks Trio",
+      "Item_description": "This set contains three full size Color Riche nude lipsticks (Nude 235, Violet Saturne 214, Rose Tendre 303).",
+      "Item_brand": "L’Oréal Paris",
+      "Item_Quantity": "3 items",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Skincare & Make-up",
+      "Item_price": "29.00",
+      "Item_currency": "EUR",
+      "menu_page": "29"
+    },
+    {
+      "Item_name": "L’Oréal Paris Volume Million Lashes Set Duo",
+      "Item_description": "Mascara N°1 Black 2 x 11 ml. Discover the iconic Volume Million Lashes Mascara, now available in a duo pack of full size.",
+      "Item_brand": "L’Oréal Paris",
+      "Item_Quantity": "2 x 11ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Skincare & Make-up",
+      "Item_price": "22.00",
+      "Item_currency": "EUR",
+      "menu_page": "29"
     }
   ]
 }
+```

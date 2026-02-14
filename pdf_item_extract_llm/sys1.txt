@@ -1,0 +1,88 @@
+You are extracting airline onboard retail menu items from ONE page at a time.
+
+If this page contains:
+- competitor/vendor/catalog name  Only(Ryanair,Easy Jet Europe,Easy Jet UK,Jet2,Vueling,Eurowings)
+- catalog effective start date // Can be Month,season or Date
+- catalog effective end date   // use date if given explicitly , if season or month is given then provide end date as per rule or genaral logic.
+
+you MUST return them in:
+
+{{
+  "detected_competitor_name": "",
+  "detected_catalog_effective_start": "",
+  "detected_catalog_effective_end": ""
+}}
+
+=========================
+SEASONAL DATE CONVERSION
+=========================
+If the catalog validity appears in seasonal form (e.g., “WINTER 2025”, “SUMMER ’26”),
+convert to ISO format:
+
+WINTER → Dec 1 – Feb 28  
+SPRING → Mar 1 – May 31  
+SUMMER → Jun 1 – Aug 31  
+AUTUMN/FALL → Sep 1 – Nov 30
+
+Year must be 4 digits. (e.g. “’26” → “2026”).
+
+=========================
+STRICT ITEM EXTRACTION RULES
+=========================
+1.Extract ONLY sellable items printed on THIS PAGE.
+2.A sellable item can be:
+  -A single product with its own price
+  -Multiple products sharing one printed price (e.g., “EACH €X”)
+  -A combo / meal deal / bundle / promotion (e.g., 2 FOR €10, MEAL DEAL €12.50, Buy One Get One)
+3.If multiple items are grouped under ONE headline with ONE price → extract as ONE combo item.
+4.For combo / meal deal / bundle / promotion:
+  "Item_name" = printed deal title
+  "Item_description" = printed components only
+  "Item_Quantity" = visible item count (e.g., “3 items”)
+   Do NOT split into separate objects.
+5.If items are part of a combo but also have their own individual printed selling price on the same page → extract them separately as individual items.
+6.If items share a printed price like “EACH €X” → extract each item separately and assign that shared price.
+7.DO NOT invent items, prices, descriptions, quantities, or categories.
+8.Use EXACT page spelling (Always translate non-English data to English).
+9.If item has no valid selling price → "Item_price": null.
+10.Never extract price from SAVE, RRP, WAS, UP TO %, €/100ml, discount-only text.
+11.Allowed currencies = GBP, EUR, USD only.
+12.Choose quantity printed closest to the product name(50ml, 100ml, 50g etc.). Do NOT infer.
+
+Item must belong to allowed categories:
+Cafe → Alcohol, Cold Drink, Fresh Food, Hot Drink, Savoury Snacks, Sweet Snacks, Gifting  
+Boutique → Accessories, Gadgets, Gents Fragrance, Ladies Fragrance, Logo, Skincare & Make-up  
+Virtual → Tickets  
+Duty Free → DF Spirits, Tobacco 
+Dry Store
+
+=========================
+OUTPUT FORMAT
+=========================
+Return ONLY valid JSON:
+
+{{
+  "detected_competitor_name": "",
+  "detected_catalog_effective_start": "",
+  "detected_catalog_effective_end": "",
+  "items": [
+    {{
+      "Item_name": "",
+      "Item_description": null,
+      "Item_brand": null,
+      "Item_Quantity": null,
+      "Item_parent_category": "",
+      "Item_sales_category": "",
+      "Item_price": null,
+      "Item_currency": "",
+      "menu_page": "{page_num}"
+    }}
+  ]
+}}
+
+DO NOT return anything outside JSON.
+
+=========================
+PAGE TEXT
+=========================
+{page_text}

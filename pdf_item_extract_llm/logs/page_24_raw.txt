@@ -1,40 +1,108 @@
+```json
 {
-  "detected_competitor_name": "",
-  "detected_catalog_effective_start": "",
+  "detected_competitor_name": "Ryanair",
+  "detected_catalog_effective_start": "2023-10-01",
   "detected_catalog_effective_end": "",
   "items": [
     {
-      "Item_name": "Cuvée Spéciale White Wine",
-      "Item_description": null,
-      "Item_brand": "Barton & Guestier",
-      "Item_Quantity": "18.75cl",
+      "Item_name": "Stroopwafels",
+      "Item_description": "The authentic Dutch Stroopwafels. Pack of 2 waffles.",
+      "Item_brand": null,
+      "Item_Quantity": "2 waffles",
       "Item_parent_category": "Cafe",
-      "Item_sales_category": "Alcohol",
-      "Item_price": null,
-      "Item_currency": "",
+      "Item_sales_category": "Sweet Snacks",
+      "Item_price": "2.75",
+      "Item_currency": "EUR",
       "menu_page": "24"
     },
     {
-      "Item_name": "Cuvée Spéciale Red Wine",
+      "Item_name": "Capri-Sun Zero Added Sugar",
       "Item_description": null,
-      "Item_brand": "Barton & Guestier",
-      "Item_Quantity": "18.75cl",
-      "Item_parent_category": "Cafe",
-      "Item_sales_category": "Alcohol",
-      "Item_price": null,
-      "Item_currency": "",
-      "menu_page": "24"
-    },
-    {
-      "Item_name": "Scavi & Ray Prosecco",
-      "Item_description": "A taste for every story. Finest Prosecco. Made in Italy.",
-      "Item_brand": "Scavi & Ray",
+      "Item_brand": null,
       "Item_Quantity": null,
       "Item_parent_category": "Cafe",
-      "Item_sales_category": "Alcohol",
-      "Item_price": null,
-      "Item_currency": "",
+      "Item_sales_category": "Cold Drink",
+      "Item_price": "3.25",
+      "Item_currency": "EUR",
+      "menu_page": "24"
+    },
+    {
+      "Item_name": "Chocolate Croissant",
+      "Item_description": "A delicious hot buttery fresh croissant with an oozing chocolatey centre.",
+      "Item_brand": null,
+      "Item_Quantity": null,
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Fresh Food",
+      "Item_price": "3.50",
+      "Item_currency": "EUR",
+      "menu_page": "24"
+    },
+    {
+      "Item_name": "Lavazza Coffee",
+      "Item_description": "Freshly brewed Italian coffee.",
+      "Item_brand": "Lavazza",
+      "Item_Quantity": null,
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Hot Drink",
+      "Item_price": "3.75",
+      "Item_currency": "EUR",
+      "menu_page": "24"
+    },
+    {
+      "Item_name": "Tea",
+      "Item_description": "Light and refreshing black tea.",
+      "Item_brand": null,
+      "Item_Quantity": null,
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Hot Drink",
+      "Item_price": "3.75",
+      "Item_currency": "EUR",
+      "menu_page": "24"
+    },
+    {
+      "Item_name": "Hot Bacon Baguette",
+      "Item_description": "Crispy buttered baguette with back bacon.",
+      "Item_brand": null,
+      "Item_Quantity": null,
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Fresh Food",
+      "Item_price": "6.50",
+      "Item_currency": "EUR",
+      "menu_page": "24"
+    },
+    {
+      "Item_name": "Cappuccino",
+      "Item_description": "Delicious espresso with frothy milk.",
+      "Item_brand": null,
+      "Item_Quantity": null,
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Hot Drink",
+      "Item_price": "4.25",
+      "Item_currency": "EUR",
+      "menu_page": "24"
+    },
+    {
+      "Item_name": "Hot Chocolate",
+      "Item_description": "Rich and creamy.",
+      "Item_brand": null,
+      "Item_Quantity": null,
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Hot Drink",
+      "Item_price": "4.25",
+      "Item_currency": "EUR",
+      "menu_page": "24"
+    },
+    {
+      "Item_name": "€12.50 Meal Deal",
+      "Item_description": "1 x Drink, 1 x Snack, 1 x Sandwich/Panini. All hot drinks included in the meal deals.",
+      "Item_brand": null,
+      "Item_Quantity": "3 items",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Fresh Food",
+      "Item_price": "12.50",
+      "Item_currency": "EUR",
       "menu_page": "24"
     }
   ]
 }
+```

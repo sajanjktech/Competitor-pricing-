@@ -1,18 +1,53 @@
+```json
 {
-  "detected_competitor_name": "",
-  "detected_catalog_effective_start": "",
+  "detected_competitor_name": "Ryanair",
+  "detected_catalog_effective_start": "2023-10-01",
   "detected_catalog_effective_end": "",
   "items": [
     {
-      "Item_name": "",
-      "Item_description": null,
+      "Item_name": "Beef Lasagne",
+      "Item_description": "Delicious lasagne with layers of beef and pasta.",
+      "Item_brand": null,
+      "Item_Quantity": "350g",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Fresh Food",
+      "Item_price": "8.50",
+      "Item_currency": "EUR",
+      "menu_page": "5"
+    },
+    {
+      "Item_name": "Thai Green Curry",
+      "Item_description": "Fragrant and aromatic green chicken curry with authentic Thai Jasmine rice.",
+      "Item_brand": null,
+      "Item_Quantity": "300g",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Fresh Food",
+      "Item_price": "8.50",
+      "Item_currency": "EUR",
+      "menu_page": "5"
+    },
+    {
+      "Item_name": "Hot Meal Deal",
+      "Item_description": "1 Drink + 1 Snack + 1 Hot Meal. Includes options: 1 hot meal (Beef Lasagne or Thai Green Curry), 1 drink (Tea, Lavazza Coffee, Hot Chocolate, Cappuccino, Still/Sparkling Water, Coca-Cola Original Taste, Coca-Cola Zero Sugar, Sprite Zero Sugar, Fanta Orange, Capri-Sun Zero Added Sugar), and 1 snack (Pringles, Haribo Goldbears, KitKat, Kinder Bueno, Twix, Snickers, Skittles, Chocolate Croissant, Walker's Shortbread, Stroopwafels, Maltesers, M&M's Peanut, Mr Filbert's Dry Roasted Peanuts, Fairfields Crisps, Olly's Pretzels).",
+      "Item_brand": null,
+      "Item_Quantity": "3 items",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Fresh Food",
+      "Item_price": "14.00",
+      "Item_currency": "EUR",
+      "menu_page": "5"
+    },
+    {
+      "Item_name": "Upgrade to Wine or Beer",
+      "Item_description": "Upgrade from any non-alcoholic drink to any wine or beer for just €3. Prosecco not included.",
       "Item_brand": null,
       "Item_Quantity": null,
-      "Item_parent_category": "",
-      "Item_sales_category": "",
-      "Item_price": null,
-      "Item_currency": "",
-      "menu_page": "25"
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Alcohol",
+      "Item_price": "3.00",
+      "Item_currency": "EUR",
+      "menu_page": "5"
     }
   ]
 }
+```

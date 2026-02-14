@@ -1,18 +1,108 @@
+```json
 {
-  "detected_competitor_name": "",
+  "detected_competitor_name": "Ryanair",
   "detected_catalog_effective_start": "",
   "detected_catalog_effective_end": "",
   "items": [
     {
-      "Item_name": "Pasta Deal",
-      "Item_description": null,
-      "Item_brand": "L'Osteria",
+      "Item_name": "€12.50 Meal Deal",
+      "Item_description": "Great Value, Big Taste. Includes options like Three-Cheese Toastie or Ham & Cheese Panini.",
+      "Item_brand": null,
+      "Item_Quantity": "X items",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Fresh Food",
+      "Item_price": "12.50",
+      "Item_currency": "EUR",
+      "menu_page": "2"
+    },
+    {
+      "Item_name": "Three-Cheese Toastie",
+      "Item_description": "Hot & Hearty option.",
+      "Item_brand": null,
       "Item_Quantity": null,
-      "Item_parent_category": "",
-      "Item_sales_category": "",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Fresh Food",
       "Item_price": null,
       "Item_currency": "",
+      "menu_page": "2"
+    },
+    {
+      "Item_name": "Ham & Cheese Panini",
+      "Item_description": "Hot & Hearty option.",
+      "Item_brand": null,
+      "Item_Quantity": null,
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Fresh Food",
+      "Item_price": null,
+      "Item_currency": "",
+      "menu_page": "2"
+    },
+    {
+      "Item_name": "Fairfields Crisps",
+      "Item_description": "Delicious new snack option.",
+      "Item_brand": null,
+      "Item_Quantity": null,
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Savoury Snacks",
+      "Item_price": null,
+      "Item_currency": "",
+      "menu_page": "2"
+    },
+    {
+      "Item_name": "Skittles",
+      "Item_description": "Something sweet.",
+      "Item_brand": null,
+      "Item_Quantity": null,
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Sweet Snacks",
+      "Item_price": null,
+      "Item_currency": "",
+      "menu_page": "2"
+    },
+    {
+      "Item_name": "Bottega Rosé Prosecco",
+      "Item_description": "Sip & Celebrate option.",
+      "Item_brand": "Bottega",
+      "Item_Quantity": null,
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Alcohol",
+      "Item_price": null,
+      "Item_currency": "",
+      "menu_page": "2"
+    },
+    {
+      "Item_name": "Stella",
+      "Item_description": "New beer brand.",
+      "Item_brand": null,
+      "Item_Quantity": null,
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Alcohol",
+      "Item_price": null,
+      "Item_currency": "",
+      "menu_page": "2"
+    },
+    {
+      "Item_name": "Corona",
+      "Item_description": "New beer brand.",
+      "Item_brand": null,
+      "Item_Quantity": null,
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Alcohol",
+      "Item_price": null,
+      "Item_currency": "",
+      "menu_page": "2"
+    },
+    {
+      "Item_name": "Scratch Cards",
+      "Item_description": "Support great causes and win exciting prizes. Prizes include instant cash prizes of up to €10,000, a brand-new car, or onboard vouchers worth up to €10. You could win the ultimate jackpot—a possible €1 MILLION in our annual draw. Look out for our €1 scratch card deal with any onboard purchase.",
+      "Item_brand": null,
+      "Item_Quantity": null,
+      "Item_parent_category": "Virtual",
+      "Item_sales_category": "Tickets",
+      "Item_price": "1",
+      "Item_currency": "EUR",
       "menu_page": "2"
     }
   ]
 }
+```

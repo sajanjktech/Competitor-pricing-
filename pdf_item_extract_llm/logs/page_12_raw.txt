@@ -1,29 +1,42 @@
+```json
 {
-  "detected_competitor_name": "",
-  "detected_catalog_effective_start": "",
+  "detected_competitor_name": "Ryanair",
+  "detected_catalog_effective_start": "2023-10-01",
   "detected_catalog_effective_end": "",
   "items": [
     {
-      "Item_name": "Glowkitchen Mini Banana Bread",
-      "Item_description": "Glowkitchen Banana Bread will make your taste buds fly as breakfast, coffee treat or easy snack.",
-      "Item_brand": "Glowkitchen",
-      "Item_Quantity": null,
-      "Item_parent_category": "Cafe",
-      "Item_sales_category": "Sweet Snacks",
-      "Item_price": null,
-      "Item_currency": "",
-      "menu_page": "12"
+      "Item_name": "Valentino Valentina EDP Spray",
+      "Item_description": null,
+      "Item_brand": "Valentino",
+      "Item_Quantity": "50ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Ladies Fragrance",
+      "Item_price": "50.00",
+      "Item_currency": "EUR",
+      "menu_page": "23"
     },
     {
-      "Item_name": "Krombacher Pils",
-      "Item_description": "Mit Felsquellwasser gebraut.",
-      "Item_brand": "Krombacher",
-      "Item_Quantity": null,
-      "Item_parent_category": "Cafe",
-      "Item_sales_category": "Alcohol",
-      "Item_price": null,
-      "Item_currency": "",
-      "menu_page": "12"
+      "Item_name": "Emporio Armani She EDP Spray",
+      "Item_description": null,
+      "Item_brand": "Emporio Armani",
+      "Item_Quantity": "100ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Ladies Fragrance",
+      "Item_price": "50.00",
+      "Item_currency": "EUR",
+      "menu_page": "23"
+    },
+    {
+      "Item_name": "DSQUARED2 Icon for Her EDP Spray",
+      "Item_description": null,
+      "Item_brand": "DSQUARED2",
+      "Item_Quantity": "30ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Ladies Fragrance",
+      "Item_price": "40.00",
+      "Item_currency": "EUR",
+      "menu_page": "23"
     }
   ]
 }
+```

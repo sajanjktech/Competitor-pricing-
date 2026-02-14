@@ -1,30 +1,74 @@
 ```json
 {
-  "detected_competitor_name": "",
-  "detected_catalog_effective_start": "",
+  "detected_competitor_name": "Ryanair",
+  "detected_catalog_effective_start": "2023-10-01",
   "detected_catalog_effective_end": "",
   "items": [
     {
-      "Item_name": "Riesling Motzenbäcker 2024 Trocken / Dry",
-      "Item_description": "This Riesling grew on the beautiful vineyard slopes of the Haardt (Palatinate). The terroir is defined by sandy soil, which gives the wine an aroma of peach, apricot, and yellow apple. The fresh acidity on the finish makes the wine exciting and elegant.",
-      "Item_brand": "Motzenbäcker",
-      "Item_Quantity": "187 ml",
+      "Item_name": "Mala Peira Red",
+      "Item_description": "Tempranillo Merlot, Spain. Soft, round wine with velvety tannins and a deep ruby colour.",
+      "Item_brand": "Mala Peira",
+      "Item_Quantity": "187ml",
       "Item_parent_category": "Cafe",
       "Item_sales_category": "Alcohol",
-      "Item_price": 9.50,
+      "Item_price": "9.00",
       "Item_currency": "EUR",
-      "menu_page": "19"
+      "menu_page": "16"
     },
     {
-      "Item_name": "Pinot Noir Motzenbäcker 2023 Trocken / Dry",
-      "Item_description": "This Pinot Noir (Spätburgunder) presents a ruby-red colour in the glass. On the nose, one finds an aroma reminiscent of dark cherry. This Pinot Noir was allowed to mature in a wooden barrel for over 20 months, giving it an elegant tannin structure and a full body. Meat and pasta are the perfect match for the Pinot Noir.",
-      "Item_brand": "Motzenbäcker",
-      "Item_Quantity": "187 ml",
+      "Item_name": "Mala Peira Rosé",
+      "Item_description": "Bobal, Spain. Fresh and well balanced, with notes of red fruit.",
+      "Item_brand": "Mala Peira",
+      "Item_Quantity": "187ml",
       "Item_parent_category": "Cafe",
       "Item_sales_category": "Alcohol",
-      "Item_price": 9.50,
+      "Item_price": "9.00",
       "Item_currency": "EUR",
-      "menu_page": "19"
+      "menu_page": "16"
+    },
+    {
+      "Item_name": "Mala Peira White",
+      "Item_description": "Verdejo Airen, Spain. Fresh and harmonious, with citrus notes.",
+      "Item_brand": "Mala Peira",
+      "Item_Quantity": "187ml",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Alcohol",
+      "Item_price": "9.00",
+      "Item_currency": "EUR",
+      "menu_page": "16"
+    },
+    {
+      "Item_name": "Bottega Il Vino dei Poeti Prosecco DOC Rosé",
+      "Item_description": "Fruity aromas with distinct hints of apple, white peach, citrus and wild strawberries.",
+      "Item_brand": "Bottega",
+      "Item_Quantity": "200ml",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Alcohol",
+      "Item_price": "8.00",
+      "Item_currency": "EUR",
+      "menu_page": "16"
+    },
+    {
+      "Item_name": "Bottega Il Vino dei Poeti Prosecco DOC Brut",
+      "Item_description": "Fresh and delicate Prosecco with notes of apple, white peach, citrus fruits and floral hints.",
+      "Item_brand": "Bottega",
+      "Item_Quantity": "200ml",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Alcohol",
+      "Item_price": "8.00",
+      "Item_currency": "EUR",
+      "menu_page": "16"
+    },
+    {
+      "Item_name": "Upgrade to Wine in Meal Deals",
+      "Item_description": "Upgrade from a non-alcoholic drink to any wine in our meal deals for just €3 more. Prosecco not included.",
+      "Item_brand": null,
+      "Item_Quantity": null,
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Alcohol",
+      "Item_price": "3.00",
+      "Item_currency": "EUR",
+      "menu_page": "16"
     }
   ]
 }

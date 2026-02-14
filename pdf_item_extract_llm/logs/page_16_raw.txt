@@ -1,40 +1,64 @@
+```json
 {
-  "detected_competitor_name": "",
-  "detected_catalog_effective_start": "",
+  "detected_competitor_name": "Ryanair",
+  "detected_catalog_effective_start": "2023-10-01",
   "detected_catalog_effective_end": "",
   "items": [
     {
-      "Item_name": "Snickers",
-      "Item_description": null,
-      "Item_brand": null,
-      "Item_Quantity": "50g",
-      "Item_parent_category": "Cafe",
-      "Item_sales_category": "Sweet Snacks",
-      "Item_price": 2.90,
+      "Item_name": "Clinique All About Moisture",
+      "Item_description": "Get non-stop hydration for glowing skin on-the-go with the best-selling Moisture Surge™ 100H Auto-Replenishing Hydrator. For an instant moisture boost, use a quick spritz of Moisture Surge™ Face Spray Thirsty Skin Relief. All About Eyes™ Serum De-Puffing Eye Massager refreshes on contact and brightens over time. No parabens. No phthalates. No fragrance. Just happy skin. Includes: Moisture Surge™ 100H Auto-Replenishing Hydrator 75 ml, Moisture Surge™ Face Spray 30 ml, Serum De-puffing Eye Massage 15 ml.",
+      "Item_brand": "Clinique",
+      "Item_Quantity": "3 items",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Skincare & Make-up",
+      "Item_price": "49.90",
       "Item_currency": "EUR",
       "menu_page": "16"
     },
     {
-      "Item_name": "Red Band Fruchtgummi",
-      "Item_description": null,
-      "Item_brand": "Red Band",
-      "Item_Quantity": "200g",
-      "Item_parent_category": "Cafe",
-      "Item_sales_category": "Sweet Snacks",
-      "Item_price": 3.90,
+      "Item_name": "Nuxe Huile Prodigieuse® Face, Body and Hair Dry Oil",
+      "Item_description": "(Re)discover the iconic Huile Prodigieuse® in an exclusive design with Paris skyline. With its legendary fragrance and inimitable dry-oil texture, silicon and paraben free, this all-in-one product nourishes, repairs and beautifies skin and hair from first application.",
+      "Item_brand": "Nuxe",
+      "Item_Quantity": "100 ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Skincare & Make-up",
+      "Item_price": "31.50",
       "Item_currency": "EUR",
       "menu_page": "16"
     },
     {
-      "Item_name": "Glowkitchen Banana Bread",
-      "Item_description": null,
-      "Item_brand": "Glowkitchen",
-      "Item_Quantity": "70g",
-      "Item_parent_category": "Cafe",
-      "Item_sales_category": "Sweet Snacks",
-      "Item_price": 3.90,
+      "Item_name": "Grounded Egyptian Gold Retinol Serum",
+      "Item_description": "The newest breakthrough formula in anti-ageing. This Pro Retinol serum targets wrinkles, blemishes, dark circles and the signs of ageing. Retinol helps you to naturally produce collagen which reverses the effects of ageing and sun damaged skin.",
+      "Item_brand": "Grounded",
+      "Item_Quantity": "50 ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Skincare & Make-up",
+      "Item_price": "27.00",
+      "Item_currency": "EUR",
+      "menu_page": "16"
+    },
+    {
+      "Item_name": "Sol de Janeiro Perfume Mist",
+      "Item_description": "A warm and delicious perfume mist bursting with an alluring pistachio and salted caramel scent.",
+      "Item_brand": "Sol de Janeiro",
+      "Item_Quantity": "90 ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Ladies Fragrance",
+      "Item_price": "20.50",
+      "Item_currency": "EUR",
+      "menu_page": "16"
+    },
+    {
+      "Item_name": "Sol de Janeiro Bum Bum Cream",
+      "Item_description": "A fast-absorbing body cream with an addictive scent and a visibly tightening, smoothing formula that adds a hint of shimmer to skin.",
+      "Item_brand": "Sol de Janeiro",
+      "Item_Quantity": "75 ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Skincare & Make-up",
+      "Item_price": "17.90",
       "Item_currency": "EUR",
       "menu_page": "16"
     }
   ]
 }
+```

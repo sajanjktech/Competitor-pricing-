@@ -1,29 +1,64 @@
+```json
 {
-  "detected_competitor_name": "",
-  "detected_catalog_effective_start": "",
+  "detected_competitor_name": "Ryanair",
+  "detected_catalog_effective_start": "2023-10-01",
   "detected_catalog_effective_end": "",
   "items": [
     {
-      "Item_name": "Salami Snack Selection",
-      "Item_description": "Premium with olives",
-      "Item_brand": "Breu",
-      "Item_Quantity": null,
+      "Item_name": "Meal Deal",
+      "Item_description": "1 Drink + 1 Main + 1 Snack. Add any Water, Hot Drink or Soft Drink from our range. Upgraded options for Beers or Wines available also. Choose any Sandwich or Panini from our delicious range. Select any Sweet or Savoury snack from our full range.",
+      "Item_brand": null,
+      "Item_Quantity": "3 items",
       "Item_parent_category": "Cafe",
-      "Item_sales_category": "Savoury Snacks",
-      "Item_price": null,
-      "Item_currency": "",
+      "Item_sales_category": "Fresh Food",
+      "Item_price": "12.50",
+      "Item_currency": "EUR",
       "menu_page": "22"
     },
     {
-      "Item_name": "Goldberg Tonic Water",
-      "Item_description": "Original Goldberg Aviator Edition",
-      "Item_brand": "Goldberg",
-      "Item_Quantity": "0.15L",
+      "Item_name": "Value Deal",
+      "Item_description": "Includes a sandwich, snack, and drink.",
+      "Item_brand": null,
+      "Item_Quantity": "3 items",
       "Item_parent_category": "Cafe",
-      "Item_sales_category": "Cold Drink",
-      "Item_price": null,
-      "Item_currency": "",
+      "Item_sales_category": "Fresh Food",
+      "Item_price": "12.50",
+      "Item_currency": "EUR",
+      "menu_page": "22"
+    },
+    {
+      "Item_name": "Sandwich Deal",
+      "Item_description": "Includes a sandwich, snack, and drink.",
+      "Item_brand": null,
+      "Item_Quantity": "3 items",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Fresh Food",
+      "Item_price": "12.50",
+      "Item_currency": "EUR",
+      "menu_page": "22"
+    },
+    {
+      "Item_name": "Hungry Deal",
+      "Item_description": "Includes a sandwich, snack, and drink.",
+      "Item_brand": null,
+      "Item_Quantity": "3 items",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Fresh Food",
+      "Item_price": "14.00",
+      "Item_currency": "EUR",
+      "menu_page": "22"
+    },
+    {
+      "Item_name": "Beer & Snack Deal",
+      "Item_description": "Includes a beer and a snack.",
+      "Item_brand": null,
+      "Item_Quantity": "2 items",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Alcohol",
+      "Item_price": "15.50",
+      "Item_currency": "EUR",
       "menu_page": "22"
     }
   ]
 }
+```

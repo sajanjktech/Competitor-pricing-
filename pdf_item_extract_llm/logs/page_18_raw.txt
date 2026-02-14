@@ -1,51 +1,53 @@
+```json
 {
-  "detected_competitor_name": "",
-  "detected_catalog_effective_start": "",
+  "detected_competitor_name": "Ryanair",
+  "detected_catalog_effective_start": "2023-10-01",
   "detected_catalog_effective_end": "",
   "items": [
     {
-      "Item_name": "Scavi & Ray Prosecco Frizzante White, Trocken / Dry (200 ml)",
+      "Item_name": "Corona Extra Beer",
       "Item_description": null,
-      "Item_brand": "Scavi & Ray",
-      "Item_Quantity": "200 ml",
+      "Item_brand": "Corona Extra",
+      "Item_Quantity": "330ml",
       "Item_parent_category": "Cafe",
       "Item_sales_category": "Alcohol",
-      "Item_price": 7.90,
+      "Item_price": "6.50",
       "Item_currency": "EUR",
       "menu_page": "18"
     },
     {
-      "Item_name": "Pronol Spritz (200 ml)",
+      "Item_name": "Stella Artois Beer",
       "Item_description": null,
-      "Item_brand": "Pronol",
-      "Item_Quantity": "200 ml",
+      "Item_brand": "Stella Artois",
+      "Item_Quantity": "330ml",
       "Item_parent_category": "Cafe",
       "Item_sales_category": "Alcohol",
-      "Item_price": 7.90,
+      "Item_price": "6.50",
       "Item_currency": "EUR",
       "menu_page": "18"
     },
     {
-      "Item_name": "Barton & Guestier Cuvée Spéciale Blanc Trocken / Dry (187 ml)",
-      "Item_description": null,
-      "Item_brand": "Barton & Guestier",
-      "Item_Quantity": "187 ml",
+      "Item_name": "€15.50 Meal Deal",
+      "Item_description": "1 x Beer, 1 x Snack, 1 x Sandwich/Panini",
+      "Item_brand": null,
+      "Item_Quantity": "3 items",
       "Item_parent_category": "Cafe",
-      "Item_sales_category": "Alcohol",
-      "Item_price": 7.90,
+      "Item_sales_category": "Fresh Food",
+      "Item_price": "15.50",
       "Item_currency": "EUR",
       "menu_page": "18"
     },
     {
-      "Item_name": "Barton & Guestier Cuvée Spéciale Rouge Trocken / Dry (187 ml)",
-      "Item_description": null,
-      "Item_brand": "Barton & Guestier",
-      "Item_Quantity": "187 ml",
+      "Item_name": "Upgrade to Beer in Meal Deals",
+      "Item_description": "Upgrade from a non-alcoholic drink to any beer in our meal deals for just €3 more.",
+      "Item_brand": null,
+      "Item_Quantity": null,
       "Item_parent_category": "Cafe",
       "Item_sales_category": "Alcohol",
-      "Item_price": 7.90,
+      "Item_price": "3.00",
       "Item_currency": "EUR",
       "menu_page": "18"
     }
   ]
 }
+```

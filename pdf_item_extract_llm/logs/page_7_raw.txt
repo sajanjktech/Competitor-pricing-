@@ -1,29 +1,163 @@
+```json
 {
-  "detected_competitor_name": "",
-  "detected_catalog_effective_start": "",
-  "detected_catalog_effective_end": "",
+  "detected_competitor_name": "Ryanair",
+  "detected_catalog_effective_start": "2023-10-01",
+  "detected_catalog_effective_end": "2024-02-28",
   "items": [
     {
-      "Item_name": "Multigrain Bagel with Cheddar",
-      "Item_description": "Whole grain bagel with cheddar, cream cheese, tomato, green pesto and fresh romaine lettuce (170 g).",
-      "Item_brand": null,
-      "Item_Quantity": "170 g",
-      "Item_parent_category": "Cafe",
-      "Item_sales_category": "Fresh Food",
-      "Item_price": 5.90,
+      "Item_name": "BANDERAS Essence Of Success, EDT spray",
+      "Item_description": null,
+      "Item_brand": "BANDERAS",
+      "Item_Quantity": "100ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Gents Fragrance",
+      "Item_price": "20.00",
       "Item_currency": "EUR",
-      "menu_page": "7"
+      "menu_page": "12"
     },
     {
-      "Item_name": "Pretzel Corner Turkey Salami",
-      "Item_description": "Pretzel corner with turkey salami, slightly spicy Spanish salsa, cream cheese, orange and yellow carrots, and crisp romaine lettuce (160 g).",
-      "Item_brand": null,
-      "Item_Quantity": "160 g",
-      "Item_parent_category": "Cafe",
-      "Item_sales_category": "Fresh Food",
-      "Item_price": 5.90,
+      "Item_name": "CALVIN KLEIN ck free, EDT spray",
+      "Item_description": null,
+      "Item_brand": "CALVIN KLEIN",
+      "Item_Quantity": "50ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Gents Fragrance",
+      "Item_price": "20.00",
       "Item_currency": "EUR",
-      "menu_page": "7"
+      "menu_page": "12"
+    },
+    {
+      "Item_name": "ELIZABETH ARDEN 5th Avenue NYC Uptown, EDP spray",
+      "Item_description": null,
+      "Item_brand": "ELIZABETH ARDEN",
+      "Item_Quantity": "75ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Ladies Fragrance",
+      "Item_price": "20.00",
+      "Item_currency": "EUR",
+      "menu_page": "12"
+    },
+    {
+      "Item_name": "CALVIN KLEIN Sheer Beauty, EDT spray",
+      "Item_description": null,
+      "Item_brand": "CALVIN KLEIN",
+      "Item_Quantity": "50ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Ladies Fragrance",
+      "Item_price": "20.00",
+      "Item_currency": "EUR",
+      "menu_page": "12"
+    },
+    {
+      "Item_name": "DSQUARED2 Green Wood, EDT spray",
+      "Item_description": null,
+      "Item_brand": "DSQUARED2",
+      "Item_Quantity": "50ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Gents Fragrance",
+      "Item_price": "20.00",
+      "Item_currency": "EUR",
+      "menu_page": "12"
+    },
+    {
+      "Item_name": "DSQUARED2 Red Wood, EDT spray",
+      "Item_description": null,
+      "Item_brand": "DSQUARED2",
+      "Item_Quantity": "50ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Ladies Fragrance",
+      "Item_price": "20.00",
+      "Item_currency": "EUR",
+      "menu_page": "12"
+    },
+    {
+      "Item_name": "DAVID BECKHAM EDT spray",
+      "Item_description": null,
+      "Item_brand": "DAVID BECKHAM",
+      "Item_Quantity": "50ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Gents Fragrance",
+      "Item_price": "20.00",
+      "Item_currency": "EUR",
+      "menu_page": "12"
+    },
+    {
+      "Item_name": "BANDERAS The Golden Secret, EDT spray",
+      "Item_description": null,
+      "Item_brand": "BANDERAS",
+      "Item_Quantity": "100ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Gents Fragrance",
+      "Item_price": "20.00",
+      "Item_currency": "EUR",
+      "menu_page": "12"
+    },
+    {
+      "Item_name": "DAVIDOFF The Game, EDT spray",
+      "Item_description": null,
+      "Item_brand": "DAVIDOFF",
+      "Item_Quantity": "100ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Gents Fragrance",
+      "Item_price": "30.00",
+      "Item_currency": "EUR",
+      "menu_page": "13"
+    },
+    {
+      "Item_name": "BANDERAS The Icon Feminine, EDP spray",
+      "Item_description": null,
+      "Item_brand": "BANDERAS",
+      "Item_Quantity": "100ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Ladies Fragrance",
+      "Item_price": "30.00",
+      "Item_currency": "EUR",
+      "menu_page": "13"
+    },
+    {
+      "Item_name": "HUGO BOSS Dark Blue, EDT spray",
+      "Item_description": null,
+      "Item_brand": "HUGO BOSS",
+      "Item_Quantity": "75ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Gents Fragrance",
+      "Item_price": "30.00",
+      "Item_currency": "EUR",
+      "menu_page": "13"
+    },
+    {
+      "Item_name": "VIKTOR & ROLF Flowerbomb, EDP spray",
+      "Item_description": null,
+      "Item_brand": "VIKTOR & ROLF",
+      "Item_Quantity": "20ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Ladies Fragrance",
+      "Item_price": "30.00",
+      "Item_currency": "EUR",
+      "menu_page": "13"
+    },
+    {
+      "Item_name": "VERSACE Woman, EDP spray",
+      "Item_description": null,
+      "Item_brand": "VERSACE",
+      "Item_Quantity": "50ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Ladies Fragrance",
+      "Item_price": "30.00",
+      "Item_currency": "EUR",
+      "menu_page": "13"
+    },
+    {
+      "Item_name": "BOSS Ma Vie L'Eau, EDT spray",
+      "Item_description": null,
+      "Item_brand": "BOSS",
+      "Item_Quantity": "50ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Ladies Fragrance",
+      "Item_price": "30.00",
+      "Item_currency": "EUR",
+      "menu_page": "13"
     }
   ]
 }
+```

@@ -1,6 +1,218 @@
+```json
 {
-  "detected_competitor_name": "",
-  "detected_catalog_effective_start": "",
+  "detected_competitor_name": "Ryanair",
+  "detected_catalog_effective_start": "2023-10-01",
   "detected_catalog_effective_end": "",
-  "items": []
+  "items": [
+    {
+      "Item_name": "Olly's Pretzels Multi-Seed Pretzel Thins",
+      "Item_description": null,
+      "Item_brand": "Olly's Pretzels",
+      "Item_Quantity": "35g",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Savoury Snacks",
+      "Item_price": "3.50",
+      "Item_currency": "EUR",
+      "menu_page": "9"
+    },
+    {
+      "Item_name": "Pringles Sour Cream & Onion",
+      "Item_description": null,
+      "Item_brand": "Pringles",
+      "Item_Quantity": "40g",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Savoury Snacks",
+      "Item_price": "3.25",
+      "Item_currency": "EUR",
+      "menu_page": "9"
+    },
+    {
+      "Item_name": "Pringles Original",
+      "Item_description": null,
+      "Item_brand": "Pringles",
+      "Item_Quantity": "40g",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Savoury Snacks",
+      "Item_price": "3.25",
+      "Item_currency": "EUR",
+      "menu_page": "9"
+    },
+    {
+      "Item_name": "Pringles Paprika",
+      "Item_description": null,
+      "Item_brand": "Pringles",
+      "Item_Quantity": "40g",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Savoury Snacks",
+      "Item_price": "3.25",
+      "Item_currency": "EUR",
+      "menu_page": "9"
+    },
+    {
+      "Item_name": "Pringles Salt & Vinegar",
+      "Item_description": null,
+      "Item_brand": "Pringles",
+      "Item_Quantity": "40g",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Savoury Snacks",
+      "Item_price": "3.25",
+      "Item_currency": "EUR",
+      "menu_page": "9"
+    },
+    {
+      "Item_name": "Mr Filbert's Dry Roasted Peanuts",
+      "Item_description": null,
+      "Item_brand": "Mr Filbert's",
+      "Item_Quantity": "40g",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Savoury Snacks",
+      "Item_price": "2.75",
+      "Item_currency": "EUR",
+      "menu_page": "9"
+    },
+    {
+      "Item_name": "Fairfields Farm Sea Salted Crisps",
+      "Item_description": null,
+      "Item_brand": "Fairfields Farm",
+      "Item_Quantity": "35g",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Savoury Snacks",
+      "Item_price": "2.75",
+      "Item_currency": "EUR",
+      "menu_page": "9"
+    },
+    {
+      "Item_name": "Fairfields Farm Cheese & Onion Crisps",
+      "Item_description": null,
+      "Item_brand": "Fairfields Farm",
+      "Item_Quantity": "35g",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Savoury Snacks",
+      "Item_price": "2.75",
+      "Item_currency": "EUR",
+      "menu_page": "9"
+    },
+    {
+      "Item_name": "Stroopwafels Pack of 2",
+      "Item_description": null,
+      "Item_brand": null,
+      "Item_Quantity": "78g",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Sweet Snacks",
+      "Item_price": "2.75",
+      "Item_currency": "EUR",
+      "menu_page": "9"
+    },
+    {
+      "Item_name": "Walker's Shortbread",
+      "Item_description": null,
+      "Item_brand": "Walker's",
+      "Item_Quantity": "40g",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Sweet Snacks",
+      "Item_price": "2.75",
+      "Item_currency": "EUR",
+      "menu_page": "9"
+    },
+    {
+      "Item_name": "Snickers",
+      "Item_description": null,
+      "Item_brand": null,
+      "Item_Quantity": "50g",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Sweet Snacks",
+      "Item_price": "2.75",
+      "Item_currency": "EUR",
+      "menu_page": "9"
+    },
+    {
+      "Item_name": "Kinder Bueno",
+      "Item_description": null,
+      "Item_brand": "Kinder",
+      "Item_Quantity": "43g",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Sweet Snacks",
+      "Item_price": "2.75",
+      "Item_currency": "EUR",
+      "menu_page": "9"
+    },
+    {
+      "Item_name": "KitKat",
+      "Item_description": null,
+      "Item_brand": null,
+      "Item_Quantity": "41.5g",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Sweet Snacks",
+      "Item_price": "2.75",
+      "Item_currency": "EUR",
+      "menu_page": "9"
+    },
+    {
+      "Item_name": "Haribo Goldbears",
+      "Item_description": null,
+      "Item_brand": "Haribo",
+      "Item_Quantity": "100g",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Sweet Snacks",
+      "Item_price": "3.50",
+      "Item_currency": "EUR",
+      "menu_page": "9"
+    },
+    {
+      "Item_name": "Twix",
+      "Item_description": null,
+      "Item_brand": null,
+      "Item_Quantity": "50g",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Sweet Snacks",
+      "Item_price": "2.75",
+      "Item_currency": "EUR",
+      "menu_page": "9"
+    },
+    {
+      "Item_name": "Maltesers",
+      "Item_description": null,
+      "Item_brand": null,
+      "Item_Quantity": "37g",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Sweet Snacks",
+      "Item_price": "2.75",
+      "Item_currency": "EUR",
+      "menu_page": "9"
+    },
+    {
+      "Item_name": "M&M's Peanut",
+      "Item_description": null,
+      "Item_brand": "M&M's",
+      "Item_Quantity": "45g",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Sweet Snacks",
+      "Item_price": "2.75",
+      "Item_currency": "EUR",
+      "menu_page": "9"
+    },
+    {
+      "Item_name": "Skittles",
+      "Item_description": null,
+      "Item_brand": null,
+      "Item_Quantity": "45g",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Sweet Snacks",
+      "Item_price": "2.75",
+      "Item_currency": "EUR",
+      "menu_page": "9"
+    },
+    {
+      "Item_name": "Kids Snack Box",
+      "Item_description": "Contents dependent on departing airport. Selected flights only.",
+      "Item_brand": null,
+      "Item_Quantity": "1 X items",
+      "Item_parent_category": "Cafe",
+      "Item_sales_category": "Sweet Snacks",
+      "Item_price": "7.00",
+      "Item_currency": "EUR",
+      "menu_page": "9"
+    }
+  ]
 }
+```

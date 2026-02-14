@@ -1,40 +1,75 @@
+```json
 {
-  "detected_competitor_name": "",
-  "detected_catalog_effective_start": "",
+  "detected_competitor_name": "Ryanair",
+  "detected_catalog_effective_start": "2023-10-01",
   "detected_catalog_effective_end": "",
   "items": [
     {
-      "Item_name": "Salami Snack Selection Premium with Olives",
-      "Item_description": "Snack selection with salami in pretzel and heart shapes, salted pastry pretzels, salt cookies heart and olives (80g).",
-      "Item_brand": null,
-      "Item_Quantity": "80g",
-      "Item_parent_category": "Cafe",
-      "Item_sales_category": "Savoury Snacks",
-      "Item_price": 6.90,
+      "Item_name": "Moroccanoil Hair Treatment",
+      "Item_description": "A versatile, argan oil-infused hair treatment and styler that promotes softer, stronger hair with increased shine and less frizz. The non-greasy and fast-absorbing formula is fragranced with the signature Moroccanoil scent, a blend of spicy amber and warm florals. Use before styling or as needed for quick conditioning or touch-ups. For all hair types.",
+      "Item_brand": "Moroccanoil",
+      "Item_Quantity": "25 ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Skincare & Make-up",
+      "Item_price": 15.00,
       "Item_currency": "EUR",
-      "menu_page": "17"
+      "menu_page": "33"
     },
     {
-      "Item_name": "Seeberger Snack2Go Nut Trio Roasted & Salted",
-      "Item_description": null,
-      "Item_brand": "Seeberger",
-      "Item_Quantity": "50g",
-      "Item_parent_category": "Cafe",
-      "Item_sales_category": "Savoury Snacks",
-      "Item_price": 3.50,
+      "Item_name": "Tan-Luxe The Face",
+      "Item_description": "The revolutionary, multi-award winning self-tan drops from TAN-LUXE transforms your favourite moisturiser into a tailor-made tan that you control. Organic tanning actives blended with raspberry oil, vitamin E and aloe vera work with your own skin tone to deliver a natural looking radiant tan that lasts for up to seven days. Use two drops for radiance, four drops for sun-kissed, eight drops for golden and twelve drops for bronze. These drops are a concentrate and must always be mixed with a moisturiser as directed. No streaks. No smells. No drama.",
+      "Item_brand": "Tan-Luxe",
+      "Item_Quantity": "20 ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Skincare & Make-up",
+      "Item_price": 27.00,
       "Item_currency": "EUR",
-      "menu_page": "17"
+      "menu_page": "33"
     },
     {
-      "Item_name": "Pringles Original / Pringles Sweet Paprika",
-      "Item_description": null,
-      "Item_brand": "Pringles",
-      "Item_Quantity": "40g",
-      "Item_parent_category": "Cafe",
-      "Item_sales_category": "Savoury Snacks",
-      "Item_price": 3.30,
+      "Item_name": "Egyptian Magic All Purpose Skin Cream",
+      "Item_description": "This all-purpose, all-natural balm is made from six of nature's most powerful moisturising and healing ingredients. Use as a facial moisturiser and eye cream, hair conditioner, lip balm, nail and cuticle conditioner, and to treat conditions like eczema, psoriasis and atopic dermatitis. Its formula also makes it perfect for helping to fade scars, heal blemishes and prevent stretch marks.",
+      "Item_brand": "Egyptian Magic",
+      "Item_Quantity": "75 ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Skincare & Make-up",
+      "Item_price": 34.00,
       "Item_currency": "EUR",
-      "menu_page": "17"
+      "menu_page": "33"
+    },
+    {
+      "Item_name": "Elizabeth Arden Visible Difference Refining Moisture Cream Complex",
+      "Item_description": "This travel exclusive size offers a rich cream that cushions skin with moisture and provides an occlusive barrier to prevent moisture loss. The formula will restore smoothness, with 94% of women seeing a dramatic improvement in skin’s hydration. It also improves clarity, texture and tone and adds radiance.",
+      "Item_brand": "Elizabeth Arden",
+      "Item_Quantity": "100 ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Skincare & Make-up",
+      "Item_price": 20.00,
+      "Item_currency": "EUR",
+      "menu_page": "33"
+    },
+    {
+      "Item_name": "Elizabeth Arden Good Night's Sleep Restoring Cream",
+      "Item_description": "Soothing the skin, relaxing the senses. Good Night’s Sleep is enriched with powerful natural extracts known to calm and comfort skin. The soft, aromatic scent of lavender, honeysuckle and orange helps ease away the cares of the day to promote a restful sleep.",
+      "Item_brand": "Elizabeth Arden",
+      "Item_Quantity": "50 ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Skincare & Make-up",
+      "Item_price": 20.00,
+      "Item_currency": "EUR",
+      "menu_page": "33"
+    },
+    {
+      "Item_name": "Buy Both for €36.00",
+      "Item_description": "Elizabeth Arden Visible Difference Refining Moisture Cream Complex (100 ml) and Elizabeth Arden Good Night's Sleep Restoring Cream (50 ml).",
+      "Item_brand": "Elizabeth Arden",
+      "Item_Quantity": "2 items",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Skincare & Make-up",
+      "Item_price": 36.00,
+      "Item_currency": "EUR",
+      "menu_page": "33"
     }
   ]
 }
+```

@@ -1,29 +1,42 @@
+```json
 {
-  "detected_competitor_name": "",
-  "detected_catalog_effective_start": "",
+  "detected_competitor_name": "Ryanair",
+  "detected_catalog_effective_start": "2023-10-01",
   "detected_catalog_effective_end": "",
   "items": [
     {
-      "Item_name": "Fries in the Skies",
-      "Item_description": "Crispy French fries (125 g) with creamy, vegan Hellmann’s mayonnaise or Heinz ketchup dip.",
-      "Item_brand": null,
-      "Item_Quantity": "125 g",
-      "Item_parent_category": "Cafe",
-      "Item_sales_category": "Fresh Food",
-      "Item_price": 5.90,
+      "Item_name": "Yves Saint Laurent Y",
+      "Item_description": "EDP Spray, 60ml",
+      "Item_brand": "Yves Saint Laurent",
+      "Item_Quantity": "60ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Ladies Fragrance",
+      "Item_price": "77.00",
       "Item_currency": "EUR",
-      "menu_page": "8"
+      "menu_page": "15"
     },
     {
-      "Item_name": "Currywurst",
-      "Item_description": "The cult dish from Berlin. The spicy sausage in a piquant curry sauce is a unique taste experience (200 g).",
-      "Item_brand": null,
-      "Item_Quantity": "200 g",
-      "Item_parent_category": "Cafe",
-      "Item_sales_category": "Fresh Food",
-      "Item_price": 7.90,
+      "Item_name": "Emporio Armani He",
+      "Item_description": "EDT Spray, 100ml",
+      "Item_brand": "Emporio Armani",
+      "Item_Quantity": "100ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Gents Fragrance",
+      "Item_price": "50.00",
       "Item_currency": "EUR",
-      "menu_page": "8"
+      "menu_page": "15"
+    },
+    {
+      "Item_name": "Diesel Only The Brave",
+      "Item_description": "EDT Spray, 50ml",
+      "Item_brand": "Diesel",
+      "Item_Quantity": "50ml",
+      "Item_parent_category": "Boutique",
+      "Item_sales_category": "Gents Fragrance",
+      "Item_price": "40.00",
+      "Item_currency": "EUR",
+      "menu_page": "15"
     }
   ]
 }
+```

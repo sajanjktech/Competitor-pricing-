@@ -39,7 +39,7 @@ THREAD_COUNT = 5
 # SYSTEM PROMPT
 # ======================================================
 def load_system_prompt():
-    with open("system_prompt.txt", "r", encoding="utf-8") as f:
+    with open("sys.txt", "r", encoding="utf-8") as f:
         return f.read()
 
 SYSTEM_PROMPT_TEMPLATE = load_system_prompt()
@@ -102,7 +102,7 @@ def call_azure_with_retry(data_url, prompt, retries=5):
             r = client.chat.completions.create(
                 model=AZURE_DEPLOYMENT,
                 temperature=0,
-                max_tokens=10000,
+                max_tokens=8000,
                 messages=[
                     {"role": "system", "content": prompt},
                     {"role": "user", "content": [
@@ -129,7 +129,7 @@ def process_single_page(pdf_path, idx, catalog_name):
     text = page.get_text("text").strip()
     prompt = build_prompt(text, page_num)
 
-    pix = page.get_pixmap(dpi=200)
+    pix = page.get_pixmap(dpi=250)
     png_bytes = pix.tobytes("png")
     data_url = "data:image/png;base64," + base64.b64encode(png_bytes).decode()
 
